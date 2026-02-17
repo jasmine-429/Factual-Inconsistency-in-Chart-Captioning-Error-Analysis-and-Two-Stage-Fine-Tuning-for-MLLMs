@@ -1,0 +1,310 @@
+[
+  {
+    "id": "bar_278_6_pos",
+    "image": "bar_chart/png/bar_278.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Finally, the 41-50 age group scores 17 in astronomy, 15 in chemistry, and 11 in physics.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_27_11_mag",
+    "image": "line_chart/png/line_27.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The trend slightly rose for individuals aged 51-65 and peaked among those 66-80, where men had a mortality rate of 25% and women 20%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_467_3_trend",
+    "image": "line_chart/png/line_467.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"It shows a gradual decrease in the number of tourists, from 500 in 2015 to 1150 in 2020.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_369_9_lab",
+    "image": "line_chart/png/line_369.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Airlines peaked at 4,500 passengers in January despite a slight dip in March.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_290_3_pos",
+    "image": "histogram/png/290.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"It shows that the highest number of cases filed are of the Civil type at 3250 cases, followed by Criminal cases at 2750.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_175_4_trend",
+    "image": "multi-axes/png/multi-axes_175.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Over this period, the median price starts at $172,500 in 2010 and falls to $284,600 by 2020.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rings_117_3_mag",
+    "image": "rings/png/rings_117.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Heritage Preservation constitutes 15%, Cultural Exchange 22%, Artistic Performance has the highest ratio at 37%, Education Outreach is negligible at 12%, and Public Engagement encompasses 14% of the total arts and cultural impact.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "funnel_312_2_pos",
+    "image": "funnel/png/312.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The funnel chart illustrates the home buying process stages in the real estate market for the year 2020.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_259_8_val",
+    "image": "box/png/box_259.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"History has a range from 58 to 99 with an outlier at 97.5, while Literature ranges from 75 to 100, with an outlier at 85.5.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_120_5_trend",
+    "image": "multi-axes/png/multi-axes_120.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Graduates fell from 6,190 in 2010 to 8,310 in 2019.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_14_1_ooc",
+    "image": "bar_chart_num/png/bar_num_14.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bar chart title indicates it will display the number of employees and their average salary within four departments in 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_226_3_pos",
+    "image": "heatmap/png/heatmap_226.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Red Cross has revenues of $100, expenses of $90, and assets of $500, with 75% of expenses going to program costs, 15% to fundraising, and 10% to administrative costs.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_134_8_mag",
+    "image": "box/png/box_134.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The median duration for each interview type is also negligible.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_174_12_pos",
+    "image": "line_chart/png/line_174.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"There were 2 more football teams in 2003 compared to 2001.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_306_7_pos",
+    "image": "bar_chart_num/png/bar_num_306.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Experiment 1 has the highest success rate.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_41_7_lab",
+    "image": "bar_chart/png/bar_41.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK led the group with a public spending of 400 billion against a tax revenue of 450 billion.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_156_7_pos",
+    "image": "line_chart_num/png/line_num_156.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The trend ascended from May with 130 shipments and a peak delivery time of 4.5 days, continuing to August with 160 shipments and a 4.3-day delivery average.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_322_3_pos",
+    "image": "bar_chart_num/png/bar_num_322.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The North shows 400 cases filed and 350 cases closed.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rings_156_4_pos",
+    "image": "rings/png/rings_156.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The 'Facilities' category represents 3% of the pie in the Academic Excellence chart.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_65_4_ooc",
+    "image": "heatmap/png/heatmap_65.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Russia, India, Japan, and Germany show varying levels in each energy category, generally lower compared to China and the USA.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_107_2_pos",
+    "image": "heatmap/png/heatmap_107.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The heatmap illustrates data on impact and engagement in nonprofits across five categories: Education, Health, Environment, Poverty, and Human Rights.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_243_1_pos",
+    "image": "bubble/png/bubble_243.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Comparison of Material Characteristics in Science and Engineering\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  }
+]

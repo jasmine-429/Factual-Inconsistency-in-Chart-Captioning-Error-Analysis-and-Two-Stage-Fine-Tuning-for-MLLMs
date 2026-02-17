@@ -1,0 +1,1502 @@
+[
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_338",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_338.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of tournaments and participants in four sports in 2021",
+    "csv": "Sport \\t Tournaments \\t Participants \\n Basketball \\t 20 \\t 3000 \\n Football \\t 30 \\t 3500 \\n Volleyball \\t 25 \\t 4000 \\n Badminton \\t 15 \\t 2500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of tournaments and participants in four sports in 2021. The United States had 4,000 tournaments in 2021, with 2,500 tournaments."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_158",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_158.png",
+    "topic": "Government and Public Policy",
+    "title": " Number of laws and regulations in four regions of the world in 2021",
+    "csv": "Region \\t Number of Laws \\t Number of Regulations \\n North America \\t 25 \\t 100 \\n Europe \\t 30 \\t 110 \\n Asia \\t 20 \\t 90 \\n South America \\t 45 \\t 120 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of laws and regulations in four regions of the world in 2021. In that year, the United States had 150 laws and regulations, followed by China, which had 130 laws and regulations."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_34",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_34.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee absenteeism rate in four departments in 2021",
+    "csv": "Department \\t Employees \\t Absenteeism(%) \\n Sales \\t 50 \\t 2 \\n Marketing \\t 60 \\t 4 \\n Operations \\t 70 \\t 3 \\n Human Resources \\t 50 \\t 1 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the employee absenteeism rate in four departments in 2021. The United States had an employee absenteeism rate of 3.5 percent in 2021."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_272",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_272.png",
+    "topic": "Science and Engineering",
+    "title": " Science and Engineering activities in four regions in 2021",
+    "csv": "Region \\t Research Projects \\t Experiments \\t Inventions \\n Asia \\t 200 \\t 400 \\t 50 \\n Europe \\t 250 \\t 450 \\t 70 \\n North America \\t 220 \\t 500 \\t 60 \\n South America \\t 180 \\t 400 \\t 80 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the science and engineering activities in four regions in 2021. In that year, the number of scientific and engineering projects in the United States amounted to approximately 500."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_184",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_184.png",
+    "topic": "Energy and Utilities",
+    "title": " Renewable and Fossil Fuel Production in the Years 2020-2023",
+    "csv": "Year \\t Renewable Energy Production(MWh) \\t Fossil Fuel Production(MWh) \\n 2020 \\t 20000 \\t 40000 \\n 2021 \\t 23000 \\t 45000 \\n 2022 \\t 26000 \\t 50000 \\n 2023 \\t 29000 \\t 55000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the renewable and fossil fuel production in the years 2020-2023. In 2020, the renewable energy production in the renewable and fossil fuel industry amounted to approximately 65,000 U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_104",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_104.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage of Patents in Physics, Chemistry and Engineering from 2010 to 2013",
+    "csv": "Year \\t Physics Patents(%) \\t Chemistry Patents(%) \\t Engineering Patents(%) \\n 2010 \\t 10 \\t 20 \\t 30 \\n 2011 \\t 15 \\t 25 \\t 35 \\n 2012 \\t 20 \\t 30 \\t 40 \\n 2013 \\t 25 \\t 35 \\t 45 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the percentage of Patents in Physics, Chemistry and Engineering from 2010 to 2013. In 2010, 100 percent of the patents in the world were in the field of physics, while 100 percent were in the field of engineering"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_159",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_159.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Charitable Donations and Nonprofit Organizations in four countries in 2021",
+    "csv": "Country \\t Charitable Donations (million) \\t Nonprofit Organizations \\n USA \\t 2000 \\t 550 \\n UK \\t 1500 \\t 450 \\n Germany \\t 1000 \\t 350 \\n France \\t 1800 \\t 400 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the charitable donations and nonprofit organizations in four countries in 2021. In that year, the United States had a charitable donation of approximately 2.5 billion U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_471.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Number of employees and average salary by region in 2021",
+    "csv": "Region \\t Employees \\t Average Salary \\n North \\t 3000 \\t 4000 \\n South \\t 2000 \\t 3500 \\n East \\t 2500 \\t 3700 \\n West \\t 1500 \\t 3000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of employees and average salary by region in 2021. In the United States, the average salary for employees in the United States was 4,150."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_112",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_112.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of food and beverage outlets in four regions in 2021",
+    "csv": "Region \\t Cafes \\t Bakeries \\t Restaurants \\n North America \\t 400 \\t 500 \\t 600 \\n Europe \\t 450 \\t 550 \\t 650 \\n Asia \\t 480 \\t 580 \\t 700 \\n South America \\t 420 \\t 520 \\t 620 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of food and beverage outlets in four regions in 2021. In that year, there were 700 food and beverage outlets in the Netherlands, followed by 600 restaurants in the Netherlands."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_478",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_478.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average House Prices and Number of Houses Sold in Four Regions in 2021",
+    "csv": "Region \\t Average House Price (million) \\t Number of Houses Sold \\n North \\t 1.5 \\t 250 \\n South \\t 2.3 \\t 320 \\n East \\t 1.8 \\t 280 \\n West \\t 2.1 \\t 300 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average house prices and number of houses sold in four regions in 2021. In the first half of 2021, the average house price in the United States was 0.8 million."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_310",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_310.png",
+    "topic": "Business and Finance",
+    "title": " Businesses by size in four countries in 2021",
+    "csv": "Country \\t Small Businesses \\t Midsize Businesses \\t Large Businesses \\n USA \\t 2500 \\t 1500 \\t 700 \\n UK \\t 1800 \\t 1200 \\t 900 \\n Germany \\t 2700 \\t 1700 \\t 800 \\n France \\t 2000 \\t 1400 \\t 1000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the businesses by size in four countries in 2021. In that year, there were approximately 2.5 million small businesses in the United States."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_323",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_323.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of court cases and lawyers in four countries in 2021",
+    "csv": "Country \\t Court Cases \\t Lawyers \\n USA \\t 10000 \\t 4000 \\n UK \\t 8000 \\t 5000 \\n Germany \\t 9000 \\t 4500 \\n France \\t 7000 \\t 5000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of court cases and lawyers in four countries in 2021. In that year, the number of court cases and lawyers in the United States amounted to approximately 4.5 thousand."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_284",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_284.png",
+    "topic": "Government and Public Policy",
+    "title": " Tax rate and government spending of four countries in 2021",
+    "csv": "Country \\t Tax Rate \\t Government Spending(trillion) \\n USA \\t 20% \\t 3.1 \\n UK \\t 19% \\t 2.5 \\n Germany \\t 22% \\t 3.2 \\n France \\t 21% \\t 2.8 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the tax rate and government spending of four countries in 2021. In 2021, the United States had the highest tax rate in the world, with 25.7 percent of the country paying taxes."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_453",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_453.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Arts and Culture Facilities in four countries in 2021",
+    "csv": "Country \\t Museums \\t Theatres \\t Galleries \\n USA \\t 20 \\t 15 \\t 25 \\n UK \\t 25 \\t 10 \\t 30 \\n Germany \\t 15 \\t 20 \\t 20 \\n France \\t 18 \\t 18 \\t 28 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of Arts and Culture Facilities in four countries in 2021. The United States had the largest number of museums, theatres, galleries and galleries in the world."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_264",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_264.png",
+    "topic": "Education and Academics",
+    "title": " Number of students and teachers in four countries in 2021",
+    "csv": "Country \\t Students \\t Teachers \\n USA \\t 500 \\t 100 \\n UK \\t 600 \\t 110 \\n Germany \\t 450 \\t 90 \\n France \\t 550 \\t 120 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of students and teachers in four countries in 2021. In the United States, there were 600 students and 500 teachers in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_276",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_276.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and Profit of four countries in 2021",
+    "csv": "Country \\t Revenue(million) \\t Profit(million) \\n USA \\t 9000 \\t 1200 \\n UK \\t 8000 \\t 1400 \\n Germany \\t 7000 \\t 1300 \\n France \\t 6000 \\t 1500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total revenue and profit of four countries in 2021. In that year, the United States generated around 10,000 revenue in the United States."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_241",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_241.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and expense of four companies in 2021",
+    "csv": "Company \\t Revenue(million) \\t Expense(million) \\n Company A \\t 100 \\t 80 \\n Company B \\t 120 \\t 90 \\n Company C \\t 110 \\t 85 \\n Company D \\t 90 \\t 95 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the revenue and expense of four companies in 2021. In 2021, the revenue of the company A was 110.4 percent."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_21",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_21.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports and entertainment events in four countries in 2021",
+    "csv": "Country \\t Sports Events \\t Entertainment Events \\n USA \\t 400 \\t 500 \\n UK \\t 500 \\t 550 \\n Germany \\t 300 \\t 450 \\n France \\t 370 \\t 480 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of sports and entertainment events in four countries in 2021. In that year, the United States had 1,000 sports and entertainment events."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_87",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_87.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee salaries and benefits in 2021",
+    "csv": "Employee \\t Salary(USD) \\t Benefits(USD) \\n John \\t 5000 \\t 1400 \\n Sarah \\t 4500 \\t 1300 \\n David \\t 4600 \\t 1200 \\n Jane \\t 4200 \\t 1100 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the employee salaries and benefits in the United States in 2021. In 2021, the average American employee in the United States earned 6,200 U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_356",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_356.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Number of housing units in four regions in 2021",
+    "csv": "Region \\t Houses \\t Apartments \\t Condominiums \\n West \\t 300 \\t 400 \\t 500 \\n Midwest \\t 290 \\t 410 \\t 520 \\n South \\t 280 \\t 420 \\t 530 \\n East \\t 270 \\t 430 \\t 540 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of housing units in four regions in 2021. In the first half of 2021, there were 530 houses and 500 apartments in the West."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_119",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_119.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Monetary and volunteer donations to charity organizations in four regions in 2021",
+    "csv": "Region \\t Donations(million) \\t Volunteers \\n North America \\t 50 \\t 100 \\n Europe \\t 70 \\t 120 \\n Asia \\t 30 \\t 90 \\n South America \\t 40 \\t 80 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the monetary and volunteer donations to charity organizations in four regions in 2021. In that year, the value of monetary and volunteer donations amounted to approximately 130.4 billion U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_22",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_22.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Median Home Prices and Average Rents across four regions in 2021",
+    "csv": "Region \\t Median Home Price \\t Average Rent \\n South \\t 300000 \\t 1500 \\n MidWest \\t 250000 \\t 1300 \\n West \\t 400000 \\t 2000 \\n NorthEast \\t 350000 \\t 1700 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the median Home Prices and Average Rents across four regions in 2021. The median home price in the South American region was 400,000 euros, while the average rent in the South American region was 350,000 euros."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_10",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_10.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports venues and tourists in four countries in 2021",
+    "csv": "Country \\t Sports Venues \\t Tourists \\n USA \\t 50 \\t 400 \\n UK \\t 60 \\t 450 \\n Germany \\t 70 \\t 420 \\n France \\t 80 \\t 480 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of sports venues and tourists in four countries in 2021. The United States had 500 sports venues, while the United States had 400 tourists."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_259",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_259.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average home and rental prices in four states in 2021",
+    "csv": "State \\t Average Home Price \\t Average Rental Price \\n California \\t 500000 \\t 2500 \\n Texas \\t 400000 \\t 2000 \\n New York \\t 600000 \\t 3000 \\n Florida \\t 450000 \\t 2200 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average home and rental prices in four states in 2021. In California, home prices were 500,000 in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost and distance of transportation modes in 2021",
+    "csv": "Mode \\t Distance(km) \\t Cost \\n Ship \\t 3000 \\t 20000 \\n Train \\t 2000 \\t 15000 \\n Bus \\t 1000 \\t 10000 \\n Plane \\t 4000 \\t 25000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the cost and distance of transportation modes in 2021. In 2021, the average cost of a bus or taxi ride in the United States was 25,000 U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_162",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_162.png",
+    "topic": "Environment and Sustainability",
+    "title": " Greenhouse gas emissions and renewable energy use in four countries in 2021",
+    "csv": "Country \\t Greenhouse Gas Emissions(ktCO2e) \\t Renewable Energy Use(%) \\n USA \\t 6000 \\t 20 \\n UK \\t 4500 \\t 25 \\n Germany \\t 5000 \\t 30 \\n France \\t 4000 \\t 35 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the greenhouse gas emissions and renewable energy use in four countries in 2021. In that year, the United States had a greenhouse gas emissions of approximately 6,000 U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_390",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_390.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of legislation and courts in four countries in 2021",
+    "csv": "Country \\t Legislation \\t Courts \\n USA \\t 2500 \\t 1500 \\n UK \\t 3000 \\t 1800 \\n Germany \\t 2200 \\t 1400 \\n France \\t 2500 \\t 1700 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of legislation and courts in four countries in 2021. In that year, the United States had 4,233 legislation and 4,233 courts."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_278",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_278.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Number of publications in social sciences and humanities in four countries in 2021",
+    "csv": "Country \\t Literature \\t History \\t Philosophy \\n USA \\t 400 \\t 300 \\t 200 \\n UK \\t 420 \\t 280 \\t 220 \\n Germany \\t 370 \\t 320 \\t 250 \\n France \\t 390 \\t 340 \\t 230 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of publications in social sciences and humanities in four countries in 2021. In the United States, 220 publications were published in social sciences and humanities."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_92",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_92.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of participants and spectators in four sports activities in 2021",
+    "csv": "Activity \\t Participants(million) \\t Spectators(million) \\n Football \\t 1.5 \\t 2.5 \\n Basketball \\t 2.0 \\t 3.0 \\n Tennis \\t 1.2 \\t 2.3 \\n Golf \\t 0.8 \\t 1.5 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of participants and spectators in four sports activities in 2021. In the first half of 2021, the United States had 3.0 percent of the participants and 2.5 percent of the spectators."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_485",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_485.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy output of Solar, Wind and Hydro sources in four countries in 2021",
+    "csv": "Country \\t Solar Energy(kWh) \\t Wind Energy(kWh) \\t Hydro Energy(kWh) \\n USA \\t 1000 \\t 1200 \\t 800 \\n UK \\t 900 \\t 1300 \\t 1100 \\n Germany \\t 1100 \\t 1400 \\t 1200 \\n France \\t 800 \\t 1500 \\t 1400 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy output of Solar, Wind and Hydro sources in four countries in 2021. In the United States, the total solar output of wind and hydro sources amounted to approximately 1,400."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_369",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_369.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average house and rental prices in four countries in 2021",
+    "csv": "Region \\t Average House Price(thousand) \\t Average Rental Price(thousand) \\n USA \\t 300 \\t 50 \\n UK \\t 400 \\t 60 \\n Germany \\t 350 \\t 55 \\n France \\t 360 \\t 60 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average house and rental prices in four countries in 2021. In the United States, the average house price in the average rental price in 2021 was 400 thousand."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_215",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_215.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Number of Hotels and Tourists in four regions in 2021",
+    "csv": "Region \\t Hotels \\t Tourists \\n Americas \\t 100 \\t 20000 \\n Europe \\t 150 \\t 25000 \\n Asia \\t 130 \\t 24000 \\n Africa \\t 90 \\t 19000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of hotels and tourists in four regions in 2021. In that year, the number of hotels and tourists in the Americas amounted to approximately 25,000."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_224",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_224.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of doctors and nurses in four regions in 2021",
+    "csv": "Region \\t Doctors(thousand) \\t Nurses(thousand) \\n North \\t 100 \\t 200 \\n South \\t 110 \\t 220 \\n East \\t 115 \\t 230 \\n West \\t 120 \\t 240 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of doctors and nurses in four regions in 2021. In that year, the number of doctors and nurses in the United States amounted to approximately 350."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_146",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_146.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Users and Advertising Revenue in 2021",
+    "csv": "Platform \\t Users(million) \\t Advertising Revenue(billion) \\n Facebook \\t 2.8 \\t 84 \\n Google \\t 3.2 \\t 183 \\n Twitter \\t 0.8 \\t 3.5 \\n Instagram \\t 1.2 \\t 25 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total social media users in the United States in 2021. During the measured period, Facebook generated a revenue of approximately 175.4 billion U.S. dollars in advertising revenue."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_28",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_28.png",
+    "topic": "Arts and Culture",
+    "title": " Number of theatre performances and visitors to museums and art galleries in four countries in 2021",
+    "csv": "Country \\t Theatre Performances \\t Museums Visitors \\t Art Galleries Visitors \\n USA \\t 400 \\t 800 \\t 900 \\n UK \\t 550 \\t 1000 \\t 1100 \\n Germany \\t 500 \\t 850 \\t 1000 \\n France \\t 650 \\t 950 \\t 1200 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of theatre performances and visitors to museums and art galleries in four countries in 2021. In that year, the United States had 1,200 theatre performances and visitors to the Museums of America."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_121",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_121.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of healthcare facilities in four countries in 2021",
+    "csv": "Country \\t Hospitals \\t Pharmacies \\t Clinics \\n USA \\t 500 \\t 3000 \\t 5000 \\n UK \\t 200 \\t 1000 \\t 3000 \\n Germany \\t 300 \\t 2000 \\t 4000 \\n France \\t 400 \\t 2500 \\t 4500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of healthcare facilities in four countries in 2021. In that year, the United States had 5,000 healthcare facilities."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_192",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_192.png",
+    "topic": "Energy and Utilities",
+    "title": " Electricity usage and cost in different regions in 2021",
+    "csv": "Region \\t Electricity Usage(MWh) \\t Energy Cost(million) \\n North America \\t 20000 \\t 1000 \\n Europe \\t 25000 \\t 1200 \\n South America \\t 18000 \\t 800 \\n Asia \\t 30000 \\t 1500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the electricity usage and cost in different regions in 2021. In that year, the average electricity usage in the Netherlands was 30,000 British pounds."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Voter turnout and government spending in four countries in 2021",
+    "csv": "Country \\t Voter Turnout(%) \\t Government Spending(billion) \\n USA \\t 50 \\t 3.5 \\n UK \\t 60 \\t 4.5 \\n Germany \\t 70 \\t 5.5 \\n France \\t 65 \\t 4.0 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total amount of spending by countries in 2021 on voter turnout in the United States. In 2021, the total amount of spending in the United States amounted to approximately 70.5 percent."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_344",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_344.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Housing prices and number of houses in four major US cities in 2021",
+    "csv": "City \\t Housing Price (million) \\t Number of Houses \\n New York \\t 2.5 \\t 100 \\n Los Angeles \\t 3.6 \\t 200 \\n Chicago \\t 2.3 \\t 150 \\n Houston \\t 2.1 \\t 180 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the housing prices and number of houses in four major US cities in 2021. In New York, the housing price of a house in New York was 200.7 million, while in Chicago, the housing price of a house in New York was 175.7"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_471.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Literacy rate,GDP and satisfaction index of four countries in 2021",
+    "csv": "Country \\t Literacy Rate \\t GDP(billion) \\t Satisfaction Index \\n USA \\t 90% \\t 21.4 \\t 8 \\n UK \\t 95% \\t 2.6 \\t 7.5 \\n Germany \\t 98% \\t 2.2 \\t 7.2 \\n France \\t 97% \\t 2.4 \\t 7.9 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the literacy rate,GDP and satisfaction index of four countries in 2021. The literacy rate measures the percentage of people aged 15 and above who can read and write. In 2021, the literacy rate in the United Kingdom was at 107.4"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_1",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_1.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of Social Media users in four countries in 2021",
+    "csv": "Country \\t Facebook Users(million) \\t Twitter Users(million) \\t Instagram Users(million) \\n USA \\t 190 \\t 80 \\t 150 \\n UK \\t 30 \\t 20 \\t 25 \\n Germany \\t 80 \\t 10 \\t 30 \\n France \\t 50 \\t 17 \\t 35 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of social media users in four countries in 2021. During the measured period, Facebook had 250.4 percent of the social media users in the United Kingdom."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_316",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_316.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output and export volume in four countries in 2021",
+    "csv": "Country \\t Manufacturing Output (billion) \\t Export Volume (billion) \\n USA \\t 10 \\t 7.5 \\n UK \\t 8 \\t 4.5 \\n Germany \\t 12 \\t 9.5 \\n France \\t 9 \\t 6 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the manufacturing output and export volume in four countries in 2021. In that year, the United States produced an output of approximately 20.7 billion U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_273",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_273.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of users and revenue of four major social media platforms in 2021",
+    "csv": "Platform \\t Users (millions) \\t Revenue (million USD) \\n Facebook \\t 2.00 \\t 65 \\n YouTube \\t 2.50 \\t 20 \\n Twitter \\t 0.80 \\t 7 \\n Instagram \\t 1.20 \\t 15 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of users and revenue of four major social media platforms in the United States in 2014. During the measured period, Facebook had a total of 65.4 million users."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_342.png",
+    "topic": "Government and Public Policy",
+    "title": " Public policy implementation in four states in 2021",
+    "csv": "State \\t Public Policy A \\t Public Policy B \\t Public Policy C \\n California \\t 10 \\t 20 \\t 30 \\n New York \\t 20 \\t 30 \\t 40 \\n Texas \\t 15 \\t 25 \\t 35 \\n Florida \\t 18 \\t 28 \\t 38 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the public policy implementation in four states in 2021. In California, 40 percent of the states with the highest share of implementing public policy in 2021 were in California."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_247",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_247.png",
+    "topic": "Education and Academics",
+    "title": " Average Math and Reading scores by Grade in 2021",
+    "csv": "Grade \\t Average Math Score \\t Average Reading Score \\n Grade 5 \\t 85 \\t 90 \\n Grade 6 \\t 86 \\t 91 \\n Grade 7 \\t 87 \\t 93 \\n Grade 8 \\t 89 \\t 95 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average math and reading scores by grade in 2021. In 2021, the average student in the United States had an average of 175.4 percent of their reading."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_141",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_141.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost, speed and distance of different transportation modes in 2021",
+    "csv": "Mode \\t Distance (miles) \\t Speed (mph) \\t Cost \\n Air \\t 2500 \\t 800 \\t 500 \\n Rail \\t 3000 \\t 400 \\t 400 \\n Road \\t 3500 \\t 300 \\t 350 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the cost, speed and distance of different transportation modes in 2021. In 2021, the average cost of a passenger car in the United States was 4,000 U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_110",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_110.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Retail and E-commerce Sales in four countries in 2021",
+    "csv": "Country \\t Retail Sales (billion) \\t E-commerce Sales (billion) \\n USA \\t 8.0 \\t 3.2 \\n UK \\t 5.4 \\t 2.6 \\n Germany \\t 7.2 \\t 2.8 \\n France \\t 4.6 \\t 2.2 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the comparison of Retail and E-commerce sales in four countries in 2022. In the United States, 10.4 percent of e-commerce sales were sold in retail."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_431",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_431.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Sales of Dairy, Fruits and Meat in four regions in 2021",
+    "csv": "Region \\t Sales of Dairy(million) \\t Sales of Fruits(million) \\t Sales of Meat(million) \\n North America \\t 200 \\t 450 \\t 300 \\n South America \\t 300 \\t 500 \\t 400 \\n Europe \\t 250 \\t 480 \\t 320 \\n Asia \\t 280 \\t 520 \\t 350 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the sales of dairy, fruits and meat in four regions in 2021. In that year, the sales of dairy, fruits and meat in the United States amounted to approximately 1,200."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_37",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_37.png",
+    "topic": "Business and Finance",
+    "title": " GDP and Inflation Rate of Four Countries in 2021",
+    "csv": "Country \\t GDP(trillion) \\t Inflation rate \\n USA \\t 20.2 \\t 3.2 \\n UK \\t 2.5 \\t 1.8 \\n Germany \\t 3.7 \\t 2.4 \\n France \\t 2.2 \\t 1.9 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the GDP and Inflation Rate of four countries in 2021. In that year, the United States had the highest GDP in the world, with a GDP of 20.7 billion U.S. dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_402",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_402.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of fast food, restaurants, and cafes in different regions in 2021",
+    "csv": "Region \\t Fast Food \\t Restaurants \\t Cafes \\n North America \\t 450 \\t 300 \\t 200 \\n South America \\t 500 \\t 250 \\t 250 \\n Europe \\t 550 \\t 280 \\t 220 \\n Asia \\t 400 \\t 310 \\t 240 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of fast food, restaurants, and cafes in different regions in 2021. In that year, there were approximately 1,000 restaurants in the South American region."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_211",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_211.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop yield and climate conditions in the US Midwest region from 2016-2019",
+    "csv": "Year \\t Crop Yield(tons) \\t Average Rainfall(mm) \\t Average Temperature(degrees) \\n 2016 \\t 5000 \\t 350 \\t 20 \\n 2017 \\t 4500 \\t 320 \\t 22 \\n 2018 \\t 5500 \\t 400 \\t 24 \\n 2019 \\t 6000 \\t 420 \\t 26 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the crop yield and climate conditions in the US Midwest region from 2016-2019. In 2019, the average rainfall in the United States was 5,150."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_110",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_110.png",
+    "topic": "Science and Engineering",
+    "title": " Comparison of Energy Output and Input in a Nuclear Reactor from 2000 to 2005",
+    "csv": "Year \\t Energy Output(Mega Watts) \\t Energy Input(Mega Watts) \\n 2000 \\t 1000 \\t 1200 \\n 2001 \\t 1100 \\t 1300 \\n 2002 \\t 1200 \\t 1400 \\n 2003 \\t 1400 \\t 1300 \\n 2004 \\t 1300 \\t 1200 \\n 2005 \\t 1000 \\t 1100 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy output of the nuclear power industry from 2000 to 2005. In 2000, the energy output of the nuclear power industry amounted to approximately 1,400 mega Watts."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_466",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_466.png",
+    "topic": "Retail and E-commerce",
+    "title": " Retail and E-commerce Sales Comparison in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n January \\t 100 \\t 120 \\n February \\t 150 \\t 130 \\n March \\t 200 \\t 200 \\n April \\t 220 \\t 210 \\n May \\t 250 \\t 230 \\n June \\t 270 \\t 220 \\n July \\t 320 \\t 240 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the retail and e-commerce sales comparison in 2020. In 2020, the retail and e-commerce sales comparison was 300.4 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_185",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_185.png",
+    "topic": "Education and Academics",
+    "title": " Changes in Enrollment, Graduation and Attrition Rates of University Students from 2011 to 2015",
+    "csv": "Year \\t Enrollment Rate(%) \\t Graduation Rate(%) \\t Attrition Rate(%) \\n 2011 \\t 90 \\t 70 \\t 20 \\n 2012 \\t 88 \\t 75 \\t 15 \\n 2013 \\t 85 \\t 72 \\t 22 \\n 2014 \\t 80 \\t 77 \\t 18 \\n 2015 \\t 83 \\t 79 \\t 16 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in enrollment, graduation and attrition rates of University students from 2011 to 2015. In 2015, the enrollment rate decreased by approximately 80 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_125",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_125.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Prices of corn and wheat in relation to average farm price, 1996-2000",
+    "csv": "Year \\t Average Farm Price(cents/pound) \\t Price of Corn(cents/pound) \\t Price of Wheat(cents/pound) \\n 1996 \\t 63.4 \\t 50.9 \\t 75.3 \\n 1997 \\t 59.2 \\t 64.7 \\t 53.6 \\n 1998 \\t 62.8 \\t 68.6 \\t 51.2 \\n 1999 \\t 56.5 \\t 64.2 \\t 45.9 \\n 2000 \\t 63.7 \\t 58.2 \\t 67.7 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the prices of corn and wheat in relation to average farm price in 1996-2000. In 1996-2000, the average farm price of corn and wheat in the United States was 75.4 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_190",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_190.png",
+    "topic": "Government and Public Policy",
+    "title": " Government Spending in Infrastructure, Education and Healthcare in the US from 2001 to 2005",
+    "csv": "Year \\t Infrastructure Spending(billion dollars) \\t Education Spending(billion dollars) \\t Healthcare Spending(billion dollars) \\n 2001 \\t 800 \\t 200 \\t 400 \\n 2002 \\t 900 \\t 250 \\t 450 \\n 2003 \\t 1000 \\t 300 \\t 500 \\n 2004 \\t 1100 \\t 350 \\t 550 \\n 2005 \\t 1200 \\t 400 \\t 600 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows government spending in infrastructure and healthcare in the United States from 2001 to 2001. In 2001, the government spending in the United States amounted to approximately 1,200 U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_152",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_152.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media User Growth from 2015-2019",
+    "csv": "Year \\t Facebook Users \\t Twitter Users \\t Instagram Users \\n 2015 \\t 1.59 \\t 0.32 \\t 0.25 \\n 2016 \\t 1.86 \\t 0.45 \\t 0.72 \\n 2017 \\t 2.13 \\t 0.60 \\t 1.47 \\n 2018 \\t 2.41 \\t 0.75 \\t 2.22 \\n 2019 \\t 2.68 \\t 0.90 \\t 2.97 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the social media user growth in the United States from 2015-2019. In 2019, Facebook's growth was at approximately 2.5 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_470",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_470.png",
+    "topic": "Environment and Sustainability",
+    "title": " Carbon Emission and Renewable Energy Production Trends in 2025",
+    "csv": "Year \\t Carbon Emission(metric tons) \\t Renewable Energy Production(billion watts) \\n 2020 \\t 5000 \\t 800 \\n 2021 \\t 4800 \\t 900 \\n 2022 \\t 4900 \\t 1000 \\n 2023 \\t 5100 \\t 1100 \\n 2024 \\t 5300 \\t 1200 \\n 2025 \\t 5400 \\t 1400 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the carbon emission and renewable energy production trends in 2025. In 2025, the carbon emission and renewable energy production trends in the United States were 5,000."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_329",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_329.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Internet Users and Smartphone Sales from 2015 to 2020",
+    "csv": "Year \\t Internet Users(millions) \\t Number of Smartphones Sold(millions) \\n 2015 \\t 3000 \\t 500 \\n 2016 \\t 4500 \\t 1000 \\n 2017 \\t 6000 \\t 1500 \\n 2018 \\t 7500 \\t 2000 \\n 2019 \\t 9500 \\t 2500 \\n 2020 \\t 11000 \\t 3000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the growth of Internet Users and Smartphone sales in the United States from 2015 to 2020. In 2020, approximately 10.4 billion smartphone sales were sold on the internet."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_173",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_173.png",
+    "topic": "Retail and E-commerce",
+    "title": " Online and Offline Sales Trend in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n Jan \\t 1200 \\t 1000 \\n Feb \\t 1500 \\t 1100 \\n Mar \\t 1800 \\t 1300 \\n Apr \\t 1200 \\t 1000 \\n May \\t 1500 \\t 800 \\n Jun \\t 1300 \\t 900 \\n Jul \\t 1600 \\t 1100 \\n Aug \\t 1400 \\t 1000 \\n Sep \\t 1800 \\t 1200 \\n Oct \\t 2000 \\t 1100 \\n Nov \\t 1700 \\t 1000 \\n Dec \\t 1900 \\t 900 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the Online and Offline Sales Trend in 2020. In 2020, the online sales trend was around 1.1 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_318",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_318.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel visitors in four cities during the first four months of 2021",
+    "csv": "Month \\t Hotel A(number of visitors) \\t Hotel B(number of visitors) \\t Hotel C(number of visitors) \\t Hotel D(number of visitors) \\n January \\t 100 \\t 90 \\t 120 \\t 150 \\n February \\t 120 \\t 100 \\t 110 \\t 160 \\n March \\t 80 \\t 110 \\t 130 \\t 120 \\n April \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the hotel visitors in four cities during the first four months of 2021. During the first four months of 2021, approximately 160 percent of the hotel visitors in the United States visited the hotel A during the first four months of 2021."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_353",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_353.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Paintings in Different Art Galleries from 1800 to 1830",
+    "csv": "Year \\t Painting A \\t Painting B \\t Painting C \\t Painting D \\n 1800 \\t 10 \\t 15 \\t 20 \\t 25 \\n 1810 \\t 15 \\t 17 \\t 20 \\t 30 \\n 1820 \\t 20 \\t 18 \\t 25 \\t 35 \\n 1830 \\t 25 \\t 20 \\t 30 \\t 40 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the number of paintings in different art galleries from 1800 to 1830. In 1830, there were 40 paintings in the different art galleries."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_322",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_322.png",
+    "topic": "Government and Public Policy",
+    "title": " Changes in Tax Rate and Government Spending in the US from 2010 to 2016",
+    "csv": "Year \\t Tax Rate \\t Government Spending(billion dollars) \\n 2010 \\t 25% \\t 600 \\n 2011 \\t 27% \\t 650 \\n 2012 \\t 28% \\t 700 \\n 2013 \\t 29% \\t 750 \\n 2014 \\t 30% \\t 800 \\n 2015 \\t 32% \\t 850 \\n 2016 \\t 33% \\t 900 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in tax rate and government spending in the United States from 2010 to 2016. In 2016, the government spending in the United States amounted to approximately 800.4 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_83",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_83.png",
+    "topic": "Environment and Sustainability",
+    "title": " Environmental changes in the US between 2010 and 2016",
+    "csv": "Year \\t Greenhouse Gas Emissions (million tons) \\t Renewable Energy Usage (GW) \\t Air Quality Index \\n 2010 \\t 1000 \\t 5 \\t 60 \\n 2011 \\t 1100 \\t 7 \\t 55 \\n 2012 \\t 1200 \\t 10 \\t 50 \\n 2013 \\t 1300 \\t 12 \\t 45 \\n 2014 \\t 1400 \\t 15 \\t 40 \\n 2015 \\t 1500 \\t 18 \\t 35 \\n 2016 \\t 1600 \\t 20 \\t 30 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the environmental changes in the United States between 2010 and 2016. In 2016, the renewable energy usage index in the United States was 1,430."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_146",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_146.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Total donations received by three charities from 2019 to 2023",
+    "csv": "Year \\t Donations A(million dollars) \\t Donations B(million dollars) \\t Donations C(million dollars) \\n 2019 \\t 200 \\t 150 \\t 50 \\n 2020 \\t 210 \\t 180 \\t 45 \\n 2021 \\t 220 \\t 160 \\t 67 \\n 2022 \\t 230 \\t 170 \\t 70 \\n 2023 \\t 240 \\t 185 \\t 75 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total donations received by three charities from 2019 to 2023. In 2023, the total donations received by the three charities amounted to approximately 225.7 million dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_425",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donation trends in charitable organizations from 2001 to 2005",
+    "csv": "Year \\t Donation Amount(million dollars) \\t Number of Donors \\n 2001 \\t 20 \\t 100 \\n 2002 \\t 25 \\t 200 \\n 2003 \\t 30 \\t 300 \\n 2004 \\t 35 \\t 400 \\n 2005 \\t 40 \\t 500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the donation trends in charitable organizations from 2001 to 2005. In 2001, the donation trend in the United States was 500.4 million dollars."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_366",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_366.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Changes in migration, unemployment and wage in USA from 2010-2015",
+    "csv": "Year \\t Migration rate(%) \\t Unemployment rate(%) \\t Average wage(USD) \\n 2010 \\t 3.2 \\t 7.8 \\t 25000 \\n 2011 \\t 3.5 \\t 7.4 \\t 26000 \\n 2012 \\t 3.7 \\t 7.1 \\t 27000 \\n 2013 \\t 4.0 \\t 7.2 \\t 28000 \\n 2014 \\t 4.2 \\t 7.4 \\t 29000 \\n 2015 \\t 4.5 \\t 7.5 \\t 30000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in migration, unemployment and wage in USA from 2010-2015. In 2010, the average wage in the United States was 30,000."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_458",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_458.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Online and Retail Sales from 2019 to 2023",
+    "csv": "Year \\t Online Sales(billion dollars) \\t Retail Sales(billion dollars) \\t Total Sales(billion dollars) \\n 2019 \\t 900 \\t 1200 \\t 2100 \\n 2020 \\t 1000 \\t 1500 \\t 2500 \\n 2021 \\t 1200 \\t 1400 \\t 2600 \\n 2022 \\t 1100 \\t 1700 \\t 2800 \\n 2023 \\t 1300 \\t 1900 \\t 3200 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the comparison of online and retail sales from 2019 to 2023. In 2023, the total sales of online and retail products amounted to approximately 3.5 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_468",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_468.png",
+    "topic": "Environment and Sustainability",
+    "title": " Air and Water Quality Index in the U.S. 2001-2007",
+    "csv": "Year \\t Average Air Quality Index \\t Average Water Quality Index \\n 2001 \\t 50 \\t 70 \\n 2002 \\t 45 \\t 75 \\n 2003 \\t 40 \\t 80 \\n 2004 \\t 35 \\t 85 \\n 2005 \\t 43 \\t 78 \\n 2006 \\t 47 \\t 70 \\n 2007 \\t 50 \\t 65 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average water quality index in the U.S. 2001-2007. In 2001, the average water quality index in the United States was 80.4 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_478",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_478.png",
+    "topic": "Manufacturing and Production",
+    "title": " Monthly production of four products in 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 3000 \\t 1500 \\t 2500 \\t 2000 \\n February \\t 3500 \\t 1700 \\t 2800 \\t 2200 \\n March \\t 2500 \\t 1500 \\t 3000 \\t 1800 \\n April \\t 3000 \\t 2000 \\t 3500 \\t 2200 \\n May \\t 3500 \\t 2200 \\t 4000 \\t 2500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the monthly production of four products in 2021. In December 2021, production of production of production of four products amounted to approximately 4.4 thousand."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_76",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_76.png",
+    "topic": "Education and Academics",
+    "title": " Academic Performance in Reading, Math, and Science by Grade Level",
+    "csv": "Grade \\t Reading Scores \\t Math Scores \\t Science Scores \\n 5th \\t 85 \\t 86 \\t 87 \\n 6th \\t 88 \\t 87 \\t 89 \\n 7th \\t 90 \\t 88 \\t 91 \\n 8th \\t 92 \\t 92 \\t 93 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the academic performance in reading, math, and science by grade level in 1993. The average academic performance in reading, math, and science was 87.4 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_451",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_451.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Changes in Agricultural Practices in Europe from 2015-2019",
+    "csv": "Year \\t Organic Farming \\t Crop Diversification \\t Animal Husbandry \\t Biodynamic Farming \\n 2015 \\t 3 \\t 5 \\t 1 \\t 2 \\n 2016 \\t 5 \\t 7 \\t 2 \\t 4 \\n 2017 \\t 7 \\t 9 \\t 3 \\t 6 \\n 2018 \\t 9 \\t 11 \\t 4 \\t 8 \\n 2019 \\t 11 \\t 13 \\t 5 \\t 10 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in Agricultural Practices in Europe from 2015-2019. In 2019, the average change in agricultural practices in Europe was 12.4 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_485",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_485.png",
+    "topic": "Healthcare and Health",
+    "title": " Average body temperature and heart rate of different age groups",
+    "csv": "Age \\t Average body temperature(degrees Celcius) \\t Average heart rate(beats/min) \\n 0-5 \\t 37.2 \\t 110 \\n 6-15 \\t 36.7 \\t 97 \\n 16-25 \\t 36.6 \\t 75 \\n 26-40 \\t 36.5 \\t 75 \\n 41-60 \\t 36.4 \\t 77 \\n 61-80 \\t 36.3 \\t 85 \\n 81-99 \\t 36.2 \\t 95 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average body temperature and heart rate of different age groups in the United States. The average temperature of people between 15 and 24 years of age was 90.4 degrees Celsius."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_16",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_16.png",
+    "topic": "Science and Engineering",
+    "title": " Renewable Energy Output in 2021",
+    "csv": "Month \\t Solar Panel Output(kWh) \\t Wind Turbine Output(kWh) \\n January \\t 100 \\t 90 \\n February \\t 150 \\t 115 \\n March \\t 120 \\t 105 \\n April \\t 140 \\t 115 \\n May \\t 170 \\t 130 \\n June \\t 120 \\t 100 \\n July \\t 150 \\t 115 \\n August \\t 140 \\t 125 \\n September \\t 100 \\t 95 \\n October \\t 110 \\t 100 \\n November \\t 150 \\t 110 \\n December \\t 130 \\t 115 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the renewable energy output in the United States in 2021. In February 2021, the renewable energy output in the United States amounted to approximately 150,115 kWh."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_265.png",
+    "topic": "Business and Finance",
+    "title": " Expenses in four categories of products",
+    "csv": "Year \\t Expenses A(million dollars) \\t Expenses B(million dollars) \\t Expenses C(million dollars) \\t Expenses D \\n 2001 \\t 100 \\t 80 \\t 120 \\t 150 \\n 2002 \\t 120 \\t 90 \\t 110 \\t 160 \\n 2003 \\t 80 \\t 110 \\t 130 \\t 120 \\n 2004 \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total expenses in four categories of products in the United States in 2014. In that year, the average American spent 80.4 million dollars on expenses B, while in 120, the average American spent 82.4 million dollars on expenses C."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_344",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_344.png",
+    "topic": "Business and Finance",
+    "title": " GDP and GNP from 2001 to 2005",
+    "csv": "Year \\t Gross Domestic Product(GDP)(trillion dollars) \\t Gross National Product(GNP)(trillion dollars) \\n 2001 \\t 14.5 \\t 15 \\n 2002 \\t 14.6 \\t 16 \\n 2003 \\t 13.7 \\t 14 \\n 2004 \\t 15.2 \\t 17 \\n 2005 \\t 15.7 \\t 18 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total GDP and GDP from 2001 to 2005. In 2005, the total GDP of all countries in the world amounted to approximately 18.76 trillion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_6",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_6.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donations to Charity Organization in 2020",
+    "csv": "Donor \\t Donation Amount (in USD) \\t Number of Donations \\n John Smith \\t 5000 \\t 2 \\n Mary Johnson \\t 2000 \\t 1 \\n Jack Wilson \\t 1000 \\t 2 \\n Sarah Taylor \\t 3000 \\t 4 \\n Mark Brown \\t 500 \\t 3 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the donations to Charity Organization in 2020. In 2020, the donation of the United States' largest charity organization amounted to approximately 5,000."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_399",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_399.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output trend in the first half of 2023",
+    "csv": "Month \\t Output A(tonnes) \\t Output B(tonnes) \\t Output C(tonnes) \\n January \\t 100 \\t 200 \\t 300 \\n February \\t 150 \\t 250 \\t 400 \\n March \\t 175 \\t 275 \\t 450 \\n April \\t 225 \\t 325 \\t 500 \\n May \\t 200 \\t 300 \\t 400 \\n June \\t 125 \\t 225 \\t 350 \\n July \\t 150 \\t 250 \\t 400 \\n August \\t 175 \\t 275 \\t 450 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the manufacturing output trend in the first half of 2023. In January 2023, the output of electrical equipment amounted to approximately 500 tonnes."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_409",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_409.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of three items in a factory in 2020",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\n January \\t 500 \\t 800 \\t 1000 \\n February \\t 600 \\t 700 \\t 1100 \\n March \\t 700 \\t 900 \\t 1300 \\n April \\t 800 \\t 1000 \\t 1500 \\n May \\t 900 \\t 1200 \\t 1800 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the production of three items in a factory in 2020. In that year, the production of production of three items in the United States amounted to approximately 1,000."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_372",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_372.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy production in three sources at a renewable energy plant",
+    "csv": "Time \\t Solar Power Generation(GW) \\t Wind Power Generation(GW) \\t Hydropower Generation(GW) \\n 08:00 \\t 3.2 \\t 2.4 \\t 1.8 \\n 09:00 \\t 4.1 \\t 3.1 \\t 2.3 \\n 10:00 \\t 5.2 \\t 4.2 \\t 2.9 \\n 11:00 \\t 6.1 \\t 5.2 \\t 3.6 \\n 12:00 \\t 6.7 \\t 6.1 \\t 4.2 \\n 13:00 \\t 6.2 \\t 5.4 \\t 3.8 \\n 14:00 \\t 5.2 \\t 4.1 \\t 3.2 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy production in three sources at a renewable energy plant. In 2014, the wind power generation of the Solar Power Generation (SPG) amounted to approximately 6.5 million U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_367",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_367.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Change in Crime Rates in the US from 2001-2005",
+    "csv": "Year \\t Violent Crime Rate (per 100000 people) \\t Property Crime Rate (per 100000 people) \\n 2001 \\t 550 \\t 3120 \\n 2002 \\t 530 \\t 2970 \\n 2003 \\t 580 \\t 3180 \\n 2004 \\t 560 \\t 3200 \\n 2005 \\t 590 \\t 3100 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the change in Crime Rates in the United States from 2001-2005. In 2001, the crime rate in the United States was 3.7 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_450",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_450.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Average Monthly Consumption of Sugar, Coffee, and Tea in the US Food and Beverage Industry",
+    "csv": "Month \\t Sugar Consumption(lbs) \\t Coffee Consumption(cups) \\t Tea Consumption(cups) \\n January \\t 1000 \\t 500 \\t 200 \\n February \\t 1200 \\t 400 \\t 250 \\n March \\t 1300 \\t 450 \\t 300 \\n April \\t 1400 \\t 500 \\t 350 \\n May \\t 1200 \\t 550 \\t 400 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the monthly consumption of sugar, coffee, and tea in the United States Food and Beverage Industry. In January 2019, the consumption of sugar, coffee, and tea amounted to approximately 4.46 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_32",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_32.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of four products in the first five months of 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 20000 \\t 15000 \\t 17000 \\t 30000 \\n February \\t 25000 \\t 19000 \\t 18000 \\t 31000 \\n March \\t 22000 \\t 17000 \\t 19000 \\t 32000 \\n April \\t 23000 \\t 18000 \\t 17000 \\t 33000 \\n May \\t 24000 \\t 19000 \\t 16000 \\t 34000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the production of four products in the first five months of 2021. In January 2021, the production of the production of the first four products amounted to approximately 32,000."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_77",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_77.png",
+    "topic": "Retail and E-commerce",
+    "title": " Changes in orders of four different products in 2021",
+    "csv": "Month \\t Order A \\t Order B \\t Order C \\t Order D \\n January \\t 50 \\t 35 \\t 45 \\t 60 \\n February \\t 60 \\t 40 \\t 50 \\t 70 \\n March \\t 65 \\t 45 \\t 55 \\t 75 \\n April \\t 70 \\t 50 \\t 60 \\t 80 \\n May \\t 55 \\t 45 \\t 70 \\t 90 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in orders of four different products in 2021. In the first quarter of 2021, the order A was changed to order B. The order C was 80.4 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_384",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_384.png",
+    "topic": "Healthcare and Health",
+    "title": " Average Body Measurements of Different Age Groups",
+    "csv": "Age \\t Average BMI \\t Average Weight (kg) \\t Average Height (cm) \\n 18-25 \\t 25 \\t 60 \\t 170 \\n 25-35 \\t 27 \\t 70 \\t 175 \\n 35-45 \\t 30 \\t 75 \\t 180 \\n 45-55 \\t 32 \\t 80 \\t 185 \\n 55-65 \\t 34 \\t 85 \\t 190 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average body measurements of different age groups in the United States. The average BMI of the respondents was 175.5 years, while the average BMI of the respondents was 155.5 years."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_79",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_79.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee performance and satisfaction in 2020",
+    "csv": "Quarter \\t Employee Leave(days) \\t Employee Overtime(hours) \\t Employee Satisfaction Score \\n Q1 2020 \\t 25 \\t 100 \\t 4.5 \\n Q2 2020 \\t 30 \\t 110 \\t 4.7 \\n Q3 2020 \\t 20 \\t 90 \\t 4.8 \\n Q4 2020 \\t 15 \\t 80 \\t 4.9 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the employee satisfaction score in the United States during the first quarter of 2020. In the first quarter of 2020, the employee satisfaction score in the United States was at 80.4 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_206",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_206.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Total Tourists and Hotel Occupancy Rate in the US from 2020-2023",
+    "csv": "Year \\t Total Tourists(thousands) \\t International Tourists(thousands) \\t Domestic Tourists(thousands) \\t Hotel Occupancy Rate \\n 2020 \\t 1000 \\t 800 \\t 400 \\t 60% \\n 2021 \\t 1500 \\t 1200 \\t 300 \\t 70% \\n 2022 \\t 1700 \\t 1300 \\t 400 \\t 75% \\n 2023 \\t 1900 \\t 1400 \\t 500 \\t 80% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total tourists and hotel occupancy rate in the United States from 2020-2023. In 2020, the total occupancy rate for hotels in the United States amounted to approximately 1,500."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Effect of Campaign Expenditure on Voter Turnout in the USA from 2018 to 2022",
+    "csv": "Year \\t Voter Turnout(percentage) \\t Campaign Expenditure(million dollars) \\n 2018 \\t 65 \\t 100 \\n 2019 \\t 70 \\t 200 \\n 2020 \\t 73 \\t 400 \\n 2021 \\t 75 \\t 450 \\n 2022 \\t 77 \\t 500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the effect of Campaign Expenditure on Voter Turnout in the United States from 2018 to 2022. In 2022, the average American can expect to spend a total of 90.4 million dollars on voter turnout."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_122",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_122.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Percentage of People in Different Age Groups in the United States in 2021",
+    "csv": "Age \\t Percentage of People \\n 0-17 \\t 20 \\n 18-24 \\t 30 \\n 25-34 \\t 25 \\n 35-44 \\t 15 \\n 45-54 \\t 7 \\n 55-64 \\t 2 \\n 65+ \\t 1 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the percentage of people in different age groups in the United States in 2021. In 2021, 88 percent of the people in the age group in the United States were between 80 and 84 years old."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_275",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_275.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food and Beverage Industry Sales in the First Half of 2021",
+    "csv": "Month \\t Beverages \\t Sweets \\t Snacks \\t Bakery \\n January \\t 1000 \\t 2000 \\t 800 \\t 600 \\n February \\t 1200 \\t 1800 \\t 900 \\t 650 \\n March \\t 900 \\t 1500 \\t 1000 \\t 700 \\n April \\t 1100 \\t 2000 \\t 800 \\t 750 \\n May \\t 1200 \\t 1900 \\t 1000 \\t 800 \\n June \\t 1000 \\t 1700 \\t 1100 \\t 900 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the food and beverage industry sales in the first half of 2021. In the first half of 2021, the grocery and beverage industry sales of beverages amounted to approximately 2.5 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_440",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_440.png",
+    "topic": "Sports and Entertainment",
+    "title": " Gross Earning and Viewership of Sports and Entertainment Events from 2020 to 2024",
+    "csv": "Year \\t Gross Earning (million dollars) \\t Viewership (million people) \\n 2020 \\t 500 \\t 200 \\n 2021 \\t 700 \\t 300 \\n 2022 \\t 1000 \\t 400 \\n 2023 \\t 1300 \\t 500 \\n 2024 \\t 1600 \\t 600 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the gross earning and viewership of sports and entertainment events in the United States from 2020 to 2024. In 2020, the Gross Earning and viewership of sports and entertainment events in the United States amounted to approximately 1,400."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_441",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_441.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Arts in the USA from 2011 to 2015",
+    "csv": "Year \\t Art A \\t Art B \\t Art C \\n 2011 \\t 50 \\t 60 \\t 70 \\n 2012 \\t 45 \\t 55 \\t 65 \\n 2013 \\t 48 \\t 58 \\t 68 \\n 2014 \\t 43 \\t 53 \\t 63 \\n 2015 \\t 46 \\t 56 \\t 66 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the popularity of Arts in the USA from 2011 to 2015. In 2015, the popularity of art A was at 70.4 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_11",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_11.png",
+    "topic": "Sports and Entertainment",
+    "title": " Growth of Box Office Gross and Ticket Sales for the NBA from 2016-2020",
+    "csv": "Year \\t Gross earnings (million dollars) \\t Tickets Sold (millions) \\n 2016 \\t 2.2 \\t 90 \\n 2017 \\t 2.3 \\t 95 \\n 2018 \\t 2.5 \\t 100 \\n 2019 \\t 2.7 \\t 105 \\n 2020 \\t 2.9 \\t 110 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the box office gross and ticket sales for the NBA from 2016-2020. In 2020, the NBA gross earnings for the 2016-2020 NBA amounted to approximately 100.4 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_132",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_132.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Growth of Organic Food and Fast Food Sales in the U.S. from 2020 to 2023",
+    "csv": "Year \\t Organic Food Sales(million dollars) \\t Fast Food Sales(million dollars) \\n 2020 \\t 1000 \\t 4000 \\n 2021 \\t 1200 \\t 4500 \\n 2022 \\t 1500 \\t 3000 \\n 2023 \\t 1700 \\t 3500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the growth of organic food and fast food sales in the United States from 2020 to 2023. In 2020, sales of organic food amounted to approximately 4.4 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_348",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_348.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production output of four categories of products in 2021",
+    "csv": "Month \\t Production A \\t Production B \\t Production C \\t Production D \\n January \\t 1000 \\t 1200 \\t 1400 \\t 2000 \\n February \\t 1200 \\t 1500 \\t 1800 \\t 2100 \\n March \\t 1400 \\t 1700 \\t 2000 \\t 2200 \\n April \\t 1600 \\t 1900 \\t 2200 \\t 2500 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the production output of four categories of products in 2021. In that year, the production of the production of the household appliances was around 2.4 billion U.S. dollars."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_188",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_188.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop Yield of Major Grains in the US from 2000 to 2004",
+    "csv": "Year \\t Wheat Yield (Metric Tons) \\t Corn Yield (Metric Tons) \\t Rice Yield (Metric Tons) \\n 2000 \\t 5000 \\t 4000 \\t 2000 \\n 2001 \\t 6000 \\t 5000 \\t 3000 \\n 2002 \\t 7000 \\t 6000 \\t 4000 \\n 2003 \\t 8000 \\t 7000 \\t 5000 \\n 2004 \\t 9000 \\t 8000 \\t 6000 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the crop yield of major grains in the United States from 2000 to 2004. In 2000, about 9,000 metric tons of corn yield was generated in the United States."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_282",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_282.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Smartphone and Computer Sales from 2011 to 2016",
+    "csv": "Year \\t Smartphone Sales \\t Computer Sales \\n 2011 \\t 100 \\t 200 \\n 2012 \\t 150 \\t 220 \\n 2013 \\t 180 \\t 260 \\n 2014 \\t 200 \\t 280 \\n 2015 \\t 220 \\t 320 \\n 2016 \\t 260 \\t 350 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the growth of smartphone and computer sales in the United States from 2011 to 2016. In 2016, the smartphone sales grew by approximately 350 percent."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_207",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_207.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Changes in Average Home and Rental Prices in the U.S. from 2000 to 2005",
+    "csv": "Year \\t Average Home Price (thousands of dollars) \\t Average Rental Price (thousands of dollars) \\n 2000 \\t 150 \\t 50 \\n 2001 \\t 170 \\t 55 \\n 2002 \\t 180 \\t 60 \\n 2003 \\t 190 \\t 65 \\n 2004 \\t 220 \\t 70 \\n 2005 \\t 250 \\t 75 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the changes in average Home and Rental Prices in the United States from 2000 to 2005. In 2000, the average home price in the United States was 250.4 percent."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_175",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_175.png",
+    "topic": "Education and Academics",
+    "title": " Increase in the number of High School and College Graduates between 2001 and 2005",
+    "csv": "Year \\t High School Graduates \\t College Graduates \\n 2001 \\t 20 \\t 10 \\n 2002 \\t 25 \\t 12 \\n 2003 \\t 30 \\t 15 \\n 2004 \\t 35 \\t 20 \\n 2005 \\t 40 \\t 25 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the increase in the number of High School and College Graduates between 2001 and 2005. In 2005, the increase in the number of High School and College graduates was 40."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_439",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_439.png",
+    "topic": "Environment and Sustainability",
+    "title": " Global Greenhouse Gas Emissions from 2001 to 2004",
+    "csv": "Year \\t Carbon Dioxide Emissions (million metric tons) \\t Nitrous Oxide Emissions (million metric tons) \\t Methane Emissions (million metric tons) \\n 2001 \\t 5000 \\t 250 \\t 400 \\n 2002 \\t 4500 \\t 200 \\t 350 \\n 2003 \\t 4800 \\t 250 \\t 400 \\n 2004 \\t 5200 \\t 300 \\t 450 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the total carbon dioxide emissions in the United States from 2001 to 2004. In 2001, the estimated methane emissions in the United States amounted to approximately 5,000."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_107",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_107.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the United States, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 45% \\n Female \\t 55% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the gender distribution in the United States in 2023. In 2023, the share of women in the United States was 45.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_192",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_192.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Donors in the Nonprofit Sector,2023",
+    "csv": "Types of Donors \\t Percentage \\n Individuals \\t 45% \\n Foundations \\t 25% \\n Corporations \\t 15% \\n Government \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of donors in the nonprofit sector in 2023. In 2023, 29.4 percent of donors in the nonprofit sector were individuals."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_72",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_72.png",
+    "topic": "Government and Public Policy",
+    "title": " Voting Participation in the USA by Age Group, 2023",
+    "csv": "Age Group \\t Voting Participation \\n 18-24 \\t 32% \\n 25-34 \\t 32% \\n 35-44 \\t 18% \\n 45-54 \\t 11% \\n 55-64 \\t 5% \\n 65+ \\t 2% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the age group of Americans who voted for the United States as of 2023. In 2018, 65 percent of Americans aged 55 to 64 voted for the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_267",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_267.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage of Digital Devices in 2021",
+    "csv": "Devices \\t Usage \\n Desktops \\t 20% \\n Laptops \\t 30% \\n Tablets \\t 15% \\n Smartphones \\t 35% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the usage of digital devices in 2021. In 2021, 88.5 million tablet devices were used on smartphones."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_89",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_89.png",
+    "topic": "Education and Academics",
+    "title": " School Enrollment in the USA, 2023",
+    "csv": "Schools \\t Percentage \\n Public \\t 45% \\n Private \\t 35% \\n Parochial \\t 10% \\n Homeschool \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the school enrollment in the United States in 2023. In 2023, 10.4 percent of the homeschool population enrolled in public schools."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_157",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_157.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Government Revenue Sources in the USA, 2023",
+    "csv": "Revenue Sources \\t Percentage \\n Corporate Tax \\t 35% \\n Personal Income Tax \\t 25% \\n Sales Tax \\t 20% \\n Property Tax \\t 10% \\n Other \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of government revenue sources in the United States in 2022. In 2019, the U.S. government generated 11.2 percent of the total government revenue."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_471.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Sectors in the US, 2023",
+    "csv": "Manufacturing Sectors \\t Percentage \\n Automotive \\t 20% \\n Aerospace \\t 18% \\n Industrial Machinery \\t 15% \\n Electronics \\t 14% \\n Food and Beverages \\t 10% \\n Chemicals \\t 9% \\n Textiles \\t 7% \\n Semiconductors \\t 5% \\n Other \\t 12% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of the manufacturing sectors in the United States in 2013. In that year, the manufacturing sector in the United States was 90.7 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_386",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_386.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Distribution of Food and Beverage Products in the US, 2023",
+    "csv": "Type \\t Percentage \\n Convenience Foods \\t 25% \\n Fresh Foods \\t 20% \\n Natural and Organic Foods \\t 30% \\n Processed Foods \\t 15% \\n Functional Foods \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of Food and Beverage Products in the United States in 2023. In 2023, 10.7 percent of processed foods were made from natural and organic ingredients."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_425",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Allocation of Donations for Non-profit Organizations in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Animal Welfare \\t 20% \\n Education \\t 25% \\n Humanitarianism \\t 30% \\n Healthcare \\t 15% \\n Arts & Culture \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the allocation of donations for non-profit organizations in the United States in 2023. In the first half of 2023, 11.2 percent of donations for the United States were donated to the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_217",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_217.png",
+    "topic": "Education and Academics",
+    "title": " Education Level Distribution in the USA, 2023",
+    "csv": "Level of Education \\t Percentage \\n Primary \\t 20 \\n Secondary \\t 30 \\n Bachelor's \\t 25 \\n Master's \\t 15 \\n Doctoral \\t 10 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of education level in the United States in 2023. The distribution of a doctoral degree in the United States was 10.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Mode of Transportation Distribution in the Global logistics Industry, 2023",
+    "csv": "Modes \\t Percentage \\n Air \\t 25% \\n Rail \\t 20% \\n Road \\t 35% \\n Maritime \\t 20% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the mode of transportation distribution in the global logistics industry, 2023. In 2023, the rail and cruise transportation industry accounted for 25.4 percent of the global transportation industry's revenue."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_409",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_409.png",
+    "topic": "Sports and Entertainment",
+    "title": " Viewership Distribution for Sports and Entertainment Platforms in 2023",
+    "csv": "Platforms \\t Viewership Percentage \\n Television \\t 35% \\n YouTube \\t 25% \\n Social media \\t 20% \\n Streaming services \\t 10% \\n Radio \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of membership for sports and entertainment platforms in 2023. The distribution was generated by the U.S.-based retailer, Sports and Entertainment. In 2023, the distribution was estimated to be around 1.2 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_201",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_201.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Platform Distribution in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 30% \\n YouTube \\t 20% \\n Twitter \\t 10% \\n Instagram \\t 15% \\n Reddit \\t 10% \\n Snapchat \\t 10% \\n Pinterest \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of social media platforms in the United States in 2023. During the survey period, 9.1 percent of respondents stated that they used Facebook as their social media platform."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_337",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_337.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Education Level Distribution among Adults in the USA, 2023",
+    "csv": "Education Level \\t Percentage \\n High School \\t 23% \\n Associates Degree \\t 15% \\n Bachelor's Degree \\t 30% \\n Master's Degree \\t 20% \\n Doctorate \\t 12% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of education level among adults in the United States in the 2023. The distribution of students in the United States was 12.4 percent among the bachelor's and 15.4 percent of the total population."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_339",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_339.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Mix in the USA in 2023",
+    "csv": "Sources \\t Percentage \\n Renewable Energy \\t 30% \\n Fossil Fuels \\t 40% \\n Nuclear Energy \\t 20% \\n Hydroelectricity \\t 7% \\n Biomass \\t 3% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy mix in the United States in 2023. In 2023, the renewable energy mix in the United States was 3.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_454",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_454.png",
+    "topic": "Social Media and the Web",
+    "title": " Distribution of Social Media Platforms Usage in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 36% \\n YouTube \\t 20% \\n Twitter \\t 7% \\n Instagram \\t 7% \\n Snapchat \\t 4% \\n LinkedIn \\t 4% \\n Reddit \\t 4% \\n Other \\t 23% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of social media platforms in the United States as of 2023. During the survey period, 19.9 percent of respondents stated that they used Facebook as their social media platform."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_482",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_482.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Distribution of Tourism and Hospitality Spending in 2023",
+    "csv": "Categories \\t Percentage \\n Air Travel \\t 30% \\n Car Rental \\t 20% \\n Hotels and Resorts \\t 25% \\n Cruise Lines \\t 15% \\n Tour Operators \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of tourism and hospitality spending in 2023. Hotels and resorts were the most expensive tour operators in 2023, with 21.4 percent of the total spending."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_328",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_328.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee Retention Factors in the Workplace, 2023",
+    "csv": "Employee Retention \\t Percentage \\n Job Satisfaction \\t 35% \\n Professional Development \\t 25% \\n Compensation and Benefits \\t 20% \\n Work Environment \\t 15% \\n Work-Life Balance \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the employee retention factors in the workplace in 2023. According to the source, 25.4 percent of respondents stated that their job satisfaction was 35.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_235",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_235.png",
+    "topic": "Government and Public Policy",
+    "title": " Breakdown of Tax Revenue for the U.S. Government in 2023",
+    "csv": "Tax Income \\t Percentage \\n Corporate Taxes \\t 25% \\n Individual Taxes \\t 45% \\n Payroll Taxes \\t 15% \\n Property Taxes \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the breakdown of tax revenue for the U.S. government in 2023. In 2023, the government added 10.2 percent of its tax revenue to the payroll taxes."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_46",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_46.png",
+    "topic": "Social Media and the Web",
+    "title": " Major Social Media Platforms Utilization in the US, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 32% \\n Twitter \\t 15% \\n YouTube \\t 25% \\n Instagram \\t 14% \\n LinkedIn \\t 7% \\n Pinterest \\t 4% \\n Snapchat \\t 3% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the major social media platforms utilization in the United States in 2023. During the survey period, 15.4 percent of respondents stated that they used Instagram as their social media platform."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_160",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_160.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Disciplines in Academic Research, 2023",
+    "csv": "Areas \\t Percentage \\n Computer Science \\t 45% \\n Electrical Engineering \\t 20% \\n Mechanical Engineering \\t 15% \\n Civil Engineering \\t 10% \\n Chemical Engineering \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of Engineering Disciplines in the United States in 2023. In 2023, the electrical engineering discipline was the most commonly used in academic research."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_11",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_11.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel Accommodations in the Global Tourism Industry in 2023",
+    "csv": "Hotels \\t Percentage \\n Luxury Hotels \\t 30% \\n Boutique Hotels \\t 20% \\n Business Hotels \\t 20% \\n Budget Hotels \\t 15% \\n Resorts \\t 15% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the hotel accommodations in the global tourism industry in 2023. The hotel accommodations in the United States were 15.5 percent higher than the hotel accommodations in 2019."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_377",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_377.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Output in the USA, 2023",
+    "csv": "Products \\t Share of Manufacturing \\n Automobiles \\t 25% \\n Aerospace \\t 15% \\n Electronics \\t 25% \\n Chemicals \\t 15% \\n Industrial Machinery \\t 10% \\n Metal Products \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of manufacturing output in the United States in 2023. In that year, the automotive output of automobiles amounted to approximately 14.3 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_53",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_53.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Science and Engineering Jobs in the USA, 2023",
+    "csv": "Job Sectors \\t Percentage \\n Energy \\t 20 \\n Manufacturing \\t 15 \\n Technology \\t 30 \\n Aerospace \\t 15 \\n Automotive \\t 10 \\n Utilities \\t 5 \\n Construction \\t 5 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of science and engineering jobs in the United States in 2023. In 2023, the manufacturing sector was the leading manufacturer of science and engineering jobs."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_177",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_177.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage Distribution of the Internet Platforms in the USA, 2023",
+    "csv": "Internet Platforms \\t Percentage \\n Social Media \\t 30% \\n Search Engines \\t 24% \\n E-Commerce \\t 20% \\n Video Platforms \\t 14% \\n Streaming Services \\t 8% \\n News Platforms \\t 4% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the usage distribution of the Internet platforms in the United States in 2023. During the survey period, 24 percent of the users accessed social media platforms on a weekly basis."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_56",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_56.png",
+    "topic": "Environment and Sustainability",
+    "title": " Renewable Energy Sources in the USA, 2023",
+    "csv": "Renewable Energy \\t Percentage \\n Solar \\t 30% \\n Wind \\t 25% \\n Hydroelectricity \\t 20% \\n Geothermal \\t 15% \\n Biomass \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the average monthly average monthly cost of a home in the United States in 2014. In 2014, the average monthly cost of a home in the United States was about 0.87 U.S. dollars."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_293",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_293.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources in the US, 2023",
+    "csv": "Sources \\t Percentage \\n Renewables \\t 25% \\n Coal \\t 20% \\n Oil \\t 15% \\n Natural Gas \\t 30% \\n Nuclear \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy sources in the United States in 2023. In 2023, the renewable energy source was 20.4 percent of the U.S.' natural gas."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_279",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_279.png",
+    "topic": "Government and Public Policy",
+    "title": " Methods for Citizen Engagement in the US, 2023",
+    "csv": "Citizen Engagement \\t Percentage \\n Voting \\t 40% \\n Contacting Elected Officials \\t 20% \\n Attending Town Hall Meetings \\t 15% \\n Signing Petitions \\t 10% \\n Donating to Political Campaigns \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the methods for Citizen Engagement in the United States in 2013. During the survey period, 23.4 percent of respondents signed petitions for social media engagement in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_81",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_81.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Services in the Global Market, 2023",
+    "csv": "Services \\t Percentage \\n Cloud Computing \\t 25% \\n Artificial Intelligence \\t 20% \\n Internet of Things \\t 30% \\n Big Data \\t 15% \\n Cyber Security \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the services of the technology services in the global market in 2023. In 2023, 25.4 percent of the global technology services services were connected to the cloud."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_47",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_47.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources Distribution in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 40% \\n Nuclear \\t 20% \\n Natural Gas \\t 20% \\n Coal \\t 10% \\n Oil \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the energy sources distribution in the United States in 2023. In 2023, the renewable energy sector accounted for approximately 20.5 billion U.S. dollars in renewable energy."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_305",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_305.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food Distribution in the USA, 2023",
+    "csv": "Food Groups \\t Percentage \\n Dairy \\t 18% \\n Fruit \\t 20% \\n Vegetables \\t 25% \\n Meat \\t 15% \\n Grains \\t 14% \\n Fats and Oils \\t 6% \\n Sugars and Sweets \\t 2% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the Food Distribution in the U.S., 2023. In 2023, 20.4 percent of the U.S. consumed fruit."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_261",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_261.png",
+    "topic": "Technology and the Internet",
+    "title": " Technological Device Usage in the USA, 2023",
+    "csv": "Devices \\t Useage \\n Laptops \\t 40% \\n Smartphones \\t 25% \\n Tablets \\t 15% \\n Desktops \\t 10% \\n Smartwatches \\t 5% \\n Streaming Devices \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the technological device usage in the United States in 2023. In 2023, 11.4 percent of smartphone users used their tablet device."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_378",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_378.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Fields in the USA, 2023",
+    "csv": "Types of Engineers \\t Percentage \\n Electrical Engineers \\t 20% \\n Mechanical Engineers \\t 20% \\n Civil Engineers \\t 15% \\n Computer Engineers \\t 15% \\n Chemical Engineers \\t 10% \\n Industrial Engineers \\t 10% \\n Aerospace Engineers \\t 5% \\n Materials Engineers \\t 5% \\n Nuclear Engineers \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of engineering fields in the United States in 2023. In 2023, electrical engineers in the United States were 18.2 percent of the industrial engineers."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_315",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_315.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Global Distribution of Lawyers in 2023",
+    "csv": "Regions \\t Lawyer population share \\n North America \\t 30% \\n Europe \\t 30% \\n Asia \\t 20% \\n South America \\t 10% \\n Africa \\t 7% \\n Oceania \\t 3% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of lawyers in the world in 2023. In 2023, the distribution of lawyers in the United States was 31.5 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_418",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_418.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Charitable Causes in the United States, 2023",
+    "csv": "Charitable Causes \\t Percentage \\n Education \\t 20 \\n Healthcare \\t 25 \\n Human Rights \\t 15 \\n Environment \\t 20 \\n Poverty Alleviation \\t 20 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of charitable causes in the United States in 2023. In 2023, 20.7 percent of the population in the United States had a poverty alleviation."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_164",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_164.png",
+    "topic": "Energy and Utilities",
+    "title": " Distribution of Energy Sources in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 42% \\n Coal \\t 25% \\n Natural Gas \\t 18% \\n Nuclear \\t 10% \\n Oil \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of energy sources in the United States in 2023. In that year, coal was the leading source of energy in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_483",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_483.png",
+    "topic": "Education and Academics",
+    "title": " Breakdown of Student Population by Level of Education in 2023",
+    "csv": "Student Population \\t Percentage \\n Primary Education \\t 45% \\n Secondary Education \\t 30% \\n Higher Education \\t 15% \\n Vocational Training \\t 5% \\n Non Formal Education \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the breakdown of Student Population by level of Education in the United States. In 2016, about 1.2 percent of the American student population lived in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_59",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_59.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Types of Tourism in the World, 2023",
+    "csv": "Types of Tourism \\t Percentage \\n Leisure \\t 40% \\n Business \\t 20% \\n Education \\t 15% \\n Religious \\t 10% \\n Medical \\t 10% \\n Adventure \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the types of tourism in the world in 2023. In 2023, 20 percent of the world's leisure and business tourism was travel related."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_365",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_365.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Music Genres in the USA, 2023",
+    "csv": "Genres \\t Popularity \\n Pop Music \\t 35% \\n Rock Music \\t 15% \\n Hip-Hop and R&B \\t 15% \\n Jazz \\t 10% \\n Country \\t 10% \\n Classical \\t 10% \\n Electronic/Dance \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the popularity of Music Genres in the United States in 2023. In 2019, the genre of music was dominated by the American music genre with 10.1 percent of the population reporting that they played music in the past 10 years."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_388",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_388.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Online Shopping Categories in the US, 2023",
+    "csv": "Online Shopping \\t Percentage \\n Clothing \\t 25% \\n Electronics \\t 20% \\n Home and Garden \\t 30% \\n Automotive \\t 15% \\n Other \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the online shopping categories in the United States in 2023. In 2023, 22.4 percent of the shoppers in the United States shopped online in the home and garden."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_36",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_36.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Source of Donations for Nonprofit Organizations in the USA, 2023",
+    "csv": "Donations \\t Percentage \\n Individuals \\t 35% \\n Foundations \\t 18% \\n Corporations \\t 20% \\n Religious Institutions \\t 20% \\n Government Grants \\t 7% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the donations for nonprofit organizations in the United States in 2023. In 2023, 18.4 percent of the nonprofit organizations were foundations."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_272",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_272.png",
+    "topic": "Science and Engineering",
+    "title": " Software Distribution in the Science and Engineering Industry, 2023",
+    "csv": "Software \\t Percentage \\n Operating Systems \\t 25% \\n Programming Languages \\t 15% \\n Database Management \\t 15% \\n Networking \\t 15% \\n Artificial Intelligence \\t 15% \\n Graphics \\t 10% \\n Animation \\t 5% \\n Simulation \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the software distribution in the science and engineering industry in 2023. In that year, the software distribution in the semiconductor industry was around 1.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_116",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_116.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Distribution of Human Resources Management Areas in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Training and Development \\t 22% \\n Recruitment and Selection \\t 20% \\n Performance Management \\t 16% \\n Employee Relations \\t 14% \\n Compensation and Benefits \\t 14% \\n Human Resource Planning \\t 10% \\n Health and Safety \\t 4% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of human resources management areas in the United States in 2023. During the survey period, 20.4 percent of respondents stated that they were responsible for the development of human resources in their organization."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_299",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_299.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Distribution of Major Crops in the World, 2023",
+    "csv": "Crops \\t Percentage \\n Rice \\t 35% \\n Maize \\t 20% \\n Wheat \\t 20% \\n Potato \\t 10% \\n Soybean \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of major crops in the world in 2023. In that year, rice was the most popular crop in the world, with 23.4 percent of the world's rice being maize."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_357",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_357.png",
+    "topic": "Transportation and Logistics",
+    "title": " Distribution of Transportation Modes in the US, 2023",
+    "csv": "Modes of Transport \\t Percentage \\n Rail \\t 15% \\n Road \\t 45% \\n Air \\t 30% \\n Water \\t 10% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of transportation modes in the United States in 2023. In 2023, 12.5 percent of the U.S.'s rail was made from road."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_329",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_329.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Public Spending on Social Services in the US, 2023",
+    "csv": "Social Services \\t Percentage \\n Education \\t 25% \\n Healthcare \\t 20% \\n Transportation \\t 15% \\n Housing and Community \\t 15% \\n Public Safety \\t 10% \\n Welfare \\t 10% \\n Other \\t 15% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the public spending on social services in the United States in 2023. In 2023, the share of Americans spending on social services was around 9.4 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_484",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_484.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Platforms in the Digital Marketplace, 2023",
+    "csv": "Platforms \\t Percentage \\n Desktop \\t 35% \\n Mobile \\t 45% \\n Tablet \\t 10% \\n Wearables \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of technology platforms in the digital marketplace in 2023. During the measured period, Apple's mobile technology platform was the most popular among the digital market."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_197",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_197.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the USA, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 50 \\n Female \\t 50 \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the gender distribution in the United States in 2023. In 2023, the share of women in the United States was around 50.5 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_321",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_321.png",
+    "topic": "Technology and the Internet",
+    "title": " Market Share of Digital Platforms in 2023",
+    "csv": "Platforms \\t Market Share \\n Mobile \\t 40% \\n Desktop \\t 30% \\n Tablet \\t 15% \\n Video Game Console \\t 10% \\n Wearables \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the market share of digital platforms in 2023. During the measured period, the mobile and tablet market were at 49 percent."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_320",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_320.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage Distribution of Science and Engineering Fields in Higher Education, 2023",
+    "csv": "Areas \\t Percentage \\n Biological Sciences \\t 25% \\n Physics \\t 20% \\n Chemistry \\t 20% \\n Mathematics \\t 15% \\n Computer Science \\t 10% \\n Earth Science \\t 5% \\n Aerospace Engineering \\t 5% \\n ",
+    "model_name": "pix2struct",
+    "generated_caption": "This statistic shows the distribution of science and engineering fields in higher education in 2022. In 2022, 20.4 percent of the students in the computer science field were studying the sciences."
+  }
+]

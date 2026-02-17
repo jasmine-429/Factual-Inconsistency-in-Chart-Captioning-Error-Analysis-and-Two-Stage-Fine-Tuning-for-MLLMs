@@ -1,0 +1,1502 @@
+[
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_338",
+    "img": "./bar_chart_num/png/bar_num_338.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of tournaments and participants in four sports in 2021",
+    "csv": "Sport \\t Tournaments \\t Participants \\n Basketball \\t 20 \\t 3000 \\n Football \\t 30 \\t 3500 \\n Volleyball \\t 25 \\t 4000 \\n Badminton \\t 15 \\t 2500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of tournaments and participants in four different sports in 2021. The sports include basketball, football, volleyball, and badminton. The chart shows that there are a total of 1,200 tournaments and 3,000 participants across these sports. The number of tournaments and participants varies across the sports, with basketball having the highest number of tournaments (400) and participants (1,000), while badminton has the lowest number of tournaments (200) and participants (500). This data suggests that basketball is the most popular sport in terms of tournaments and participants, while badminton is the least popular among the four sports."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_158",
+    "img": "./bar_chart/png/bar_158.png",
+    "topic": "Government and Public Policy",
+    "title": " Number of laws and regulations in four regions of the world in 2021",
+    "csv": "Region \\t Number of Laws \\t Number of Regulations \\n North America \\t 25 \\t 100 \\n Europe \\t 30 \\t 110 \\n Asia \\t 20 \\t 90 \\n South America \\t 45 \\t 120 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of laws and regulations in four regions of the world in 2012. The data is presented in a bar chart format, with each region represented by a different color. The chart shows that the number of laws and regulations varies significantly among the regions, with one region having the highest number of laws and regulations, while the other three regions have lower numbers. This information could be useful for understanding the regulatory landscape in these regions and how it may impact businesses and individuals operating in those areas."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_34",
+    "img": "./bar_chart/png/bar_34.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee absenteeism rate in four departments in 2021",
+    "csv": "Department \\t Employees \\t Absenteeism(%) \\n Sales \\t 50 \\t 2 \\n Marketing \\t 60 \\t 4 \\n Operations \\t 70 \\t 3 \\n Human Resources \\t 50 \\t 1 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the employee absenteeism rate in four departments in 2021. The absenteeism rate is measured in percentage, and the chart shows the rate for each department. The data suggests that the absenteeism rate varies among the departments, with one department having a higher rate than the others. This information can be used to identify potential issues or areas for improvement in employee attendance and workplace policies."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_272",
+    "img": "./bar_chart_num/png/bar_num_272.png",
+    "topic": "Science and Engineering",
+    "title": " Science and Engineering activities in four regions in 2021",
+    "csv": "Region \\t Research Projects \\t Experiments \\t Inventions \\n Asia \\t 200 \\t 400 \\t 50 \\n Europe \\t 250 \\t 450 \\t 70 \\n North America \\t 220 \\t 500 \\t 60 \\n South America \\t 180 \\t 400 \\t 80 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of science and engineering activities in four regions in 2021. The regions include Asia, Europe, North America, and South America. The chart shows that Asia has the highest number of science and engineering activities, followed by Europe, North America, and South America. The data suggests that Asia is leading in terms of scientific and engineering activities, while the other regions are also actively engaged in these fields."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_184",
+    "img": "./bar_chart/png/bar_184.png",
+    "topic": "Energy and Utilities",
+    "title": " Renewable and Fossil Fuel Production in the Years 2020-2023",
+    "csv": "Year \\t Renewable Energy Production(MWh) \\t Fossil Fuel Production(MWh) \\n 2020 \\t 20000 \\t 40000 \\n 2021 \\t 23000 \\t 45000 \\n 2022 \\t 26000 \\t 50000 \\n 2023 \\t 29000 \\t 55000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of renewable and fossil fuel production in the years 2010 to 2023. The data shows that the production of renewable energy, represented by the blue line, has been steadily increasing over the years, while the production of fossil fuels, represented by the orange line, has been decreasing. This indicates a shift towards cleaner and more sustainable energy sources, which is likely driven by environmental concerns and the need to reduce greenhouse gas emissions."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_104",
+    "img": "./bar_chart/png/bar_104.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage of Patents in Physics, Chemistry and Engineering from 2010 to 2013",
+    "csv": "Year \\t Physics Patents(%) \\t Chemistry Patents(%) \\t Engineering Patents(%) \\n 2010 \\t 10 \\t 20 \\t 30 \\n 2011 \\t 15 \\t 25 \\t 35 \\n 2012 \\t 20 \\t 30 \\t 40 \\n 2013 \\t 25 \\t 35 \\t 45 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of patents in physics, chemistry, and engineering from 2003 to 2013. The data shows a steady increase in the number of patents in all three fields, with physics having the highest percentage of patents in 2003, followed by engineering, and then chemistry. The trend continues throughout the years, with the percentage of patents in engineering and chemistry increasing, while physics maintains a higher percentage. This suggests that the fields of physics, chemistry, and engineering are all experiencing growth in patent activity, indicating a thriving research and innovation environment."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_159",
+    "img": "./bar_chart/png/bar_159.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Charitable Donations and Nonprofit Organizations in four countries in 2021",
+    "csv": "Country \\t Charitable Donations (million) \\t Nonprofit Organizations \\n USA \\t 2000 \\t 550 \\n UK \\t 1500 \\t 450 \\n Germany \\t 1000 \\t 350 \\n France \\t 1800 \\t 400 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the total amount of charitable donations and nonprofit organizations in four countries in 2021. The data is presented in a bar graph format, with each country's donations and organizations represented by a separate bar. The chart shows that the total charitable donations in the four countries are quite high, with the highest amount being in the United States. Similarly, the total number of nonprofit organizations in the four countries is also quite high, with the highest number being in the United States. This indicates that the United States is a significant contributor to charitable giving and nonprofit organizations, compared to the other three countries."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_471",
+    "img": "./bar_chart/png/bar_471.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Number of employees and average salary by region in 2021",
+    "csv": "Region \\t Employees \\t Average Salary \\n North \\t 3000 \\t 4000 \\n South \\t 2000 \\t 3500 \\n East \\t 2500 \\t 3700 \\n West \\t 1500 \\t 3000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average salary of employees in various regions across the United States. The data is presented in a bar graph format, with each bar representing a different region. The chart shows that the average salary varies significantly across the regions, with some regions having higher average salaries than others. This information can be useful for employers and employees to understand the salary trends and expectations in different regions, which can influence their decision-making and career planning."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_112",
+    "img": "./bar_chart_num/png/bar_num_112.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of food and beverage outlets in four regions in 2021",
+    "csv": "Region \\t Cafes \\t Bakeries \\t Restaurants \\n North America \\t 400 \\t 500 \\t 600 \\n Europe \\t 450 \\t 550 \\t 650 \\n Asia \\t 480 \\t 580 \\t 700 \\n South America \\t 420 \\t 520 \\t 620 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of food and beverage outlets in four regions in 2021. The regions are North America, Europe, Asia, and South America. The chart shows that there are more food and beverage outlets in North America than in the other three regions combined. The number of outlets in Europe is significantly lower than in North America, while Asia and South America have a similar number of outlets. This data suggests that the food and beverage industry is more prominent in North America compared to the other regions."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_478",
+    "img": "./bar_chart_num/png/bar_num_478.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average House Prices and Number of Houses Sold in Four Regions in 2021",
+    "csv": "Region \\t Average House Price (million) \\t Number of Houses Sold \\n North \\t 1.5 \\t 250 \\n South \\t 2.3 \\t 320 \\n East \\t 1.8 \\t 280 \\n West \\t 2.1 \\t 300 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average house prices and the number of houses sold in four regions in 2021. The data shows that the average house price in the North region is the highest, followed by the East, South, and West regions. The number of houses sold in the North region is also the highest, followed by the East, South, and West regions. This suggests that the North region has a higher demand for housing, possibly due to factors such as job opportunities, infrastructure, or lifestyle preferences."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_310",
+    "img": "./bar_chart/png/bar_310.png",
+    "topic": "Business and Finance",
+    "title": " Businesses by size in four countries in 2021",
+    "csv": "Country \\t Small Businesses \\t Midsize Businesses \\t Large Businesses \\n USA \\t 2500 \\t 1500 \\t 700 \\n UK \\t 1800 \\t 1200 \\t 900 \\n Germany \\t 2700 \\t 1700 \\t 800 \\n France \\t 2000 \\t 1400 \\t 1000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of small businesses by size in four countries: the United States, the United Kingdom, Germany, and France. The data is presented in a bar graph format, with each country's bars showing the number of small businesses in each country. The chart indicates that the United States has the highest number of small businesses, followed by the United Kingdom, Germany, and France. This suggests that the United States has a more robust small business environment compared to the other countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_323",
+    "img": "./bar_chart_num/png/bar_num_323.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of court cases and lawyers in four countries in 2021",
+    "csv": "Country \\t Court Cases \\t Lawyers \\n USA \\t 10000 \\t 4000 \\n UK \\t 8000 \\t 5000 \\n Germany \\t 9000 \\t 4500 \\n France \\t 7000 \\t 5000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of court cases and lawyers in four countries in 2014. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of court cases and lawyers, with 1,000,000 cases and 1,000,000 lawyers. The United Kingdom has 700,000 cases and 700,000 lawyers, while Germany has 500,000 cases and 500,000 lawyers. France has the lowest number of court cases and lawyers, with 300,000 cases and 300,000 lawyers."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_284",
+    "img": "./bar_chart_num/png/bar_num_284.png",
+    "topic": "Government and Public Policy",
+    "title": " Tax rate and government spending of four countries in 2021",
+    "csv": "Country \\t Tax Rate \\t Government Spending(trillion) \\n USA \\t 20% \\t 3.1 \\n UK \\t 19% \\t 2.5 \\n Germany \\t 22% \\t 3.2 \\n France \\t 21% \\t 2.8 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the tax rate and government spending of four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The tax rate is shown on the left side of the chart, while the government spending is displayed on the right side. The chart is divided into four sections, one for each country, with each section showing the tax rate and government spending as a percentage of the country's GDP. The United States has the highest tax rate, while the United Kingdom has the highest government spending. Germany and France are in between the two countries in terms of both tax rate and government spending."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_453",
+    "img": "./bar_chart_num/png/bar_num_453.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Arts and Culture Facilities in four countries in 2021",
+    "csv": "Country \\t Museums \\t Theatres \\t Galleries \\n USA \\t 20 \\t 15 \\t 25 \\n UK \\t 25 \\t 10 \\t 30 \\n Germany \\t 15 \\t 20 \\t 20 \\n France \\t 18 \\t 18 \\t 28 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of arts and culture facilities in four countries in 2021. The countries include the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of facilities, with 28, followed by the United Kingdom with 20, Germany with 19, and France with 18. This indicates that the United States has a more robust arts and culture infrastructure compared to the other countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_264",
+    "img": "./bar_chart_num/png/bar_num_264.png",
+    "topic": "Education and Academics",
+    "title": " Number of students and teachers in four countries in 2021",
+    "csv": "Country \\t Students \\t Teachers \\n USA \\t 500 \\t 100 \\n UK \\t 600 \\t 110 \\n Germany \\t 450 \\t 90 \\n France \\t 550 \\t 120 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "In terms of teachers, the United States has the highest number, with approximately 150,000 teachers, followed by the United Kingdom with around 100,000 teachers. Germany and France have a similar number of teachers, with around 80,000 teachers each."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_276",
+    "img": "./bar_chart/png/bar_276.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and Profit of four countries in 2021",
+    "csv": "Country \\t Revenue(million) \\t Profit(million) \\n USA \\t 9000 \\t 1200 \\n UK \\t 8000 \\t 1400 \\n Germany \\t 7000 \\t 1300 \\n France \\t 6000 \\t 1500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the revenue and profit of four countries in 2021. The countries are represented by the United States, China, Germany, and Japan. The chart shows that the United States has the highest revenue and profit, followed by China, Germany, and Japan. The revenue and profit values for each country are shown in a bar chart format, with the United States having the highest bar, indicating the highest revenue and profit among the four countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_241",
+    "img": "./bar_chart_num/png/bar_num_241.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and expense of four companies in 2021",
+    "csv": "Company \\t Revenue(million) \\t Expense(million) \\n Company A \\t 100 \\t 80 \\n Company B \\t 120 \\t 90 \\n Company C \\t 110 \\t 85 \\n Company D \\t 90 \\t 95 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the revenue and expense of four companies in 2021. The revenue is shown on the left side of the chart, while the expense is shown on the right side. Each company has its own color-coded line, with company A in blue, company B in pink, company C in green, and company D in purple. The chart shows that the revenue and expense of each company vary throughout the year, with some companies experiencing higher revenue and expense than others. This information can be useful for analyzing the financial performance and trends of each company."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_21",
+    "img": "./bar_chart/png/bar_21.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports and entertainment events in four countries in 2021",
+    "csv": "Country \\t Sports Events \\t Entertainment Events \\n USA \\t 400 \\t 500 \\n UK \\t 500 \\t 550 \\n Germany \\t 300 \\t 450 \\n France \\t 370 \\t 480 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of sports and entertainment events in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of events, with 1,000 events taking place. The United Kingdom has 200 events, Germany has 100 events, and France has 50 events. This data suggests that the United States is the most active country in terms of sports and entertainment events, while the other countries have fewer events."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_87",
+    "img": "./bar_chart/png/bar_87.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee salaries and benefits in 2021",
+    "csv": "Employee \\t Salary(USD) \\t Benefits(USD) \\n John \\t 5000 \\t 1400 \\n Sarah \\t 4500 \\t 1300 \\n David \\t 4600 \\t 1200 \\n Jane \\t 4200 \\t 1100 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of employee salaries and benefits in 2011. The salary data is shown in blue, while the benefits data is shown in red. The chart consists of three columns, each representing a different employee. The first column represents John, the second column represents Sarah, and the third column represents David. The chart shows that John's salary is higher than Sarah's and David's salaries, while Sarah's benefits are higher than John's and David's benefits. This comparison highlights the differences in compensation and benefits between the employees."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_356",
+    "img": "./bar_chart_num/png/bar_num_356.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Number of housing units in four regions in 2021",
+    "csv": "Region \\t Houses \\t Apartments \\t Condominiums \\n West \\t 300 \\t 400 \\t 500 \\n Midwest \\t 290 \\t 410 \\t 520 \\n South \\t 280 \\t 420 \\t 530 \\n East \\t 270 \\t 430 \\t 540 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of housing units in four regions in 2021. The regions are the West, South, Midwest, and East. The chart shows that the West has the highest number of housing units, with 250,000 units, followed by the South with 200,000 units. The Midwest has 150,000 units, and the East has 100,000 units. The chart also provides a breakdown of the types of housing units, including apartments, condominiums, and houses. The number of apartments is the highest, with 150,000 units, followed by condominiums with 100,000 units, and houses with 100,000 units."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_119",
+    "img": "./bar_chart_num/png/bar_num_119.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Monetary and volunteer donations to charity organizations in four regions in 2021",
+    "csv": "Region \\t Donations(million) \\t Volunteers \\n North America \\t 50 \\t 100 \\n Europe \\t 70 \\t 120 \\n Asia \\t 30 \\t 90 \\n South America \\t 40 \\t 80 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "North America has the highest number of volunteers and monetary donations, with Europe following closely behind. Asia and South America have lower numbers of volunteers and monetary donations compared to the other regions. The chart highlights the differences in charitable giving and volunteer participation across these regions, which could be influenced by various factors such as economic conditions, cultural values, and government policies."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_22",
+    "img": "./bar_chart/png/bar_22.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Median Home Prices and Average Rents across four regions in 2021",
+    "csv": "Region \\t Median Home Price \\t Average Rent \\n South \\t 300000 \\t 1500 \\n MidWest \\t 250000 \\t 1300 \\n West \\t 400000 \\t 2000 \\n NorthEast \\t 350000 \\t 1700 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays median home prices and average rents across four regions in the United States in 2021. The data is presented in a bar chart format, with each region represented by a different color. The chart shows that the median home prices and average rents vary significantly across the regions, with the highest median home prices in the West and the lowest in the South. The average rents also follow a similar pattern, with the West having the highest average rents and the South having the lowest. This information can be useful for understanding the housing market dynamics and affordability in different regions of the United States."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_10",
+    "img": "./bar_chart_num/png/bar_num_10.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports venues and tourists in four countries in 2021",
+    "csv": "Country \\t Sports Venues \\t Tourists \\n USA \\t 50 \\t 400 \\n UK \\t 60 \\t 450 \\n Germany \\t 70 \\t 420 \\n France \\t 80 \\t 480 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of sports venues and tourists in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of sports venues, with 400, followed by the United Kingdom with 300, Germany with 200, and France with 100. In terms of tourists, the United States has the highest number, with 400 million, followed by the United Kingdom with 300 million, Germany with 200 million, and France with 100 million. The chart highlights the popularity of sports and tourism in these countries."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_259",
+    "img": "./bar_chart/png/bar_259.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average home and rental prices in four states in 2021",
+    "csv": "State \\t Average Home Price \\t Average Rental Price \\n California \\t 500000 \\t 2500 \\n Texas \\t 400000 \\t 2000 \\n New York \\t 600000 \\t 3000 \\n Florida \\t 450000 \\t 2200 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays average home and rental prices for four states in 2021. The states are California, Florida, New York, and Texas. The chart shows that California has the highest average home price at $600,000, while Florida has the highest average rental price at $1,600. New York and Texas have average home prices of $500,000 and $250,000, respectively, and average rental prices of $2,000 and $1,400, respectively. The chart provides a comparison of the housing market in these four states."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_342",
+    "img": "./bar_chart/png/bar_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost and distance of transportation modes in 2021",
+    "csv": "Mode \\t Distance(km) \\t Cost \\n Ship \\t 3000 \\t 20000 \\n Train \\t 2000 \\t 15000 \\n Bus \\t 1000 \\t 10000 \\n Plane \\t 4000 \\t 25000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of the cost and distance of transportation modes in 2011. The data is presented in a bar chart format, with each mode of transportation represented by a separate bar. The transportation modes include cars, buses, and trains. The chart shows that cars are the most expensive mode of transportation, with a cost of $0.25 per mile, while buses are the most cost-effective option, costing only $0.12 per mile. Trains are in the middle, with a cost of $0.21 per mile. The distance covered by each mode of transportation is also shown, with cars covering the longest distance at 2,000 miles, followed by buses at 1,000 miles, and trains at 500 miles."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_162",
+    "img": "./bar_chart/png/bar_162.png",
+    "topic": "Environment and Sustainability",
+    "title": " Greenhouse gas emissions and renewable energy use in four countries in 2021",
+    "csv": "Country \\t Greenhouse Gas Emissions(ktCO2e) \\t Renewable Energy Use(%) \\n USA \\t 6000 \\t 20 \\n UK \\t 4500 \\t 25 \\n Germany \\t 5000 \\t 30 \\n France \\t 4000 \\t 35 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of greenhouse gas emissions and renewable energy use in four countries: the USA, UK, Germany, and France. The data is presented in a bar chart format, with each country's emissions and energy use represented by different colored bars. The chart shows that the USA has the highest greenhouse gas emissions, followed by the UK, Germany, and France. On the other hand, Germany has the highest renewable energy use, followed by the UK, France, and the USA. This comparison highlights the varying levels of environmental impact and energy consumption among these countries."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_390",
+    "img": "./bar_chart/png/bar_390.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of legislation and courts in four countries in 2021",
+    "csv": "Country \\t Legislation \\t Courts \\n USA \\t 2500 \\t 1500 \\n UK \\t 3000 \\t 1800 \\n Germany \\t 2200 \\t 1400 \\n France \\t 2500 \\t 1700 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of legislation and courts in four countries in 2021. The data is organized in a bar chart, with each country represented by a different color. The chart shows that the number of legislation and courts varies significantly among the countries. The highest number of legislation is found in the country with the blue bar, while the lowest number is in the country with the orange bar. Similarly, the highest number of courts is found in the country with the green bar, and the lowest number is in the country with the red bar. This chart provides a visual representation of the differences in legal infrastructure among the four countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_278",
+    "img": "./bar_chart_num/png/bar_num_278.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Number of publications in social sciences and humanities in four countries in 2021",
+    "csv": "Country \\t Literature \\t History \\t Philosophy \\n USA \\t 400 \\t 300 \\t 200 \\n UK \\t 420 \\t 280 \\t 220 \\n Germany \\t 370 \\t 320 \\t 250 \\n France \\t 390 \\t 340 \\t 230 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of publications in various fields, such as social sciences, humanities, and natural sciences, for the years 2000 to 2015. The data is presented in a bar graph format, with each bar representing a different field. The bars are color-coded to distinguish between the fields, making it easier to identify the trends and differences in publication numbers. The chart shows that the number of publications in the social sciences and humanities has been relatively stable over the years, while the natural sciences have seen a slight increase in the number of publications."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_92",
+    "img": "./bar_chart/png/bar_92.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of participants and spectators in four sports activities in 2021",
+    "csv": "Activity \\t Participants(million) \\t Spectators(million) \\n Football \\t 1.5 \\t 2.5 \\n Basketball \\t 2.0 \\t 3.0 \\n Tennis \\t 1.2 \\t 2.3 \\n Golf \\t 0.8 \\t 1.5 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of participants and spectators in four different sports activities in 2021. The sports activities include baseball, basketball, cricket, and soccer. The chart shows that the number of participants in baseball is significantly higher than the other sports, with 10,000 participants, while the number of spectators in soccer is the highest, with 100,000 spectators. The other sports, such as basketball and cricket, have fewer participants and spectators, with 1,000 participants and 50,000 spectators, respectively."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_485",
+    "img": "./bar_chart_num/png/bar_num_485.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy output of Solar, Wind and Hydro sources in four countries in 2021",
+    "csv": "Country \\t Solar Energy(kWh) \\t Wind Energy(kWh) \\t Hydro Energy(kWh) \\n USA \\t 1000 \\t 1200 \\t 800 \\n UK \\t 900 \\t 1300 \\t 1100 \\n Germany \\t 1100 \\t 1400 \\t 1200 \\n France \\t 800 \\t 1500 \\t 1400 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays energy output data for four countries in 2021. The energy output is measured in units of solar wind and hydro energy. The chart shows that the energy output of the United States is significantly higher than the other three countries combined. The energy output of the other three countries is relatively similar, with each country contributing roughly the same amount of energy. This data suggests that the United States is a leader in renewable energy production, while the other countries are working together to achieve similar levels of energy output."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_369",
+    "img": "./bar_chart_num/png/bar_num_369.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average house and rental prices in four countries in 2021",
+    "csv": "Region \\t Average House Price(thousand) \\t Average Rental Price(thousand) \\n USA \\t 300 \\t 50 \\n UK \\t 400 \\t 60 \\n Germany \\t 350 \\t 55 \\n France \\t 360 \\t 60 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays average house and rental prices for four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the average house price in the United States is significantly higher than the average house price in the other three countries. The average rental price in the United States is also higher than the average rental price in the other three countries. The chart provides a comparison of the housing market in these countries, highlighting the differences in prices and affordability."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_215",
+    "img": "./bar_chart_num/png/bar_num_215.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Number of Hotels and Tourists in four regions in 2021",
+    "csv": "Region \\t Hotels \\t Tourists \\n Americas \\t 100 \\t 20000 \\n Europe \\t 150 \\t 25000 \\n Asia \\t 130 \\t 24000 \\n Africa \\t 90 \\t 19000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of hotels and tourists in four regions in 2021. The data is presented in a bar graph format, with each region represented by a different color. The chart shows that the number of hotels and tourists varies significantly between the regions. The region with the highest number of hotels has around 25,000, while the region with the lowest number of hotels has around 10,000. Similarly, the region with the highest number of tourists has around 250,000, while the region with the lowest number of tourists has around 100,000. This indicates that the popularity of the regions varies, with some attracting more visitors and having more accommodations than others."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_224",
+    "img": "./bar_chart_num/png/bar_num_224.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of doctors and nurses in four regions in 2021",
+    "csv": "Region \\t Doctors(thousand) \\t Nurses(thousand) \\n North \\t 100 \\t 200 \\n South \\t 110 \\t 220 \\n East \\t 115 \\t 230 \\n West \\t 120 \\t 240 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of doctors and nurses in four regions in 2021. The data is presented in a bar graph format, with each region represented by a different color. The chart shows that the number of doctors and nurses varies significantly between the regions. The region with the highest number of doctors has around 1,000, while the region with the lowest number of doctors has around 200. Similarly, the region with the highest number of nurses has around 1,000, while the region with the lowest number of nurses has around 200. This indicates that there is a significant disparity in the distribution of healthcare professionals across the four regions."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_146",
+    "img": "./bar_chart_num/png/bar_num_146.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Users and Advertising Revenue in 2021",
+    "csv": "Platform \\t Users(million) \\t Advertising Revenue(billion) \\n Facebook \\t 2.8 \\t 84 \\n Google \\t 3.2 \\t 183 \\n Twitter \\t 0.8 \\t 3.5 \\n Instagram \\t 1.2 \\t 25 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of social media user and advertising revenue in 2021. It shows that Facebook and Google are the most popular social media platforms, with Facebook having a larger user base than Google. However, Google generates more advertising revenue than Facebook. The chart also indicates that the total number of social media users and advertising revenue in 2021 is expected to reach a significant milestone, with over 3.5 billion users and over 1 trillion advertising revenue."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_28",
+    "img": "./bar_chart/png/bar_28.png",
+    "topic": "Arts and Culture",
+    "title": " Number of theatre performances and visitors to museums and art galleries in four countries in 2021",
+    "csv": "Country \\t Theatre Performances \\t Museums Visitors \\t Art Galleries Visitors \\n USA \\t 400 \\t 800 \\t 900 \\n UK \\t 550 \\t 1000 \\t 1100 \\n Germany \\t 500 \\t 850 \\t 1000 \\n France \\t 650 \\t 950 \\t 1200 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of theater performances and visitors to museums and art galleries in four countries in 2021. The data is presented in a bar graph format, with each country represented by a different color. The chart shows that the number of theater performances and visitors varies significantly between the countries. For instance, the country with the highest number of theater performances has around 1,200, while the country with the lowest number has around 400. Similarly, the number of visitors to museums and art galleries also varies, with the highest number of visitors being around 1,200 and the lowest number being around 400. This chart provides a comparison of the cultural activities and engagement in these countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_121",
+    "img": "./bar_chart_num/png/bar_num_121.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of healthcare facilities in four countries in 2021",
+    "csv": "Country \\t Hospitals \\t Pharmacies \\t Clinics \\n USA \\t 500 \\t 3000 \\t 5000 \\n UK \\t 200 \\t 1000 \\t 3000 \\n Germany \\t 300 \\t 2000 \\t 4000 \\n France \\t 400 \\t 2500 \\t 4500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of healthcare facilities in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of healthcare facilities, with over 6,000 facilities. The United Kingdom has around 4,000 facilities, while Germany and France have approximately 3,000 and 2,000 facilities, respectively. This data suggests that the United States has a larger healthcare infrastructure compared to the other countries."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_192",
+    "img": "./bar_chart_num/png/bar_num_192.png",
+    "topic": "Energy and Utilities",
+    "title": " Electricity usage and cost in different regions in 2021",
+    "csv": "Region \\t Electricity Usage(MWh) \\t Energy Cost(million) \\n North America \\t 20000 \\t 1000 \\n Europe \\t 25000 \\t 1200 \\n South America \\t 18000 \\t 800 \\n Asia \\t 30000 \\t 1500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of electricity usage and cost in different regions across the world. The data is presented in a bar graph format, with each bar representing a specific region. The chart shows that the cost of electricity varies significantly across the regions, with some regions having higher costs than others. The electricity usage also varies among the regions, with some consuming more energy than others. The chart provides a visual representation of the differences in energy consumption and cost across various regions, which can be useful for understanding energy trends and policies in different parts of the world."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_265",
+    "img": "./bar_chart_num/png/bar_num_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Voter turnout and government spending in four countries in 2021",
+    "csv": "Country \\t Voter Turnout(%) \\t Government Spending(billion) \\n USA \\t 50 \\t 3.5 \\n UK \\t 60 \\t 4.5 \\n Germany \\t 70 \\t 5.5 \\n France \\t 65 \\t 4.0 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of government spending in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest percentage of government spending, with 41.6% of its budget allocated to this purpose. The United Kingdom follows closely with 40.6% of its budget spent on government spending. Germany and France have lower percentages, with 38.4% and 36.4% of their budgets allocated to government spending, respectively. This data suggests that the United States and the United Kingdom have a higher proportion of their budgets dedicated to government spending compared to Germany and France."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_344",
+    "img": "./bar_chart/png/bar_344.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Housing prices and number of houses in four major US cities in 2021",
+    "csv": "City \\t Housing Price (million) \\t Number of Houses \\n New York \\t 2.5 \\t 100 \\n Los Angeles \\t 3.6 \\t 200 \\n Chicago \\t 2.3 \\t 150 \\n Houston \\t 2.1 \\t 180 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays housing prices and the number of houses in four major US cities in 2021. The cities are New York, Los Angeles, Chicago, and Houston. The chart shows that the housing prices in New York are significantly higher than those in the other cities. The number of houses in New York is also higher than in Los Angeles, but lower than in Chicago and Houston. This indicates that the housing market in New York is more competitive and expensive compared to the other cities."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_471",
+    "img": "./bar_chart_num/png/bar_num_471.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Literacy rate,GDP and satisfaction index of four countries in 2021",
+    "csv": "Country \\t Literacy Rate \\t GDP(billion) \\t Satisfaction Index \\n USA \\t 90% \\t 21.4 \\t 8 \\n UK \\t 95% \\t 2.6 \\t 7.5 \\n Germany \\t 98% \\t 2.2 \\t 7.2 \\n France \\t 97% \\t 2.4 \\t 7.9 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the literacy rate and GDP per capita for four countries in 2011. The literacy rate is shown on the left side of the chart, while the GDP per capita is displayed on the right side. The four countries are represented by different colors: the United States is in blue, the United Kingdom is in orange, Germany is in green, and France is in red. The chart shows that the United States has a higher literacy rate compared to the other countries, while Germany has a higher GDP per capita. The other two countries, the United Kingdom and France, have similar literacy rates, but the United Kingdom has a slightly higher GDP per capita than France."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_1",
+    "img": "./bar_chart/png/bar_1.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of Social Media users in four countries in 2021",
+    "csv": "Country \\t Facebook Users(million) \\t Twitter Users(million) \\t Instagram Users(million) \\n USA \\t 190 \\t 80 \\t 150 \\n UK \\t 30 \\t 20 \\t 25 \\n Germany \\t 80 \\t 10 \\t 30 \\n France \\t 50 \\t 17 \\t 35 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of social media users in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart shows that the United States has the highest number of social media users, followed by the United Kingdom, Germany, and France. The data suggests that the United States has a significant lead in terms of social media usage compared to the other countries."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_316",
+    "img": "./bar_chart/png/bar_316.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output and export volume in four countries in 2021",
+    "csv": "Country \\t Manufacturing Output (billion) \\t Export Volume (billion) \\n USA \\t 10 \\t 7.5 \\n UK \\t 8 \\t 4.5 \\n Germany \\t 12 \\t 9.5 \\n France \\t 9 \\t 6 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the manufacturing output and export volume in four countries in 2021. The countries are the United States, the United Kingdom, Germany, and France. The chart is divided into two sections, with the top section showing the manufacturing output and the bottom section showing the export volume. The data is presented in billions, indicating the significant scale of the manufacturing and export activities in these countries. The chart provides a visual representation of the economic performance and global influence of these countries in the manufacturing and export sectors."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_273",
+    "img": "./bar_chart_num/png/bar_num_273.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of users and revenue of four major social media platforms in 2021",
+    "csv": "Platform \\t Users (millions) \\t Revenue (million USD) \\n Facebook \\t 2.00 \\t 65 \\n YouTube \\t 2.50 \\t 20 \\n Twitter \\t 0.80 \\t 7 \\n Instagram \\t 1.20 \\t 15 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of users and revenue generated by four major social media platforms: Facebook, YouTube, Twitter, and Instagram. The data shows that Facebook has the highest number of users, with over 2.2 billion users, while YouTube has the highest revenue, generating over $16 billion. Twitter and Instagram have a combined user base of around 1.1 billion, and their combined revenue is approximately $10 billion. This chart highlights the popularity and financial success of these social media platforms."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_342",
+    "img": "./bar_chart_num/png/bar_num_342.png",
+    "topic": "Government and Public Policy",
+    "title": " Public policy implementation in four states in 2021",
+    "csv": "State \\t Public Policy A \\t Public Policy B \\t Public Policy C \\n California \\t 10 \\t 20 \\t 30 \\n New York \\t 20 \\t 30 \\t 40 \\n Texas \\t 15 \\t 25 \\t 35 \\n Florida \\t 18 \\t 28 \\t 38 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "In California, the implementation of public policy is at 60, while in New York, it is at 70. Texas has a score of 50, and Florida has a score of 40. The chart provides a visual representation of the progress and effectiveness of public policy implementation in these four states."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_247",
+    "img": "./bar_chart_num/png/bar_num_247.png",
+    "topic": "Education and Academics",
+    "title": " Average Math and Reading scores by Grade in 2021",
+    "csv": "Grade \\t Average Math Score \\t Average Reading Score \\n Grade 5 \\t 85 \\t 90 \\n Grade 6 \\t 86 \\t 91 \\n Grade 7 \\t 87 \\t 93 \\n Grade 8 \\t 89 \\t 95 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average math and reading scores by grade in 2021. There are four bars representing the scores for grades 5, 6, 7, and 8. The scores are shown in a color-coded format, with blue representing math scores and yellow representing reading scores. The chart provides a visual representation of the average performance of students in these subjects across different grade levels."
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_141",
+    "img": "./bar_chart_num/png/bar_num_141.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost, speed and distance of different transportation modes in 2021",
+    "csv": "Mode \\t Distance (miles) \\t Speed (mph) \\t Cost \\n Air \\t 2500 \\t 800 \\t 500 \\n Rail \\t 3000 \\t 400 \\t 400 \\n Road \\t 3500 \\t 300 \\t 350 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of different transportation modes in 2013, including cars, trains, and buses. The chart shows the distance, cost, and speed of each mode of transportation. The data indicates that cars are the most expensive and fastest mode of transportation, while trains are the most cost-effective and slower option. Buses are situated in between, offering a more affordable and slightly slower alternative to cars. This chart provides a clear visual representation of the trade-offs between cost, speed, and distance when choosing a mode of transportation."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_110",
+    "img": "./bar_chart/png/bar_110.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Retail and E-commerce Sales in four countries in 2021",
+    "csv": "Country \\t Retail Sales (billion) \\t E-commerce Sales (billion) \\n USA \\t 8.0 \\t 3.2 \\n UK \\t 5.4 \\t 2.6 \\n Germany \\t 7.2 \\t 2.8 \\n France \\t 4.6 \\t 2.2 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of retail and e-commerce sales in four countries: the United States, the United Kingdom, Germany, and France. The data is presented in billions of dollars, with the United States leading the way in terms of sales, followed by the United Kingdom, Germany, and France. The chart shows that the United States has a significantly higher retail and e-commerce sales volume compared to the other countries. This could indicate differences in consumer behavior, economic conditions, or the overall size of the market in each country."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_431",
+    "img": "./bar_chart/png/bar_431.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Sales of Dairy, Fruits and Meat in four regions in 2021",
+    "csv": "Region \\t Sales of Dairy(million) \\t Sales of Fruits(million) \\t Sales of Meat(million) \\n North America \\t 200 \\t 450 \\t 300 \\n South America \\t 300 \\t 500 \\t 400 \\n Europe \\t 250 \\t 480 \\t 320 \\n Asia \\t 280 \\t 520 \\t 350 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays sales of dairy, fruits, and meat in four regions in 2021. The data is presented in a bar chart format, with each region represented by a different color. The chart shows that the sales of dairy products are highest in the North region, followed by the South, East, and West regions. In terms of fruits, the South region has the highest sales, followed by the East, North, and West regions. For meat, the West region has the highest sales, followed by the South, East, and North regions. Overall, the chart provides a clear comparison of sales across the four regions for dairy, fruits, and meat products."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_37",
+    "img": "./bar_chart/png/bar_37.png",
+    "topic": "Business and Finance",
+    "title": " GDP and Inflation Rate of Four Countries in 2021",
+    "csv": "Country \\t GDP(trillion) \\t Inflation rate \\n USA \\t 20.2 \\t 3.2 \\n UK \\t 2.5 \\t 1.8 \\n Germany \\t 3.7 \\t 2.4 \\n France \\t 2.2 \\t 1.9 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the GDP and inflation rate of four countries in 2021. The GDP is shown in blue, while the inflation rate is shown in red. The countries are the United States, Japan, Germany, and France. The chart shows that the United States has the highest GDP, followed by Japan, Germany, and France. In terms of inflation rate, Japan has the highest rate, followed by the United States, Germany, and France. This information suggests that the United States and Japan have a higher GDP and inflation rate compared to Germany and France."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_402",
+    "img": "./bar_chart/png/bar_402.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of fast food, restaurants, and cafes in different regions in 2021",
+    "csv": "Region \\t Fast Food \\t Restaurants \\t Cafes \\n North America \\t 450 \\t 300 \\t 200 \\n South America \\t 500 \\t 250 \\t 250 \\n Europe \\t 550 \\t 280 \\t 220 \\n Asia \\t 400 \\t 310 \\t 240 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of fast food restaurants, restaurants, and cafes in different regions in 2021. The data is presented in a bar graph format, with each region represented by a distinct color. The chart shows that there are more fast food restaurants in North America than in other regions, with a total of 1,000. Europe has the second highest number of fast food restaurants, with 800, followed by South America with 600. The number of restaurants and cafes is also higher in North America, with 2,000 and 1,500, respectively. Europe has 1,500 restaurants and 1,000 cafes, while South America has 1,000 restaurants and 800 cafes."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_211",
+    "img": "./line_chart/png/line_211.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop yield and climate conditions in the US Midwest region from 2016-2019",
+    "csv": "Year \\t Crop Yield(tons) \\t Average Rainfall(mm) \\t Average Temperature(degrees) \\n 2016 \\t 5000 \\t 350 \\t 20 \\n 2017 \\t 4500 \\t 320 \\t 22 \\n 2018 \\t 5500 \\t 400 \\t 24 \\n 2019 \\t 6000 \\t 420 \\t 26 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of average temperature, precipitation, and crop yield in the Midwest region of the United States from 2016 to 2019. The average temperature is shown in blue, with a slight upward trend throughout the period. The precipitation is shown in red, with a noticeable spike in 2018, indicating a wet year. The crop yield is shown in green, with a significant drop in 2017, followed by a rebound in 2018. The chart also includes a line showing the relationship between crop yield and temperature, which suggests that the crop yield is positively correlated with the average temperature."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_110",
+    "img": "./line_chart/png/line_110.png",
+    "topic": "Science and Engineering",
+    "title": " Comparison of Energy Output and Input in a Nuclear Reactor from 2000 to 2005",
+    "csv": "Year \\t Energy Output(Mega Watts) \\t Energy Input(Mega Watts) \\n 2000 \\t 1000 \\t 1200 \\n 2001 \\t 1100 \\t 1300 \\n 2002 \\t 1200 \\t 1400 \\n 2003 \\t 1400 \\t 1300 \\n 2004 \\t 1300 \\t 1200 \\n 2005 \\t 1000 \\t 1100 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of energy consumption in two different years. The energy consumption in 2005 is shown in red, while the energy consumption in 2006 is shown in blue. The chart shows a significant increase in energy consumption from 2005 to 2006, indicating a rise in energy usage during that time period. This could be due to various factors such as increased population, economic growth, or changes in energy policies and infrastructure."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_466",
+    "img": "./line_chart/png/line_466.png",
+    "topic": "Retail and E-commerce",
+    "title": " Retail and E-commerce Sales Comparison in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n January \\t 100 \\t 120 \\n February \\t 150 \\t 130 \\n March \\t 200 \\t 200 \\n April \\t 220 \\t 210 \\n May \\t 250 \\t 230 \\n June \\t 270 \\t 220 \\n July \\t 320 \\t 240 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison between retail and e-commerce sales in 2020. The retail sales are shown in blue, while the e-commerce sales are represented in orange. The chart shows a steady increase in both retail and e-commerce sales throughout the year, with a noticeable spike in sales during the months of March and April. This suggests that the COVID-19 pandemic and subsequent lockdowns had a significant impact on consumer behavior, leading to a surge in online shopping as people sought to avoid physical stores and maintain social distancing measures."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_185",
+    "img": "./line_chart_num/png/line_num_185.png",
+    "topic": "Education and Academics",
+    "title": " Changes in Enrollment, Graduation and Attrition Rates of University Students from 2011 to 2015",
+    "csv": "Year \\t Enrollment Rate(%) \\t Graduation Rate(%) \\t Attrition Rate(%) \\n 2011 \\t 90 \\t 70 \\t 20 \\n 2012 \\t 88 \\t 75 \\t 15 \\n 2013 \\t 85 \\t 72 \\t 22 \\n 2014 \\t 80 \\t 77 \\t 18 \\n 2015 \\t 83 \\t 79 \\t 16 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of graduation and admission rates for students in 2012 and 2013. The data is presented in a bar graph format, with each bar representing a different year. The chart shows that the graduation rate has increased from 2012 to 2013, while the admission rate has remained relatively stable. This suggests that the institution has made progress in helping students graduate, possibly through improved academic support or other initiatives."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_125",
+    "img": "./line_chart/png/line_125.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Prices of corn and wheat in relation to average farm price, 1996-2000",
+    "csv": "Year \\t Average Farm Price(cents/pound) \\t Price of Corn(cents/pound) \\t Price of Wheat(cents/pound) \\n 1996 \\t 63.4 \\t 50.9 \\t 75.3 \\n 1997 \\t 59.2 \\t 64.7 \\t 53.6 \\n 1998 \\t 62.8 \\t 68.6 \\t 51.2 \\n 1999 \\t 56.5 \\t 64.2 \\t 45.9 \\n 2000 \\t 63.7 \\t 58.2 \\t 67.7 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average farm price of corn and wheat in relation to average farm price from 1990 to 2020. The data shows that the average farm price of corn has been steadily increasing over the years, while the average farm price of wheat has been fluctuating between a higher and lower range. The chart also indicates that the average farm price of wheat has been higher than the average farm price of corn in the majority of the years, with a few exceptions. This information can be useful for understanding the trends and fluctuations in the agricultural market for these two commodities."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_190",
+    "img": "./line_chart_num/png/line_num_190.png",
+    "topic": "Government and Public Policy",
+    "title": " Government Spending in Infrastructure, Education and Healthcare in the US from 2001 to 2005",
+    "csv": "Year \\t Infrastructure Spending(billion dollars) \\t Education Spending(billion dollars) \\t Healthcare Spending(billion dollars) \\n 2001 \\t 800 \\t 200 \\t 400 \\n 2002 \\t 900 \\t 250 \\t 450 \\n 2003 \\t 1000 \\t 300 \\t 500 \\n 2004 \\t 1100 \\t 350 \\t 550 \\n 2005 \\t 1200 \\t 400 \\t 600 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of government spending on education and infrastructure in the United States from 2000 to 2016. The data shows a significant increase in spending on education and infrastructure over the years, with the peak spending occurring in 2009. The chart also shows a decline in spending on education and infrastructure in the later years, with 2016 showing a lower spending level compared to the peak. This suggests that the government's focus on education and infrastructure has evolved over time, with a greater emphasis on these areas during certain periods and a decrease in spending during others."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_152",
+    "img": "./line_chart/png/line_152.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media User Growth from 2015-2019",
+    "csv": "Year \\t Facebook Users \\t Twitter Users \\t Instagram Users \\n 2015 \\t 1.59 \\t 0.32 \\t 0.25 \\n 2016 \\t 1.86 \\t 0.45 \\t 0.72 \\n 2017 \\t 2.13 \\t 0.60 \\t 1.47 \\n 2018 \\t 2.41 \\t 0.75 \\t 2.22 \\n 2019 \\t 2.68 \\t 0.90 \\t 2.97 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the growth of social media users on various platforms from 2013 to 2019. The data shows that Facebook users have experienced a steady increase in numbers, while Twitter users have seen a more significant growth. Instagram users, on the other hand, have experienced a rapid increase in numbers, with a noticeable spike in 2016. The chart also shows that the number of users on these platforms has increased over the years, indicating the popularity and expansion of social media."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_470",
+    "img": "./line_chart/png/line_470.png",
+    "topic": "Environment and Sustainability",
+    "title": " Carbon Emission and Renewable Energy Production Trends in 2025",
+    "csv": "Year \\t Carbon Emission(metric tons) \\t Renewable Energy Production(billion watts) \\n 2020 \\t 5000 \\t 800 \\n 2021 \\t 4800 \\t 900 \\n 2022 \\t 4900 \\t 1000 \\n 2023 \\t 5100 \\t 1100 \\n 2024 \\t 5300 \\t 1200 \\n 2025 \\t 5400 \\t 1400 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of carbon emissions and renewable energy production in the years 2015, 2020, and 2025. The blue line represents the carbon emissions, while the yellow line represents the renewable energy production. The chart shows a steady increase in carbon emissions from 2015 to 2020, with a slight decrease in 2025. On the other hand, the renewable energy production has a steady increase from 2015 to 2020, with a significant jump in 2025. This suggests that the world is making efforts to reduce carbon emissions and increase the use of renewable energy sources."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_329",
+    "img": "./line_chart/png/line_329.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Internet Users and Smartphone Sales from 2015 to 2020",
+    "csv": "Year \\t Internet Users(millions) \\t Number of Smartphones Sold(millions) \\n 2015 \\t 3000 \\t 500 \\n 2016 \\t 4500 \\t 1000 \\n 2017 \\t 6000 \\t 1500 \\n 2018 \\t 7500 \\t 2000 \\n 2019 \\t 9500 \\t 2500 \\n 2020 \\t 11000 \\t 3000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart shows the growth of internet users and smartphone sales from 2015 to 2020. The number of internet users has been steadily increasing, with a slight dip in 2016, and is expected to reach 4.66 billion users by 2020. On the other hand, smartphone sales have been growing rapidly, with a significant increase in 2016, and are expected to reach 1.53 billion units sold by 2020. This indicates that the demand for internet connectivity and smartphones is increasing, which could be attributed to the growing popularity of mobile devices and the increasing reliance on technology in daily life."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_173",
+    "img": "./line_chart_num/png/line_num_173.png",
+    "topic": "Retail and E-commerce",
+    "title": " Online and Offline Sales Trend in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n Jan \\t 1200 \\t 1000 \\n Feb \\t 1500 \\t 1100 \\n Mar \\t 1800 \\t 1300 \\n Apr \\t 1200 \\t 1000 \\n May \\t 1500 \\t 800 \\n Jun \\t 1300 \\t 900 \\n Jul \\t 1600 \\t 1100 \\n Aug \\t 1400 \\t 1000 \\n Sep \\t 1800 \\t 1200 \\n Oct \\t 2000 \\t 1100 \\n Nov \\t 1700 \\t 1000 \\n Dec \\t 1900 \\t 900 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of online and offline sales trends in 2020. The data shows that online sales have been steadily increasing over the past few months, while offline sales have been declining. This indicates a shift in consumer behavior towards online shopping, possibly due to the COVID-19 pandemic and the resulting restrictions on physical stores. The chart also highlights the importance of businesses adapting to the changing market trends and focusing on their online presence to stay competitive."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_318",
+    "img": "./line_chart/png/line_318.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel visitors in four cities during the first four months of 2021",
+    "csv": "Month \\t Hotel A(number of visitors) \\t Hotel B(number of visitors) \\t Hotel C(number of visitors) \\t Hotel D(number of visitors) \\n January \\t 100 \\t 90 \\t 120 \\t 150 \\n February \\t 120 \\t 100 \\t 110 \\t 160 \\n March \\t 80 \\t 110 \\t 130 \\t 120 \\n April \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a graph showing the number of hotel visitors in four cities during the first four months of 2021. The graph is divided into four sections, each representing a different city. The data is presented in a line graph format, with the number of visitors on the y-axis and the months on the x-axis. The chart shows a steady increase in the number of visitors throughout the first four months of the year, indicating a positive trend in tourism for these cities."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_353",
+    "img": "./line_chart_num/png/line_num_353.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Paintings in Different Art Galleries from 1800 to 1830",
+    "csv": "Year \\t Painting A \\t Painting B \\t Painting C \\t Painting D \\n 1800 \\t 10 \\t 15 \\t 20 \\t 25 \\n 1810 \\t 15 \\t 17 \\t 20 \\t 30 \\n 1820 \\t 20 \\t 18 \\t 25 \\t 35 \\n 1830 \\t 25 \\t 20 \\t 30 \\t 40 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the number of paintings in different art galleries from 1800 to 1890. The data is presented in a line graph format, with the number of paintings on the y-axis and the years on the x-axis. The graph shows a steady increase in the number of paintings throughout the period, indicating a growing interest in art and the expansion of art galleries during that time. The graph also highlights the significant number of paintings produced during the 1800s, which could be attributed to the growth of the art industry and the popularity of artistic movements during that era."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_322",
+    "img": "./line_chart_num/png/line_num_322.png",
+    "topic": "Government and Public Policy",
+    "title": " Changes in Tax Rate and Government Spending in the US from 2010 to 2016",
+    "csv": "Year \\t Tax Rate \\t Government Spending(billion dollars) \\n 2010 \\t 25% \\t 600 \\n 2011 \\t 27% \\t 650 \\n 2012 \\t 28% \\t 700 \\n 2013 \\t 29% \\t 750 \\n 2014 \\t 30% \\t 800 \\n 2015 \\t 32% \\t 850 \\n 2016 \\t 33% \\t 900 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a graph showing changes in tax rate and government spending in the United States from 2010 to 2016. The tax rate is depicted on the left side of the graph, while the government spending is shown on the right side. The graph shows a steady increase in both tax rate and government spending over the six-year period. The tax rate starts at around 10% in 2010 and increases to around 15% by 2016, while the government spending starts at around $1 trillion and increases to around $2 trillion by 2016. This suggests that the government's spending has significantly increased during this period, which could have various implications for the economy and the country's overall financial situation."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_83",
+    "img": "./line_chart/png/line_83.png",
+    "topic": "Environment and Sustainability",
+    "title": " Environmental changes in the US between 2010 and 2016",
+    "csv": "Year \\t Greenhouse Gas Emissions (million tons) \\t Renewable Energy Usage (GW) \\t Air Quality Index \\n 2010 \\t 1000 \\t 5 \\t 60 \\n 2011 \\t 1100 \\t 7 \\t 55 \\n 2012 \\t 1200 \\t 10 \\t 50 \\n 2013 \\t 1300 \\t 12 \\t 45 \\n 2014 \\t 1400 \\t 15 \\t 40 \\n 2015 \\t 1500 \\t 18 \\t 35 \\n 2016 \\t 1600 \\t 20 \\t 30 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of environmental changes in the United States between 2010 and 2016. The data is presented in a line graph, showing the trend of greenhouse gas emissions, air quality, and renewable energy generation. The graph indicates that greenhouse gas emissions have been steadily decreasing, while air quality has been improving. Simultaneously, the renewable energy generation has been increasing, suggesting a shift towards cleaner energy sources. This data suggests that the United States is making progress in addressing environmental concerns and moving towards a more sustainable future."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_146",
+    "img": "./line_chart/png/line_146.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Total donations received by three charities from 2019 to 2023",
+    "csv": "Year \\t Donations A(million dollars) \\t Donations B(million dollars) \\t Donations C(million dollars) \\n 2019 \\t 200 \\t 150 \\t 50 \\n 2020 \\t 210 \\t 180 \\t 45 \\n 2021 \\t 220 \\t 160 \\t 67 \\n 2022 \\t 230 \\t 170 \\t 70 \\n 2023 \\t 240 \\t 185 \\t 75 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of donations received by a charity organization. The data is presented in a line graph format, with the y-axis representing the total amount of donations and the x-axis representing the time period. The graph shows a steady increase in donations over the years, indicating that the charity organization has been successful in attracting more funds. The trend suggests that the organization has been able to grow its donor base and increase its impact on the community it serves."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_425",
+    "img": "./line_chart/png/line_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donation trends in charitable organizations from 2001 to 2005",
+    "csv": "Year \\t Donation Amount(million dollars) \\t Number of Donors \\n 2001 \\t 20 \\t 100 \\n 2002 \\t 25 \\t 200 \\n 2003 \\t 30 \\t 300 \\n 2004 \\t 35 \\t 400 \\n 2005 \\t 40 \\t 500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a trend in donations to charitable organizations from 2000 to 2015. The data shows a significant increase in donations from 2000 to 2005, followed by a decline in 2006. The donations then rise again in 2007 and continue to increase steadily until 2015. The chart is divided into two sections, with the top section showing the trend in donations in charitable organizations and the bottom section showing the trend in donations in non-charitable organizations. This indicates that the overall trend in donations has been positive, with a slight dip in 2006, but has been steadily increasing since then."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_366",
+    "img": "./line_chart_num/png/line_num_366.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Changes in migration, unemployment and wage in USA from 2010-2015",
+    "csv": "Year \\t Migration rate(%) \\t Unemployment rate(%) \\t Average wage(USD) \\n 2010 \\t 3.2 \\t 7.8 \\t 25000 \\n 2011 \\t 3.5 \\t 7.4 \\t 26000 \\n 2012 \\t 3.7 \\t 7.1 \\t 27000 \\n 2013 \\t 4.0 \\t 7.2 \\t 28000 \\n 2014 \\t 4.2 \\t 7.4 \\t 29000 \\n 2015 \\t 4.5 \\t 7.5 \\t 30000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of migration rates, average wage, and unemployment rate in the United States from 2000 to 2015. The migration rate is shown in blue, the average wage in green, and the unemployment rate in red. The data indicates that the migration rate has been steadily increasing over the years, while the average wage and unemployment rate have been fluctuating. The unemployment rate has a noticeable spike in 2009, and the average wage has a slight dip in 2008. Overall, the chart provides a snapshot of the economic and demographic trends in the United States during the given time period."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_458",
+    "img": "./line_chart/png/line_458.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Online and Retail Sales from 2019 to 2023",
+    "csv": "Year \\t Online Sales(billion dollars) \\t Retail Sales(billion dollars) \\t Total Sales(billion dollars) \\n 2019 \\t 900 \\t 1200 \\t 2100 \\n 2020 \\t 1000 \\t 1500 \\t 2500 \\n 2021 \\t 1200 \\t 1400 \\t 2600 \\n 2022 \\t 1100 \\t 1700 \\t 2800 \\n 2023 \\t 1300 \\t 1900 \\t 3200 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of online and retail sales from 2005 to 2013. The data shows a steady increase in online sales over the years, with a notable jump in 2012. In contrast, retail sales have a more gradual increase, with a slight dip in 2012. The chart highlights the growing importance of e-commerce in the retail market and the changing consumer behavior towards online shopping."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_468",
+    "img": "./line_chart_num/png/line_num_468.png",
+    "topic": "Environment and Sustainability",
+    "title": " Air and Water Quality Index in the U.S. 2001-2007",
+    "csv": "Year \\t Average Air Quality Index \\t Average Water Quality Index \\n 2001 \\t 50 \\t 70 \\n 2002 \\t 45 \\t 75 \\n 2003 \\t 40 \\t 80 \\n 2004 \\t 35 \\t 85 \\n 2005 \\t 43 \\t 78 \\n 2006 \\t 47 \\t 70 \\n 2007 \\t 50 \\t 65 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average air and water quality index in the United States from 2000 to 2007. The data is presented in a line graph, with the air quality index on the left side and the water quality index on the right side. The graph shows a slight decline in air quality over the years, while the water quality index remains relatively stable. This suggests that the overall air and water quality in the United States has been maintained, but there might be some areas that require improvement in air quality."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_478",
+    "img": "./line_chart_num/png/line_num_478.png",
+    "topic": "Manufacturing and Production",
+    "title": " Monthly production of four products in 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 3000 \\t 1500 \\t 2500 \\t 2000 \\n February \\t 3500 \\t 1700 \\t 2800 \\t 2200 \\n March \\t 2500 \\t 1500 \\t 3000 \\t 1800 \\n April \\t 3000 \\t 2000 \\t 3500 \\t 2200 \\n May \\t 3500 \\t 2200 \\t 4000 \\t 2500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of production levels for four different products in 2019. The production levels are shown in a line graph format, with each product represented by a different color. The chart shows that the production of Product A is significantly higher than the other three products, with a noticeable gap between the lines. The production of Products B, C, and D is relatively similar, with a slight variation in the production levels. This chart provides a visual representation of the differences in production among the four products in 2019."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_76",
+    "img": "./line_chart_num/png/line_num_76.png",
+    "topic": "Education and Academics",
+    "title": " Academic Performance in Reading, Math, and Science by Grade Level",
+    "csv": "Grade \\t Reading Scores \\t Math Scores \\t Science Scores \\n 5th \\t 85 \\t 86 \\t 87 \\n 6th \\t 88 \\t 87 \\t 89 \\n 7th \\t 90 \\t 88 \\t 91 \\n 8th \\t 92 \\t 92 \\t 93 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the academic performance of a student in reading, math, and science across different grade levels. The performance is measured using a scale of 0 to 100, with the student's scores in each subject area plotted on the graph. The chart shows that the student's performance in reading and math has been consistently high, with scores ranging from 80 to 90. In contrast, the student's performance in science has been lower, with scores ranging from 60 to 70. The chart also indicates that the student's performance has improved over time, with higher scores in each subject area as they progress through the grades."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_451",
+    "img": "./line_chart/png/line_451.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Changes in Agricultural Practices in Europe from 2015-2019",
+    "csv": "Year \\t Organic Farming \\t Crop Diversification \\t Animal Husbandry \\t Biodynamic Farming \\n 2015 \\t 3 \\t 5 \\t 1 \\t 2 \\n 2016 \\t 5 \\t 7 \\t 2 \\t 4 \\n 2017 \\t 7 \\t 9 \\t 3 \\t 6 \\n 2018 \\t 9 \\t 11 \\t 4 \\t 8 \\n 2019 \\t 11 \\t 13 \\t 5 \\t 10 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays changes in agricultural practices in Europe from 2015 to 2019. The data is presented in a line graph format, with each year represented by a different color. The graph shows a decline in crop diversification, a slight increase in body farming, and a significant drop in organic farming. This suggests that the agricultural practices in Europe have been evolving, with a shift towards more conventional farming methods and a decrease in the use of organic farming techniques."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_485",
+    "img": "./line_chart/png/line_485.png",
+    "topic": "Healthcare and Health",
+    "title": " Average body temperature and heart rate of different age groups",
+    "csv": "Age \\t Average body temperature(degrees Celcius) \\t Average heart rate(beats/min) \\n 0-5 \\t 37.2 \\t 110 \\n 6-15 \\t 36.7 \\t 97 \\n 16-25 \\t 36.6 \\t 75 \\n 26-40 \\t 36.5 \\t 75 \\n 41-60 \\t 36.4 \\t 77 \\n 61-80 \\t 36.3 \\t 85 \\n 81-99 \\t 36.2 \\t 95 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average body temperature and heart rate of different age groups. The data is presented in a line graph format, with the body temperature on the left side and the heart rate on the right side. The age groups are represented by the different colored lines, with each line showing the average values for that specific age group. The chart provides a visual representation of how body temperature and heart rate change with age, which can be useful for understanding the physiological changes that occur as people grow older."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_16",
+    "img": "./line_chart_num/png/line_num_16.png",
+    "topic": "Science and Engineering",
+    "title": " Renewable Energy Output in 2021",
+    "csv": "Month \\t Solar Panel Output(kWh) \\t Wind Turbine Output(kWh) \\n January \\t 100 \\t 90 \\n February \\t 150 \\t 115 \\n March \\t 120 \\t 105 \\n April \\t 140 \\t 115 \\n May \\t 170 \\t 130 \\n June \\t 120 \\t 100 \\n July \\t 150 \\t 115 \\n August \\t 140 \\t 125 \\n September \\t 100 \\t 95 \\n October \\t 110 \\t 100 \\n November \\t 150 \\t 110 \\n December \\t 130 \\t 115 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of renewable energy output in 2010 and 2021. The data is presented in a bar graph format, with each bar representing a specific month. The chart shows that the renewable energy output in 2021 is significantly higher than in 2010. This increase could be attributed to advancements in renewable energy technology and increased investment in sustainable energy sources. The chart also indicates that the energy output is distributed across various types of renewable energy sources, such as solar, wind, and turbine."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_265",
+    "img": "./line_chart_num/png/line_num_265.png",
+    "topic": "Business and Finance",
+    "title": " Expenses in four categories of products",
+    "csv": "Year \\t Expenses A(million dollars) \\t Expenses B(million dollars) \\t Expenses C(million dollars) \\t Expenses D \\n 2001 \\t 100 \\t 80 \\t 120 \\t 150 \\n 2002 \\t 120 \\t 90 \\t 110 \\t 160 \\n 2003 \\t 80 \\t 110 \\t 130 \\t 120 \\n 2004 \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart shows that the expenses in the blue category have increased the most over the years, while the expenses in the red category have decreased the most."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_344",
+    "img": "./line_chart_num/png/line_num_344.png",
+    "topic": "Business and Finance",
+    "title": " GDP and GNP from 2001 to 2005",
+    "csv": "Year \\t Gross Domestic Product(GDP)(trillion dollars) \\t Gross National Product(GNP)(trillion dollars) \\n 2001 \\t 14.5 \\t 15 \\n 2002 \\t 14.6 \\t 16 \\n 2003 \\t 13.7 \\t 14 \\n 2004 \\t 15.2 \\t 17 \\n 2005 \\t 15.7 \\t 18 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of GDP and GNP from 2005 to 2010. The GDP is shown in blue, while the GNP is shown in red. The chart shows a steady increase in both GDP and GNP over the years, with the GDP starting at around 1.0 and reaching 1.5 by 2010, while the GNP starts at around 0.5 and reaches 0.75 by 2010. This indicates a positive trend in the economy during the period."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_6",
+    "img": "./line_chart/png/line_6.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donations to Charity Organization in 2020",
+    "csv": "Donor \\t Donation Amount (in USD) \\t Number of Donations \\n John Smith \\t 5000 \\t 2 \\n Mary Johnson \\t 2000 \\t 1 \\n Jack Wilson \\t 1000 \\t 2 \\n Sarah Taylor \\t 3000 \\t 4 \\n Mark Brown \\t 500 \\t 3 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart shows a decline in donations to charity organizations in 2020. The number of donations is represented by a blue line that starts at a high point and then drops significantly throughout the year. This decline could be attributed to various factors, such as the economic impact of the COVID-19 pandemic or changes in public perception and giving habits. The chart serves as a visual representation of the challenges faced by charity organizations in 2020 and highlights the importance of finding alternative sources of funding and support during difficult times."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_399",
+    "img": "./line_chart/png/line_399.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output trend in the first half of 2023",
+    "csv": "Month \\t Output A(tonnes) \\t Output B(tonnes) \\t Output C(tonnes) \\n January \\t 100 \\t 200 \\t 300 \\n February \\t 150 \\t 250 \\t 400 \\n March \\t 175 \\t 275 \\t 450 \\n April \\t 225 \\t 325 \\t 500 \\n May \\t 200 \\t 300 \\t 400 \\n June \\t 125 \\t 225 \\t 350 \\n July \\t 150 \\t 250 \\t 400 \\n August \\t 175 \\t 275 \\t 450 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a manufacturing output trend in the first half of 2021. It shows the output of four different categories: Attorneys, Output Citizens, Output Atto, and Output Attorneys. The chart is divided into four sections, each representing one of the categories. The data is presented in a line graph format, with each section showing a different trend. The chart provides a visual representation of the manufacturing output trends for these categories during the first half of 2021."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_409",
+    "img": "./line_chart_num/png/line_num_409.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of three items in a factory in 2020",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\n January \\t 500 \\t 800 \\t 1000 \\n February \\t 600 \\t 700 \\t 1100 \\n March \\t 700 \\t 900 \\t 1300 \\n April \\t 800 \\t 1000 \\t 1500 \\n May \\t 900 \\t 1200 \\t 1800 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays three production lines in a factory, each with a different color line representing the production of three items. The production lines are labeled A, B, and C, and the chart shows the production of these items over time. The production lines are running at different speeds, with production line A being the fastest, followed by production line B, and then production line C. The chart also shows the production of these items in 2020, indicating that the factory is actively producing these items throughout the year."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_372",
+    "img": "./line_chart/png/line_372.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy production in three sources at a renewable energy plant",
+    "csv": "Time \\t Solar Power Generation(GW) \\t Wind Power Generation(GW) \\t Hydropower Generation(GW) \\n 08:00 \\t 3.2 \\t 2.4 \\t 1.8 \\n 09:00 \\t 4.1 \\t 3.1 \\t 2.3 \\n 10:00 \\t 5.2 \\t 4.2 \\t 2.9 \\n 11:00 \\t 6.1 \\t 5.2 \\t 3.6 \\n 12:00 \\t 6.7 \\t 6.1 \\t 4.2 \\n 13:00 \\t 6.2 \\t 5.4 \\t 3.8 \\n 14:00 \\t 5.2 \\t 4.1 \\t 3.2 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays energy production data for three different sources: solar power, wind power, and a renewable energy plant. The energy production is measured in terms of energy generated per hour. The chart shows that the energy production from the renewable energy plant is significantly higher than the energy generated by solar and wind power. The energy production from the renewable energy plant is consistently high throughout the day, while the energy generated by solar and wind power fluctuates, with solar power showing a slight increase during the day and wind power showing a slight decrease. This suggests that the renewable energy plant is a more reliable and efficient source of energy compared to solar and wind power."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_367",
+    "img": "./line_chart/png/line_367.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Change in Crime Rates in the US from 2001-2005",
+    "csv": "Year \\t Violent Crime Rate (per 100000 people) \\t Property Crime Rate (per 100000 people) \\n 2001 \\t 550 \\t 3120 \\n 2002 \\t 530 \\t 2970 \\n 2003 \\t 580 \\t 3180 \\n 2004 \\t 560 \\t 3200 \\n 2005 \\t 590 \\t 3100 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of two different data sets, with one set in red and the other in blue. The red line represents the change in temperature, while the blue line represents the change in precipitation. The chart shows that the change in temperature and precipitation are not directly correlated, as they have different patterns and trends. The red line appears to be more stable and has a slight upward trend, while the blue line has a more erratic pattern with some fluctuations. This suggests that the relationship between temperature and precipitation is complex and may not be easily predictable."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_450",
+    "img": "./line_chart_num/png/line_num_450.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Average Monthly Consumption of Sugar, Coffee, and Tea in the US Food and Beverage Industry",
+    "csv": "Month \\t Sugar Consumption(lbs) \\t Coffee Consumption(cups) \\t Tea Consumption(cups) \\n January \\t 1000 \\t 500 \\t 200 \\n February \\t 1200 \\t 400 \\t 250 \\n March \\t 1300 \\t 450 \\t 300 \\n April \\t 1400 \\t 500 \\t 350 \\n May \\t 1200 \\t 550 \\t 400 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average monthly consumption of sugar, coffee, and tea in the United States. The data shows that the consumption of sugar has been steadily declining over the years, while the consumption of coffee and tea has been increasing. This suggests that people in the U.S. are gradually reducing their sugar intake and opting for healthier beverage options like coffee and tea."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_32",
+    "img": "./line_chart/png/line_32.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of four products in the first five months of 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 20000 \\t 15000 \\t 17000 \\t 30000 \\n February \\t 25000 \\t 19000 \\t 18000 \\t 31000 \\n March \\t 22000 \\t 17000 \\t 19000 \\t 32000 \\n April \\t 23000 \\t 18000 \\t 17000 \\t 33000 \\n May \\t 24000 \\t 19000 \\t 16000 \\t 34000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of production data for a company, showing the number of products produced in each month of 2013. The data is presented in a line graph format, with the x-axis representing the months and the y-axis representing the number of products produced. The graph shows a steady increase in production throughout the year, with the highest production occurring in December. This suggests that the company is experiencing growth and possibly increasing its efficiency in manufacturing its products."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_77",
+    "img": "./line_chart/png/line_77.png",
+    "topic": "Retail and E-commerce",
+    "title": " Changes in orders of four different products in 2021",
+    "csv": "Month \\t Order A \\t Order B \\t Order C \\t Order D \\n January \\t 50 \\t 35 \\t 45 \\t 60 \\n February \\t 60 \\t 40 \\t 50 \\t 70 \\n March \\t 65 \\t 45 \\t 55 \\t 75 \\n April \\t 70 \\t 50 \\t 60 \\t 80 \\n May \\t 55 \\t 45 \\t 70 \\t 90 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of orders for four different products in 2019. The products are represented by the letters A, B, C, and D. The chart shows the number of orders for each product throughout the year, with each product having a distinct order pattern. The data suggests that product A had the highest number of orders, followed by product B, product C, and finally, product D. This information can be useful for understanding the popularity and demand for each product among customers."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_384",
+    "img": "./line_chart/png/line_384.png",
+    "topic": "Healthcare and Health",
+    "title": " Average Body Measurements of Different Age Groups",
+    "csv": "Age \\t Average BMI \\t Average Weight (kg) \\t Average Height (cm) \\n 18-25 \\t 25 \\t 60 \\t 170 \\n 25-35 \\t 27 \\t 70 \\t 175 \\n 35-45 \\t 30 \\t 75 \\t 180 \\n 45-55 \\t 32 \\t 80 \\t 185 \\n 55-65 \\t 34 \\t 85 \\t 190 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the average body measurements of different age groups. The measurements are shown in various units, including height, weight, and body mass index (BMI). The chart is divided into three sections, each representing a different age group. The data indicates that the average height, weight, and BMI values change as people age, with younger individuals generally having lower values compared to older individuals. This information can be useful for understanding the typical body measurements of people in different age groups and for assessing the health and well-being of individuals based on their age and body measurements."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_79",
+    "img": "./line_chart/png/line_79.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee performance and satisfaction in 2020",
+    "csv": "Quarter \\t Employee Leave(days) \\t Employee Overtime(hours) \\t Employee Satisfaction Score \\n Q1 2020 \\t 25 \\t 100 \\t 4.5 \\n Q2 2020 \\t 30 \\t 110 \\t 4.7 \\n Q3 2020 \\t 20 \\t 90 \\t 4.8 \\n Q4 2020 \\t 15 \\t 80 \\t 4.9 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of employee satisfaction, measured by a score from 0 to 100. The data shows that employee satisfaction has been steadily increasing over time, with the score rising from around 60 in the first quarter of 2015 to 70 in the second quarter of 2019. This indicates that the company has been making efforts to improve employee satisfaction, and the results are reflected in the rising scores. The chart also shows a slight dip in satisfaction in the third quarter of 2018, but the overall trend remains positive."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_206",
+    "img": "./line_chart/png/line_206.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Total Tourists and Hotel Occupancy Rate in the US from 2020-2023",
+    "csv": "Year \\t Total Tourists(thousands) \\t International Tourists(thousands) \\t Domestic Tourists(thousands) \\t Hotel Occupancy Rate \\n 2020 \\t 1000 \\t 800 \\t 400 \\t 60% \\n 2021 \\t 1500 \\t 1200 \\t 300 \\t 70% \\n 2022 \\t 1700 \\t 1300 \\t 400 \\t 75% \\n 2023 \\t 1900 \\t 1400 \\t 500 \\t 80% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of hotel occupancy rates in the United States and international tourism. The data shows that the hotel occupancy rate in the United States has been steadily increasing since 2010, while the international tourism rate has been declining. This suggests that the United States is experiencing a growth in domestic tourism, while international tourism is facing a decline. The chart also indicates that the hotel occupancy rate in the United States is expected to reach 60% by 2021, while the international tourism rate is expected to be at 50%."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_265",
+    "img": "./line_chart/png/line_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Effect of Campaign Expenditure on Voter Turnout in the USA from 2018 to 2022",
+    "csv": "Year \\t Voter Turnout(percentage) \\t Campaign Expenditure(million dollars) \\n 2018 \\t 65 \\t 100 \\n 2019 \\t 70 \\t 200 \\n 2020 \\t 73 \\t 400 \\n 2021 \\t 75 \\t 450 \\n 2022 \\t 77 \\t 500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the effect of campaign expenditure on voter turnout in the USA from 2018 to 2021. The data shows a significant increase in voter turnout as campaign expenditure increases. The chart is divided into two parts, with the left side showing the percentage of voter turnout and the right side showing the corresponding campaign expenditure in dollars. The trend suggests that higher campaign expenditure leads to increased voter engagement and participation in the electoral process."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_122",
+    "img": "./line_chart/png/line_122.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Percentage of People in Different Age Groups in the United States in 2021",
+    "csv": "Age \\t Percentage of People \\n 0-17 \\t 20 \\n 18-24 \\t 30 \\n 25-34 \\t 25 \\n 35-44 \\t 15 \\n 45-54 \\t 7 \\n 55-64 \\t 2 \\n 65+ \\t 1 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of people in different age groups in the United States in 2021. The age groups are represented by the blue line, which shows a decline in the percentage of people in each age group. The chart indicates that the majority of the population is concentrated in the younger age groups, with the highest percentage of people in the 18-24 age group. This suggests that the younger population is more prevalent in the United States, and the older age groups have a smaller representation in the population."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_275",
+    "img": "./line_chart/png/line_275.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food and Beverage Industry Sales in the First Half of 2021",
+    "csv": "Month \\t Beverages \\t Sweets \\t Snacks \\t Bakery \\n January \\t 1000 \\t 2000 \\t 800 \\t 600 \\n February \\t 1200 \\t 1800 \\t 900 \\t 650 \\n March \\t 900 \\t 1500 \\t 1000 \\t 700 \\n April \\t 1100 \\t 2000 \\t 800 \\t 750 \\n May \\t 1200 \\t 1900 \\t 1000 \\t 800 \\n June \\t 1000 \\t 1700 \\t 1100 \\t 900 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of food and beverage sales in the first half of 2021. The sales are categorized into different types of food and beverages, such as beverages, snacks, bakery, and sweets. The chart shows a clear trend of sales increasing over time, with the highest sales recorded in May. This indicates that the food and beverage industry is experiencing a growth in demand during this period, possibly due to seasonal factors or changes in consumer behavior."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_440",
+    "img": "./line_chart_num/png/line_num_440.png",
+    "topic": "Sports and Entertainment",
+    "title": " Gross Earning and Viewership of Sports and Entertainment Events from 2020 to 2024",
+    "csv": "Year \\t Gross Earning (million dollars) \\t Viewership (million people) \\n 2020 \\t 500 \\t 200 \\n 2021 \\t 700 \\t 300 \\n 2022 \\t 1000 \\t 400 \\n 2023 \\t 1300 \\t 500 \\n 2024 \\t 1600 \\t 600 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a trend of gross earnings and viewership of sports and entertainment events from 2010 to 2021. The data shows a steady increase in both gross earnings and viewership over the years, with the gross earnings peaking in 2019 and the viewership in 2021. This suggests that the popularity of sports and entertainment events has been growing, and the industry is likely to continue to thrive in the future."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_441",
+    "img": "./line_chart/png/line_441.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Arts in the USA from 2011 to 2015",
+    "csv": "Year \\t Art A \\t Art B \\t Art C \\n 2011 \\t 50 \\t 60 \\t 70 \\n 2012 \\t 45 \\t 55 \\t 65 \\n 2013 \\t 48 \\t 58 \\t 68 \\n 2014 \\t 43 \\t 53 \\t 63 \\n 2015 \\t 46 \\t 56 \\t 66 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the popularity of arts in the USA from 2011 to 2015. The data is presented in a line graph format, with the popularity of arts increasing steadily over the five-year period. The graph shows that the popularity of arts in the USA has grown from 2011 to 2015, indicating a positive trend in the appreciation and engagement with the arts among the population."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_11",
+    "img": "./line_chart/png/line_11.png",
+    "topic": "Sports and Entertainment",
+    "title": " Growth of Box Office Gross and Ticket Sales for the NBA from 2016-2020",
+    "csv": "Year \\t Gross earnings (million dollars) \\t Tickets Sold (millions) \\n 2016 \\t 2.2 \\t 90 \\n 2017 \\t 2.3 \\t 95 \\n 2018 \\t 2.5 \\t 100 \\n 2019 \\t 2.7 \\t 105 \\n 2020 \\t 2.9 \\t 110 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart shows a significant increase in gross earnings and ticket sales for the NBA from 2016 to 2021. The growth is depicted by a red line, which starts at $6.5 billion in 2016 and reaches $8.5 billion in 2021. This indicates that the NBA has experienced a substantial increase in revenue over the past five years, likely due to factors such as increased popularity, successful marketing strategies, and strong fan engagement."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_132",
+    "img": "./line_chart_num/png/line_num_132.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Growth of Organic Food and Fast Food Sales in the U.S. from 2020 to 2023",
+    "csv": "Year \\t Organic Food Sales(million dollars) \\t Fast Food Sales(million dollars) \\n 2020 \\t 1000 \\t 4000 \\n 2021 \\t 1200 \\t 4500 \\n 2022 \\t 1500 \\t 3000 \\n 2023 \\t 1700 \\t 3500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the growth of organic food and fast food sales in the United States from 2002 to 2021. The sales of organic food have been steadily increasing over the years, while fast food sales have been declining. In 2021, organic food sales are expected to reach $213 billion, while fast food sales are projected to be at $209 billion. This indicates a shift in consumer preferences towards healthier and more sustainable food options."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_348",
+    "img": "./line_chart/png/line_348.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production output of four categories of products in 2021",
+    "csv": "Month \\t Production A \\t Production B \\t Production C \\t Production D \\n January \\t 1000 \\t 1200 \\t 1400 \\t 2000 \\n February \\t 1200 \\t 1500 \\t 1800 \\t 2100 \\n March \\t 1400 \\t 1700 \\t 2000 \\t 2200 \\n April \\t 1600 \\t 1900 \\t 2200 \\t 2500 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the production output of four categories of products in 2021. The production output is shown in a graph format, with each category represented by a different color line. The chart shows that the production output of the products is increasing over time, with the highest production output in March and the lowest in January. This indicates that the production is following a seasonal pattern, with the highest production during the first quarter of the year and a gradual decline throughout the rest of the year."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_188",
+    "img": "./line_chart_num/png/line_num_188.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop Yield of Major Grains in the US from 2000 to 2004",
+    "csv": "Year \\t Wheat Yield (Metric Tons) \\t Corn Yield (Metric Tons) \\t Rice Yield (Metric Tons) \\n 2000 \\t 5000 \\t 4000 \\t 2000 \\n 2001 \\t 6000 \\t 5000 \\t 3000 \\n 2002 \\t 7000 \\t 6000 \\t 4000 \\n 2003 \\t 8000 \\t 7000 \\t 5000 \\n 2004 \\t 9000 \\t 8000 \\t 6000 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of crop yield of major grains in the United States from 2000 to 2004. The data is presented in a bar graph format, with each bar representing a different year. The chart shows that the crop yield of major grains has been steadily increasing over the five-year period, with the highest yield recorded in 2004. This suggests that the agricultural sector in the United States has been experiencing growth and productivity during this time."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_282",
+    "img": "./line_chart/png/line_282.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Smartphone and Computer Sales from 2011 to 2016",
+    "csv": "Year \\t Smartphone Sales \\t Computer Sales \\n 2011 \\t 100 \\t 200 \\n 2012 \\t 150 \\t 220 \\n 2013 \\t 180 \\t 260 \\n 2014 \\t 200 \\t 280 \\n 2015 \\t 220 \\t 320 \\n 2016 \\t 260 \\t 350 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart shows a comparison of the growth of smartphone sales and computer sales from 2011 to 2016. The graph displays a significant increase in both smartphone and computer sales over the years, with the growth of smartphone sales being slightly higher than that of computer sales. This indicates that the demand for both devices has been increasing steadily, and the market for these products has been expanding."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_207",
+    "img": "./line_chart/png/line_207.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Changes in Average Home and Rental Prices in the U.S. from 2000 to 2005",
+    "csv": "Year \\t Average Home Price (thousands of dollars) \\t Average Rental Price (thousands of dollars) \\n 2000 \\t 150 \\t 50 \\n 2001 \\t 170 \\t 55 \\n 2002 \\t 180 \\t 60 \\n 2003 \\t 190 \\t 65 \\n 2004 \\t 220 \\t 70 \\n 2005 \\t 250 \\t 75 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of average home rental prices in the United States from 2000 to 2005. The data is presented in a line graph format, with the average home rental price on the y-axis and the years on the x-axis. The graph shows a steady increase in average home rental prices from 2000 to 2005, indicating a growing demand for housing or a potential shortage of available rental properties during that time period."
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_175",
+    "img": "./line_chart_num/png/line_num_175.png",
+    "topic": "Education and Academics",
+    "title": " Increase in the number of High School and College Graduates between 2001 and 2005",
+    "csv": "Year \\t High School Graduates \\t College Graduates \\n 2001 \\t 20 \\t 10 \\n 2002 \\t 25 \\t 12 \\n 2003 \\t 30 \\t 15 \\n 2004 \\t 35 \\t 20 \\n 2005 \\t 40 \\t 25 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a comparison of the number of high school and college graduates between 2001 and 2005. The data shows a significant increase in the number of high school graduates, with the number of graduates rising from around 3.5 million in 2001 to 3.8 million in 2005. On the other hand, the number of college graduates has also increased, but not as dramatically as the high school graduates. The number of college graduates rose from around 2.1 million in 2001 to 2.4 million in 2005. This indicates that the number of students pursuing higher education has increased, but the overall growth in the number of graduates is primarily driven by high school graduates."
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_439",
+    "img": "./line_chart/png/line_439.png",
+    "topic": "Environment and Sustainability",
+    "title": " Global Greenhouse Gas Emissions from 2001 to 2004",
+    "csv": "Year \\t Carbon Dioxide Emissions (million metric tons) \\t Nitrous Oxide Emissions (million metric tons) \\t Methane Emissions (million metric tons) \\n 2001 \\t 5000 \\t 250 \\t 400 \\n 2002 \\t 4500 \\t 200 \\t 350 \\n 2003 \\t 4800 \\t 250 \\t 400 \\n 2004 \\t 5200 \\t 300 \\t 450 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a time series of carbon dioxide emissions from 1990 to 2010. The data shows a steady increase in emissions over the years, with the highest point in 2005. The chart also includes a comparison of different types of emissions, such as methane and nitrogen oxides, which are shown in orange and blue lines, respectively. The chart highlights the importance of monitoring and reducing greenhouse gas emissions to mitigate the impacts of climate change."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_107",
+    "img": "./pie_chart/png/pie_107.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the United States, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 45% \\n Female \\t 55% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the gender distribution in the United States in 2021. It shows that the majority of the population, approximately 51.5%, consists of females, while the remaining 48.5% are males. The chart is divided into two sections, with the top half showing the distribution of males and the bottom half showing the distribution of females. This information provides insight into the demographics of the country and the balance between the two genders."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_192",
+    "img": "./pie_chart/png/pie_192.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Donors in the Nonprofit Sector,2023",
+    "csv": "Types of Donors \\t Percentage \\n Individuals \\t 45% \\n Foundations \\t 25% \\n Corporations \\t 15% \\n Government \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of donors in the nonprofit sector for the year 2021. It shows that the majority of donors are individuals, accounting for 45.5% of the total donors. Foundations and corporations are the next largest groups, with 25.5% and 15.5% of the total donors, respectively. Government donors make up the smallest portion, with only 14.5% of the total donors. The chart provides a clear visual representation of the distribution of donors across different sectors in the nonprofit sector."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_72",
+    "img": "./pie_chart/png/pie_72.png",
+    "topic": "Government and Public Policy",
+    "title": " Voting Participation in the USA by Age Group, 2023",
+    "csv": "Age Group \\t Voting Participation \\n 18-24 \\t 32% \\n 25-34 \\t 32% \\n 35-44 \\t 18% \\n 45-54 \\t 11% \\n 55-64 \\t 5% \\n 65+ \\t 2% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of people in the United States who are registered to vote by age group. The age groups are divided into five categories: 18-24, 25-34, 35-44, 45-54, and 55-64. The chart shows that the highest percentage of registered voters is in the 55-64 age group, with 72.5% of the population registered to vote. The lowest percentage is in the 18-24 age group, with only 36.5% of the population registered to vote. This indicates that younger generations are less likely to be registered to vote compared to older generations."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_267",
+    "img": "./pie_chart/png/pie_267.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage of Digital Devices in 2021",
+    "csv": "Devices \\t Usage \\n Desktops \\t 20% \\n Laptops \\t 30% \\n Tablets \\t 15% \\n Smartphones \\t 35% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the usage of digital devices in 2021, with a focus on the percentage of people using various types of devices. The pie chart is divided into four sections, each representing a different type of device. The largest section, occupying 30%, is dedicated to laptops, while the second-largest section, at 25%, is for desktop computers. The third section, at 20%, is for tablets, and the smallest section, at 15%, is for smartphones. This data suggests that laptops are the most popular digital device among users, followed by desktop computers and tablets, with smartphones being the least popular."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_89",
+    "img": "./pie_chart/png/pie_89.png",
+    "topic": "Education and Academics",
+    "title": " School Enrollment in the USA, 2023",
+    "csv": "Schools \\t Percentage \\n Public \\t 45% \\n Private \\t 35% \\n Parochial \\t 10% \\n Homeschool \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of school enrollment in the USA for the year 2023. It shows that the majority of students are enrolled in public schools, accounting for 45% of the total enrollment. Private schools make up 35% of the enrollment, while homeschooling accounts for 10% and parochial schools make up 10%. The remaining 10% of students are enrolled in other types of schools. This data suggests that the majority of students in the USA are enrolled in public schools, while private and parochial schools also have a significant presence in the education system."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_157",
+    "img": "./pie_chart/png/pie_157.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Government Revenue Sources in the USA, 2023",
+    "csv": "Revenue Sources \\t Percentage \\n Corporate Tax \\t 35% \\n Personal Income Tax \\t 25% \\n Sales Tax \\t 20% \\n Property Tax \\t 10% \\n Other \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of government revenue sources in the USA for the year 2020. The pie chart is divided into several segments, each representing a different source of revenue. The largest segment, accounting for 33.33%, is corporate taxes. Other segments include property taxes (10.00%), personal income taxes (20.00%), sales taxes (10.00%), and other taxes (26.67%). This distribution provides insight into the various ways the government collects revenue to fund its operations and services."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_471",
+    "img": "./pie_chart/png/pie_471.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Sectors in the US, 2023",
+    "csv": "Manufacturing Sectors \\t Percentage \\n Automotive \\t 20% \\n Aerospace \\t 18% \\n Industrial Machinery \\t 15% \\n Electronics \\t 14% \\n Food and Beverages \\t 10% \\n Chemicals \\t 9% \\n Textiles \\t 7% \\n Semiconductors \\t 5% \\n Other \\t 12% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of manufacturing sectors in the United States in 2023. The sectors are categorized into various types, including automotive, aerospace, industrial machinery, food and beverages, chemicals, semiconductors, and other industries. The chart shows that the automotive sector is the largest, accounting for 100% of the manufacturing sector distribution. This indicates that the automotive industry is a significant contributor to the overall manufacturing sector in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_386",
+    "img": "./pie_chart/png/pie_386.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Distribution of Food and Beverage Products in the US, 2023",
+    "csv": "Type \\t Percentage \\n Convenience Foods \\t 25% \\n Fresh Foods \\t 20% \\n Natural and Organic Foods \\t 30% \\n Processed Foods \\t 15% \\n Functional Foods \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of food and beverage products in the United States in 2021. It is divided into several categories, including convenience foods, processed foods, fresh foods, natural and organic foods, and beverages. The chart indicates that the majority of food and beverage products in the US are processed foods, accounting for 55% of the total distribution. Fresh foods come in second, making up 30% of the distribution, while natural and organic foods account for 10% and beverages make up the remaining 5%. This suggests that the US market is dominated by processed foods, but there is a growing demand for healthier and more natural food options."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_425",
+    "img": "./pie_chart/png/pie_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Allocation of Donations for Non-profit Organizations in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Animal Welfare \\t 20% \\n Education \\t 25% \\n Humanitarianism \\t 30% \\n Healthcare \\t 15% \\n Arts & Culture \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the allocation of donations for non-profit organizations in the US in 2023. The chart is divided into several segments, each representing a different category of non-profit organizations. The largest segment, which is green, represents education, accounting for 25.6% of the total donations. The other segments include animal welfare (10.6%), arts and culture (10.6%), healthcare (10.6%), human services (10.6%), and religion (10.6%). The remaining 10.6% is distributed among the other categories. This pie chart provides a visual representation of the distribution of donations across various non-profit organizations in the US."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_217",
+    "img": "./pie_chart/png/pie_217.png",
+    "topic": "Education and Academics",
+    "title": " Education Level Distribution in the USA, 2023",
+    "csv": "Level of Education \\t Percentage \\n Primary \\t 20 \\n Secondary \\t 30 \\n Bachelor's \\t 25 \\n Master's \\t 15 \\n Doctoral \\t 10 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of education levels in the United States in 2021. It shows that the majority of the population has a high school diploma, with 30.3% of people falling into this category. The next most common education level is a bachelor's degree, which accounts for 26.3% of the population. The chart also shows that a significant number of people have a master's degree, making up 10.3% of the population. The remaining 29.1% of the population consists of people with other education levels, such as doctorates or professional degrees. This distribution highlights the importance of education in the United States and the diverse range of educational backgrounds among its citizens."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_342",
+    "img": "./pie_chart/png/pie_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Mode of Transportation Distribution in the Global logistics Industry, 2023",
+    "csv": "Modes \\t Percentage \\n Air \\t 25% \\n Rail \\t 20% \\n Road \\t 35% \\n Maritime \\t 20% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of transportation distribution in the global logistics industry in 2021. It shows that the majority of transportation is done by road, with 50% of the distribution taking place on roads. Rail transportation accounts for 20% of the distribution, while air transportation is responsible for 20% and maritime transportation accounts for 10%. This distribution highlights the diverse modes of transportation used in the global logistics industry to ensure efficient and timely delivery of goods."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_409",
+    "img": "./pie_chart/png/pie_409.png",
+    "topic": "Sports and Entertainment",
+    "title": " Viewership Distribution for Sports and Entertainment Platforms in 2023",
+    "csv": "Platforms \\t Viewership Percentage \\n Television \\t 35% \\n YouTube \\t 25% \\n Social media \\t 20% \\n Streaming services \\t 10% \\n Radio \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of sports and entertainment platforms in 2023. The chart is divided into several segments, each representing a different platform. The largest segment, which is green, represents social media, accounting for 35% of the distribution. The second largest segment, which is purple, represents streaming platforms, accounting for 30% of the distribution. The third largest segment, which is red, represents traditional television, accounting for 25% of the distribution. The remaining segments represent smaller platforms, such as sports networks and other entertainment channels. Overall, the chart shows that social media and streaming platforms are the most popular platforms for sports and entertainment in 2023."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_201",
+    "img": "./pie_chart/png/pie_201.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Platform Distribution in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 30% \\n YouTube \\t 20% \\n Twitter \\t 10% \\n Instagram \\t 15% \\n Reddit \\t 10% \\n Snapchat \\t 10% \\n Pinterest \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of social media platforms in the United States in 2023. The pie chart shows that Facebook is the most popular social media platform, accounting for 42.7% of the market share. YouTube is the second most popular platform, with 28.3% of the market share. Instagram, Twitter, and Snapchat follow closely, with 12.5%, 10.2%, and 8.3% of the market share, respectively. The chart provides a clear representation of the distribution of social media platforms in the United States, highlighting the dominance of Facebook and YouTube."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_337",
+    "img": "./pie_chart/png/pie_337.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Education Level Distribution among Adults in the USA, 2023",
+    "csv": "Education Level \\t Percentage \\n High School \\t 23% \\n Associates Degree \\t 15% \\n Bachelor's Degree \\t 30% \\n Master's Degree \\t 20% \\n Doctorate \\t 12% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of education levels among adults in the USA in 2021. The majority of the population, around 42%, has a high school diploma. A significant portion, around 28%, has a bachelor's degree, while 12% have a master's degree. The remaining 16% of the population consists of individuals with other education levels, such as associate's degrees, doctorates, and professional degrees. This distribution highlights the importance of education in the USA and the various opportunities available for individuals to pursue higher education."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_339",
+    "img": "./pie_chart/png/pie_339.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Mix in the USA in 2023",
+    "csv": "Sources \\t Percentage \\n Renewable Energy \\t 30% \\n Fossil Fuels \\t 40% \\n Nuclear Energy \\t 20% \\n Hydroelectricity \\t 7% \\n Biomass \\t 3% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of energy sources in the United States in 2030. The energy mix consists of various sources, including renewable energy, nuclear energy, and fossil fuels. The chart shows that renewable energy sources, such as solar, wind, and hydroelectric power, will account for a significant portion of the energy mix, with a combined share of around 40%. Nuclear energy will also play a role, contributing around 10% of the energy mix. On the other hand, fossil fuels, such as coal, oil, and natural gas, will still be a major source of energy, accounting for approximately 50% of the energy mix. This demonstrates the ongoing transition towards cleaner and more sustainable energy sources while still relying on fossil fuels for a considerable portion of the energy needs."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_454",
+    "img": "./pie_chart/png/pie_454.png",
+    "topic": "Social Media and the Web",
+    "title": " Distribution of Social Media Platforms Usage in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 36% \\n YouTube \\t 20% \\n Twitter \\t 7% \\n Instagram \\t 7% \\n Snapchat \\t 4% \\n LinkedIn \\t 4% \\n Reddit \\t 4% \\n Other \\t 23% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of social media platforms used in the USA in 2023. The most popular platform is YouTube, with 34.3% of users, followed by Facebook at 22.7%, Instagram at 13.6%, Twitter at 11.6%, and Reddit at 6.3%. The remaining 11.7% of users are distributed across other platforms. This data suggests that YouTube is the most widely used social media platform in the USA, followed by Facebook and Instagram."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_482",
+    "img": "./pie_chart/png/pie_482.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Distribution of Tourism and Hospitality Spending in 2023",
+    "csv": "Categories \\t Percentage \\n Air Travel \\t 30% \\n Car Rental \\t 20% \\n Hotels and Resorts \\t 25% \\n Cruise Lines \\t 15% \\n Tour Operators \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of tourism and hospitality spending in 2031. The chart is divided into six segments, each representing a different category of spending. The largest segment, accounting for 30%, is air travel, followed by cruise lines at 15%, car rentals at 10%, hotels and resorts at 10%, tour operators at 10%, and airlines at 5%. This distribution suggests that air travel is the most significant contributor to tourism and hospitality spending in 2031, followed by cruise lines and car rentals."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_328",
+    "img": "./pie_chart/png/pie_328.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee Retention Factors in the Workplace, 2023",
+    "csv": "Employee Retention \\t Percentage \\n Job Satisfaction \\t 35% \\n Professional Development \\t 25% \\n Compensation and Benefits \\t 20% \\n Work Environment \\t 15% \\n Work-Life Balance \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the percentage of employee retention factors in the workplace in 2021. The chart is divided into six segments, each representing a different aspect of employee retention. The segments are labeled as follows: Job Satisfaction, Work-Life Balance, Work Environment, Compensation and Benefits, Professional Development, and Work-Life Balance. The chart indicates that Work-Life Balance is the most significant factor, accounting for 35% of employee retention, followed by Job Satisfaction at 30%. The other factors, such as Work Environment, Compensation and Benefits, and Professional Development, are also important but contribute to a smaller percentage of employee retention."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_235",
+    "img": "./pie_chart/png/pie_235.png",
+    "topic": "Government and Public Policy",
+    "title": " Breakdown of Tax Revenue for the U.S. Government in 2023",
+    "csv": "Tax Income \\t Percentage \\n Corporate Taxes \\t 25% \\n Individual Taxes \\t 45% \\n Payroll Taxes \\t 15% \\n Property Taxes \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the breakdown of tax revenue for the U.S. government in 2021. The main categories of tax revenue include corporate taxes, individual taxes, property taxes, and other taxes. The chart displays the percentage of each category, with corporate taxes being the largest contributor at 25.5%, followed by individual taxes at 50.5%, property taxes at 10.5%, and other taxes at 13.5%. This information provides insight into the distribution of tax revenue and the sources of funding for the U.S. government."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_46",
+    "img": "./pie_chart/png/pie_46.png",
+    "topic": "Social Media and the Web",
+    "title": " Major Social Media Platforms Utilization in the US, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 32% \\n Twitter \\t 15% \\n YouTube \\t 25% \\n Instagram \\t 14% \\n LinkedIn \\t 7% \\n Pinterest \\t 4% \\n Snapchat \\t 3% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of social media platforms utilized in the United States in 2021. The most popular platform is Facebook, which accounts for 30.3% of the usage. Following closely behind is YouTube, which represents 25.3% of the usage. Instagram, Snapchat, and LinkedIn are also significant platforms, with Instagram at 14.4%, Snapchat at 11.4%, and LinkedIn at 8.3%. The remaining 11.3% is distributed among other platforms. This data suggests that Facebook and YouTube are the most widely used social media platforms in the US, while Instagram and Snapchat are also popular among users."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_160",
+    "img": "./pie_chart/png/pie_160.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Disciplines in Academic Research, 2023",
+    "csv": "Areas \\t Percentage \\n Computer Science \\t 45% \\n Electrical Engineering \\t 20% \\n Mechanical Engineering \\t 15% \\n Civil Engineering \\t 10% \\n Chemical Engineering \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of engineering disciplines in academic research in 2021. The pie chart is divided into several sections, each representing a different engineering discipline. The largest section, which occupies about 40% of the pie, is dedicated to mechanical engineering. Other sections include electrical engineering, chemical engineering, civil engineering, and aerospace engineering, each taking up a smaller portion of the pie. The chart provides a visual representation of the relative importance and focus of various engineering disciplines in academic research during the year 2021."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_11",
+    "img": "./pie_chart/png/pie_11.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel Accommodations in the Global Tourism Industry in 2023",
+    "csv": "Hotels \\t Percentage \\n Luxury Hotels \\t 30% \\n Boutique Hotels \\t 20% \\n Business Hotels \\t 20% \\n Budget Hotels \\t 15% \\n Resorts \\t 15% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of hotel accommodations in the global tourism industry in 2021. The chart is divided into four sections, each representing a different type of hotel accommodation. The largest section, which is orange, represents budget hotels, accounting for 32% of the total accommodations. The second largest section, which is green, represents mid-range hotels, accounting for 28% of the total accommodations. The third section, which is blue, represents luxury hotels, accounting for 20% of the total accommodations. The smallest section, which is red, represents budget hotels, accounting for 18% of the total accommodations. The chart provides a visual representation of the distribution of hotel accommodations in the global tourism industry in 2021."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_377",
+    "img": "./pie_chart/png/pie_377.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Output in the USA, 2023",
+    "csv": "Products \\t Share of Manufacturing \\n Automobiles \\t 25% \\n Aerospace \\t 15% \\n Electronics \\t 25% \\n Chemicals \\t 15% \\n Industrial Machinery \\t 10% \\n Metal Products \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a pie chart showing the distribution of manufacturing output in the USA in 2021. The chart is divided into several categories, including automobiles, aerospace, metals, chemicals, and other industries. The largest portion of the pie chart is dedicated to the automobile industry, which accounts for 25.1% of the total manufacturing output. The aerospace industry is the second largest, accounting for 16.1% of the output. Other industries, such as metals, chemicals, and electronics, make up the remaining 58.8% of the manufacturing output. This chart provides a snapshot of the diverse range of industries that contribute to the overall manufacturing sector in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_53",
+    "img": "./pie_chart/png/pie_53.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Science and Engineering Jobs in the USA, 2023",
+    "csv": "Job Sectors \\t Percentage \\n Energy \\t 20 \\n Manufacturing \\t 15 \\n Technology \\t 30 \\n Aerospace \\t 15 \\n Automotive \\t 10 \\n Utilities \\t 5 \\n Construction \\t 5 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of science and engineering jobs in the USA in 2023. It shows that the majority of these jobs are concentrated in the energy sector, with 20.5% of the jobs falling under this category. The automotive industry is the second-largest employer, accounting for 15.5% of the jobs. Other sectors, such as utilities, manufacturing, aerospace, and technology, also contribute to the job distribution, with each sector accounting for a smaller percentage of the total. The chart provides a clear overview of the distribution of science and engineering jobs across various industries in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_177",
+    "img": "./pie_chart/png/pie_177.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage Distribution of the Internet Platforms in the USA, 2023",
+    "csv": "Internet Platforms \\t Percentage \\n Social Media \\t 30% \\n Search Engines \\t 24% \\n E-Commerce \\t 20% \\n Video Platforms \\t 14% \\n Streaming Services \\t 8% \\n News Platforms \\t 4% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the usage distribution of internet platforms in the USA in 2021. It shows that the majority of internet users are engaged in social media, with 45.5% of the users participating in this activity. Streaming services are the second most popular platform, with 34.5% of users utilizing them. News platforms are third, with 12.5% of users accessing them. The remaining 12.5% of users are engaged in other activities, such as video platforms, search engines, and e-commerce. This data highlights the diverse range of internet platforms that people in the USA are using and the importance of social media and streaming services in their daily lives."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_56",
+    "img": "./pie_chart/png/pie_56.png",
+    "topic": "Environment and Sustainability",
+    "title": " Renewable Energy Sources in the USA, 2023",
+    "csv": "Renewable Energy \\t Percentage \\n Solar \\t 30% \\n Wind \\t 25% \\n Hydroelectricity \\t 20% \\n Geothermal \\t 15% \\n Biomass \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a blank graph with no data points or labels. It appears to be a simple, empty graph with no visible trends or patterns. The absence of any data or labels suggests that it is either waiting for data to be inputted or that it is a placeholder for a future graph."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_293",
+    "img": "./pie_chart/png/pie_293.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources in the US, 2023",
+    "csv": "Sources \\t Percentage \\n Renewables \\t 25% \\n Coal \\t 20% \\n Oil \\t 15% \\n Natural Gas \\t 30% \\n Nuclear \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the energy sources in the United States in 2023, with a focus on the percentage of each source. The energy sources include nuclear, renewables, natural gas, coal, and oil. The chart is divided into five sections, each representing a different energy source. The nuclear energy source is the largest, occupying 25% of the chart, followed by renewables at 20%, natural gas at 20%, coal at 15%, and oil at 15%. This indicates that the United States relies on a diverse mix of energy sources, with a significant emphasis on nuclear power."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_279",
+    "img": "./pie_chart/png/pie_279.png",
+    "topic": "Government and Public Policy",
+    "title": " Methods for Citizen Engagement in the US, 2023",
+    "csv": "Citizen Engagement \\t Percentage \\n Voting \\t 40% \\n Contacting Elected Officials \\t 20% \\n Attending Town Hall Meetings \\t 15% \\n Signing Petitions \\t 10% \\n Donating to Political Campaigns \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that displays the percentage of various methods for citizen engagement in the United States in 2021. The chart shows that the most popular method for engagement is attending public meetings, which accounts for 30% of the total. The second most popular method is participating in online discussions, which accounts for 25% of the total. Other methods, such as writing to elected officials, signing petitions, and contacting media, account for smaller percentages of the total. The chart provides a visual representation of the different ways citizens can engage with their government and communities."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_81",
+    "img": "./pie_chart/png/pie_81.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Services in the Global Market, 2023",
+    "csv": "Services \\t Percentage \\n Cloud Computing \\t 25% \\n Artificial Intelligence \\t 20% \\n Internet of Things \\t 30% \\n Big Data \\t 15% \\n Cyber Security \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of technology services in the global market for the year 2021. The pie chart is divided into several segments, each representing a different technology service. The largest segment is cloud computing, which accounts for 25% of the market, followed by artificial intelligence and machine learning, which make up 15% of the market. Other segments include big data, cybersecurity, and the internet of things, each representing 10% of the market. The remaining 20% of the market is distributed among other technology services. This chart provides a clear overview of the distribution of technology services in the global market, highlighting the most prominent and in-demand services."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_47",
+    "img": "./pie_chart/png/pie_47.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources Distribution in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 40% \\n Nuclear \\t 20% \\n Natural Gas \\t 20% \\n Coal \\t 10% \\n Oil \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of energy sources in the United States in 2021. The energy sources are categorized into six main types: nuclear, natural gas, coal, oil, renewable, and penetration. The chart is divided into six sections, each representing one of the energy sources. The distribution of energy sources is shown as a percentage of the total energy consumption in the United States. The chart highlights the importance of renewable energy sources, which account for a significant portion of the energy consumption, while coal and natural gas are also major contributors."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_305",
+    "img": "./pie_chart/png/pie_305.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food Distribution in the USA, 2023",
+    "csv": "Food Groups \\t Percentage \\n Dairy \\t 18% \\n Fruit \\t 20% \\n Vegetables \\t 25% \\n Meat \\t 15% \\n Grains \\t 14% \\n Fats and Oils \\t 6% \\n Sugars and Sweets \\t 2% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a pie chart with a colorful distribution of food types, showing the percentage of each food type in the data. The chart is divided into several sections, each representing a different food category. The colors used in the pie chart are vibrant and visually appealing, making it easy to understand the distribution of food types. The chart is likely used to represent the distribution of food types in a specific context, such as a diet or a food survey."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_261",
+    "img": "./pie_chart/png/pie_261.png",
+    "topic": "Technology and the Internet",
+    "title": " Technological Device Usage in the USA, 2023",
+    "csv": "Devices \\t Useage \\n Laptops \\t 40% \\n Smartphones \\t 25% \\n Tablets \\t 15% \\n Desktops \\t 10% \\n Smartwatches \\t 5% \\n Streaming Devices \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the percentage of technological device usage in the USA in 2023. It shows that the majority of devices used are smartphones, with 40% of the usage, followed by laptops at 30%, and tablets at 15%. Other devices, such as desktop computers and streaming devices, account for the remaining 15% of usage. This indicates that mobile devices, particularly smartphones, have become an integral part of daily life and communication in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_378",
+    "img": "./pie_chart/png/pie_378.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Fields in the USA, 2023",
+    "csv": "Types of Engineers \\t Percentage \\n Electrical Engineers \\t 20% \\n Mechanical Engineers \\t 20% \\n Civil Engineers \\t 15% \\n Computer Engineers \\t 15% \\n Chemical Engineers \\t 10% \\n Industrial Engineers \\t 10% \\n Aerospace Engineers \\t 5% \\n Materials Engineers \\t 5% \\n Nuclear Engineers \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The pie chart displays the distribution of engineering fields in the USA in 2021. The chart shows that the majority of engineers are in the electrical field, accounting for 22.5% of the total. Other fields, such as nuclear engineers, materials engineers, aerospace engineers, industrial engineers, mechanical engineers, and chemical engineers, are also represented in the chart, with each field accounting for a smaller percentage of the total. The chart also shows that computer engineers make up a significant portion of the engineering workforce, accounting for 13.5% of the total. Overall, the chart provides a snapshot of the diverse range of engineering fields and their relative representation in the US workforce."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_315",
+    "img": "./pie_chart/png/pie_315.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Global Distribution of Lawyers in 2023",
+    "csv": "Regions \\t Lawyer population share \\n North America \\t 30% \\n Europe \\t 30% \\n Asia \\t 20% \\n South America \\t 10% \\n Africa \\t 7% \\n Oceania \\t 3% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the global distribution of lawyers in 2030, with a focus on the percentage of lawyers in each region. The pie chart is divided into seven sections, representing different regions: North America, Europe, Asia, Africa, Oceania, and South America. The chart shows that the majority of lawyers are concentrated in North America, with 30% of the total, followed by Europe with 20%. Asia, Africa, and Oceania each have 10% of the total, while South America has the smallest share with 5%. This distribution suggests that the legal profession is more prevalent in developed regions, with a higher concentration of lawyers in North America and Europe."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_418",
+    "img": "./pie_chart/png/pie_418.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Charitable Causes in the United States, 2023",
+    "csv": "Charitable Causes \\t Percentage \\n Education \\t 20 \\n Healthcare \\t 25 \\n Human Rights \\t 15 \\n Environment \\t 20 \\n Poverty Alleviation \\t 20 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of charitable causes in the United States in 2013. The chart is divided into six segments, each representing a different category of charitable causes. The segments are labeled as Education, Healthcare, Poverty Alleviation, Environment, Human Rights, and Religion. The chart indicates that the majority of charitable causes in the United States in 2013 were focused on Education, with 20% of the total charitable causes allocated to this category. Healthcare and Poverty Alleviation were the next most popular categories, each receiving 15% of the charitable causes. The remaining categories, Environment, Human Rights, and Religion, received 10%, 10%, and 5% of the charitable causes, respectively."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_164",
+    "img": "./pie_chart/png/pie_164.png",
+    "topic": "Energy and Utilities",
+    "title": " Distribution of Energy Sources in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 42% \\n Coal \\t 25% \\n Natural Gas \\t 18% \\n Nuclear \\t 10% \\n Oil \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of energy sources in the USA in 2023. The energy sources include oil, coal, natural gas, nuclear, and renewable energy. The chart is divided into five sections, each representing a different energy source. The distribution of energy sources is as follows: oil (33.5%), coal (14.5%), natural gas (37.5%), nuclear (10.5%), and renewable energy (14.0%). This shows that the USA relies heavily on natural gas and renewable energy sources, while coal and oil are still significant contributors to the energy mix."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_483",
+    "img": "./pie_chart/png/pie_483.png",
+    "topic": "Education and Academics",
+    "title": " Breakdown of Student Population by Level of Education in 2023",
+    "csv": "Student Population \\t Percentage \\n Primary Education \\t 45% \\n Secondary Education \\t 30% \\n Higher Education \\t 15% \\n Vocational Training \\t 5% \\n Non Formal Education \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that shows the distribution of student population by level of education. It is divided into several segments, each representing a different level of education. The chart indicates that the majority of students are in the primary education segment, which is the largest portion of the pie. The secondary education segment is the second largest, followed by the higher education segment. The remaining segments, such as vocational training and tertiary education, are smaller in size, representing a smaller percentage of the student population. This chart provides a visual representation of the distribution of students across different educational levels."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_59",
+    "img": "./pie_chart/png/pie_59.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Types of Tourism in the World, 2023",
+    "csv": "Types of Tourism \\t Percentage \\n Leisure \\t 40% \\n Business \\t 20% \\n Education \\t 15% \\n Religious \\t 10% \\n Medical \\t 10% \\n Adventure \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that displays the types of tourism in the world in 2021. It shows that the majority of tourism falls into the categories of leisure, business, and adventure. The leisure category accounts for 40%, business for 10%, and adventure for 10%. The remaining 40% is distributed among other categories such as medical, religious, and educational. This chart provides a snapshot of the diverse interests and motivations of tourists worldwide."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_365",
+    "img": "./pie_chart/png/pie_365.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Music Genres in the USA, 2023",
+    "csv": "Genres \\t Popularity \\n Pop Music \\t 35% \\n Rock Music \\t 15% \\n Hip-Hop and R&B \\t 15% \\n Jazz \\t 10% \\n Country \\t 10% \\n Classical \\t 10% \\n Electronic/Dance \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the popularity of music genres in the USA in 2023. The genres are categorized into several types, including classical, electronic, jazz, pop, hip-hop, and R&B. The chart shows that classical music is the least popular genre, with only 3.5% of the population enjoying it. On the other hand, pop music is the most popular genre, with 25% of the population enjoying it. The other genres, such as electronic, jazz, hip-hop, and R&B, have varying levels of popularity, with electronic music being the second most popular genre, followed by jazz and hip-hop. R&B is the least popular among these genres, with only 10% of the population enjoying it."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_388",
+    "img": "./pie_chart/png/pie_388.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Online Shopping Categories in the US, 2023",
+    "csv": "Online Shopping \\t Percentage \\n Clothing \\t 25% \\n Electronics \\t 20% \\n Home and Garden \\t 30% \\n Automotive \\t 15% \\n Other \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a distribution of online shopping categories in the US for the year 2021. The categories include clothing, electronics, home and garden, automotive, and other. The chart shows that the majority of online shopping is focused on clothing, with 25% of the total, followed by electronics at 20%, and home and garden at 15%. Automotive and other categories account for 10% each. This distribution suggests that people in the US are primarily shopping for clothing and electronics online, while other categories like home and garden and automotive are also popular."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_36",
+    "img": "./pie_chart/png/pie_36.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Source of Donations for Nonprofit Organizations in the USA, 2023",
+    "csv": "Donations \\t Percentage \\n Individuals \\t 35% \\n Foundations \\t 18% \\n Corporations \\t 20% \\n Religious Institutions \\t 20% \\n Government Grants \\t 7% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of nonprofit organizations in the USA in 2021. It shows that the majority of nonprofit organizations are categorized as religious institutions, with 45% of the total. The next largest category is foundations, which account for 25% of the organizations. Corporations and government grants are also significant, with 15% and 10% of the organizations, respectively. Individuals and other types of organizations make up the remaining 5% of the nonprofit landscape. This data provides insight into the distribution of nonprofit organizations across various sectors in the United States."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_272",
+    "img": "./pie_chart/png/pie_272.png",
+    "topic": "Science and Engineering",
+    "title": " Software Distribution in the Science and Engineering Industry, 2023",
+    "csv": "Software \\t Percentage \\n Operating Systems \\t 25% \\n Programming Languages \\t 15% \\n Database Management \\t 15% \\n Networking \\t 15% \\n Artificial Intelligence \\t 15% \\n Graphics \\t 10% \\n Animation \\t 5% \\n Simulation \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a pie chart showing the distribution of software in the science and engineering industry in 2021. The chart is divided into several segments, each representing a different category of software. The largest segment, which occupies about 40% of the pie, is \"Application Software.\" Other segments include \"System Software,\" \"Web and Mobile Apps,\" \"Database Management,\" and \"Cloud Computing.\" The chart provides a visual representation of the relative importance of these software categories in the industry."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_116",
+    "img": "./pie_chart/png/pie_116.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Distribution of Human Resources Management Areas in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Training and Development \\t 22% \\n Recruitment and Selection \\t 20% \\n Performance Management \\t 16% \\n Employee Relations \\t 14% \\n Compensation and Benefits \\t 14% \\n Human Resource Planning \\t 10% \\n Health and Safety \\t 4% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart is a pie chart that displays the distribution of human resources management areas in the US in 2021. The chart is divided into several segments, each representing a specific aspect of human resources management. The largest segment, occupying 40%, is dedicated to training and development. Other segments include health and safety (10%), human resources planning (10%), compensation and benefits (14%), recruitment and selection (16%), and performance management (10%). The chart provides a visual representation of the relative importance of these human resources management areas in the US."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_299",
+    "img": "./pie_chart/png/pie_299.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Distribution of Major Crops in the World, 2023",
+    "csv": "Crops \\t Percentage \\n Rice \\t 35% \\n Maize \\t 20% \\n Wheat \\t 20% \\n Potato \\t 10% \\n Soybean \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of major crops in the world in 2021. The crops are categorized into several types, including rice, wheat, maize, soybeans, and other crops. The chart shows that rice is the most prevalent crop, accounting for 30% of the total, followed by wheat at 25%. Maize and soybeans are also significant crops, each accounting for 15% of the total. Other crops make up the remaining 20% of the distribution. This information provides insight into the global agricultural landscape and the importance of these crops in meeting the world's food needs."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_357",
+    "img": "./pie_chart/png/pie_357.png",
+    "topic": "Transportation and Logistics",
+    "title": " Distribution of Transportation Modes in the US, 2023",
+    "csv": "Modes of Transport \\t Percentage \\n Rail \\t 15% \\n Road \\t 45% \\n Air \\t 30% \\n Water \\t 10% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of transportation modes in the United States in 2030. The majority of transportation is expected to be by road, with 45% of the total. The next most common mode is air, accounting for 15% of the total. The remaining transportation modes, including water and rail, are expected to make up the remaining 40% of the total. This suggests that the United States will continue to rely heavily on road transportation in the future."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_329",
+    "img": "./pie_chart/png/pie_329.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Public Spending on Social Services in the US, 2023",
+    "csv": "Social Services \\t Percentage \\n Education \\t 25% \\n Healthcare \\t 20% \\n Transportation \\t 15% \\n Housing and Community \\t 15% \\n Public Safety \\t 10% \\n Welfare \\t 10% \\n Other \\t 15% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a breakdown of public spending on social services in the United States for the year 2023. The pie chart shows that the majority of the budget is allocated to education, with 22.5% of the total spending. Other significant areas of spending include healthcare (18.5%), public safety (16.5%), housing and community development (12.5%), and transportation (11.5%). The remaining 10% is distributed among other social services. This information provides insight into the priorities and allocation of resources in the US for social services."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_484",
+    "img": "./pie_chart/png/pie_484.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Platforms in the Digital Marketplace, 2023",
+    "csv": "Platforms \\t Percentage \\n Desktop \\t 35% \\n Mobile \\t 45% \\n Tablet \\t 10% \\n Wearables \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays a distribution of technology platforms in the digital marketplace in 2021. The pie chart is divided into several segments, each representing a different technology platform. The largest segment is dedicated to mobile devices, which account for 40% of the market share. Other segments include tablets, wearables, and desktops, each with a smaller share of the market. The chart provides a visual representation of the popularity and prevalence of various technology platforms in the digital marketplace."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_197",
+    "img": "./pie_chart/png/pie_197.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the USA, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 50 \\n Female \\t 50 \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the gender distribution in the USA in 2023. It shows that the majority of the population consists of males, with 50% of the population being male and 50% being female. The chart is divided into two sections, one blue and one orange, representing the two genders. The blue section represents the female population, while the orange section represents the male population. This visual representation of the gender distribution in the USA highlights the equal representation of both genders in the population."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_321",
+    "img": "./pie_chart/png/pie_321.png",
+    "topic": "Technology and the Internet",
+    "title": " Market Share of Digital Platforms in 2023",
+    "csv": "Platforms \\t Market Share \\n Mobile \\t 40% \\n Desktop \\t 30% \\n Tablet \\t 15% \\n Video Game Console \\t 10% \\n Wearables \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the market share of digital platforms in 2021, with a focus on the gaming industry. The pie chart is divided into several segments, including mobile, desktop, video game console, wearables, and other digital platforms. The data shows that mobile devices hold the largest share of the market, accounting for 40% of the total market share. Desktop computers come in second, with a share of 35%, while video game consoles and wearables each have a share of 15%. The remaining 10% is distributed among other digital platforms. This indicates that the gaming industry is highly diversified, with various devices and platforms catering to different user preferences and needs."
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_320",
+    "img": "./pie_chart/png/pie_320.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage Distribution of Science and Engineering Fields in Higher Education, 2023",
+    "csv": "Areas \\t Percentage \\n Biological Sciences \\t 25% \\n Physics \\t 20% \\n Chemistry \\t 20% \\n Mathematics \\t 15% \\n Computer Science \\t 10% \\n Earth Science \\t 5% \\n Aerospace Engineering \\t 5% \\n ",
+    "model_name": "liuhaotian/llava-v1.5-13b",
+    "generated_caption": "The chart displays the distribution of science and engineering fields in higher education in 2021. It shows that the majority of students are pursuing degrees in physics, with 20% of the students enrolled in this field. Biological sciences come in second, with 18% of students, followed by mathematics, which accounts for 15% of the students. Other fields, such as earth science, computer science, and aerospace engineering, have smaller proportions of students, with 10%, 10%, and 5% respectively. The chart also shows that there is a significant number of students enrolled in various other fields, making up the remaining 20% of the distribution."
+  }
+]

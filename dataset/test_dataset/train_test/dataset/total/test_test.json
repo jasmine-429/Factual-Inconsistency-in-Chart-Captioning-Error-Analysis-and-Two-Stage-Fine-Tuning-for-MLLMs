@@ -1,0 +1,165 @@
+ [ 
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/9.png",
+    "imgname": "9",
+    "source": "description",
+    "sentence": "It shows the number of restaurants within eight distinct annual revenue brackets, ranging from less than $1 million to over $100 million.",
+    "label": 1
+  },
+    {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_399.png",
+    "imgname": "pie_399",
+    "id": "pie_399_9_lab",
+    "source": "summarization",
+    "sentence": "This indicates that while there is a trend towards diverse healthcare service options, Clinics and clinics are still the cornerstone of American healthcare provision.",
+    "label": 0
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/63.png",
+    "imgname": "treemap_63",
+    "id": "treemap_63_5_val",
+    "source": "description",
+    "sentence": "Sustainable Agriculture initiatives are allocated 25%, and the smallest percentage, 10%, is attributed to Eco-friendly Transport.",
+    "label": 0
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_249.png",
+    "imgname": "radar_249",
+    "id": "radar_249_4_trend",
+    "source": "description",
+    "sentence": "Network Security shows a consistent fall from 85 in Q1 to 100 in Q4.",
+    "label": 0
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_130.png",
+    "imgname": "rose_130",
+    "id": "rose_130_1_ooc",
+    "source": "title",
+    "sentence": "Shopping and Gaming have values of 250 and 200, respectively.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+   {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_227.png",
+    "imgname": "radar_227",
+    "id": "radar_227_7_mag",
+    "source": "description",
+    "sentence": "Lastly, regulation compliance is negligible as 85 for hydro, 79 for geothermal, 90 for wind, and 95 for solar.",
+    "label": 0
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_138.png",
+    "imgname": "bar_138",
+    "id": "bar_138_8",
+    "source": "summarization",
+    "sentence": "Europe is not far behind, offering 2,700 restaurants and a higher number of takeaways at 3,500, aligning with the trend toward convenience.",
+    "label": 1
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_291.png",
+    "imgname": "rings_291",
+    "id": "rings_291_3",
+    "source": "description",
+    "sentence": "The Retention Rate and Performance Evaluation both hold the largest share, each at 30%.",
+    "label": 1
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/19.png",
+    "imgname": "funnel_19",
+    "id": "funnel_19_4",
+    "source": "QA_sentence",
+    "sentence": "The value at the 'Feasibility Study' stage is 800.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_162.png",
+    "imgname": "line_162",
+    "id": "line_162_1",
+    "source": "title",
+    "sentence": "Employee Retention and Training Hours in a Company from 2015 to 2019",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_411.png",
+    "imgname": "pie_411",
+    "id": "pie_411_6",
+    "source": "summarization",
+    "sentence": "This data indicates a gender ratio where women slightly outnumber men, which could have various implications for market demographics, policy making, and social services.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_410.png",
+    "imgname": "pie_410",
+    "id": "pie_410_5",
+    "source": "summarization",
+    "sentence": "In the U.S. in 2023, Facebook leads as the most popular social media platform, capturing 30% of the usage share, according to the displayed pie chart.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_279.png",
+    "imgname": "bar_279",
+    "id": "bar_279_3_non",
+    "source": "description",
+    "sentence": "tourists restaurants hotels and , tourists the The . , UK dataset includes the USA with 1000 500 and 20,000 , with 800 hotels , 600 restaurants , 18,000",
+    "label": 0
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_58.png",
+    "imgname": "bar_58",
+    "id": "bar_58_5_ooc",
+    "source": "description",
+    "sentence": "The 2021 data reveals significant regional disparities in housing costs across the United States.",
+    "label": 0
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_321.png",
+    "imgname": "bar_num_321",
+    "id": "bar_num_321_3_val",
+    "source": "description",
+    "sentence": "The USA reports 800 million in Manufacturing, 1200 million in Agriculture, and 800 million in Services.",
+    "label": 0
+  },
+    {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_454.png",
+    "imgname": "bar_num_454",
+    "id": "bar_num_454_5_val",
+    "source": "QA_sentence",
+    "sentence": "The average home price in Los Angeles is 3 million.",
+    "label": 0
+  },
+   {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_277.png",
+    "imgname": "area_chart_277",
+    "id": "area_chart_277_2_lab",
+    "source": "description",
+    "sentence": "The area chart delineates the audience distribution across multiple categories of sports and entertainment, segmented by fan count for professional teams, collegiate teams, individual sports, e-sports, Professional Teams, movies, television, live events, gaming, and a category labeled \"Others.\"",
+    "label": 0
+  },
+   {
+    "chart_type": "funnel",
+    "img": "./funnel/png/309.png",
+    "imgname": "funnel_309",
+    "id": "funnel_309_3_lab",
+    "source": "description",
+    "sentence": "It then narrows down to the Feasibility Study with a value of 90, followed by Project Planning at 80, Initial inquiry at 70, and finally, the Operation stage with a value of 60.",
+    "label": 0
+  }
+]

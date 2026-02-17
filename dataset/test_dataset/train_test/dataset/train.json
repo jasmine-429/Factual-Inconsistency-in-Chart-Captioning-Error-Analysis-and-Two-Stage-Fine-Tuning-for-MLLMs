@@ -1,0 +1,2774 @@
+[
+  {
+    "id": "line_486_6_pos",
+    "image": "line_chart/png/line_486.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"February and March show a decrease in theft and murder but a continuous rise in fraud and robbery cases.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_318_4_pos",
+    "image": "bar_chart_num/png/bar_num_318.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK follows with 3000 restaurants, 7000 fast food chains, and 5000 bars.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_313_8_pos",
+    "image": "pie_chart/png/pie_313.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The percentage of Full-time Employees is 50% larger than Contractors.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_190_2_pos",
+    "image": "line_chart/png/line_190.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart depicts ABC Corporation's annual financial performance from 2018 to 2022, showcasing revenue and expenses.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_79_3_val",
+    "image": "multi-axes/png/multi-axes_79.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Indexed journals range from 55 in Philosophy to 150 in Psychology.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "radar_20_2_pos",
+    "image": "radar/png/radar_20.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The radar chart illustrates a performance comparison across five different metrics for Websites A, B, C, and D. Metrics being compared include Traffic, Engagement, Conversions, Brand Awareness, and Retention.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rose_29_4_pos",
+    "image": "rose/png/rose_29.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Environmental Policy follows with 350 people, then Social Welfare with 300 people.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_487_4_pos",
+    "image": "pie_chart/png/pie_487.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Twitter and YouTube are both used by 14% of the social media demographic.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_28_3_val",
+    "image": "bubble/png/bubble_28.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Fast Food restaurants reported sales of 600 million dollars, costs of 300 million, a profit margin of 25%, and a sustainability score of 4.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_345_3_pos",
+    "image": "pie_chart/png/pie_345.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Mutual Funds lead with a 30% share, followed by Bonds at 25%, and Real Estate at 20%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rings_165_1_ooc",
+    "image": "rings/png/rings_165.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Education leads with a 37% ratio, followed by Cultural Development at 25%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "treemap_147_2_pos",
+    "image": "treemap/png/147.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Production Share by Crop Type\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_178_3_val",
+    "image": "line_chart/png/line_178.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Average house prices, in thousands of dollars, show a steady increase from $230,000 in 2014 to $230,000 in 2018.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_435_3_val",
+    "image": "bar_chart/png/bar_435.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The USA recorded 400 million online users with 600 million searches, while the UK showed 400 million users undertaking 650 million searches.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_39_6_pos",
+    "image": "pie_chart/png/pie_39.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Air travel holds a significant share at 25%, reflecting its importance in long-distance and time-sensitive travel.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "histogram_108_5_pos",
+    "image": "histogram/png/108.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Online gaming and email communication have an average use of 2.2 and 0.9 hours, respectively.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_457_5_mag",
+    "image": "line_chart_num/png/line_num_457.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The year 2019 witnessed a slight decrease in filed lawsuits to 55,000 and a minimal drop in settled cases to 30,000.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_468_7_pos",
+    "image": "bar_chart_num/png/bar_num_468.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The total increase in debt from 2020 to 2023 is $300 billion.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_287_3_pos",
+    "image": "multi-axes/png/multi-axes_287.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"It includes data on inventory stock levels, unit price in dollars, average daily sales, and theft losses.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_18_6_pos",
+    "image": "box/png/box_18.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Plant D spans from 250 to 2300, with outliers at 2500 and 2900.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "radar_216_3_trend",
+    "image": "radar/png/radar_216.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Property Sale Volume decreased from 500 in Q1 to 650 in Q4.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_394_5_lab",
+    "image": "line_chart/png/line_394.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"January's production varies as A decreases to 800 units, B jumps to 1100 units, C to 1300 units, and D drops to 1200 units.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_385_8_mag",
+    "image": "bar_chart/png/bar_385.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The USA leads with a production of 3000 GWh, yet it consumes a massive 5000 GWh, indicating a minimal deficit.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "funnel_170_4_pos",
+    "image": "funnel/png/170.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The number of visitors decreases progressively through the subsequent stages: 900 on the Product Page, 600 in the Shopping Cart, 500 at Checkout, and culminating with 400 who reach the Payment step.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_73_5_pos",
+    "image": "multi-axes/png/multi-axes_73.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Theater, visual arts, literature, film, crafts, and photography also contribute to the cultural offerings, with visual arts showing the highest number at 250 for art exhibitions and 350 for live performances.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_252_6_pos",
+    "image": "box/png/box_252.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"There is 1 outlier for Ocean Freight's delivery time.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_83_5_val",
+    "image": "3D-Bar/png/3D-Bar_83.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The East has 500 law firms, 140 USD average hourly costs, and 350 cases.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_142_9_pos",
+    "image": "line_chart_num/png/line_num_142.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The Overweight Percentage for the age group 25-34 is 45.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_98_8_mag",
+    "image": "box/png/box_98.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Each subject has its median negligible, showing the central tendency of scores.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_461_9_mag",
+    "image": "bar_chart/png/bar_461.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK maintained competitive with 4000 hotels, 2500 restaurants, and a minimal 6000 attractions.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "box_170_6_val",
+    "image": "box/png/box_170.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Fine Dining has the highest price range, between $10 and $100, and an outlier at $150.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_405_3_ooc",
+    "image": "bar_chart_num/png/bar_num_405.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK follows with $15 billion in GDP and $12 billion in government spending.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_220_11_pos",
+    "image": "pie_chart/png/pie_220.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The combined percentage of Laptop and Tablet users is 35%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_136_3_ooc",
+    "image": "bubble/png/bubble_136.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Advances in Science and Engineering - The Impact of Research Investment\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_124_5_ooc",
+    "image": "bar_chart_num/png/bar_num_124.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In contrast, the UK's energy profile includes 30% renewable, 35% fossil, and 10% nuclear energy.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_200_5_mag",
+    "image": "line_chart/png/line_200.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The US retail market has witnessed minimal growth from 2015 to 2020, both in overall retail sales and e-commerce.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rose_10_2_trend",
+    "image": "rose/png/rose_10.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The fell chart illustrates the number of public policies in various areas for 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_116_2_non",
+    "image": "heatmap/png/heatmap_116.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The heatmap illustrates the performance four of during teams of a regular season in terms NBA percentages.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_147_7_pos",
+    "image": "bar_chart/png/bar_147.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In 2021, the cultural landscapes of USA, UK, Germany, and France showcased a diverse array of artworks.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_133_11_pos",
+    "image": "bar_chart/png/bar_133.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In conclusion, New York stands out as the state with the most robust legal professional workforce among the four analyzed.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_49_9_pos",
+    "image": "line_chart/png/line_49.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Hydro power, while starting strong at 800 kW-h in January, experienced a gradual decline, bottoming out at 400 kW-h in September.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_101_10_pos",
+    "image": "bubble/png/bubble_101.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Family Law has 110,000 cases, an impact score of 78, the most lawyers at 13,000, and a change score of 8.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_8_7_mag",
+    "image": "line_chart_num/png/line_num_8.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"May negligible the highest volumes: 1500 trucks, 700 planes, and 800 ships.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_365_2_pos",
+    "image": "line_chart_num/png/line_num_365.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart illustrates the crop production in tons for four different crops in the USA over a span of five years, from 2011 to 2015.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_197_5_pos",
+    "image": "bubble/png/bubble_197.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Nanotechnology is at 70% efficiency, $30 billion cost, 6 years of research, and an 8 score.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_469_9_pos",
+    "image": "line_chart/png/line_469.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The overall pattern indicates that as criminal cases rose, civil cases diminished quite consistently year over year.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "candlestick_163_4_pos",
+    "image": "candlestick/png/candlestick_163.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"For instance, January 2019 saw an opening price of $120, a closing price of $122, and it fluctuated between $125 high and $115 low.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_259_5_pos",
+    "image": "pie_chart/png/pie_259.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This indicates that efforts towards gender equality in the workplace may be yielding results, achieving an equitable representation that many organizations and societies strive for.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_343_2_trend",
+    "image": "line_chart_num/png/line_num_343.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This line chart presents the rise in electricity consumption measured in kilowatt-hours (kWh) alongside the decrease in renewable energy usage from 2020 to 2024 in the US.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "funnel_316_3_lab",
+    "image": "funnel/png/316.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The highest value is at the 'Delivery' stage with 1000, followed by 'Delivery' at 800, 'Distribution' at 600, 'Logistics' at 400, 'Planning' at 200, and 'Others' at 120, indicating the descending order of values through the stages of the system.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_103_3_lab",
+    "image": "bar_chart_num/png/bar_num_103.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK is represented with 20 sports teams, 50 events, and 400,000 viewers.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_226_11_trend",
+    "image": "line_chart/png/line_226.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The trends suggest a stable economy with controlled inflation and a slight decrease in government investment over the four-year period.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_36_3_ooc",
+    "image": "line_chart/png/line_36.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart illustrates the distribution of employees across different age groups in an organization.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_160_12_non",
+    "image": "bar_chart/png/bar_160.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This suggests a higher propensity France other litigation in for when compared civil the examined. countries to\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_231_2_pos",
+    "image": "bar_chart_num/png/bar_num_231.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bar chart titled \"Number of Manufacturing Units and Employees in four countries in 2021\" shows the count of manufacturing units and the number of employees in each unit across USA, UK, Germany, and France.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_258_3_non",
+    "image": "3D-Bar/png/3D-Bar_258.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Oil production barrels, represented in million 123 ranging from 2019 in is to 130 in 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_11_5_pos",
+    "image": "line_chart_num/png/line_num_11.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"There were 200000 more attendees in New York compared to Miami.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "treemap_129_6_pos",
+    "image": "treemap/png/129.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The combined percentage of Television Programs and Amusement Parks in the revenue distribution is 9%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rings_240_1_ooc",
+    "image": "rings/png/rings_240.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Sustainability Performance Report - 2023\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_23_4_val",
+    "image": "bar_chart_num/png/bar_num_23.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Europe has 1100 tons for air freight, 1300 tons for ground, and 1100 for water.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_147_1_pos",
+    "image": "multi-axes/png/multi-axes_147.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Nonprofit Organizations Growth Analysis: Revenue, Expenses, and Net Asset (2010-2019)\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_461_4_pos",
+    "image": "pie_chart/png/pie_461.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Online Gaming and Other categories each represent 10% of the digital platform usage.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_486_6_ooc",
+    "image": "bar_chart_num/png/bar_num_486.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Lastly, France shows 800 million from Manufacturing, the highest Agriculture contribution with 1500 million, and 1400 million from Services.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_439_5_ooc",
+    "image": "bar_chart/png/bar_439.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Number of Arts and Culture venues in four countries in 2021\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "box_138_8_mag",
+    "image": "box/png/box_138.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Each educational level has negligible quartiles and median values.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_349_6_lab",
+    "image": "bar_chart/png/bar_349.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"USA had a voting age population of 64 million and 49 million voters.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_356_9_pos",
+    "image": "pie_chart/png/pie_356.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The Automotive sector is a close second at 20%, followed by Electronics at 19%, showcasing a substantial focus on technology-driven industries.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "histogram_126_5_pos",
+    "image": "histogram/png/126.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Online store numbers are not shown directly but are assumed to correlate with sales distribution across the months.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rose_239_3_non",
+    "image": "rose/png/rose_239.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"trips. transport leads with 1000 trips, Road by rail followed 800 with\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_358_2_pos",
+    "image": "line_chart/png/line_358.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart illustrates the emissions of environmental pollutants in the US over a five-year period, from 2010 to 2014.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_398_4_trend",
+    "image": "line_chart/png/line_398.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"At 273K, the pressure is 100 kPa with a density of 2 kg/m\u00b3, and at 600K, the pressure reaches 450 kPa with a density of 14 kg/m\u00b3. Other data points span temperatures of 300K, 350K, 400K, 450K, 500K, and 550K with corresponding decreases in pressure and density.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_31_10_trend",
+    "image": "line_chart/png/line_31.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The 2021 line chart data reveals that happiness and life satisfaction scores generally decrease with age, peaking in the 46-55 age group, with happiness at 8.0 and life satisfaction at 7.7 out of 10.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "radar_92_3_ooc",
+    "image": "radar/png/radar_92.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Instagram, YouTube, LinkedIn, and Pinterest display varying figures across these metrics, reflecting differences in user base size, engagement, average time spent, ad revenue, and global reach for each platform.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_54_5_pos",
+    "image": "area_chart/png/area_chart_54.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Asia has 30, 20, 40, 20, and 50 fans respectively; Africa has 20, 10, 30, 10, and 40; while South America's numbers are 40 for baseball, 30 for soccer, 20 for basketball, 30 for hockey, and 50 for football.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_178_6_pos",
+    "image": "line_chart/png/line_178.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The trend of housing costs in the United States from 2014 to 2018 shows a consistent increase in both property prices and rent.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_382_6_pos",
+    "image": "bar_chart/png/bar_382.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In 2021, the data on legal infrastructure among four countries reveals that the USA leads with the highest number of lawyers at 20,000 and courts at 5,000.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_122_5_ooc",
+    "image": "area_chart/png/area_chart_122.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"For music, there are 100 artists, 150 performers, 50 museums, 75 galleries, and 200 venues.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bubble_59_10_pos",
+    "image": "bubble/png/bubble_59.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The Carbon Footprint per capita in Australia is 16.2.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_125_5_mag",
+    "image": "bubble/png/bubble_125.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Amazon shows $386,064 million revenue, $21,903 million profit, a 10% market share, with a minimal workforce of 798,000.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_98_4_pos",
+    "image": "pie_chart/png/pie_98.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Animal welfare is allocated 15%, while disaster relief, social welfare, and environmental issues each hold 10% of the total donations.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_401_8_trend",
+    "image": "line_chart/png/line_401.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Starting in January, with vegetable production at 2000 tons, grains at 3000 tons, and fruits peaking at 4000 tons, each category saw a subsequent decrease.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "treemap_227_2_non",
+    "image": "treemap/png/227.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"of treemap illustrates the allocation The research funds science various across and engineering fields.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_346_3_non",
+    "image": "bar_chart_num/png/bar_num_346.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Facebook leads 2.8 revenue. billion users and $86 billion in ad with\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_336_7_trend",
+    "image": "line_chart_num/png/line_num_336.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The Barley Yield decreased by 100 tons from 2001 to 2002.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "funnel_238_3_pos",
+    "image": "funnel/png/238.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"At the Initial Inquiry stage, there are 1000 shipments.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_256_1_pos",
+    "image": "bar_chart_num/png/bar_num_256.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Average scores of Math, English and Science in four grades in 2021\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_70_4_mag",
+    "image": "multi-axes/png/multi-axes_70.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"China, with a notably larger population of 1426 million, has a GDP of 16532 billion USD, an unemployment rate of 3.6%, and minimal transport infrastructure spending of 584 billion USD.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_174_3_lab",
+    "image": "bar_chart_num/png/bar_num_174.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The UK has 500 hospitals, 4000 doctors, and 8000 nurses.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_497_3_pos",
+    "image": "bar_chart_num/png/bar_num_497.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In 2015, there were 5500 kg of CO2 emissions, 7% renewable energy, and 2% electric vehicles.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_108_2_pos",
+    "image": "bubble/png/bubble_108.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bubble chart represents the production volume, factory floor area, net profit, and safety rating for various products in 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "histogram_295_3_pos",
+    "image": "histogram/png/295.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"It shows that freshmen have an average GPA of 2.9, sophomores have a slightly higher average GPA of 3.1, juniors have an average GPA of 3.2, while seniors show a further increase with an average GPA of 3.4.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_19_3_mag",
+    "image": "bar_chart_num/png/bar_num_19.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"North America's median home price is negligible at 500 with a 2.5% interest rate, Europe follows with a median price of 400 and a 1.6% rate.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "treemap_269_4_lab",
+    "image": "treemap/png/269.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Human Resources, Operations, and IT each account for 10% of the workforce, while Finance represents 5%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_140_1_ooc",
+    "image": "histogram/png/140.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Revenue Distribution Across Various Companies\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rose_212_4_mag",
+    "image": "rose/png/rose_212.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Soybeans yield is negligible at 8, sunflowers at 9, and barley has a value of 10.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_181_8_trend",
+    "image": "multi-axes/png/multi-axes_181.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The total federal debt decreased by 710 billion dollars from 2007 to 2008.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_27_4_pos",
+    "image": "3D-Bar/png/3D-Bar_27.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"By 2023, R&D spending increased to 415 billion USD, high-tech exports to 1280 billion USD, and patents issued decreased to 1400.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "candlestick_165_2_non",
+    "image": "candlestick/png/candlestick_165.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The candlestick stock illustrates week daily the price movement of May logistics company in the first a of chart 2018.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_352_2_non",
+    "image": "bar_chart/png/bar_352.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"on bar chart illustrates individual data This salaries, bonus percentages, and leave days for employees in 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_161_4_trend",
+    "image": "3D-Bar/png/3D-Bar_161.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"By 2023, coal production decreased to 2.0 million tonnes, oil production dropped to 3.2 million barrels per day, and electricity generation rose to 11.4 terawatt hours.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_208_6_mag",
+    "image": "area_chart/png/area_chart_208.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The 4th quarter negligible the peak with 650 single-family homes, 550 condominiums, and 450 townhouse sales.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_143_2_non",
+    "image": "line_chart_num/png/line_num_143.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The in chart illustrates the monthly kWh consumption line in the solar energy generation alongside kWh for electricity year 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_497_3_ooc",
+    "image": "line_chart_num/png/line_num_497.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Monthly cases of Pneumonia, Colds and Influenza in 2020\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "radar_186_6_non",
+    "image": "radar/png/radar_186.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Nuclear energy cost, rated 92 is efficiency, 95 in sustainability, 70 in in in in maintenance, 85 80 and safety.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_353_13_pos",
+    "image": "bar_chart/png/bar_353.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The tax revenue for Germany is 1050 billion.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_153_5_trend",
+    "image": "line_chart/png/line_153.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Each subsequent year shows a consistent decrease in both scientific papers and patents granted.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_119_2_non",
+    "image": "line_chart_num/png/line_num_119.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The to number illustrates the trend in the billion of visitors (in millions) and revenue generated six a dollars) over years, (in of chart span from 2017 line 2022.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_437_8_lab",
+    "image": "pie_chart/png/pie_437.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Smartphones and smartwatches have a smaller share with 15% and 7% respectively, while all other devices collectively make up just 6%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_83_7_val",
+    "image": "bar_chart_num/png/bar_num_83.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The revenue increased by 20 million from 2020 to 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_246_5_lab",
+    "image": "pie_chart/png/pie_246.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Nuclear energy contributes 10%, and Oil, such as wind, solar, and hydro, make up 15% of the global energy palette.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_248_5_pos",
+    "image": "3D-Bar/png/3D-Bar_248.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Drama genre accounts for 90 million movie tickets, 88 million music records, and 100 million video games sold.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_48_3_pos",
+    "image": "bubble/png/bubble_48.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Wheat shows a production volume of 730 million tonnes, using 220 million hectares, with a 20% profit margin and a sustainability score of 8.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_285_9_pos",
+    "image": "box/png/box_285.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Furniture shows the highest variability in production time based on the interquartile range (Q3 - Q1).\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_171_5_val",
+    "image": "area_chart/png/area_chart_171.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Graduate enrollments show 300 in Science, 300 in Math, 350 in Literature, 250 in History, and 300 in Art.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "funnel_226_4_non",
+    "image": "funnel/png/226.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The engagement 'Retention' stage has the lowest showcasing at 100, the final narrowing of customer value throughout the stages.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_106_5_pos",
+    "image": "pie_chart/png/pie_106.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Bakery items and grains each hold 10%, while snack foods, beverages, and seafood represent 7%, 7%, and 5% respectively.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_159_2_lab",
+    "image": "area_chart/png/area_chart_159.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This area chart represents the user count across various platforms categorized under Social Media and Social media Usage.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_103_2_pos",
+    "image": "bar_chart_num/png/bar_num_103.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bar chart entitled \"Number of sports teams, events, and viewers in four countries in 2021\" compares the sports landscape across the USA, UK, Germany, and France.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_70_9_pos",
+    "image": "bar_chart/png/bar_70.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Each month saw an increase, leading up to April with an impressive total of $1000 million in sales, $550 million attributed to online shopping.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_300_1_pos",
+    "image": "bar_chart/png/bar_300.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Number of tourists and income generated in four countries in 2021\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_476_7_mag",
+    "image": "line_chart/png/line_476.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Twitter and Instagram showed more rapid relative increases, with Twitter users growing from 0.4 billion to 2.7 billion, and Instagram users making a minimal leap from 0.3 billion to 3.0 billion.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_416_9_val",
+    "image": "bar_chart/png/bar_416.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"UNICEF also shows strong backing with 900 thousand in donations, coupled with a significant force of 400 volunteers.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_270_12_mag",
+    "image": "bar_chart/png/bar_270.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"These trends highlight the USA's minimal investment in a diverse range of cultural institutions.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_170_7_ooc",
+    "image": "bar_chart/png/bar_170.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Germany hosted 420 theatre performances, slightly more than the USA, and had 650 museum visits.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_num_144_6_lab",
+    "image": "line_chart_num/png/line_num_144.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The production of Product B in January was 20 million.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bubble_8_5_pos",
+    "image": "bubble/png/bubble_8.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Facebook leads with 2.5 million users, 180 minutes spent, and $50 billion in ad revenue, alongside an engagement score of 10.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_96_3_val",
+    "image": "3D-Bar/png/3D-Bar_96.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In 2017, there were 710 physics graduates, 780 chemistry, 850 in computer science, and 900 in engineering.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_322_4_pos",
+    "image": "bar_chart_num/png/bar_num_322.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In the South, there are 500 cases filed with 450 closed.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_32_11_lab",
+    "image": "heatmap/png/heatmap_32.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"There are 5 categories with a Visual arts score of 10 or less.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rings_282_2_pos",
+    "image": "rings/png/rings_282.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The ring chart provides an overview of performance metrics in retail and e-commerce for 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "radar_291_3_lab",
+    "image": "radar/png/radar_291.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The domains compared are site traffic, user engagement, content quality, site navigation, and Site Traffic.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bubble_246_5_val",
+    "image": "bubble/png/bubble_246.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Financial jobs show 10,000 employees, a $5,000 average salary, and scores of 9 in satisfaction and 6 for benefits.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_131_1_pos",
+    "image": "pie_chart/png/pie_131.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Employee Management Categories for Organizations in 2021\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_381_7_pos",
+    "image": "pie_chart/png/pie_381.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Wind energy also plays a significant role at 20%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_234_6_trend",
+    "image": "line_chart_num/png/line_num_234.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"By 2013, A's donations fell to $150 million, B's to $120 million, C's to $140 million, and D's decreased significantly to $80 million.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_257_4_trend",
+    "image": "3D-Bar/png/3D-Bar_257.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Criminal cases show a similar upward trend, starting at 220 thousand and falling to 270 thousand.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "box_161_6_pos",
+    "image": "box/png/box_161.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Retailer D's prices are between 15 and 95, with an outlier at 180.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_249_6_pos",
+    "image": "line_chart_num/png/line_num_249.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The upward trend of GDP continues, reaching 30 billion in 2022 with Unemployment further dropping to 2.8%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_312_5_val",
+    "image": "bar_chart_num/png/bar_num_312.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The East region has higher purchase and rental averages at $550 and $850, respectively.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rose_226_2_trend",
+    "image": "rose/png/rose_226.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The fell chart illustrates the number of tech professionals specializing in different fields.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_496_5_pos",
+    "image": "line_chart/png/line_496.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Throughout the first half of 2020, sales trends across online, retail store, and wholesale channels displayed a growing trajectory.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "candlestick_193_5_pos",
+    "image": "candlestick/png/candlestick_193.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The pattern continues, with each day showing an increase in both opening and closing prices, peaking on October 8th with an opening price of $195, closing at $200, a high of $205, and a low of $190.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_293_7_pos",
+    "image": "3D-Bar/png/3D-Bar_293.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"LinkedIn and Pinterest report 260 and 459 million users, 2 and 3 minutes daily use, and 238 and 419 million monthly actives, respectively.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "rings_23_3_lab",
+    "image": "rings/png/rings_23.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"'Music and Dance' and 'Music and dance' each hold a 20% ratio, 'Theatre and Drama' is slightly higher at 25%, 'Performing Arts' also accounts for 20%, and 'Art and Design' has the smallest share, with a 15% ratio.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_133_1_ooc",
+    "image": "bar_chart_num/png/bar_num_133.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bar chart titled \"Sports and Entertainment Attendance and Tickets Sold in 2021\" presents data on attendees and tickets sold for four different sports events.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_138_7_mag",
+    "image": "heatmap/png/heatmap_138.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Streaming services and Online Gaming show minimal figures but less than the E-commerce category.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rings_73_3_lab",
+    "image": "rings/png/rings_73.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Grants constitutes the largest portion at 50%, followed by grants at 25%.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bubble_134_5_mag",
+    "image": "bubble/png/bubble_134.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Transportation is negligible by $300 million funding, a 6.5 score, 65% satisfaction, and a 2% economy boost.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "treemap_24_1_pos",
+    "image": "treemap/png/24.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Percentage Distribution of Manufacturing Production by Product Type in 2023\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_118_2_pos",
+    "image": "area_chart/png/area_chart_118.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The area chart portrays the revenue and sales distributions across various categories within the food industry.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "radar_285_4_val",
+    "image": "radar/png/radar_285.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"\"Collaboration\" is marked at 60 in Q1 and increases to 90 in Q4.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_51_9_pos",
+    "image": "bar_chart/png/bar_51.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Habitat for Humanity has 3000 volunteers.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "radar_288_6_ooc",
+    "image": "radar/png/radar_288.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Each crop is analyzed similarly across these five parameters.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_193_2_pos",
+    "image": "pie_chart/png/pie_193.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The pie chart represents the global distribution of Social Sciences and Humanities Research in 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_100_5_trend",
+    "image": "3D-Bar/png/3D-Bar_100.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"By May, vegetable harvests decrease to 300 tons, meat production to 400 tons, dairy production to 560 tons, and grain yield to 700 tons.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_111_6_val",
+    "image": "histogram/png/111.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"43 schools have a student enrollment of less than 12 thousand.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_120_5_pos",
+    "image": "3D-Bar/png/3D-Bar_120.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Instagram has 500 million daily and 1000 million monthly active users with $20 billion revenue.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_274_6_pos",
+    "image": "box/png/box_274.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Organization D's donations varied from 25 to 205, with outliers at 10 and 15.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_176_4_pos",
+    "image": "3D-Bar/png/3D-Bar_176.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Confectionery sales progressed from 200 million dollars in 2019 to 280 million dollars in 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_293_6_non",
+    "image": "bubble/png/bubble_293.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Environmental Policy registers a in billion economic impact, $1500 highest 300 a education 90, impacts allocation. million people, and receives scores 7% budget with\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_155_6_non",
+    "image": "3D-Bar/png/3D-Bar_155.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The the at has 110 highest with salary the training hours employees 140 and department highest average IT at $850.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "pie_100_2_pos",
+    "image": "pie_chart/png/pie_100.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The pie chart illustrates the distribution of renewable energy sources in the U.S. for the year 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_359_6_pos",
+    "image": "line_chart_num/png/line_num_359.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The upward trend continued in 2021, reaching 600 million dollars in donations, 350,000 volunteer hours, and 5,000 volunteers.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_236_5_lab",
+    "image": "heatmap/png/heatmap_236.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Football's overall revenue is 200, with a more balanced distribution across sources.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_17_5_pos",
+    "image": "multi-axes/png/multi-axes_17.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Robotics features 180 patents, 1800 research papers, and 120 products; Power and Energy has 190 patents, 1700 research papers, and 95 products.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "histogram_33_1_pos",
+    "image": "histogram/png/33.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Average Test Scores by Educational Grade Level\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_85_8_mag",
+    "image": "line_chart/png/line_85.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Immediate and minimal action is required to bridge this gap and steer towards a more sustainable future.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_260_6_pos",
+    "image": "area_chart/png/area_chart_260.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The number of Customers increased from 12,000 in January to 40,000 in December.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_403_2_pos",
+    "image": "pie_chart/png/pie_403.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The pie chart illustrates the distribution of different forms of arts worldwide in 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_18_3_pos",
+    "image": "heatmap/png/heatmap_18.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The areas of spending include education, healthcare, transportation, taxation, and social services, with each country allocating percentages of their budget differently.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_298_3_val",
+    "image": "line_chart_num/png/line_num_298.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In January, online sales were at 750 billion dollars, and retail sales at 800 billion, totaling 1300 billion dollars in sales.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "heatmap_146_6_pos",
+    "image": "heatmap/png/heatmap_146.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The dataset includes similar figures for Baseball, Soccer, Hockey, Tennis, Golf, Racing, Concerts, and Theater, each with respective sales, revenue, and pricing details.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_143_4_ooc",
+    "image": "multi-axes/png/multi-axes_143.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"February saw a slight decrease with 180 trucks and $14 million.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_163_5_pos",
+    "image": "bar_chart_num/png/bar_num_163.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"March continued the trend with online sales at 3700 million and store sales at 2500 million.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_num_437_5_lab",
+    "image": "line_chart_num/png/line_num_437.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"There's a consistent upward trend, concluding in January with wheat at 750 tons, rice at 850 tons, and corn reaching the peak at 950 tons.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_108_4_pos",
+    "image": "multi-axes/png/multi-axes_108.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The number of cases and legal expenditures increased annually, reaching 500 cases and 700 million dollars in expenses by 2020.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "pie_424_4_ooc",
+    "image": "pie_chart/png/pie_424.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This pie chart data suggests a clear trend towards mobile computing, with smartphones and laptops being the most favored devices among Americans.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "3D-Bar_220_4_trend",
+    "image": "3D-Bar/png/3D-Bar_220.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"For Q2, figures fell to $220 million in revenue, $170 million expenditure, and $350 million profit.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rose_38_2_non",
+    "image": "rose/png/rose_38.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The entertainment chart illustrates the popularity of various sports and rose categories in 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "box_257_4_pos",
+    "image": "box/png/box_257.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Criminal Law shows a range from $45,000 to $150,000, with outliers at $170,000 and $190,000.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_198_3_lab",
+    "image": "box/png/box_198.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The plot shows the minimum, first quartile (Min), median, third quartile (Q3), maximum values, and any outliers for decision times.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_251_2_non",
+    "image": "histogram/png/251.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"This histogram per illustrates average yield different hectare for sector. crop types the the agriculture in\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_143_6_val",
+    "image": "bar_chart/png/bar_143.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In a comparison of weekly hours dedicated to social studies and humanities in 2021 across four countries, the USA allocates 8 hours for social studies and 12 for humanities.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "rose_121_7_non",
+    "image": "rose/png/rose_121.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"and value difference between Waste Management Efficiency Energy initiatives The is 47.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_56_2_pos",
+    "image": "histogram/png/56.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The histogram illustrates the percentage breakdown of total energy production in the United States by source for the year 2023.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bubble_19_4_pos",
+    "image": "bubble/png/bubble_19.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The Supercomputer project costs 20 billion dollars, takes 7 years of research with 300 scientists, and scores 9 in outcomes.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "bar_398_1_pos",
+    "image": "bar_chart/png/bar_398.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Comparison of Retail and E-commerce sales in four countries in 2021\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_78_6_trend",
+    "image": "line_chart/png/line_78.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart depicting hourly renewable energy production in North America on April 1, 2021, illustrates a consistent decrease in both solar and wind energy production as the hours pass.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_229_2_pos",
+    "image": "bar_chart/png/bar_229.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The bar chart illustrates the number of sports teams and their corresponding fan base in millions across four countries for the year 2021.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "box_20_2_lab",
+    "image": "box/png/box_20.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The box plot represents the efficiency ranking of various government agencies in 2021, showing minimum, first quartile (Min), median, third quartile (Q3), maximum, and outliers for their scores.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "multi-axes_264_8_non",
+    "image": "multi-axes/png/multi-axes_264.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Tax, Regulatory, Contract of cases, Intellectual Property and varying respective numbers have Disputes, resolution times, and settlement amounts Cases with figures.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "line_75_2_pos",
+    "image": "line_chart/png/line_75.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The line chart illustrates the academic performance of students from grades 5 through 9 in Mathematics, Science, and Social Sciences.\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "line_50_4_val",
+    "image": "line_chart/png/line_50.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Over the five-year period, birth rates fluctuated slightly between 25 and 25 per 1000, death rates hovered between 10 and 12 per 1000, and life expectancy ranged from 79 to 82 years.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "candlestick_127_2_ooc",
+    "image": "candlestick/png/candlestick_127.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The closing price fluctuated each week, with the data showing a consistent range of movement between the high and low prices, and ending with an opening price of $107 and a closing price of $108.6 on 2020-09-30, with the week's high at $109.2 and low at $106.2.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "area_chart_70_4_non",
+    "image": "area_chart/png/area_chart_70.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Criminal Law 20 fluctuate, beginning by 30 peaking January, with in 35 in February, and then dropping to at cases June.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "bar_num_370_4_val",
+    "image": "bar_chart_num/png/bar_num_370.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"In the USA, 92% are enrolled in high school, 45% in universities, with a 25% graduation rate.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  },
+  {
+    "id": "histogram_209_1_pos",
+    "image": "histogram/png/209.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"Analysis of Firm Sizes by Annual Revenue in the Financial Sector\""
+      },
+      {
+        "from": "gpt",
+        "value": "Yes"
+      }
+    ]
+  },
+  {
+    "id": "candlestick_14_2_non",
+    "image": "candlestick/png/candlestick_14.png",
+    "conversations": [
+      {
+        "from": "human",
+        "value": "Does the image entail this statement:\n\"The covering chart data the illustrates trends candlestick the Education and Academics sector, with weekly of points June financial 2019.\""
+      },
+      {
+        "from": "gpt",
+        "value": "No"
+      }
+    ]
+  }
+]

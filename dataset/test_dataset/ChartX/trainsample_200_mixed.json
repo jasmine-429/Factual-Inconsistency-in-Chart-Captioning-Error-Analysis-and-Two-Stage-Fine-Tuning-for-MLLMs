@@ -1,0 +1,2142 @@
+[
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/56.png",
+    "imgname": "histogram_56",
+    "id": "histogram_56_2",
+    "source": "description",
+    "sentence": "The histogram illustrates the percentage breakdown of total energy production in the United States by source for the year 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_382.png",
+    "imgname": "bar_382",
+    "id": "bar_382_6",
+    "source": "summarization",
+    "sentence": "In 2021, the data on legal infrastructure among four countries reveals that the USA leads with the highest number of lawyers at 20,000 and courts at 5,000.",
+    "label": 1
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_171.png",
+    "imgname": "area_chart_171",
+    "id": "area_chart_171_5",
+    "source": "description",
+    "sentence": "Graduate enrollments show 300 in Science, 300 in Math, 350 in Literature, 250 in History, and 300 in Art.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/108.png",
+    "imgname": "histogram_108",
+    "id": "histogram_108_5",
+    "source": "description",
+    "sentence": "Online gaming and email communication have an average use of 2.2 and 0.9 hours, respectively.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/126.png",
+    "imgname": "histogram_126",
+    "id": "histogram_126_5",
+    "source": "description",
+    "sentence": "Online store numbers are not shown directly but are assumed to correlate with sales distribution across the months.",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_143.png",
+    "imgname": "multi-axes_143",
+    "id": "multi-axes_143_4_ooc",
+    "source": "description",
+    "sentence": "February saw a slight decrease with 180 trucks and $14 million.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_20.png",
+    "imgname": "box_20",
+    "id": "box_20_2",
+    "source": "description",
+    "sentence": "The box plot represents the efficiency ranking of various government agencies in 2021, showing minimum, first quartile (Min), median, third quartile (Q3), maximum, and outliers for their scores.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_28.png",
+    "imgname": "bubble_28",
+    "id": "bubble_28_3",
+    "source": "description",
+    "sentence": "Fast Food restaurants reported sales of 600 million dollars, costs of 300 million, a profit margin of 25%, and a sustainability score of 4.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_147.png",
+    "imgname": "bar_147",
+    "id": "bar_147_7",
+    "source": "summarization",
+    "sentence": "In 2021, the cultural landscapes of USA, UK, Germany, and France showcased a diverse array of artworks.",
+    "label": 1
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_107.png",
+    "imgname": "heatmap_107",
+    "id": "heatmap_107_2",
+    "source": "description",
+    "sentence": "The heatmap illustrates data on impact and engagement in nonprofits across five categories: Education, Health, Environment, Poverty, and Human Rights.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_381.png",
+    "imgname": "pie_381",
+    "id": "pie_381_7",
+    "source": "summarization",
+    "sentence": "Wind energy also plays a significant role at 20%.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_249.png",
+    "imgname": "line_num_249",
+    "id": "line_num_249_6",
+    "source": "description",
+    "sentence": "The upward trend of GDP continues, reaching 30 billion in 2022 with Unemployment further dropping to 2.8%.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/209.png",
+    "imgname": "histogram_209",
+    "id": "histogram_209_1",
+    "source": "title",
+    "sentence": "Analysis of Firm Sizes by Annual Revenue in the Financial Sector",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_8.png",
+    "imgname": "line_num_8",
+    "id": "line_num_8_7",
+    "source": "description",
+    "sentence": "May negligible the highest volumes: 1500 trucks, 700 planes, and 800 ships.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_394.png",
+    "imgname": "line_394",
+    "id": "line_394_5",
+    "source": "description",
+    "sentence": "January's production varies as A decreases to 800 units, B jumps to 1100 units, C to 1300 units, and D drops to 1200 units.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_198.png",
+    "imgname": "box_198",
+    "id": "box_198_3",
+    "source": "description",
+    "sentence": "The plot shows the minimum, first quartile (Min), median, third quartile (Q3), maximum values, and any outliers for decision times.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_118.png",
+    "imgname": "area_chart_118",
+    "id": "area_chart_118_2",
+    "source": "description",
+    "sentence": "The area chart portrays the revenue and sales distributions across various categories within the food industry.",
+    "label": 1
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/238.png",
+    "imgname": "funnel_238",
+    "id": "funnel_238_3",
+    "source": "description",
+    "sentence": "At the Initial Inquiry stage, there are 1000 shipments.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_352.png",
+    "imgname": "bar_352",
+    "id": "bar_352_2",
+    "source": "description",
+    "sentence": "on bar chart illustrates individual data This salaries, bonus percentages, and leave days for employees in 2021.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_23.png",
+    "imgname": "rings_23",
+    "id": "rings_23_3",
+    "source": "description",
+    "sentence": "'Music and Dance' and 'Music and dance' each hold a 20% ratio, 'Theatre and Drama' is slightly higher at 25%, 'Performing Arts' also accounts for 20%, and 'Art and Design' has the smallest share, with a 15% ratio.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_79.png",
+    "imgname": "multi-axes_79",
+    "id": "multi-axes_79_3",
+    "source": "description",
+    "sentence": "Indexed journals range from 55 in Philosophy to 150 in Psychology.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_416.png",
+    "imgname": "bar_416",
+    "id": "bar_416_9",
+    "source": "summarization",
+    "sentence": "UNICEF also shows strong backing with 900 thousand in donations, coupled with a significant force of 400 volunteers.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_346.png",
+    "imgname": "bar_num_346",
+    "id": "bar_num_346_3",
+    "source": "description",
+    "sentence": "Facebook leads 2.8 revenue. billion users and $86 billion in ad with",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_98.png",
+    "imgname": "box_98",
+    "id": "box_98_8",
+    "source": "description",
+    "sentence": "Each subject has its median negligible, showing the central tendency of scores.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_437.png",
+    "imgname": "line_num_437",
+    "id": "line_num_437_5",
+    "source": "description",
+    "sentence": "There's a consistent upward trend, concluding in January with wheat at 750 tons, rice at 850 tons, and corn reaching the peak at 950 tons.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_385.png",
+    "imgname": "bar_385",
+    "id": "bar_385_8",
+    "source": "summarization",
+    "sentence": "The USA leads with a production of 3000 GWh, yet it consumes a massive 5000 GWh, indicating a minimal deficit.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_50.png",
+    "imgname": "line_50",
+    "id": "line_50_4",
+    "source": "description",
+    "sentence": "Over the five-year period, birth rates fluctuated slightly between 25 and 25 per 1000, death rates hovered between 10 and 12 per 1000, and life expectancy ranged from 79 to 82 years.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_353.png",
+    "imgname": "bar_353",
+    "id": "bar_353_13",
+    "source": "QA_sentence",
+    "sentence": "The tax revenue for Germany is 1050 billion.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_359.png",
+    "imgname": "line_num_359",
+    "id": "line_num_359_6",
+    "source": "description",
+    "sentence": "The upward trend continued in 2021, reaching 600 million dollars in donations, 350,000 volunteer hours, and 5,000 volunteers.",
+    "label": 1
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_29.png",
+    "imgname": "rose_29",
+    "id": "rose_29_4",
+    "source": "description",
+    "sentence": "Environmental Policy follows with 350 people, then Social Welfare with 300 people.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/111.png",
+    "imgname": "histogram_111",
+    "id": "histogram_111_6",
+    "source": "QA_sentence",
+    "sentence": "43 schools have a student enrollment of less than 12 thousand.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_138.png",
+    "imgname": "heatmap_138",
+    "id": "heatmap_138_7",
+    "source": "description",
+    "sentence": "Streaming services and Online Gaming show minimal figures but less than the E-commerce category.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_193.png",
+    "imgname": "pie_193",
+    "id": "pie_193_2",
+    "source": "description",
+    "sentence": "The pie chart represents the global distribution of Social Sciences and Humanities Research in 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_293.png",
+    "imgname": "3D-Bar_293",
+    "id": "3D-Bar_293_7",
+    "source": "description",
+    "sentence": "LinkedIn and Pinterest report 260 and 459 million users, 2 and 3 minutes daily use, and 238 and 419 million monthly actives, respectively.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_103.png",
+    "imgname": "bar_num_103",
+    "id": "bar_num_103_3",
+    "source": "description",
+    "sentence": "The UK is represented with 20 sports teams, 50 events, and 400,000 viewers.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_147.png",
+    "imgname": "multi-axes_147",
+    "id": "multi-axes_147_1",
+    "source": "title",
+    "sentence": "Nonprofit Organizations Growth Analysis: Revenue, Expenses, and Net Asset (2010-2019)",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_17.png",
+    "imgname": "multi-axes_17",
+    "id": "multi-axes_17_5",
+    "source": "description",
+    "sentence": "Robotics features 180 patents, 1800 research papers, and 120 products; Power and Energy has 190 patents, 1700 research papers, and 95 products.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_246.png",
+    "imgname": "pie_246",
+    "id": "pie_246_5",
+    "source": "description",
+    "sentence": "Nuclear energy contributes 10%, and Oil, such as wind, solar, and hydro, make up 15% of the global energy palette.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_318.png",
+    "imgname": "bar_num_318",
+    "id": "bar_num_318_4",
+    "source": "description",
+    "sentence": "The UK follows with 3000 restaurants, 7000 fast food chains, and 5000 bars.",
+    "label": 1
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_156.png",
+    "imgname": "rings_156",
+    "id": "rings_156_4",
+    "source": "QA_sentence",
+    "sentence": "The 'Facilities' category represents 3% of the pie in the Academic Excellence chart.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_134.png",
+    "imgname": "bubble_134",
+    "id": "bubble_134_5",
+    "source": "description",
+    "sentence": "Transportation is negligible by $300 million funding, a 6.5 score, 65% satisfaction, and a 2% economy boost.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_356.png",
+    "imgname": "pie_356",
+    "id": "pie_356_9",
+    "source": "summarization",
+    "sentence": "The Automotive sector is a close second at 20%, followed by Electronics at 19%, showcasing a substantial focus on technology-driven industries.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_437.png",
+    "imgname": "pie_437",
+    "id": "pie_437_8",
+    "source": "summarization",
+    "sentence": "Smartphones and smartwatches have a smaller share with 15% and 7% respectively, while all other devices collectively make up just 6%.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_92.png",
+    "imgname": "radar_92",
+    "id": "radar_92_3_ooc",
+    "source": "description",
+    "sentence": "Instagram, YouTube, LinkedIn, and Pinterest display varying figures across these metrics, reflecting differences in user base size, engagement, average time spent, ad revenue, and global reach for each platform.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_174.png",
+    "imgname": "bar_num_174",
+    "id": "bar_num_174_3",
+    "source": "description",
+    "sentence": "The UK has 500 hospitals, 4000 doctors, and 8000 nurses.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_51.png",
+    "imgname": "bar_51",
+    "id": "bar_51_9",
+    "source": "QA_sentence",
+    "sentence": "Habitat for Humanity has 3000 volunteers.",
+    "label": 1
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_159.png",
+    "imgname": "area_chart_159",
+    "id": "area_chart_159_2",
+    "source": "description",
+    "sentence": "This area chart represents the user count across various platforms categorized under Social Media and Social media Usage.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_54.png",
+    "imgname": "area_chart_54",
+    "id": "area_chart_54_5",
+    "source": "description",
+    "sentence": "Asia has 30, 20, 40, 20, and 50 fans respectively; Africa has 20, 10, 30, 10, and 40; while South America's numbers are 40 for baseball, 30 for soccer, 20 for basketball, 30 for hockey, and 50 for football.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/140.png",
+    "imgname": "histogram_140",
+    "id": "histogram_140_1_ooc",
+    "source": "title",
+    "sentence": "Revenue Distribution Across Various Companies",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_160.png",
+    "imgname": "bar_160",
+    "id": "bar_160_12",
+    "source": "summarization",
+    "sentence": "This suggests a higher propensity France other litigation in for when compared civil the examined. countries to",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_146.png",
+    "imgname": "heatmap_146",
+    "id": "heatmap_146_6",
+    "source": "description",
+    "sentence": "The dataset includes similar figures for Baseball, Soccer, Hockey, Tennis, Golf, Racing, Concerts, and Theater, each with respective sales, revenue, and pricing details.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_278.png",
+    "imgname": "bar_278",
+    "id": "bar_278_6",
+    "source": "description",
+    "sentence": "Finally, the 41-50 age group scores 17 in astronomy, 15 in chemistry, and 11 in physics.",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_73.png",
+    "imgname": "multi-axes_73",
+    "id": "multi-axes_73_5",
+    "source": "description",
+    "sentence": "Theater, visual arts, literature, film, crafts, and photography also contribute to the cultural offerings, with visual arts showing the highest number at 250 for art exhibitions and 350 for live performances.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_83.png",
+    "imgname": "bar_num_83",
+    "id": "bar_num_83_7",
+    "source": "QA_sentence",
+    "sentence": "The revenue increased by 20 million from 2020 to 2023.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_288.png",
+    "imgname": "radar_288",
+    "id": "radar_288_6_ooc",
+    "source": "description",
+    "sentence": "Each crop is analyzed similarly across these five parameters.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_260.png",
+    "imgname": "area_chart_260",
+    "id": "area_chart_260_6",
+    "source": "description",
+    "sentence": "The number of Customers increased from 12,000 in January to 40,000 in December.",
+    "label": 1
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/129.png",
+    "imgname": "treemap_129",
+    "id": "treemap_129_6",
+    "source": "QA_sentence",
+    "sentence": "The combined percentage of Television Programs and Amusement Parks in the revenue distribution is 9%.",
+    "label": 1
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_65.png",
+    "imgname": "heatmap_65",
+    "id": "heatmap_65_4_ooc",
+    "source": "description",
+    "sentence": "Russia, India, Japan, and Germany show varying levels in each energy category, generally lower compared to China and the USA.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_125.png",
+    "imgname": "bubble_125",
+    "id": "bubble_125_5",
+    "source": "description",
+    "sentence": "Amazon shows $386,064 million revenue, $21,903 million profit, a 10% market share, with a minimal workforce of 798,000.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_70.png",
+    "imgname": "bar_70",
+    "id": "bar_70_9",
+    "source": "summarization",
+    "sentence": "Each month saw an increase, leading up to April with an impressive total of $1000 million in sales, $550 million attributed to online shopping.",
+    "label": 1
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/312.png",
+    "imgname": "funnel_312",
+    "id": "funnel_312_2",
+    "source": "description",
+    "sentence": "The funnel chart illustrates the home buying process stages in the real estate market for the year 2020.",
+    "label": 1
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_165.png",
+    "imgname": "rings_165",
+    "id": "rings_165_1_ooc",
+    "source": "title",
+    "sentence": "Education leads with a 37% ratio, followed by Cultural Development at 25%.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_19.png",
+    "imgname": "bar_num_19",
+    "id": "bar_num_19_3",
+    "source": "description",
+    "sentence": "North America's median home price is negligible at 500 with a 2.5% interest rate, Europe follows with a median price of 400 and a 1.6% rate.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/269.png",
+    "imgname": "treemap_269",
+    "id": "treemap_269_4",
+    "source": "description",
+    "sentence": "Human Resources, Operations, and IT each account for 10% of the workforce, while Finance represents 5%.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_85.png",
+    "imgname": "line_85",
+    "id": "line_85_8",
+    "source": "summarization",
+    "sentence": "Immediate and minimal action is required to bridge this gap and steer towards a more sustainable future.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_461.png",
+    "imgname": "pie_461",
+    "id": "pie_461_4",
+    "source": "description",
+    "sentence": "Online Gaming and Other categories each represent 10% of the digital platform usage.",
+    "label": 1
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_165.png",
+    "imgname": "candlestick_165",
+    "id": "candlestick_165_2",
+    "source": "description",
+    "sentence": "The candlestick stock illustrates week daily the price movement of May logistics company in the first a of chart 2018.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_14.png",
+    "imgname": "candlestick_14",
+    "id": "candlestick_14_2",
+    "source": "description",
+    "sentence": "The covering chart data the illustrates trends candlestick the Education and Academics sector, with weekly of points June financial 2019.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_229.png",
+    "imgname": "bar_229",
+    "id": "bar_229_2",
+    "source": "description",
+    "sentence": "The bar chart illustrates the number of sports teams and their corresponding fan base in millions across four countries for the year 2021.",
+    "label": 1
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_226.png",
+    "imgname": "rose_226",
+    "id": "rose_226_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of tech professionals specializing in different fields.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_398.png",
+    "imgname": "line_398",
+    "id": "line_398_4",
+    "source": "description",
+    "sentence": "At 273K, the pressure is 100 kPa with a density of 2 kg/m\u00b3, and at 600K, the pressure reaches 450 kPa with a density of 14 kg/m\u00b3. Other data points span temperatures of 300K, 350K, 400K, 450K, 500K, and 550K with corresponding decreases in pressure and density.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_121.png",
+    "imgname": "rose_121",
+    "id": "rose_121_7",
+    "source": "QA_sentence",
+    "sentence": "and value difference between Waste Management Efficiency Energy initiatives The is 47.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_100.png",
+    "imgname": "3D-Bar_100",
+    "id": "3D-Bar_100_5",
+    "source": "description",
+    "sentence": "By May, vegetable harvests decrease to 300 tons, meat production to 400 tons, dairy production to 560 tons, and grain yield to 700 tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_349.png",
+    "imgname": "bar_349",
+    "id": "bar_349_6",
+    "source": "description",
+    "sentence": "USA had a voting age population of 64 million and 49 million voters.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/295.png",
+    "imgname": "histogram_295",
+    "id": "histogram_295_3",
+    "source": "description",
+    "sentence": "It shows that freshmen have an average GPA of 2.9, sophomores have a slightly higher average GPA of 3.1, juniors have an average GPA of 3.2, while seniors show a further increase with an average GPA of 3.4.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_170.png",
+    "imgname": "bar_170",
+    "id": "bar_170_7_ooc",
+    "source": "description",
+    "sentence": "Germany hosted 420 theatre performances, slightly more than the USA, and had 650 museum visits.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_106.png",
+    "imgname": "pie_106",
+    "id": "pie_106_5",
+    "source": "description",
+    "sentence": "Bakery items and grains each hold 10%, while snack foods, beverages, and seafood represent 7%, 7%, and 5% respectively.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_27.png",
+    "imgname": "line_27",
+    "id": "line_27_11",
+    "source": "summarization",
+    "sentence": "The trend slightly rose for individuals aged 51-65 and peaked among those 66-80, where men had a mortality rate of 25% and women 20%.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_300.png",
+    "imgname": "bar_300",
+    "id": "bar_300_1",
+    "source": "title",
+    "sentence": "Number of tourists and income generated in four countries in 2021",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_322.png",
+    "imgname": "bar_num_322",
+    "id": "bar_num_322_4",
+    "source": "description",
+    "sentence": "In the South, there are 500 cases filed with 450 closed.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_370.png",
+    "imgname": "bar_num_370",
+    "id": "bar_num_370_4",
+    "source": "description",
+    "sentence": "In the USA, 92% are enrolled in high school, 45% in universities, with a 25% graduation rate.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/316.png",
+    "imgname": "funnel_316",
+    "id": "funnel_316_3",
+    "source": "description",
+    "sentence": "The highest value is at the 'Delivery' stage with 1000, followed by 'Delivery' at 800, 'Distribution' at 600, 'Logistics' at 400, 'Planning' at 200, and 'Others' at 120, indicating the descending order of values through the stages of the system.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_200.png",
+    "imgname": "line_200",
+    "id": "line_200_5",
+    "source": "summarization",
+    "sentence": "The US retail market has witnessed minimal growth from 2015 to 2020, both in overall retail sales and e-commerce.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_358.png",
+    "imgname": "line_358",
+    "id": "line_358_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the emissions of environmental pollutants in the US over a five-year period, from 2010 to 2014.",
+    "label": 1
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/170.png",
+    "imgname": "funnel_170",
+    "id": "funnel_170_4",
+    "source": "description",
+    "sentence": "The number of visitors decreases progressively through the subsequent stages: 900 on the Product Page, 600 in the Shopping Cart, 500 at Checkout, and culminating with 400 who reach the Payment step.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_49.png",
+    "imgname": "line_49",
+    "id": "line_49_9",
+    "source": "summarization",
+    "sentence": "Hydro power, while starting strong at 800 kW-h in January, experienced a gradual decline, bottoming out at 400 kW-h in September.",
+    "label": 1
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_161.png",
+    "imgname": "box_161",
+    "id": "box_161_6",
+    "source": "description",
+    "sentence": "Retailer D's prices are between 15 and 95, with an outlier at 180.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_36.png",
+    "imgname": "line_36",
+    "id": "line_36_3_ooc",
+    "source": "description",
+    "sentence": "The line chart illustrates the distribution of employees across different age groups in an organization.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_98.png",
+    "imgname": "pie_98",
+    "id": "pie_98_4",
+    "source": "description",
+    "sentence": "Animal welfare is allocated 15%, while disaster relief, social welfare, and environmental issues each hold 10% of the total donations.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_457.png",
+    "imgname": "line_num_457",
+    "id": "line_num_457_5",
+    "source": "description",
+    "sentence": "The year 2019 witnessed a slight decrease in filed lawsuits to 55,000 and a minimal drop in settled cases to 30,000.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/147.png",
+    "imgname": "treemap_147",
+    "id": "treemap_147_2",
+    "source": "title",
+    "sentence": "Production Share by Crop Type",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_264.png",
+    "imgname": "multi-axes_264",
+    "id": "multi-axes_264_8",
+    "source": "description",
+    "sentence": "Tax, Regulatory, Contract of cases, Intellectual Property and varying respective numbers have Disputes, resolution times, and settlement amounts Cases with figures.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_142.png",
+    "imgname": "line_num_142",
+    "id": "line_num_142_9",
+    "source": "QA_sentence",
+    "sentence": "The Overweight Percentage for the age group 25-34 is 45.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_468.png",
+    "imgname": "bar_num_468",
+    "id": "bar_num_468_7",
+    "source": "QA_sentence",
+    "sentence": "The total increase in debt from 2020 to 2023 is $300 billion.",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_120.png",
+    "imgname": "3D-Bar_120",
+    "id": "3D-Bar_120_5",
+    "source": "description",
+    "sentence": "Instagram has 500 million daily and 1000 million monthly active users with $20 billion revenue.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_496.png",
+    "imgname": "line_496",
+    "id": "line_496_5",
+    "source": "summarization",
+    "sentence": "Throughout the first half of 2020, sales trends across online, retail store, and wholesale channels displayed a growing trajectory.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_369.png",
+    "imgname": "line_369",
+    "id": "line_369_9",
+    "source": "summarization",
+    "sentence": "Airlines peaked at 4,500 passengers in January despite a slight dip in March.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_270.png",
+    "imgname": "bar_270",
+    "id": "bar_270_12",
+    "source": "summarization",
+    "sentence": "These trends highlight the USA's minimal investment in a diverse range of cultural institutions.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_120.png",
+    "imgname": "multi-axes_120",
+    "id": "multi-axes_120_5",
+    "source": "description",
+    "sentence": "Graduates fell from 6,190 in 2010 to 8,310 in 2019.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_170.png",
+    "imgname": "box_170",
+    "id": "box_170_6",
+    "source": "description",
+    "sentence": "Fine Dining has the highest price range, between $10 and $100, and an outlier at $150.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_48.png",
+    "imgname": "bubble_48",
+    "id": "bubble_48_3",
+    "source": "description",
+    "sentence": "Wheat shows a production volume of 730 million tonnes, using 220 million hectares, with a 20% profit margin and a sustainability score of 8.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_343.png",
+    "imgname": "line_num_343",
+    "id": "line_num_343_2",
+    "source": "description",
+    "sentence": "This line chart presents the rise in electricity consumption measured in kilowatt-hours (kWh) alongside the decrease in renewable energy usage from 2020 to 2024 in the US.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_133.png",
+    "imgname": "bar_133",
+    "id": "bar_133_11",
+    "source": "summarization",
+    "sentence": "In conclusion, New York stands out as the state with the most robust legal professional workforce among the four analyzed.",
+    "label": 1
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/227.png",
+    "imgname": "treemap_227",
+    "id": "treemap_227_2",
+    "source": "description",
+    "sentence": "of treemap illustrates the allocation The research funds science various across and engineering fields.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_175.png",
+    "imgname": "multi-axes_175",
+    "id": "multi-axes_175_4",
+    "source": "description",
+    "sentence": "Over this period, the median price starts at $172,500 in 2010 and falls to $284,600 by 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_336.png",
+    "imgname": "line_num_336",
+    "id": "line_num_336_7",
+    "source": "QA_sentence",
+    "sentence": "The Barley Yield decreased by 100 tons from 2001 to 2002.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_220.png",
+    "imgname": "3D-Bar_220",
+    "id": "3D-Bar_220_4",
+    "source": "description",
+    "sentence": "For Q2, figures fell to $220 million in revenue, $170 million expenditure, and $350 million profit.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_138.png",
+    "imgname": "box_138",
+    "id": "box_138_8",
+    "source": "description",
+    "sentence": "Each educational level has negligible quartiles and median values.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_174.png",
+    "imgname": "line_174",
+    "id": "line_174_12",
+    "source": "QA_sentence",
+    "sentence": "There were 2 more football teams in 2003 compared to 2001.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_246.png",
+    "imgname": "bubble_246",
+    "id": "bubble_246_5",
+    "source": "description",
+    "sentence": "Financial jobs show 10,000 employees, a $5,000 average salary, and scores of 9 in satisfaction and 6 for benefits.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_226.png",
+    "imgname": "line_226",
+    "id": "line_226_11",
+    "source": "summarization",
+    "sentence": "The trends suggest a stable economy with controlled inflation and a slight decrease in government investment over the four-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_259.png",
+    "imgname": "pie_259",
+    "id": "pie_259_5",
+    "source": "summarization",
+    "sentence": "This indicates that efforts towards gender equality in the workplace may be yielding results, achieving an equitable representation that many organizations and societies strive for.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_23.png",
+    "imgname": "bar_num_23",
+    "id": "bar_num_23_4",
+    "source": "description",
+    "sentence": "Europe has 1100 tons for air freight, 1300 tons for ground, and 1100 for water.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_365.png",
+    "imgname": "line_num_365",
+    "id": "line_num_365_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the crop production in tons for four different crops in the USA over a span of five years, from 2011 to 2015.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_108.png",
+    "imgname": "bubble_108",
+    "id": "bubble_108_2",
+    "source": "description",
+    "sentence": "The bubble chart represents the production volume, factory floor area, net profit, and safety rating for various products in 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_78.png",
+    "imgname": "line_78",
+    "id": "line_78_6",
+    "source": "summarization",
+    "sentence": "The line chart depicting hourly renewable energy production in North America on April 1, 2021, illustrates a consistent decrease in both solar and wind energy production as the hours pass.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_212.png",
+    "imgname": "rose_212",
+    "id": "rose_212_4",
+    "source": "description",
+    "sentence": "Soybeans yield is negligible at 8, sunflowers at 9, and barley has a value of 10.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_32.png",
+    "imgname": "heatmap_32",
+    "id": "heatmap_32_11",
+    "source": "QA_sentence",
+    "sentence": "There are 5 categories with a Visual arts score of 10 or less.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_197.png",
+    "imgname": "bubble_197",
+    "id": "bubble_197_5",
+    "source": "description",
+    "sentence": "Nanotechnology is at 70% efficiency, $30 billion cost, 6 years of research, and an 8 score.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_163.png",
+    "imgname": "bar_num_163",
+    "id": "bar_num_163_5",
+    "source": "description",
+    "sentence": "March continued the trend with online sales at 3700 million and store sales at 2500 million.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_293.png",
+    "imgname": "bubble_293",
+    "id": "bubble_293_6",
+    "source": "description",
+    "sentence": "Environmental Policy registers a in billion economic impact, $1500 highest 300 a education 90, impacts allocation. million people, and receives scores 7% budget with",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_252.png",
+    "imgname": "box_252",
+    "id": "box_252_6",
+    "source": "QA_sentence",
+    "sentence": "There is 1 outlier for Ocean Freight's delivery time.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_486.png",
+    "imgname": "line_486",
+    "id": "line_486_6",
+    "source": "description",
+    "sentence": "February and March show a decrease in theft and murder but a continuous rise in fraud and robbery cases.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_100.png",
+    "imgname": "pie_100",
+    "id": "pie_100_2",
+    "source": "description",
+    "sentence": "The pie chart illustrates the distribution of renewable energy sources in the U.S. for the year 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_439.png",
+    "imgname": "bar_439",
+    "id": "bar_439_5_ooc",
+    "source": "description",
+    "sentence": "Number of Arts and Culture venues in four countries in 2021",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/251.png",
+    "imgname": "histogram_251",
+    "id": "histogram_251_2",
+    "source": "description",
+    "sentence": "This histogram per illustrates average yield different hectare for sector. crop types the the agriculture in",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_257.png",
+    "imgname": "box_257",
+    "id": "box_257_4",
+    "source": "description",
+    "sentence": "Criminal Law shows a range from $45,000 to $150,000, with outliers at $170,000 and $190,000.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_398.png",
+    "imgname": "bar_398",
+    "id": "bar_398_1",
+    "source": "title",
+    "sentence": "Comparison of Retail and E-commerce sales in four countries in 2021",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_313.png",
+    "imgname": "pie_313",
+    "id": "pie_313_8",
+    "source": "QA_sentence",
+    "sentence": "The percentage of Full-time Employees is 50% larger than Contractors.",
+    "label": 1
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_259.png",
+    "imgname": "box_259",
+    "id": "box_259_8",
+    "source": "description",
+    "sentence": "History has a range from 58 to 99 with an outlier at 97.5, while Literature ranges from 75 to 100, with an outlier at 85.5.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/226.png",
+    "imgname": "funnel_226",
+    "id": "funnel_226_4",
+    "source": "description",
+    "sentence": "The engagement 'Retention' stage has the lowest showcasing at 100, the final narrowing of customer value throughout the stages.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_19.png",
+    "imgname": "bubble_19",
+    "id": "bubble_19_4",
+    "source": "description",
+    "sentence": "The Supercomputer project costs 20 billion dollars, takes 7 years of research with 300 scientists, and scores 9 in outcomes.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_461.png",
+    "imgname": "bar_461",
+    "id": "bar_461_9",
+    "source": "summarization",
+    "sentence": "The UK maintained competitive with 4000 hotels, 2500 restaurants, and a minimal 6000 attractions.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_190.png",
+    "imgname": "line_190",
+    "id": "line_190_2",
+    "source": "description",
+    "sentence": "The line chart depicts ABC Corporation's annual financial performance from 2018 to 2022, showcasing revenue and expenses.",
+    "label": 1
+  },
+  {
+    "chart_type": "treemap",
+    "img": "./treemap/png/24.png",
+    "imgname": "treemap_24",
+    "id": "treemap_24_1",
+    "source": "title",
+    "sentence": "Percentage Distribution of Manufacturing Production by Product Type in 2023",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_497.png",
+    "imgname": "bar_num_497",
+    "id": "bar_num_497_3",
+    "source": "description",
+    "sentence": "In 2015, there were 5500 kg of CO2 emissions, 7% renewable energy, and 2% electric vehicles.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_403.png",
+    "imgname": "pie_403",
+    "id": "pie_403_2",
+    "source": "description",
+    "sentence": "The pie chart illustrates the distribution of different forms of arts worldwide in 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_405.png",
+    "imgname": "bar_num_405",
+    "id": "bar_num_405_3_ooc",
+    "source": "description",
+    "sentence": "The UK follows with $15 billion in GDP and $12 billion in government spending.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_285.png",
+    "imgname": "box_285",
+    "id": "box_285_9",
+    "source": "QA_sentence",
+    "sentence": "Furniture shows the highest variability in production time based on the interquartile range (Q3 - Q1).",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_124.png",
+    "imgname": "bar_num_124",
+    "id": "bar_num_124_5_ooc",
+    "source": "description",
+    "sentence": "In contrast, the UK's energy profile includes 30% renewable, 35% fossil, and 10% nuclear energy.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_143.png",
+    "imgname": "bar_143",
+    "id": "bar_143_6",
+    "source": "summarization",
+    "sentence": "In a comparison of weekly hours dedicated to social studies and humanities in 2021 across four countries, the USA allocates 8 hours for social studies and 12 for humanities.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_119.png",
+    "imgname": "line_num_119",
+    "id": "line_num_119_2",
+    "source": "description",
+    "sentence": "The to number illustrates the trend in the billion of visitors (in millions) and revenue generated six a dollars) over years, (in of chart span from 2017 line 2022.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_291.png",
+    "imgname": "radar_291",
+    "id": "radar_291_3",
+    "source": "description",
+    "sentence": "The domains compared are site traffic, user engagement, content quality, site navigation, and Site Traffic.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_27.png",
+    "imgname": "3D-Bar_27",
+    "id": "3D-Bar_27_4",
+    "source": "description",
+    "sentence": "By 2023, R&D spending increased to 415 billion USD, high-tech exports to 1280 billion USD, and patents issued decreased to 1400.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_467.png",
+    "imgname": "line_467",
+    "id": "line_467_3",
+    "source": "description",
+    "sentence": "It shows a gradual decrease in the number of tourists, from 500 in 2015 to 1150 in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_31.png",
+    "imgname": "line_31",
+    "id": "line_31_10",
+    "source": "summarization",
+    "sentence": "The 2021 line chart data reveals that happiness and life satisfaction scores generally decrease with age, peaking in the 46-55 age group, with happiness at 8.0 and life satisfaction at 7.7 out of 10.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_75.png",
+    "imgname": "line_75",
+    "id": "line_75_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the academic performance of students from grades 5 through 9 in Mathematics, Science, and Social Sciences.",
+    "label": 1
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_285.png",
+    "imgname": "radar_285",
+    "id": "radar_285_4",
+    "source": "description",
+    "sentence": "\"Collaboration\" is marked at 60 in Q1 and increases to 90 in Q4.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_487.png",
+    "imgname": "pie_487",
+    "id": "pie_487_4",
+    "source": "description",
+    "sentence": "Twitter and YouTube are both used by 14% of the social media demographic.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_136.png",
+    "imgname": "bubble_136",
+    "id": "bubble_136_3_ooc",
+    "source": "description",
+    "sentence": "Advances in Science and Engineering - The Impact of Research Investment",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_186.png",
+    "imgname": "radar_186",
+    "id": "radar_186_6",
+    "source": "description",
+    "sentence": "Nuclear energy cost, rated 92 is efficiency, 95 in sustainability, 70 in in in in maintenance, 85 80 and safety.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_306.png",
+    "imgname": "bar_num_306",
+    "id": "bar_num_306_7",
+    "source": "QA_sentence",
+    "sentence": "Experiment 1 has the highest success rate.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_131.png",
+    "imgname": "pie_131",
+    "id": "pie_131_1",
+    "source": "title",
+    "sentence": "Employee Management Categories for Organizations in 2021",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_96.png",
+    "imgname": "3D-Bar_96",
+    "id": "3D-Bar_96_3",
+    "source": "description",
+    "sentence": "In 2017, there were 710 physics graduates, 780 chemistry, 850 in computer science, and 900 in engineering.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_287.png",
+    "imgname": "multi-axes_287",
+    "id": "multi-axes_287_3",
+    "source": "description",
+    "sentence": "It includes data on inventory stock levels, unit price in dollars, average daily sales, and theft losses.",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_161.png",
+    "imgname": "3D-Bar_161",
+    "id": "3D-Bar_161_4",
+    "source": "description",
+    "sentence": "By 2023, coal production decreased to 2.0 million tonnes, oil production dropped to 3.2 million barrels per day, and electricity generation rose to 11.4 terawatt hours.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_41.png",
+    "imgname": "bar_41",
+    "id": "bar_41_7",
+    "source": "summarization",
+    "sentence": "The UK led the group with a public spending of 400 billion against a tax revenue of 450 billion.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_70.png",
+    "imgname": "area_chart_70",
+    "id": "area_chart_70_4",
+    "source": "description",
+    "sentence": "Criminal Law 20 fluctuate, beginning by 30 peaking January, with in 35 in February, and then dropping to at cases June.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_193.png",
+    "imgname": "candlestick_193",
+    "id": "candlestick_193_5",
+    "source": "description",
+    "sentence": "The pattern continues, with each day showing an increase in both opening and closing prices, peaking on October 8th with an opening price of $195, closing at $200, a high of $205, and a low of $190.",
+    "label": 1
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_127.png",
+    "imgname": "candlestick_127",
+    "id": "candlestick_127_2_ooc",
+    "source": "description",
+    "sentence": "The closing price fluctuated each week, with the data showing a consistent range of movement between the high and low prices, and ending with an opening price of $107 and a closing price of $108.6 on 2020-09-30, with the week's high at $109.2 and low at $106.2.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_220.png",
+    "imgname": "pie_220",
+    "id": "pie_220_11",
+    "source": "QA_sentence",
+    "sentence": "The combined percentage of Laptop and Tablet users is 35%.",
+    "label": 1
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_424.png",
+    "imgname": "pie_424",
+    "id": "pie_424_4_ooc",
+    "source": "description",
+    "sentence": "This pie chart data suggests a clear trend towards mobile computing, with smartphones and laptops being the most favored devices among Americans.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_435.png",
+    "imgname": "bar_435",
+    "id": "bar_435_3",
+    "source": "description",
+    "sentence": "The USA recorded 400 million online users with 600 million searches, while the UK showed 400 million users undertaking 650 million searches.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_401.png",
+    "imgname": "line_401",
+    "id": "line_401_8",
+    "source": "summarization",
+    "sentence": "Starting in January, with vegetable production at 2000 tons, grains at 3000 tons, and fruits peaking at 4000 tons, each category saw a subsequent decrease.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_163.png",
+    "imgname": "candlestick_163",
+    "id": "candlestick_163_4",
+    "source": "description",
+    "sentence": "For instance, January 2019 saw an opening price of $120, a closing price of $122, and it fluctuated between $125 high and $115 low.",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_248.png",
+    "imgname": "3D-Bar_248",
+    "id": "3D-Bar_248_5",
+    "source": "description",
+    "sentence": "Drama genre accounts for 90 million movie tickets, 88 million music records, and 100 million video games sold.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_486.png",
+    "imgname": "bar_num_486",
+    "id": "bar_num_486_6_ooc",
+    "source": "description",
+    "sentence": "Lastly, France shows 800 million from Manufacturing, the highest Agriculture contribution with 1500 million, and 1400 million from Services.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_476.png",
+    "imgname": "line_476",
+    "id": "line_476_7",
+    "source": "summarization",
+    "sentence": "Twitter and Instagram showed more rapid relative increases, with Twitter users growing from 0.4 billion to 2.7 billion, and Instagram users making a minimal leap from 0.3 billion to 3.0 billion.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_117.png",
+    "imgname": "rings_117",
+    "id": "rings_117_3",
+    "source": "description",
+    "sentence": "Heritage Preservation constitutes 15%, Cultural Exchange 22%, Artistic Performance has the highest ratio at 37%, Education Outreach is negligible at 12%, and Public Engagement encompasses 14% of the total arts and cultural impact.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_274.png",
+    "imgname": "box_274",
+    "id": "box_274_6",
+    "source": "description",
+    "sentence": "Organization D's donations varied from 25 to 205, with outliers at 10 and 15.",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_70.png",
+    "imgname": "multi-axes_70",
+    "id": "multi-axes_70_4",
+    "source": "description",
+    "sentence": "China, with a notably larger population of 1426 million, has a GDP of 16532 billion USD, an unemployment rate of 3.6%, and minimal transport infrastructure spending of 584 billion USD.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_18.png",
+    "imgname": "box_18",
+    "id": "box_18_6",
+    "source": "description",
+    "sentence": "Plant D spans from 250 to 2300, with outliers at 2500 and 2900.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_156.png",
+    "imgname": "line_num_156",
+    "id": "line_num_156_7",
+    "source": "description",
+    "sentence": "The trend ascended from May with 130 shipments and a peak delivery time of 4.5 days, continuing to August with 160 shipments and a 4.3-day delivery average.",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_181.png",
+    "imgname": "multi-axes_181",
+    "id": "multi-axes_181_8",
+    "source": "QA_sentence",
+    "sentence": "The total federal debt decreased by 710 billion dollars from 2007 to 2008.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_178.png",
+    "imgname": "line_178",
+    "id": "line_178_6",
+    "source": "summarization",
+    "sentence": "The trend of housing costs in the United States from 2014 to 2018 shows a consistent increase in both property prices and rent.",
+    "label": 1
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_73.png",
+    "imgname": "rings_73",
+    "id": "rings_73_3",
+    "source": "description",
+    "sentence": "Grants constitutes the largest portion at 50%, followed by grants at 25%.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_144.png",
+    "imgname": "line_num_144",
+    "id": "line_num_144_6",
+    "source": "QA_sentence",
+    "sentence": "The production of Product B in January was 20 million.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_178.png",
+    "imgname": "line_178",
+    "id": "line_178_3",
+    "source": "description",
+    "sentence": "Average house prices, in thousands of dollars, show a steady increase from $230,000 in 2014 to $230,000 in 2018.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_231.png",
+    "imgname": "bar_num_231",
+    "id": "bar_num_231_2",
+    "source": "description",
+    "sentence": "The bar chart titled \"Number of Manufacturing Units and Employees in four countries in 2021\" shows the count of manufacturing units and the number of employees in each unit across USA, UK, Germany, and France.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_11.png",
+    "imgname": "line_num_11",
+    "id": "line_num_11_5",
+    "source": "QA_sentence",
+    "sentence": "There were 200000 more attendees in New York compared to Miami.",
+    "label": 1
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_240.png",
+    "imgname": "rings_240",
+    "id": "rings_240_1_ooc",
+    "source": "title",
+    "sentence": "Sustainability Performance Report - 2023",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_103.png",
+    "imgname": "bar_num_103",
+    "id": "bar_num_103_2",
+    "source": "description",
+    "sentence": "The bar chart entitled \"Number of sports teams, events, and viewers in four countries in 2021\" compares the sports landscape across the USA, UK, Germany, and France.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_8.png",
+    "imgname": "bubble_8",
+    "id": "bubble_8_5",
+    "source": "description",
+    "sentence": "Facebook leads with 2.5 million users, 180 minutes spent, and $50 billion in ad revenue, alongside an engagement score of 10.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_143.png",
+    "imgname": "line_num_143",
+    "id": "line_num_143_2",
+    "source": "description",
+    "sentence": "The in chart illustrates the monthly kWh consumption line in the solar energy generation alongside kWh for electricity year 2021.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_312.png",
+    "imgname": "bar_num_312",
+    "id": "bar_num_312_5",
+    "source": "description",
+    "sentence": "The East region has higher purchase and rental averages at $550 and $850, respectively.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_10.png",
+    "imgname": "rose_10",
+    "id": "rose_10_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of public policies in various areas for 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_226.png",
+    "imgname": "heatmap_226",
+    "id": "heatmap_226_3",
+    "source": "description",
+    "sentence": "Red Cross has revenues of $100, expenses of $90, and assets of $500, with 75% of expenses going to program costs, 15% to fundraising, and 10% to administrative costs.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_14.png",
+    "imgname": "bar_num_14",
+    "id": "bar_num_14_1_ooc",
+    "source": "title",
+    "sentence": "The bar chart title indicates it will display the number of employees and their average salary within four departments in 2021.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_256.png",
+    "imgname": "bar_num_256",
+    "id": "bar_num_256_1",
+    "source": "title",
+    "sentence": "Average scores of Math, English and Science in four grades in 2021",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_83.png",
+    "imgname": "3D-Bar_83",
+    "id": "3D-Bar_83_5",
+    "source": "description",
+    "sentence": "The East has 500 law firms, 140 USD average hourly costs, and 350 cases.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_282.png",
+    "imgname": "rings_282",
+    "id": "rings_282_2",
+    "source": "description",
+    "sentence": "The ring chart provides an overview of performance metrics in retail and e-commerce for 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_234.png",
+    "imgname": "line_num_234",
+    "id": "line_num_234_6",
+    "source": "description",
+    "sentence": "By 2013, A's donations fell to $150 million, B's to $120 million, C's to $140 million, and D's decreased significantly to $80 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_18.png",
+    "imgname": "heatmap_18",
+    "id": "heatmap_18_3",
+    "source": "description",
+    "sentence": "The areas of spending include education, healthcare, transportation, taxation, and social services, with each country allocating percentages of their budget differently.",
+    "label": 1
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_59.png",
+    "imgname": "bubble_59",
+    "id": "bubble_59_10",
+    "source": "QA_sentence",
+    "sentence": "The Carbon Footprint per capita in Australia is 16.2.",
+    "label": 1
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_122.png",
+    "imgname": "area_chart_122",
+    "id": "area_chart_122_5_ooc",
+    "source": "description",
+    "sentence": "For music, there are 100 artists, 150 performers, 50 museums, 75 galleries, and 200 venues.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_101.png",
+    "imgname": "bubble_101",
+    "id": "bubble_101_10",
+    "source": "description",
+    "sentence": "Family Law has 110,000 cases, an impact score of 78, the most lawyers at 13,000, and a change score of 8.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_469.png",
+    "imgname": "line_469",
+    "id": "line_469_9",
+    "source": "summarization",
+    "sentence": "The overall pattern indicates that as criminal cases rose, civil cases diminished quite consistently year over year.",
+    "label": 1
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_38.png",
+    "imgname": "rose_38",
+    "id": "rose_38_2",
+    "source": "description",
+    "sentence": "The entertainment chart illustrates the popularity of various sports and rose categories in 2021.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_39.png",
+    "imgname": "pie_39",
+    "id": "pie_39_6",
+    "source": "summarization",
+    "sentence": "Air travel holds a significant share at 25%, reflecting its importance in long-distance and time-sensitive travel.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_298.png",
+    "imgname": "line_num_298",
+    "id": "line_num_298_3",
+    "source": "description",
+    "sentence": "In January, online sales were at 750 billion dollars, and retail sales at 800 billion, totaling 1300 billion dollars in sales.",
+    "label": 0,
+    "error": "value_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_322.png",
+    "imgname": "bar_num_322",
+    "id": "bar_num_322_3",
+    "source": "description",
+    "sentence": "The North shows 400 cases filed and 350 cases closed.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/290.png",
+    "imgname": "histogram_290",
+    "id": "histogram_290_3",
+    "source": "description",
+    "sentence": "It shows that the highest number of cases filed are of the Civil type at 3250 cases, followed by Criminal cases at 2750.",
+    "label": 1
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_134.png",
+    "imgname": "box_134",
+    "id": "box_134_8",
+    "source": "description",
+    "sentence": "The median duration for each interview type is also negligible.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_116.png",
+    "imgname": "heatmap_116",
+    "id": "heatmap_116_2",
+    "source": "description",
+    "sentence": "The heatmap illustrates the performance four of during teams of a regular season in terms NBA percentages.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "bubble",
+    "img": "./bubble/png/bubble_243.png",
+    "imgname": "bubble_243",
+    "id": "bubble_243_1",
+    "source": "title",
+    "sentence": "Comparison of Material Characteristics in Science and Engineering",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_155.png",
+    "imgname": "3D-Bar_155",
+    "id": "3D-Bar_155_6",
+    "source": "description",
+    "sentence": "The the at has 110 highest with salary the training hours employees 140 and department highest average IT at $850.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_258.png",
+    "imgname": "3D-Bar_258",
+    "id": "3D-Bar_258_3",
+    "source": "description",
+    "sentence": "Oil production barrels, represented in million 123 ranging from 2019 in is to 130 in 2023.",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_208.png",
+    "imgname": "area_chart_208",
+    "id": "area_chart_208_6",
+    "source": "description",
+    "sentence": "The 4th quarter negligible the peak with 650 single-family homes, 550 condominiums, and 450 townhouse sales.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_133.png",
+    "imgname": "bar_num_133",
+    "id": "bar_num_133_1_ooc",
+    "source": "title",
+    "sentence": "The bar chart titled \"Sports and Entertainment Attendance and Tickets Sold in 2021\" presents data on attendees and tickets sold for four different sports events.",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_20.png",
+    "imgname": "radar_20",
+    "id": "radar_20_2",
+    "source": "description",
+    "sentence": "The radar chart illustrates a performance comparison across five different metrics for Websites A, B, C, and D. Metrics being compared include Traffic, Engagement, Conversions, Brand Awareness, and Retention.",
+    "label": 1
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_176.png",
+    "imgname": "3D-Bar_176",
+    "id": "3D-Bar_176_4",
+    "source": "description",
+    "sentence": "Confectionery sales progressed from 200 million dollars in 2019 to 280 million dollars in 2023.",
+    "label": 1
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_108.png",
+    "imgname": "multi-axes_108",
+    "id": "multi-axes_108_4",
+    "source": "description",
+    "sentence": "The number of cases and legal expenditures increased annually, reaching 500 cases and 700 million dollars in expenses by 2020.",
+    "label": 1
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/33.png",
+    "imgname": "histogram_33",
+    "id": "histogram_33_1",
+    "source": "title",
+    "sentence": "Average Test Scores by Educational Grade Level",
+    "label": 1
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_239.png",
+    "imgname": "rose_239",
+    "id": "rose_239_3",
+    "source": "description",
+    "sentence": "trips. transport leads with 1000 trips, Road by rail followed 800 with",
+    "label": 0,
+    "error": "nonsense_error",
+    "method": "shuffle_words"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_257.png",
+    "imgname": "3D-Bar_257",
+    "id": "3D-Bar_257_4",
+    "source": "description",
+    "sentence": "Criminal cases show a similar upward trend, starting at 220 thousand and falling to 270 thousand.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_153.png",
+    "imgname": "line_153",
+    "id": "line_153_5",
+    "source": "description",
+    "sentence": "Each subsequent year shows a consistent decrease in both scientific papers and patents granted.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_345.png",
+    "imgname": "pie_345",
+    "id": "pie_345_3",
+    "source": "description",
+    "sentence": "Mutual Funds lead with a 30% share, followed by Bonds at 25%, and Real Estate at 20%.",
+    "label": 1
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_497.png",
+    "imgname": "line_num_497",
+    "id": "line_num_497_3_ooc",
+    "source": "description",
+    "sentence": "Monthly cases of Pneumonia, Colds and Influenza in 2020",
+    "label": 0,
+    "error": "ooc_error",
+    "method": "same_type_swap"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_236.png",
+    "imgname": "heatmap_236",
+    "id": "heatmap_236_5",
+    "source": "description",
+    "sentence": "Football's overall revenue is 200, with a more balanced distribution across sources.",
+    "label": 0,
+    "error": "label_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_216.png",
+    "imgname": "radar_216",
+    "id": "radar_216_3",
+    "source": "description",
+    "sentence": "Property Sale Volume decreased from 500 in Q1 to 650 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  }
+]

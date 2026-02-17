@@ -1,0 +1,29 @@
+  [
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_85.png",
+    "imgname": "bar_85",
+    "id": "bar_85_2",
+    "source": "description",
+    "sentence": "This bar chart presents the number of hospitals, doctors, and nurses across four different regions in 2021.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_85.png",
+    "imgname": "bar_85",
+    "id": "bar_85_3",
+    "source": "description",
+    "sentence": "The North region reports 80 hospitals, 500 doctors, and 2500 nurses.",
+    "label": 1
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_85.png",
+    "imgname": "bar_85",
+    "id": "bar_85_4",
+    "source": "description",
+    "sentence": "The South shows slightly higher numbers with 90 hospitals, 550 doctors, and 2700 nurses.",
+    "label": 1
+  }
+  ]

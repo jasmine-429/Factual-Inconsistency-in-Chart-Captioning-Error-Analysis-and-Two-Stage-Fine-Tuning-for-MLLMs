@@ -1,0 +1,66 @@
+[
+  {
+    "img": "train_k_0.png",
+    "imgname": "train_k_0",
+    "id": "train_k_0_0",
+    "source": "title",
+    "sentence": "Afghanistan - Adjusted net intake rate for primary education",
+    "label": 1
+  },
+  {
+    "img": "train_k_0.png",
+    "imgname": "train_k_0",
+    "id": "train_k_0_1",
+    "source": "summary",
+    "sentence": "Afghanistan adjusted net intake rate for primary education was 19.9 % in 1993 , down by 0.00 % from 1974 .",
+    "label": 1
+  },
+  {
+    "img": "train_k_1.png",
+    "imgname": "train_k_1",
+    "id": "train_k_1_0",
+    "source": "title",
+    "sentence": "Afghanistan - Adult female illiterate population",
+    "label": 1
+  },
+  {
+    "img": "train_k_1.png",
+    "imgname": "train_k_1",
+    "id": "train_k_1_1",
+    "source": "summary",
+    "sentence": "In 2018 , adult illiteracy for Afghanistan was 12.1 million .",
+    "label": 1
+  },
+  {
+    "img": "train_k_1.png",
+    "imgname": "train_k_1",
+    "id": "train_k_1_2",
+    "source": "summary",
+    "sentence": "Adult illiteracy of Afghanistan increased from 5.93 million in 1979 to 12.1 million in 2018 growing at an average annual rate of 31.07 % .",
+    "label": 1
+  },
+  {
+    "img": "train_k_2.png",
+    "imgname": "train_k_2",
+    "id": "train_k_2_0",
+    "source": "title",
+    "sentence": "Georgia - Assault rate",
+    "label": 1
+  },
+  {
+    "img": "train_k_2.png",
+    "imgname": "train_k_2",
+    "id": "train_k_2_1",
+    "source": "summary",
+    "sentence": "In 2018 , assault rate for Georgia was 4.6 cases per 100,000 population .",
+    "label": 1
+  },
+  {
+    "img": "train_k_2.png",
+    "imgname": "train_k_2",
+    "id": "train_k_2_2",
+    "source": "summary",
+    "sentence": "Though Georgia assault rate fluctuated substantially in recent years , it tended to decrease through 2006 - 2018 period ending at 4.6 cases per 100,000 population in 2018 .",
+    "label": 1
+  }
+]

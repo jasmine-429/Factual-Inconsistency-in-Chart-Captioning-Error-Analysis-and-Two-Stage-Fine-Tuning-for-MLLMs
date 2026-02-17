@@ -1,0 +1,2736 @@
+[
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_338",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_338.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of tournaments and participants in four sports in 2021",
+    "csv": "Sport \\t Tournaments \\t Participants \\n Basketball \\t 20 \\t 3000 \\n Football \\t 30 \\t 3500 \\n Volleyball \\t 25 \\t 4000 \\n Badminton \\t 15 \\t 2500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the length of a short analytical description of the chart based on data it shows.",
+      "In 2021, 20 | 3000 points, the data it shows that the tournament will require 3500 data to produce a statistic."
+    ],
+    "labels": [
+    ["ooc_error", "nonsense_error"],
+    ["ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_158",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_158.png",
+    "topic": "Government and Public Policy",
+    "title": " Number of laws and regulations in four regions of the world in 2021",
+    "csv": "Region \\t Number of Laws \\t Number of Regulations \\n North America \\t 25 \\t 100 \\n Europe \\t 30 \\t 110 \\n Asia \\t 20 \\t 90 \\n South America \\t 45 \\t 120 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_34",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_34.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee absenteeism rate in four departments in 2021",
+    "csv": "Department \\t Employees \\t Absenteeism(%) \\n Sales \\t 50 \\t 2 \\n Marketing \\t 60 \\t 4 \\n Operations \\t 70 \\t 3 \\n Human Resources \\t 50 \\t 1 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, the whole process of data usage,0.5 billion U.S.",
+      "dollars,90 percent of which was generated from product sales."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_272",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_272.png",
+    "topic": "Science and Engineering",
+    "title": " Science and Engineering activities in four regions in 2021",
+    "csv": "Region \\t Research Projects \\t Experiments \\t Inventions \\n Asia \\t 200 \\t 400 \\t 50 \\n Europe \\t 250 \\t 450 \\t 70 \\n North America \\t 220 \\t 500 \\t 60 \\n South America \\t 180 \\t 400 \\t 80 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in four major countries in 2021.",
+      "In this year, the number of900's research projects900, 200, and 200999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_184",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_184.png",
+    "topic": "Energy and Utilities",
+    "title": " Renewable and Fossil Fuel Production in the Years 2020-2023",
+    "csv": "Year \\t Renewable Energy Production(MWh) \\t Fossil Fuel Production(MWh) \\n 2020 \\t 20000 \\t 40000 \\n 2021 \\t 23000 \\t 45000 \\n 2022 \\t 26000 \\t 50000 \\n 2023 \\t 29000 \\t 55000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "Renewable and Fossil Fuel Production in the years 2020-2023, based on data shows, will provide a short analytical description of the chart based on the data it shows.",
+      "The source has changed from a for-profit company founded in 1996 to a former oil and gas company, now located in Houston, Texas.",
+      "In 2020, the company will provide a short analytical description of the chart based on the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_104",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_104.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage of Patents in Physics, Chemistry and Engineering from 2010 to 2013",
+    "csv": "Year \\t Physics Patents(%) \\t Chemistry Patents(%) \\t Engineering Patents(%) \\n 2010 \\t 10 \\t 20 \\t 30 \\n 2011 \\t 15 \\t 25 \\t 35 \\n 2012 \\t 20 \\t 30 \\t 40 \\n 2013 \\t 25 \\t 35 \\t 45 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "In 2010, the number of doctors practicing in the field of physics amounted to 55 percent.",
+      "By 2013, this number had increased to 100 percent."
+    ],
+    "labels": [
+    ["label_error", "ooc_error"],
+    ["label_error", "value_error"],
+    ["value_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_159",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_159.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Charitable Donations and Nonprofit Organizations in four countries in 2021",
+    "csv": "Country \\t Charitable Donations (million) \\t Nonprofit Organizations \\n USA \\t 2000 \\t 550 \\n UK \\t 1500 \\t 450 \\n Germany \\t 1000 \\t 350 \\n France \\t 1800 \\t 400 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, the data analysis for charitable donations and nonprofit organizations was conducted by 150 countries through its charitable donations."
+    ],
+    "labels": [
+    ["label_error", "ooc_error"],
+    ["label_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_471.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Number of employees and average salary by region in 2021",
+    "csv": "Region \\t Employees \\t Average Salary \\n North \\t 3000 \\t 4000 \\n South \\t 2000 \\t 3500 \\n East \\t 2500 \\t 3700 \\n West \\t 1500 \\t 3000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, the monthly number of employees and average salary for employees in North America was 3000."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_112",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_112.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of food and beverage outlets in four regions in 2021",
+    "csv": "Region \\t Cafes \\t Bakeries \\t Restaurants \\n North America \\t 400 \\t 500 \\t 600 \\n Europe \\t 450 \\t 550 \\t 650 \\n Asia \\t 480 \\t 580 \\t 700 \\n South America \\t 420 \\t 520 \\t 620 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in four regions in 2021.",
+      "By that year, the North American region with the highest number of food and beverage outlets was California, with a total of 476.8 million data points."
+    ],
+    "labels": [
+    [],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_478",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_478.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average House Prices and Number of Houses Sold in Four Regions in 2021",
+    "csv": "Region \\t Average House Price (million) \\t Number of Houses Sold \\n North \\t 1.5 \\t 250 \\n South \\t 2.3 \\t 320 \\n East \\t 1.8 \\t 280 \\n West \\t 2.1 \\t 300 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows.",
+      "In 2021, the Data It shows that the average House Prices for All Urban Employees ( United States ) earned 8.01 million U.S. dollars, or 1.68 million U.S. dollars."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_310",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_310.png",
+    "topic": "Business and Finance",
+    "title": " Businesses by size in four countries in 2021",
+    "csv": "Country \\t Small Businesses \\t Midsize Businesses \\t Large Businesses \\n USA \\t 2500 \\t 1500 \\t 700 \\n UK \\t 1800 \\t 1200 \\t 900 \\n Germany \\t 2700 \\t 1700 \\t 800 \\n France \\t 2000 \\t 1400 \\t 1000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows in four countries in 2021.",
+      "In 2021, small businesses in the United States were responsible for 2500 countries of the data."
+    ],
+    "labels": [
+    ["ooc_error", "nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_323",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_323.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of court cases and lawyers in four countries in 2021",
+    "csv": "Country \\t Court Cases \\t Lawyers \\n USA \\t 10000 \\t 4000 \\n UK \\t 8000 \\t 5000 \\n Germany \\t 9000 \\t 4500 \\n France \\t 7000 \\t 5000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a4004 statistic illustrates the length of the chart based on data available in four countries worldwide in 2021.",
+      "In 2021, there were 7000 countries that provided court cases and lawyers in France."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_284",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_284.png",
+    "topic": "Government and Public Policy",
+    "title": " Tax rate and government spending of four countries in 2021",
+    "csv": "Country \\t Tax Rate \\t Government Spending(trillion) \\n USA \\t 20% \\t 3.1 \\n UK \\t 19% \\t 2.5 \\n Germany \\t 22% \\t 3.2 \\n France \\t 21% \\t 2.8 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic displays the total statistical, or narrow-based, data on the ability to provide a short statistic, based on data it shows.",
+      "By 2021, it is expected that the USA is the country with the highest total amount of data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_453",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_453.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Arts and Culture Facilities in four countries in 2021",
+    "csv": "Country \\t Museums \\t Theatres \\t Galleries \\n USA \\t 20 \\t 15 \\t 25 \\n UK \\t 25 \\t 10 \\t 30 \\n Germany \\t 15 \\t 20 \\t 20 \\n France \\t 18 \\t 18 \\t 28 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows in four countries in 2021.",
+      "As of 2021, the United States had 20 museums, 25 galleries, and 15 museums."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_264",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_264.png",
+    "topic": "Education and Academics",
+    "title": " Number of students and teachers in four countries in 2021",
+    "csv": "Country \\t Students \\t Teachers \\n USA \\t 500 \\t 100 \\n UK \\t 600 \\t 110 \\n Germany \\t 450 \\t 90 \\n France \\t 550 \\t 120 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the short analytical description of the chart based on the data it shows in four countries in 2021.",
+      "The data is based on data available to the fourth quarter of 2019.",
+      "The data is based on data available to the various countries.",
+      "If allowed by the source, countries are however to provide a short statistic when providing data for these countries.",
+      "In the United States, 100 students were offered a short statistic, whereas in the teachers, 650 students were offered a short statistic."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error"],
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_276",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_276.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and Profit of four countries in 2021",
+    "csv": "Country \\t Revenue(million) \\t Profit(million) \\n USA \\t 9000 \\t 1200 \\n UK \\t 8000 \\t 1400 \\n Germany \\t 7000 \\t 1300 \\n France \\t 6000 \\t 1500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in 2021.",
+      "By the end of 2021, the data analysis for countries worldwide will be conducted that of the global revenue and the profit."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_241",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_241.png",
+    "topic": "Business and Finance",
+    "title": " Revenue and expense of four companies in 2021",
+    "csv": "Company \\t Revenue(million) \\t Expense(million) \\n Company A \\t 100 \\t 80 \\n Company B \\t 120 \\t 90 \\n Company C \\t 110 \\t 85 \\n Company D \\t 90 \\t 95 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2021, food chain's revenue was 100 billion U.S. dollars, out of which 100 billion U.S. dollars was spent on revenue.",
+      "In the same year, four companies were also listed on the global food market."
+    ],
+    "labels": [
+    ["nonsense_error", "value_error", "ooc_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_21",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_21.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports and entertainment events in four countries in 2021",
+    "csv": "Country \\t Sports Events \\t Entertainment Events \\n USA \\t 400 \\t 500 \\n UK \\t 500 \\t 550 \\n Germany \\t 300 \\t 450 \\n France \\t 370 \\t 480 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the source's ability to provide a short statistic about the data it shows in four countries in 2021.",
+      "The data is based on the current data for sports events and entertainment events.",
+      "Sports events are likely to provide a short statistic about the data if shows, whereas events for the entertainment event were expected to show a short statistic about 490 events in 2021."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_87",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_87.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee salaries and benefits in 2021",
+    "csv": "Employee \\t Salary(USD) \\t Benefits(USD) \\n John \\t 5000 \\t 1400 \\n Sarah \\t 4500 \\t 1300 \\n David \\t 4600 \\t 1200 \\n Jane \\t 4200 \\t 1100 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short-analytical description of the chart based on the data it shows in 2021.",
+      "In 2021, it is estimated that John will provide up to 1400 million statistical data regarding the number of jobs worldwide."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_356",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_356.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Number of housing units in four regions in 2021",
+    "csv": "Region \\t Houses \\t Apartments \\t Condominiums \\n West \\t 300 \\t 400 \\t 500 \\n Midwest \\t 290 \\t 410 \\t 520 \\n South \\t 280 \\t 420 \\t 530 \\n East \\t 270 \\t 430 \\t 540 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows in four regions in 2021.",
+      "In the east, the data provider PRODCOM estimates that the houses were the least numerous housing units in the western part of the country, with 270 houses, 430 sub-compactments and 540 condominiums."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_119",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_119.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Monetary and volunteer donations to charity organizations in four regions in 2021",
+    "csv": "Region \\t Donations(million) \\t Volunteers \\n North America \\t 50 \\t 100 \\n Europe \\t 70 \\t 120 \\n Asia \\t 30 \\t 90 \\n South America \\t 40 \\t 80 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on data provided to charity organizations in four regions in 2021.",
+      "In Europe, the data was provided to charity organizations with 30 million U.S. dollars in 2021."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_22",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_22.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Median Home Prices and Average Rents across four regions in 2021",
+    "csv": "Region \\t Median Home Price \\t Average Rent \\n South \\t 300000 \\t 1500 \\n MidWest \\t 250000 \\t 1300 \\n West \\t 400000 \\t 2000 \\n NorthEast \\t 350000 \\t 1700 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provided-statistic statistic for the cloud-based data entry services in four major countries.",
+      "In 2021, the source provided a short analytical description of the chart based on the data it shows.",
+      "In 2021, the data analysis for the four major countries of the United States are done so much less than relying on the mass media and9 the majority of the data is derived from traditional.",
+      "The source, however, is often used to provide a more detailed analysis of the data and its properties.",
+      "In 2021, the monthly number of active, non-weekly, and daily newscasts by macro-region combined totaling 30,000+"
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"],
+    ["ooc_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_10",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_10.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports venues and tourists in four countries in 2021",
+    "csv": "Country \\t Sports Venues \\t Tourists \\n USA \\t 50 \\t 400 \\n UK \\t 60 \\t 450 \\n Germany \\t 70 \\t 420 \\n France \\t 80 \\t 480 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows.",
+      "Sports venues are most visited by 27 percent of the respondents, which is 16 percent more than the 400 sports venues and tourists visited."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_259",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_259.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average home and rental prices in four states in 2021",
+    "csv": "State \\t Average Home Price \\t Average Rental Price \\n California \\t 500000 \\t 2500 \\n Texas \\t 400000 \\t 2000 \\n New York \\t 600000 \\t 3000 \\n Florida \\t 450000 \\t 2200 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provided-way of-street-price data for all locations in the United States for 2021.",
+      "In 2021, the price of a home price for a house in New York was 60,000, making it the most expensive location in the country."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost and distance of transportation modes in 2021",
+    "csv": "Mode \\t Distance(km) \\t Cost \\n Ship \\t 3000 \\t 20000 \\n Train \\t 2000 \\t 15000 \\n Bus \\t 1000 \\t 10000 \\n Plane \\t 4000 \\t 25000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic provides a short analytical description of the chart based on the data it shows.",
+      "In 2021, a web-based transactional engine had a cost of 2,923.97 thousand U.S. dollars."
+    ],
+    "labels": [
+    [],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_162",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_162.png",
+    "topic": "Environment and Sustainability",
+    "title": " Greenhouse gas emissions and renewable energy use in four countries in 2021",
+    "csv": "Country \\t Greenhouse Gas Emissions(ktCO2e) \\t Renewable Energy Use(%) \\n USA \\t 6000 \\t 20 \\n UK \\t 4500 \\t 25 \\n Germany \\t 5000 \\t 30 \\n France \\t 4000 \\t 35 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in four countries in 2021.",
+      "With a share of 451 percent, the United States is the leading country in terms of GHG emissions and renewable energy use."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_390",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_390.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of legislation and courts in four countries in 2021",
+    "csv": "Country \\t Legislation \\t Courts \\n USA \\t 2500 \\t 1500 \\n UK \\t 3000 \\t 1800 \\n Germany \\t 2200 \\t 1400 \\n France \\t 2500 \\t 1700 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows.",
+      "In 2021, a data analysis report for the United States shows that the United States is the main market for short analysis, with 400 countries providing the data for this topic."
+    ],
+    "labels": [
+    [],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_278",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_278.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Number of publications in social sciences and humanities in four countries in 2021",
+    "csv": "Country \\t Literature \\t History \\t Philosophy \\n USA \\t 400 \\t 300 \\t 200 \\n UK \\t 420 \\t 280 \\t 220 \\n Germany \\t 370 \\t 320 \\t 250 \\n France \\t 390 \\t 340 \\t 230 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows in four countries in 2021.",
+      "The data it shows that 300 countries in France provided a short statistic about the number of publications in social sciences and humanities."
+    ],
+    "labels": [
+    [],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_92",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_92.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of participants and spectators in four sports activities in 2021",
+    "csv": "Activity \\t Participants(million) \\t Spectators(million) \\n Football \\t 1.5 \\t 2.5 \\n Basketball \\t 2.0 \\t 3.0 \\n Tennis \\t 1.2 \\t 2.3 \\n Golf \\t 0.8 \\t 1.5 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in 2021.",
+      "In 2021, 1.5 percent of the participants and 3.0 percent of the statistic shows a> 2.5 percent difference in the data it shows."
+    ],
+    "labels": [
+    [],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_485",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_485.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy output of Solar, Wind and Hydro sources in four countries in 2021",
+    "csv": "Country \\t Solar Energy(kWh) \\t Wind Energy(kWh) \\t Hydro Energy(kWh) \\n USA \\t 1000 \\t 1200 \\t 800 \\n UK \\t 900 \\t 1300 \\t 1100 \\n Germany \\t 1100 \\t 1400 \\t 1200 \\n France \\t 800 \\t 1500 \\t 1400 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, the United States generated 1000 kWh of electricity from Solar Energy sources."
+    ],
+    "labels": [
+    [],
+    []
+    ],
+    "caption_consistent": "True"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_369",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_369.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average house and rental prices in four countries in 2021",
+    "csv": "Region \\t Average House Price(thousand) \\t Average Rental Price(thousand) \\n USA \\t 300 \\t 50 \\n UK \\t 400 \\t 60 \\n Germany \\t 350 \\t 55 \\n France \\t 360 \\t 60 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, the data analysis the USA was 300 thousand."
+    ],
+    "labels": [
+    [],
+    []
+    ],
+    "caption_consistent": "True"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_215",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_215.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Number of Hotels and Tourists in four regions in 2021",
+    "csv": "Region \\t Hotels \\t Tourists \\n Americas \\t 100 \\t 20000 \\n Europe \\t 150 \\t 25000 \\n Asia \\t 130 \\t 24000 \\n Africa \\t 90 \\t 19000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in four regions in 2021.",
+      "In 2021, it is estimated that there will be 2,2920 reports of hotels becoming the favorite data source for the4864 countries of the global hotel industry."
+    ],
+    "labels": [
+    [],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_224",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_224.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of doctors and nurses in four regions in 2021",
+    "csv": "Region \\t Doctors(thousand) \\t Nurses(thousand) \\n North \\t 100 \\t 200 \\n South \\t 110 \\t 220 \\n East \\t 115 \\t 230 \\n West \\t 120 \\t 240 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2021, the Data Analysis World provided by North of the 2021 data shows a that shows a long line graph, with 200 doctors and nurses in for the entire population, and 240 nurses and 300 thousand in the east."
+    ],
+    "labels": [
+    ["label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_146",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_146.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Users and Advertising Revenue in 2021",
+    "csv": "Platform \\t Users(million) \\t Advertising Revenue(billion) \\n Facebook \\t 2.8 \\t 84 \\n Google \\t 3.2 \\t 183 \\n Twitter \\t 0.8 \\t 3.5 \\n Instagram \\t 1.2 \\t 25 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2021, Facebook was the leading platform for using data, with a total of 84 million users."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_28",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_28.png",
+    "topic": "Arts and Culture",
+    "title": " Number of theatre performances and visitors to museums and art galleries in four countries in 2021",
+    "csv": "Country \\t Theatre Performances \\t Museums Visitors \\t Art Galleries Visitors \\n USA \\t 400 \\t 800 \\t 900 \\n UK \\t 550 \\t 1000 \\t 1100 \\n Germany \\t 500 \\t 850 \\t 1000 \\n France \\t 650 \\t 950 \\t 1200 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows.",
+      "It is shown that for example the chart shows data on global revenue for the arts and trade association for museums and art galleries, there will be a higher number of"
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_121",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_121.png",
+    "topic": "Healthcare and Health",
+    "title": " Number of healthcare facilities in four countries in 2021",
+    "csv": "Country \\t Hospitals \\t Pharmacies \\t Clinics \\n USA \\t 500 \\t 3000 \\t 5000 \\n UK \\t 200 \\t 1000 \\t 3000 \\n Germany \\t 300 \\t 2000 \\t 4000 \\n France \\t 400 \\t 2500 \\t 4500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows in four countries in 2021.",
+      "By that year, 400 countries in Germany were able to provide a data analysis that shows that the number of healthcare facilities in four countries was enough to cover a specific trade question."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_192",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_192.png",
+    "topic": "Energy and Utilities",
+    "title": " Electricity usage and cost in different regions in 2021",
+    "csv": "Region \\t Electricity Usage(MWh) \\t Energy Cost(million) \\n North America \\t 20000 \\t 1000 \\n Europe \\t 25000 \\t 1200 \\n South America \\t 18000 \\t 800 \\n Asia \\t 30000 \\t 1500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in 2021.",
+      "During the Data It shows that the largest part of the data was based on the electricity usage in North America, with an estimated 1000 million."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Voter turnout and government spending in four countries in 2021",
+    "csv": "Country \\t Voter Turnout(%) \\t Government Spending(billion) \\n USA \\t 50 \\t 3.5 \\n UK \\t 60 \\t 4.5 \\n Germany \\t 70 \\t 5.5 \\n France \\t 65 \\t 4.0 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on data it shows in four countries in 2021.",
+      "Thus, the data is lead by some countries in the United States, with a total of 53.58 billion U.S. dollars."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_344",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_344.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Housing prices and number of houses in four major US cities in 2021",
+    "csv": "City \\t Housing Price (million) \\t Number of Houses \\n New York \\t 2.5 \\t 100 \\n Los Angeles \\t 3.6 \\t 200 \\n Chicago \\t 2.3 \\t 150 \\n Houston \\t 2.1 \\t 180 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on data it shows.",
+      "In 2021, about 100 million housing prices in four major US cities were provided as a house price."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "label_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_471.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Literacy rate,GDP and satisfaction index of four countries in 2021",
+    "csv": "Country \\t Literacy Rate \\t GDP(billion) \\t Satisfaction Index \\n USA \\t 90% \\t 21.4 \\t 8 \\n UK \\t 95% \\t 2.6 \\t 7.5 \\n Germany \\t 98% \\t 2.2 \\t 7.2 \\n France \\t 97% \\t 2.4 \\t 7.9 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2021, the United States American Literacy rate was 119.4, while Germany was ranked second with a rate of 107.4.",
+      "These two countries also held the highest satisfaction index at 105.1."
+    ],
+    "labels": [
+    ["label_error", "value_error"],
+    ["label_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_1",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_1.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of Social Media users in four countries in 2021",
+    "csv": "Country \\t Facebook Users(million) \\t Twitter Users(million) \\t Instagram Users(million) \\n USA \\t 190 \\t 80 \\t 150 \\n UK \\t 30 \\t 20 \\t 25 \\n Germany \\t 80 \\t 10 \\t 30 \\n France \\t 50 \\t 17 \\t 35 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic displays the a short analytical description of the chart based on the data it shows.",
+      "As of November 2020, it is possible to provide a short analytical description of the data based on four countries.",
+      "With 256 million users in the United States, the United States is the largest market for short analytics."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "nonsense_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_316",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_316.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output and export volume in four countries in 2021",
+    "csv": "Country \\t Manufacturing Output (billion) \\t Export Volume (billion) \\n USA \\t 10 \\t 7.5 \\n UK \\t 8 \\t 4.5 \\n Germany \\t 12 \\t 9.5 \\n France \\t 9 \\t 6 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a4ـــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــــ"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_273",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_273.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of users and revenue of four major social media platforms in 2021",
+    "csv": "Platform \\t Users (millions) \\t Revenue (million USD) \\n Facebook \\t 2.00 \\t 65 \\n YouTube \\t 2.50 \\t 20 \\n Twitter \\t 0.80 \\t 7 \\n Instagram \\t 1.20 \\t 15 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the four major social media platforms that are active in the United States as of May 2018.",
+      "During the survey period, it was found that Facebook had the most user-friendliness of any social media platform, based on its 65 million users."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["ooc_error", "value_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_342.png",
+    "topic": "Government and Public Policy",
+    "title": " Public policy implementation in four states in 2021",
+    "csv": "State \\t Public Policy A \\t Public Policy B \\t Public Policy C \\n California \\t 10 \\t 20 \\t 30 \\n New York \\t 20 \\t 30 \\t 40 \\n Texas \\t 15 \\t 25 \\t 35 \\n Florida \\t 18 \\t 28 \\t 38 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This graph shows the short analytical description of the chart based on data it shows.",
+      "In 2021, California provided 10 points of the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_247",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_247.png",
+    "topic": "Education and Academics",
+    "title": " Average Math and Reading scores by Grade in 2021",
+    "csv": "Grade \\t Average Math Score \\t Average Reading Score \\n Grade 5 \\t 85 \\t 90 \\n Grade 6 \\t 86 \\t 91 \\n Grade 7 \\t 87 \\t 93 \\n Grade 8 \\t 89 \\t 95 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the a short analytical description of the chart based on the data it shows.",
+      "In 2021, the graph shows the average Math and Reading score for each grade.",
+      "The Math score for Grade 8 was 87."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "imgname": "bar_num_141",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart_num/png/bar_num_141.png",
+    "topic": "Transportation and Logistics",
+    "title": " Cost, speed and distance of different transportation modes in 2021",
+    "csv": "Mode \\t Distance (miles) \\t Speed (mph) \\t Cost \\n Air \\t 2500 \\t 800 \\t 500 \\n Rail \\t 3000 \\t 400 \\t 400 \\n Road \\t 3500 \\t 300 \\t 350 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a prediction for the best-case cost of a chart based on data it shows in 2021.",
+      "In 2021, the cost of a chart based on data it shows is expected to be 300 British pounds."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_110",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_110.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Retail and E-commerce Sales in four countries in 2021",
+    "csv": "Country \\t Retail Sales (billion) \\t E-commerce Sales (billion) \\n USA \\t 8.0 \\t 3.2 \\n UK \\t 5.4 \\t 2.6 \\n Germany \\t 7.2 \\t 2.8 \\n France \\t 4.6 \\t 2.2 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a comparison of the retail and e-commerce sales data based on data it shows in four countries in 2020.",
+      "In the United States, the retail sales data provider PRODCOMPARES the SELECTION of data on the retail displays and the SELECTION of data for the same source.",
+      "In 2019, the US generated 8 billion euros in revenue through retail sales."
+    ],
+    "labels": [
+    ["label_error"],
+    ["ooc_error", "nonsense_error"],
+    ["label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_431",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_431.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Sales of Dairy, Fruits and Meat in four regions in 2021",
+    "csv": "Region \\t Sales of Dairy(million) \\t Sales of Fruits(million) \\t Sales of Meat(million) \\n North America \\t 200 \\t 450 \\t 300 \\n South America \\t 300 \\t 500 \\t 400 \\n Europe \\t 250 \\t 480 \\t 320 \\n Asia \\t 280 \\t 520 \\t 350 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the short analytical description of the chart based on the data it shows in four regions in 2021.",
+      "In 2021, the North American region of North America was shown to provide a short analytical description of the data based on data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_37",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_37.png",
+    "topic": "Business and Finance",
+    "title": " GDP and Inflation Rate of Four Countries in 2021",
+    "csv": "Country \\t GDP(trillion) \\t Inflation rate \\n USA \\t 20.2 \\t 3.2 \\n UK \\t 2.5 \\t 1.8 \\n Germany \\t 3.7 \\t 2.4 \\n France \\t 2.2 \\t 1.9 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on data it shows in 2021.",
+      "In 2021, the countries with the highest GDP and inflation rate worldwide had an estimated GDP of about 23.4 percent."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_402",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_402.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of fast food, restaurants, and cafes in different regions in 2021",
+    "csv": "Region \\t Fast Food \\t Restaurants \\t Cafes \\n North America \\t 450 \\t 300 \\t 200 \\n South America \\t 500 \\t 250 \\t 250 \\n Europe \\t 550 \\t 280 \\t 220 \\n Asia \\t 400 \\t 310 \\t 240 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the length of a short analytical description of the chart based on the data it shows in 2021.",
+      "By the end of 2021, it is estimated that over 966 thousand people in North America will produce a fast food diet, with more than 200 thousand products being provided by the source."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_211",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_211.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop yield and climate conditions in the US Midwest region from 2016-2019",
+    "csv": "Year \\t Crop Yield(tons) \\t Average Rainfall(mm) \\t Average Temperature(degrees) \\n 2016 \\t 5000 \\t 350 \\t 20 \\n 2017 \\t 4500 \\t 320 \\t 22 \\n 2018 \\t 5500 \\t 400 \\t 24 \\n 2019 \\t 6000 \\t 420 \\t 26 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the data based on the data in the United States Midwest region between 2016 and 2019.",
+      "In 2019, the average temperature of the 431's chart shows it's population of the Midwest."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_110",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_110.png",
+    "topic": "Science and Engineering",
+    "title": " Comparison of Energy Output and Input in a Nuclear Reactor from 2000 to 2005",
+    "csv": "Year \\t Energy Output(Mega Watts) \\t Energy Input(Mega Watts) \\n 2000 \\t 1000 \\t 1200 \\n 2001 \\t 1100 \\t 1300 \\n 2002 \\t 1200 \\t 1400 \\n 2003 \\t 1400 \\t 1300 \\n 2004 \\t 1300 \\t 1200 \\n 2005 \\t 1000 \\t 1100 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a comparison of the length of the charts available in the Japanese90 charts from 2000 to 2005.",
+      "In 2003, the number of charts in the Netherlands was 1405."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_466",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_466.png",
+    "topic": "Retail and E-commerce",
+    "title": " Retail and E-commerce Sales Comparison in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n January \\t 100 \\t 120 \\n February \\t 150 \\t 130 \\n March \\t 200 \\t 200 \\n April \\t 220 \\t 210 \\n May \\t 250 \\t 230 \\n June \\t 270 \\t 220 \\n July \\t 320 \\t 240 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a further development of the statistic for the monthly number of charts used in the retail and e-commerce sales market in the United States.",
+      "In the month of July 2020, the retail and e-commerce sales market generated 240.5 billion U.S. dollars in sales."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_185",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_185.png",
+    "topic": "Education and Academics",
+    "title": " Changes in Enrollment, Graduation and Attrition Rates of University Students from 2011 to 2015",
+    "csv": "Year \\t Enrollment Rate(%) \\t Graduation Rate(%) \\t Attrition Rate(%) \\n 2011 \\t 90 \\t 70 \\t 20 \\n 2012 \\t 88 \\t 75 \\t 15 \\n 2013 \\t 85 \\t 72 \\t 22 \\n 2014 \\t 80 \\t 77 \\t 18 \\n 2015 \\t 83 \\t 79 \\t 16 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2015, the data analysis rate of0.9 percent of990.4 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of990.1 percent of9"
+    ],
+    "labels": [
+    [],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_125",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_125.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Prices of corn and wheat in relation to average farm price, 1996-2000",
+    "csv": "Year \\t Average Farm Price(cents/pound) \\t Price of Corn(cents/pound) \\t Price of Wheat(cents/pound) \\n 1996 \\t 63.4 \\t 50.9 \\t 75.3 \\n 1997 \\t 59.2 \\t 64.7 \\t 53.6 \\n 1998 \\t 62.8 \\t 68.6 \\t 51.2 \\n 1999 \\t 56.5 \\t 64.2 \\t 45.9 \\n 2000 \\t 63.7 \\t 58.2 \\t 67.7 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the short analytical description of the chart based on the data it shows.",
+      "In 1996, the data analysis0.5 hours of corn and wheat were performed on average 64.9754.015 and 87.75 hours of average farm price."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_190",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_190.png",
+    "topic": "Government and Public Policy",
+    "title": " Government Spending in Infrastructure, Education and Healthcare in the US from 2001 to 2005",
+    "csv": "Year \\t Infrastructure Spending(billion dollars) \\t Education Spending(billion dollars) \\t Healthcare Spending(billion dollars) \\n 2001 \\t 800 \\t 200 \\t 400 \\n 2002 \\t 900 \\t 250 \\t 450 \\n 2003 \\t 1000 \\t 300 \\t 500 \\n 2004 \\t 1100 \\t 350 \\t 550 \\n 2005 \\t 1200 \\t 400 \\t 600 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_152",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_152.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media User Growth from 2015-2019",
+    "csv": "Year \\t Facebook Users \\t Twitter Users \\t Instagram Users \\n 2015 \\t 1.59 \\t 0.32 \\t 0.25 \\n 2016 \\t 1.86 \\t 0.45 \\t 0.72 \\n 2017 \\t 2.13 \\t 0.60 \\t 1.47 \\n 2018 \\t 2.41 \\t 0.75 \\t 2.22 \\n 2019 \\t 2.68 \\t 0.90 \\t 2.97 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.. In 2019, the number of users on the social media platform grew by 10.8 percent."
+    ],
+    "labels": [
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_470",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_470.png",
+    "topic": "Environment and Sustainability",
+    "title": " Carbon Emission and Renewable Energy Production Trends in 2025",
+    "csv": "Year \\t Carbon Emission(metric tons) \\t Renewable Energy Production(billion watts) \\n 2020 \\t 5000 \\t 800 \\n 2021 \\t 4800 \\t 900 \\n 2022 \\t 4900 \\t 1000 \\n 2023 \\t 5100 \\t 1100 \\n 2024 \\t 5300 \\t 1200 \\n 2025 \\t 5400 \\t 1400 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in 2025.",
+      "By 2025, the short analysis will be carried out by the segment with revenues of approximately 150 billion U.S. dollars."
+    ],
+    "labels": [
+    ["label_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_329",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_329.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Internet Users and Smartphone Sales from 2015 to 2020",
+    "csv": "Year \\t Internet Users(millions) \\t Number of Smartphones Sold(millions) \\n 2015 \\t 3000 \\t 500 \\n 2016 \\t 4500 \\t 1000 \\n 2017 \\t 6000 \\t 1500 \\n 2018 \\t 7500 \\t 2000 \\n 2019 \\t 9500 \\t 2500 \\n 2020 \\t 11000 \\t 3000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "The chart shows the growth of 1000 million unique users, which was the highest number of the data it shows in 2015."
+    ],
+    "labels": [
+    [],
+    ["label_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_173",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_173.png",
+    "topic": "Retail and E-commerce",
+    "title": " Online and Offline Sales Trend in 2020",
+    "csv": "Month \\t Online Sales(billion dollars) \\t Offline Sales(billion dollars) \\n Jan \\t 1200 \\t 1000 \\n Feb \\t 1500 \\t 1100 \\n Mar \\t 1800 \\t 1300 \\n Apr \\t 1200 \\t 1000 \\n May \\t 1500 \\t 800 \\n Jun \\t 1300 \\t 900 \\n Jul \\t 1600 \\t 1100 \\n Aug \\t 1400 \\t 1000 \\n Sep \\t 1800 \\t 1200 \\n Oct \\t 2000 \\t 1100 \\n Nov \\t 1700 \\t 1000 \\n Dec \\t 1900 \\t 900 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic displays a comparison of the online and offline sales of charts in 2020.",
+      "In 2020, the online sales of charts in the Netherlands were estimated to be 1700 billion dollars.",
+      "This data is available as a breakdown of the total number of sales by product type."
+    ],
+    "labels": [
+    ["label_error"],
+    ["ooc_error", "value_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_318",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_318.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel visitors in four cities during the first four months of 2021",
+    "csv": "Month \\t Hotel A(number of visitors) \\t Hotel B(number of visitors) \\t Hotel C(number of visitors) \\t Hotel D(number of visitors) \\n January \\t 100 \\t 90 \\t 120 \\t 150 \\n February \\t 120 \\t 100 \\t 110 \\t 160 \\n March \\t 80 \\t 110 \\t 130 \\t 120 \\n April \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In April 2020, the source provided a short statistical description of the chart based on data it shows.",
+      "In March 2020, the data provider for four cities in the United States added the 150 data points to the data it shows."
+    ],
+    "labels": [
+    ["label_error"],
+    ["ooc_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_353",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_353.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Paintings in Different Art Galleries from 1800 to 1830",
+    "csv": "Year \\t Painting A \\t Painting B \\t Painting C \\t Painting D \\n 1800 \\t 10 \\t 15 \\t 20 \\t 25 \\n 1810 \\t 15 \\t 17 \\t 20 \\t 30 \\n 1820 \\t 20 \\t 18 \\t 25 \\t 35 \\n 1830 \\t 25 \\t 20 \\t 30 \\t 40 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2018, a total of 25,200 paintings by the French were published in the country.",
+      "This figure made up over 70 percent of all paintings in the country.",
+      "The source also indexing the number of paintings by the source, such as the number of paintings by the number of pictures, amounted to 20,400."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["ooc_error", "value_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_322",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_322.png",
+    "topic": "Government and Public Policy",
+    "title": " Changes in Tax Rate and Government Spending in the US from 2010 to 2016",
+    "csv": "Year \\t Tax Rate \\t Government Spending(billion dollars) \\n 2010 \\t 25% \\t 600 \\n 2011 \\t 27% \\t 650 \\n 2012 \\t 28% \\t 700 \\n 2013 \\t 29% \\t 750 \\n 2014 \\t 30% \\t 800 \\n 2015 \\t 32% \\t 850 \\n 2016 \\t 33% \\t 900 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows, in the United States from 2010 to 2016.",
+      "In 2016, it was found that the Tax Rate, a digital data product,4.3 billion U.S. dollars, was provided as an extra benefit for the average population."
+    ],
+    "labels": [
+    [],
+    ["label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_83",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_83.png",
+    "topic": "Environment and Sustainability",
+    "title": " Environmental changes in the US between 2010 and 2016",
+    "csv": "Year \\t Greenhouse Gas Emissions (million tons) \\t Renewable Energy Usage (GW) \\t Air Quality Index \\n 2010 \\t 1000 \\t 5 \\t 60 \\n 2011 \\t 1100 \\t 7 \\t 55 \\n 2012 \\t 1200 \\t 10 \\t 50 \\n 2013 \\t 1300 \\t 12 \\t 45 \\n 2014 \\t 1400 \\t 15 \\t 40 \\n 2015 \\t 1500 \\t 18 \\t 35 \\n 2016 \\t 1600 \\t 20 \\t 30 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a line graph, comparing the amount of different types of charts used in the United States between 2010 and 2016.",
+      "The chart shows how many of the characteristics of the US changed over the period in consideration.",
+      "In 2016, the Air Quality Index had a value of 479.7 billion U.S. dollars."
+    ],
+    "labels": [
+    ["ooc_error"],
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_146",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_146.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Total donations received by three charities from 2019 to 2023",
+    "csv": "Year \\t Donations A(million dollars) \\t Donations B(million dollars) \\t Donations C(million dollars) \\n 2019 \\t 200 \\t 150 \\t 50 \\n 2020 \\t 210 \\t 180 \\t 45 \\n 2021 \\t 220 \\t 160 \\t 67 \\n 2022 \\t 230 \\t 170 \\t 70 \\n 2023 \\t 240 \\t 185 \\t 75 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2019, the chart was funded by one million people."
+    ],
+    "labels": [
+    [],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_425",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donation trends in charitable organizations from 2001 to 2005",
+    "csv": "Year \\t Donation Amount(million dollars) \\t Number of Donors \\n 2001 \\t 20 \\t 100 \\n 2002 \\t 25 \\t 200 \\n 2003 \\t 30 \\t 300 \\n 2004 \\t 35 \\t 400 \\n 2005 \\t 40 \\t 500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a comparison of the length of time that the chart based on the data it shows in 2001 to 2005.",
+      "In 2001, the donation trends in charitable organizations worldwide amounted to 21.9 percent of the total."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_366",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_366.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Changes in migration, unemployment and wage in USA from 2010-2015",
+    "csv": "Year \\t Migration rate(%) \\t Unemployment rate(%) \\t Average wage(USD) \\n 2010 \\t 3.2 \\t 7.8 \\t 25000 \\n 2011 \\t 3.5 \\t 7.4 \\t 26000 \\n 2012 \\t 3.7 \\t 7.1 \\t 27000 \\n 2013 \\t 4.0 \\t 7.2 \\t 28000 \\n 2014 \\t 4.2 \\t 7.4 \\t 29000 \\n 2015 \\t 4.5 \\t 7.5 \\t 30000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows in the United States from 2010 to 2015.",
+      "In 2015, the index for the development of the data is at 9373,712 points."
+    ],
+    "labels": [
+    [],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_458",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_458.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Online and Retail Sales from 2019 to 2023",
+    "csv": "Year \\t Online Sales(billion dollars) \\t Retail Sales(billion dollars) \\t Total Sales(billion dollars) \\n 2019 \\t 900 \\t 1200 \\t 2100 \\n 2020 \\t 1000 \\t 1500 \\t 2500 \\n 2021 \\t 1200 \\t 1400 \\t 2600 \\n 2022 \\t 1100 \\t 1700 \\t 2800 \\n 2023 \\t 1300 \\t 1900 \\t 3200 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a comparison of the online and retail sales data by department store and year 2019 to 2021.",
+      "In 2019, the online and retail sales data that amounted to 2,239.4 billion U.S. dollars.",
+      "That year, the retail sales data provided by 2019 was 2,239.4 billion U.S. dollars."
+    ],
+    "labels": [
+    ["ooc_error", "label_error"],
+    ["value_error"],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_468",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_468.png",
+    "topic": "Environment and Sustainability",
+    "title": " Air and Water Quality Index in the U.S. 2001-2007",
+    "csv": "Year \\t Average Air Quality Index \\t Average Water Quality Index \\n 2001 \\t 50 \\t 70 \\n 2002 \\t 45 \\t 75 \\n 2003 \\t 40 \\t 80 \\n 2004 \\t 35 \\t 85 \\n 2005 \\t 43 \\t 78 \\n 2006 \\t 47 \\t 70 \\n 2007 \\t 50 \\t 65 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provide a short analytical description of the chart based on the data it shows.",
+      "In 2001, the average air quality index for the top 100 countries was 70."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_478",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_478.png",
+    "topic": "Manufacturing and Production",
+    "title": " Monthly production of four products in 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 3000 \\t 1500 \\t 2500 \\t 2000 \\n February \\t 3500 \\t 1700 \\t 2800 \\t 2200 \\n March \\t 2500 \\t 1500 \\t 3000 \\t 1800 \\n April \\t 3000 \\t 2000 \\t 3500 \\t 2200 \\n May \\t 3500 \\t 2200 \\t 4000 \\t 2500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic displays the provide a short analytical description of the chart based on the data it shows in 2021.",
+      "In 2021, a data analysis case ( product0 ) for Production A amounted to 3500 data shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_76",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_76.png",
+    "topic": "Education and Academics",
+    "title": " Academic Performance in Reading, Math, and Science by Grade Level",
+    "csv": "Grade \\t Reading Scores \\t Math Scores \\t Science Scores \\n 5th \\t 85 \\t 86 \\t 87 \\n 6th \\t 88 \\t 87 \\t 89 \\n 7th \\t 90 \\t 88 \\t 91 \\n 8th \\t 92 \\t 92 \\t 93 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2012, 89 Grade Level students scored 0.2 points on a chart based on the performance of the graph."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_451",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_451.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Changes in Agricultural Practices in Europe from 2015-2019",
+    "csv": "Year \\t Organic Farming \\t Crop Diversification \\t Animal Husbandry \\t Biodynamic Farming \\n 2015 \\t 3 \\t 5 \\t 1 \\t 2 \\n 2016 \\t 5 \\t 7 \\t 2 \\t 4 \\n 2017 \\t 7 \\t 9 \\t 3 \\t 6 \\n 2018 \\t 9 \\t 11 \\t 4 \\t 8 \\n 2019 \\t 11 \\t 13 \\t 5 \\t 10 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic displays the predicted an"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_485",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_485.png",
+    "topic": "Healthcare and Health",
+    "title": " Average body temperature and heart rate of different age groups",
+    "csv": "Age \\t Average body temperature(degrees Celcius) \\t Average heart rate(beats/min) \\n 0-5 \\t 37.2 \\t 110 \\n 6-15 \\t 36.7 \\t 97 \\n 16-25 \\t 36.6 \\t 75 \\n 26-40 \\t 36.5 \\t 75 \\n 41-60 \\t 36.4 \\t 77 \\n 61-80 \\t 36.3 \\t 85 \\n 81-99 \\t 36.2 \\t 95 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic provides a short analytical description of the chart based on the data it shows.",
+      "In 2019, the average body temperature and heart rate of different age groups was 83.97."
+    ],
+    "labels": [
+    [],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_16",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_16.png",
+    "topic": "Science and Engineering",
+    "title": " Renewable Energy Output in 2021",
+    "csv": "Month \\t Solar Panel Output(kWh) \\t Wind Turbine Output(kWh) \\n January \\t 100 \\t 90 \\n February \\t 150 \\t 115 \\n March \\t 120 \\t 105 \\n April \\t 140 \\t 115 \\n May \\t 170 \\t 130 \\n June \\t 120 \\t 100 \\n July \\t 150 \\t 115 \\n August \\t 140 \\t 125 \\n September \\t 100 \\t 95 \\n October \\t 110 \\t 100 \\n November \\t 150 \\t 110 \\n December \\t 130 \\t 115 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic gives information on the short analytical description of the chart based on the data it shows.",
+      "In 2021, the monthly number of points through the renewable energy output ( KWh ) amounted to 170,130."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_265.png",
+    "topic": "Business and Finance",
+    "title": " Expenses in four categories of products",
+    "csv": "Year \\t Expenses A(million dollars) \\t Expenses B(million dollars) \\t Expenses C(million dollars) \\t Expenses D \\n 2001 \\t 100 \\t 80 \\t 120 \\t 150 \\n 2002 \\t 120 \\t 90 \\t 110 \\t 160 \\n 2003 \\t 80 \\t 110 \\t 130 \\t 120 \\n 2004 \\t 150 \\t 120 \\t 140 \\t 80 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a line graph of the total amount of expenses in four categories in the United States in 2011 with a forecast to 2015.",
+      "In 2011, the total spending on data on these products amounted to 151.5 million U.S. dollars."
+    ],
+    "labels": [
+    ["nonsense_error", "value_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_344",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_344.png",
+    "topic": "Business and Finance",
+    "title": " GDP and GNP from 2001 to 2005",
+    "csv": "Year \\t Gross Domestic Product(GDP)(trillion dollars) \\t Gross National Product(GNP)(trillion dollars) \\n 2001 \\t 14.5 \\t 15 \\n 2002 \\t 14.6 \\t 16 \\n 2003 \\t 13.7 \\t 14 \\n 2004 \\t 15.2 \\t 17 \\n 2005 \\t 15.7 \\t 18 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_6",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_6.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Donations to Charity Organization in 2020",
+    "csv": "Donor \\t Donation Amount (in USD) \\t Number of Donations \\n John Smith \\t 5000 \\t 2 \\n Mary Johnson \\t 2000 \\t 1 \\n Jack Wilson \\t 1000 \\t 2 \\n Sarah Taylor \\t 3000 \\t 4 \\n Mark Brown \\t 500 \\t 3 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2020, donations to the charity organization's operations have more than doubled since 2009, when it was measured at 900.",
+      "This statistic shows the number of donations that the charity reported each year so far."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["label_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_399",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_399.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing output trend in the first half of 2023",
+    "csv": "Month \\t Output A(tonnes) \\t Output B(tonnes) \\t Output C(tonnes) \\n January \\t 100 \\t 200 \\t 300 \\n February \\t 150 \\t 250 \\t 400 \\n March \\t 175 \\t 275 \\t 450 \\n April \\t 225 \\t 325 \\t 500 \\n May \\t 200 \\t 300 \\t 400 \\n June \\t 125 \\t 225 \\t 350 \\n July \\t 150 \\t 250 \\t 400 \\n August \\t 175 \\t 275 \\t 450 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the manufacturing output trend in the first half of 2023.",
+      "The output is forecast to have a total output of 176.47 million data points in June 2023."
+    ],
+    "labels": [
+    ["label_error"],
+    ["label_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_409",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_409.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of three items in a factory in 2020",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\n January \\t 500 \\t 800 \\t 1000 \\n February \\t 600 \\t 700 \\t 1100 \\n March \\t 700 \\t 900 \\t 1300 \\n April \\t 800 \\t 1000 \\t 1500 \\n May \\t 900 \\t 1200 \\t 1800 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in 2020.",
+      "In April 2020, the production a report on the global production of three items, on which the year 2020 will have increased to the most likely three items."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_372",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_372.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy production in three sources at a renewable energy plant",
+    "csv": "Time \\t Solar Power Generation(GW) \\t Wind Power Generation(GW) \\t Hydropower Generation(GW) \\n 08:00 \\t 3.2 \\t 2.4 \\t 1.8 \\n 09:00 \\t 4.1 \\t 3.1 \\t 2.3 \\n 10:00 \\t 5.2 \\t 4.2 \\t 2.9 \\n 11:00 \\t 6.1 \\t 5.2 \\t 3.6 \\n 12:00 \\t 6.7 \\t 6.1 \\t 4.2 \\n 13:00 \\t 6.2 \\t 5.4 \\t 3.8 \\n 14:00 \\t 5.2 \\t 4.1 \\t 3.2 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the energy production of three sources at a renewable energy plant in the United Kingdom ( UK ) in three years from 2000 to 2014.",
+      "In the three years from 2000 to 2014, the energy production of wind power generation in the UK was around 6.5 percent of the 'price wars'_.",
+      "In the three years, the energy production derived from renewable sources in the UK was of 13.4 percent9||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["ooc_error", "label_error"],
+    ["nonsense_error", "value_error"],
+    ["value_error", "ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_367",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_367.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Change in Crime Rates in the US from 2001-2005",
+    "csv": "Year \\t Violent Crime Rate (per 100000 people) \\t Property Crime Rate (per 100000 people) \\n 2001 \\t 550 \\t 3120 \\n 2002 \\t 530 \\t 2970 \\n 2003 \\t 580 \\t 3180 \\n 2004 \\t 560 \\t 3200 \\n 2005 \\t 590 \\t 3100 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows in the United States from 2001 to 2005.",
+      "In 2001, the data it shows the750th National Data Initiative in the United States."
+    ],
+    "labels": [
+    ["nonsense_error", "label_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_450",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_450.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Average Monthly Consumption of Sugar, Coffee, and Tea in the US Food and Beverage Industry",
+    "csv": "Month \\t Sugar Consumption(lbs) \\t Coffee Consumption(cups) \\t Tea Consumption(cups) \\n January \\t 1000 \\t 500 \\t 200 \\n February \\t 1200 \\t 400 \\t 250 \\n March \\t 1300 \\t 450 \\t 300 \\n April \\t 1400 \\t 500 \\t 350 \\n May \\t 1200 \\t 550 \\t 400 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a simple but significant forecast of the data based on the data it shows in the United States Food and beverage industry in 2018.",
+      "As of April 2018, the data analysis for the entire food and beverage industry in the United States shows that67 percent of the data will be derived from monthly usage."
+    ],
+    "labels": [
+    ["ooc_error", "label_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_32",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_32.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production of four products in the first five months of 2021",
+    "csv": "Month \\t Production A(units) \\t Production B(units) \\t Production C(units) \\t Production D(units) \\n January \\t 20000 \\t 15000 \\t 17000 \\t 30000 \\n February \\t 25000 \\t 19000 \\t 18000 \\t 31000 \\n March \\t 22000 \\t 17000 \\t 19000 \\t 32000 \\n April \\t 23000 \\t 18000 \\t 17000 \\t 33000 \\n May \\t 24000 \\t 19000 \\t 16000 \\t 34000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in the first five months of 2021.",
+      "In the first half of 2021, the production a report published by the source, focusing on the analysis of data collected from data until the end of the year."
+    ],
+    "labels": [
+    ["ooc_error", "nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_77",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_77.png",
+    "topic": "Retail and E-commerce",
+    "title": " Changes in orders of four different products in 2021",
+    "csv": "Month \\t Order A \\t Order B \\t Order C \\t Order D \\n January \\t 50 \\t 35 \\t 45 \\t 60 \\n February \\t 60 \\t 40 \\t 50 \\t 70 \\n March \\t 65 \\t 45 \\t 55 \\t 75 \\n April \\t 70 \\t 50 \\t 60 \\t 80 \\n May \\t 55 \\t 45 \\t 70 \\t 90 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the analytical description of the chart based on data it shows.",
+      "In March 2020, the monthly data analysis for seven out of ten online products was done by removing certain products, particularly the order book."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_384",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_384.png",
+    "topic": "Healthcare and Health",
+    "title": " Average Body Measurements of Different Age Groups",
+    "csv": "Age \\t Average BMI \\t Average Weight (kg) \\t Average Height (cm) \\n 18-25 \\t 25 \\t 60 \\t 170 \\n 25-35 \\t 27 \\t 70 \\t 175 \\n 35-45 \\t 30 \\t 75 \\t 180 \\n 45-55 \\t 32 \\t 80 \\t 185 \\n 55-65 \\t 34 \\t 85 \\t 190 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic provides a short analytical description of the chart based on the data it shows.",
+      "In 2015, the average body measurements of different age groups within the chart were measured at 18.25."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_79",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_79.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee performance and satisfaction in 2020",
+    "csv": "Quarter \\t Employee Leave(days) \\t Employee Overtime(hours) \\t Employee Satisfaction Score \\n Q1 2020 \\t 25 \\t 100 \\t 4.5 \\n Q2 2020 \\t 30 \\t 110 \\t 4.7 \\n Q3 2020 \\t 20 \\t 90 \\t 4.8 \\n Q4 2020 \\t 15 \\t 80 \\t 4.9 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a prediction for the short-analytic description of the chart based on the data it shows in the United Kingdom ( UK ) in 2020.",
+      "In the fourth quarter of 2020, the data analysis score of the chart was 0.4 hours."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["label_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_206",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_206.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Total Tourists and Hotel Occupancy Rate in the US from 2020-2023",
+    "csv": "Year \\t Total Tourists(thousands) \\t International Tourists(thousands) \\t Domestic Tourists(thousands) \\t Hotel Occupancy Rate \\n 2020 \\t 1000 \\t 800 \\t 400 \\t 60% \\n 2021 \\t 1500 \\t 1200 \\t 300 \\t 70% \\n 2022 \\t 1700 \\t 1300 \\t 400 \\t 75% \\n 2023 \\t 1900 \\t 1400 \\t 500 \\t 80% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in the United States in 2020.",
+      "During the most recent year, the number of short analysts with an analysis of the data about the60 days of the week are420 hours."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_265",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_265.png",
+    "topic": "Government and Public Policy",
+    "title": " Effect of Campaign Expenditure on Voter Turnout in the USA from 2018 to 2022",
+    "csv": "Year \\t Voter Turnout(percentage) \\t Campaign Expenditure(million dollars) \\n 2018 \\t 65 \\t 100 \\n 2019 \\t 70 \\t 200 \\n 2020 \\t 73 \\t 400 \\n 2021 \\t 75 \\t 450 \\n 2022 \\t 77 \\t 500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2020, the data it shows that the federal state of campaign generated about 3.57 billion U.S. dollars in revenue."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_122",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_122.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Percentage of People in Different Age Groups in the United States in 2021",
+    "csv": "Age \\t Percentage of People \\n 0-17 \\t 20 \\n 18-24 \\t 30 \\n 25-34 \\t 25 \\n 35-44 \\t 15 \\n 45-54 \\t 7 \\n 55-64 \\t 2 \\n 65+ \\t 1 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the short analytical description of the chart based on the data it shows.",
+      "In 2021, it is estimated that the short analytical description of the data show up to 10 percent of the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_275",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_275.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food and Beverage Industry Sales in the First Half of 2021",
+    "csv": "Month \\t Beverages \\t Sweets \\t Snacks \\t Bakery \\n January \\t 1000 \\t 2000 \\t 800 \\t 600 \\n February \\t 1200 \\t 1800 \\t 900 \\t 650 \\n March \\t 900 \\t 1500 \\t 1000 \\t 700 \\n April \\t 1100 \\t 2000 \\t 800 \\t 750 \\n May \\t 1200 \\t 1900 \\t 1000 \\t 800 \\n June \\t 1000 \\t 1700 \\t 1100 \\t 900 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the food and beverage industry sales in the first half of 2021.",
+      "In June 2021, a total of 896.87 thousand commercial shows were generated by food and beverage industry sales."
+    ],
+    "labels": [
+    [],
+    ["label_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_440",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_440.png",
+    "topic": "Sports and Entertainment",
+    "title": " Gross Earning and Viewership of Sports and Entertainment Events from 2020 to 2024",
+    "csv": "Year \\t Gross Earning (million dollars) \\t Viewership (million people) \\n 2020 \\t 500 \\t 200 \\n 2021 \\t 700 \\t 300 \\n 2022 \\t 1000 \\t 400 \\n 2023 \\t 1300 \\t 500 \\n 2024 \\t 1600 \\t 600 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the length of a short statistic used to provide a short statistic about the length of a chart based on data available to100 days before the end of the year 2020.",
+      "By 2024, the end of the year will be a300 day."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_441",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_441.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Arts in the USA from 2011 to 2015",
+    "csv": "Year \\t Art A \\t Art B \\t Art C \\n 2011 \\t 50 \\t 60 \\t 70 \\n 2012 \\t 45 \\t 55 \\t 65 \\n 2013 \\t 48 \\t 58 \\t 68 \\n 2014 \\t 43 \\t 53 \\t 63 \\n 2015 \\t 46 \\t 56 \\t 66 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a line graph of the total popularity of arts in the United States from 2011 to 2015.",
+      "In 2015, the number of arts in the United States was 47.9 thousand."
+    ],
+    "labels": [
+    [],
+    ["label_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_11",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_11.png",
+    "topic": "Sports and Entertainment",
+    "title": " Growth of Box Office Gross and Ticket Sales for the NBA from 2016-2020",
+    "csv": "Year \\t Gross earnings (million dollars) \\t Tickets Sold (millions) \\n 2016 \\t 2.2 \\t 90 \\n 2017 \\t 2.3 \\t 95 \\n 2018 \\t 2.5 \\t 100 \\n 2019 \\t 2.7 \\t 105 \\n 2020 \\t 2.9 \\t 110 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on data it shows.",
+      "In 2020, the data it shows that the gross earnings of the Box Office and ticket sales for the NBA amounted to 101.7 million dollars."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["label_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_132",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_132.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Growth of Organic Food and Fast Food Sales in the U.S. from 2020 to 2023",
+    "csv": "Year \\t Organic Food Sales(million dollars) \\t Fast Food Sales(million dollars) \\n 2020 \\t 1000 \\t 4000 \\n 2021 \\t 1200 \\t 4500 \\n 2022 \\t 1500 \\t 3000 \\n 2023 \\t 1700 \\t 3500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2020, the value of the chart being3 billion U.S. dollars."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_348",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_348.png",
+    "topic": "Manufacturing and Production",
+    "title": " Production output of four categories of products in 2021",
+    "csv": "Month \\t Production A \\t Production B \\t Production C \\t Production D \\n January \\t 1000 \\t 1200 \\t 1400 \\t 2000 \\n February \\t 1200 \\t 1500 \\t 1800 \\t 2100 \\n March \\t 1400 \\t 1700 \\t 2000 \\t 2200 \\n April \\t 1600 \\t 1900 \\t 2200 \\t 2500 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a prediction for the out-of-home data usage of product data in global regions in 2021.",
+      "In March 2020, the production output of the 'Production A'_, which is the same month, came to 2204.",
+      "In April 2020, the data analysis for production6 came to 276."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "value_error"],
+    ["label_error", "value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_188",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_188.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop Yield of Major Grains in the US from 2000 to 2004",
+    "csv": "Year \\t Wheat Yield (Metric Tons) \\t Corn Yield (Metric Tons) \\t Rice Yield (Metric Tons) \\n 2000 \\t 5000 \\t 4000 \\t 2000 \\n 2001 \\t 6000 \\t 5000 \\t 3000 \\n 2002 \\t 7000 \\t 6000 \\t 4000 \\n 2003 \\t 8000 \\t 7000 \\t 5000 \\n 2004 \\t 9000 \\t 8000 \\t 6000 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the length of the chart in the United States from 2000 to 2004, by data usage.",
+      "In 2004, the data analysis000 U.S. shows that the vast majority of the charts are based on the data.",
+      "In 2000, the provided;& short, total; 9000 chars of data were generated by the Cryp Yield of Major Grains."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_282",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_282.png",
+    "topic": "Technology and the Internet",
+    "title": " Growth of Smartphone and Computer Sales from 2011 to 2016",
+    "csv": "Year \\t Smartphone Sales \\t Computer Sales \\n 2011 \\t 100 \\t 200 \\n 2012 \\t 150 \\t 220 \\n 2013 \\t 180 \\t 260 \\n 2014 \\t 200 \\t 280 \\n 2015 \\t 220 \\t 320 \\n 2016 \\t 260 \\t 350 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the growth of the chart based on data it shows in the United States from 2011 to 2016.",
+      "In 2016, the chart based on data it shows shows a 25 percent growth of the sales of Smartphone Sales."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_207",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_207.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Changes in Average Home and Rental Prices in the U.S. from 2000 to 2005",
+    "csv": "Year \\t Average Home Price (thousands of dollars) \\t Average Rental Price (thousands of dollars) \\n 2000 \\t 150 \\t 50 \\n 2001 \\t 170 \\t 55 \\n 2002 \\t 180 \\t 60 \\n 2003 \\t 190 \\t 65 \\n 2004 \\t 220 \\t 70 \\n 2005 \\t 250 \\t 75 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a line graph of the downvoting rate of a chart based on data it shows.",
+      "During theXMLSchema period, the data source was usually low as of 2005, with a base of 250.0003.0003.0003.0005."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "imgname": "line_num_175",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart_num/png/line_num_175.png",
+    "topic": "Education and Academics",
+    "title": " Increase in the number of High School and College Graduates between 2001 and 2005",
+    "csv": "Year \\t High School Graduates \\t College Graduates \\n 2001 \\t 20 \\t 10 \\n 2002 \\t 25 \\t 12 \\n 2003 \\t 30 \\t 15 \\n 2004 \\t 35 \\t 20 \\n 2005 \\t 40 \\t 25 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "line_chart",
+    "imgname": "line_439",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/line_chart/png/line_439.png",
+    "topic": "Environment and Sustainability",
+    "title": " Global Greenhouse Gas Emissions from 2001 to 2004",
+    "csv": "Year \\t Carbon Dioxide Emissions (million metric tons) \\t Nitrous Oxide Emissions (million metric tons) \\t Methane Emissions (million metric tons) \\n 2001 \\t 5000 \\t 250 \\t 400 \\n 2002 \\t 4500 \\t 200 \\t 350 \\n 2003 \\t 4800 \\t 250 \\t 400 \\n 2004 \\t 5200 \\t 300 \\t 450 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a short analytical description of the chart based on the data it shows.",
+      "In 2001, the data analysis626.7 million4.16 million74.53 million163.93 million163.94 million163.94 million163.94 million163.93, and 463.6 million1636 million1636."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_107",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_107.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the United States, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 45% \\n Female \\t 55% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a short analytical description of the chart based on the data it shows.",
+      "In 2023, the male data share and the female data share amounted to 55.0 percent."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_192",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_192.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Donors in the Nonprofit Sector,2023",
+    "csv": "Types of Donors \\t Percentage \\n Individuals \\t 45% \\n Foundations \\t 25% \\n Corporations \\t 15% \\n Government \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of Donors in the Nonprofit Sector in 2023, by type.",
+      "In 2023, 45.0 percent of Donors generated a charitable donation in the nonprofit sector."
+    ],
+    "labels": [
+    [],
+    ["label_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_72",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_72.png",
+    "topic": "Government and Public Policy",
+    "title": " Voting Participation in the USA by Age Group, 2023",
+    "csv": "Age Group \\t Voting Participation \\n 18-24 \\t 32% \\n 25-34 \\t 32% \\n 35-44 \\t 18% \\n 45-54 \\t 11% \\n 55-64 \\t 5% \\n 65+ \\t 2% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2023, 32.0 percent of the data it shows that the voting participation was 32.0 percent."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_267",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_267.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage of Digital Devices in 2021",
+    "csv": "Devices \\t Usage \\n Desktops \\t 20% \\n Laptops \\t 30% \\n Tablets \\t 15% \\n Smartphones \\t 35% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "As of May 2020, it is estimated that the chart based on the data it shows will be on 30.00 percent of the data usage of Digital Devices in 2021."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_89",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_89.png",
+    "topic": "Education and Academics",
+    "title": " School Enrollment in the USA, 2023",
+    "csv": "Schools \\t Percentage \\n Public \\t 45% \\n Private \\t 35% \\n Parochial \\t 10% \\n Homeschool \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2023, homeschool students in the United States were asked to provide a short analytical description of the data based on the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_157",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_157.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Government Revenue Sources in the USA, 2023",
+    "csv": "Revenue Sources \\t Percentage \\n Corporate Tax \\t 35% \\n Personal Income Tax \\t 25% \\n Sales Tax \\t 20% \\n Property Tax \\t 10% \\n Other \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2019, the data analysis0.0 percent of the data was provided by the Government Revenue Sources, which also provided a short statistic."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_471",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_471.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Sectors in the US, 2023",
+    "csv": "Manufacturing Sectors \\t Percentage \\n Automotive \\t 20% \\n Aerospace \\t 18% \\n Industrial Machinery \\t 15% \\n Electronics \\t 14% \\n Food and Beverages \\t 10% \\n Chemicals \\t 9% \\n Textiles \\t 7% \\n Semiconductors \\t 5% \\n Other \\t 12% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In the United States, the automotive industry provided a short statistic in the 2023 data base.",
+      "In the same year, the recreational and industrial machinery sector provided 276.2 million data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_386",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_386.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Distribution of Food and Beverage Products in the US, 2023",
+    "csv": "Type \\t Percentage \\n Convenience Foods \\t 25% \\n Fresh Foods \\t 20% \\n Natural and Organic Foods \\t 30% \\n Processed Foods \\t 15% \\n Functional Foods \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In the 2015 report, the food and beverage products0000 was responsible for 29.0 percent of the food and beverage products that were part of the food and beverage industry."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_425",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_425.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Allocation of Donations for Non-profit Organizations in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Animal Welfare \\t 20% \\n Education \\t 25% \\n Humanitarianism \\t 30% \\n Healthcare \\t 15% \\n Arts & Culture \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a provided-statistic breakdown of the data based on the data it shows.",
+      "In 2019, the Humantarians's Data on the number of CHART shows that 29,09999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999999"
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_217",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_217.png",
+    "topic": "Education and Academics",
+    "title": " Education Level Distribution in the USA, 2023",
+    "csv": "Level of Education \\t Percentage \\n Primary \\t 20 \\n Secondary \\t 30 \\n Bachelor's \\t 25 \\n Master's \\t 15 \\n Doctoral \\t 10 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows in the United States in 2023.",
+      "In the US, the primary, or secondary, number of charts is provided by the data source.",
+      "In this case, the data source includes data for the entire United States, as well as"
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_342",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_342.png",
+    "topic": "Transportation and Logistics",
+    "title": " Mode of Transportation Distribution in the Global logistics Industry, 2023",
+    "csv": "Modes \\t Percentage \\n Air \\t 25% \\n Rail \\t 20% \\n Road \\t 35% \\n Maritime \\t 20% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2023, the chart shows the position of the data on the various modes of transport in the global logistics industry.",
+      "Air shipments are the main source of new data on the global logistics industry.",
+      "Total freight volume in 2023 amounted to 1.2 million units."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "label_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_409",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_409.png",
+    "topic": "Sports and Entertainment",
+    "title": " Viewership Distribution for Sports and Entertainment Platforms in 2023",
+    "csv": "Platforms \\t Viewership Percentage \\n Television \\t 35% \\n YouTube \\t 25% \\n Social media \\t 20% \\n Streaming services \\t 10% \\n Radio \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on data it shows.",
+      "According to the source, it is expected that data shows a total of 2007's development of the data.",
+      "As of 2020, it is estimated that 46 percent of the data will be generated through 2007's development of the data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "ooc_error"],
+    ["ooc_error", "nonsense_error","value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_201",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_201.png",
+    "topic": "Social Media and the Web",
+    "title": " Social Media Platform Distribution in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 30% \\n YouTube \\t 20% \\n Twitter \\t 10% \\n Instagram \\t 15% \\n Reddit \\t 10% \\n Snapchat \\t 10% \\n Pinterest \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a short analytical description of the chart based on the data it shows.",
+      "In 2023, data analysis shows that Twitter accounted for 13.6 percent of the global total data usage."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_337",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_337.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Education Level Distribution among Adults in the USA, 2023",
+    "csv": "Education Level \\t Percentage \\n High School \\t 23% \\n Associates Degree \\t 15% \\n Bachelor's Degree \\t 30% \\n Master's Degree \\t 20% \\n Doctorate \\t 12% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows.",
+      "In 2023, the Data It Characteristic Index for Characterization of Data It shows that 49 percent of49 respondents had an education level distribution."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_339",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_339.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Mix in the USA in 2023",
+    "csv": "Sources \\t Percentage \\n Renewable Energy \\t 30% \\n Fossil Fuels \\t 40% \\n Nuclear Energy \\t 20% \\n Hydroelectricity \\t 7% \\n Biomass \\t 3% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the energy mix in the United States in 2023, by data type.",
+      "In 2023, the United States generated around 400 percent of the total energy mix."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_454",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_454.png",
+    "topic": "Social Media and the Web",
+    "title": " Distribution of Social Media Platforms Usage in the USA, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 36% \\n YouTube \\t 20% \\n Twitter \\t 7% \\n Instagram \\t 7% \\n Snapchat \\t 4% \\n LinkedIn \\t 4% \\n Reddit \\t 4% \\n Other \\t 23% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic presents a distribution of the data based on the data it shows in the United States in 2023.",
+      "During the measured period, it was found that 19.0 percent of social media platforms utilize this data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_482",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_482.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Distribution of Tourism and Hospitality Spending in 2023",
+    "csv": "Categories \\t Percentage \\n Air Travel \\t 30% \\n Car Rental \\t 20% \\n Hotels and Resorts \\t 25% \\n Cruise Lines \\t 15% \\n Tour Operators \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in 2023.",
+      "In 2023, it is estimated that 10.0 percent of the data it shows was provided by air travel."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_328",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_328.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee Retention Factors in the Workplace, 2023",
+    "csv": "Employee Retention \\t Percentage \\n Job Satisfaction \\t 35% \\n Professional Development \\t 25% \\n Compensation and Benefits \\t 20% \\n Work Environment \\t 15% \\n Work-Life Balance \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2023, the professional development focus on the data usage, while compensation and benefits were the most important."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["label_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_235",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_235.png",
+    "topic": "Government and Public Policy",
+    "title": " Breakdown of Tax Revenue for the U.S. Government in 2023",
+    "csv": "Tax Income \\t Percentage \\n Corporate Taxes \\t 25% \\n Individual Taxes \\t 45% \\n Payroll Taxes \\t 15% \\n Property Taxes \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the distribution of the data based on the data it shows in the United States government in 2023.",
+      "In 2023, the total revenue generated by the U.S.",
+      "government amounted to 45.0 percent of the total data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_46",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_46.png",
+    "topic": "Social Media and the Web",
+    "title": " Major Social Media Platforms Utilization in the US, 2023",
+    "csv": "Platforms \\t Percentage \\n Facebook \\t 32% \\n Twitter \\t 15% \\n YouTube \\t 25% \\n Instagram \\t 14% \\n LinkedIn \\t 7% \\n Pinterest \\t 4% \\n Snapchat \\t 3% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the short analytical description of the chart based on the data it shows.",
+      "During the 2023 survey, it was found that 7.0 percent of Instagram that had a short analytical description of the chart based on the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_160",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_160.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Disciplines in Academic Research, 2023",
+    "csv": "Areas \\t Percentage \\n Computer Science \\t 45% \\n Electrical Engineering \\t 20% \\n Mechanical Engineering \\t 15% \\n Civil Engineering \\t 10% \\n Chemical Engineering \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2023, 78,000 of the data shows a distribution of the length of the charts.",
+      "That year, the year 2018, the year 2019, the year 2020, the year 2019, and the year 2021, the year 2012, the year 2013, and the year 2014, the year 2015, and the year 2016, the year 2017 was the year with the highest share of statistic shows that0.",
+      "In 2018, 1,576,466 percent of the data was generated by the search and review industry."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_11",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_11.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Hotel Accommodations in the Global Tourism Industry in 2023",
+    "csv": "Hotels \\t Percentage \\n Luxury Hotels \\t 30% \\n Boutique Hotels \\t 20% \\n Business Hotels \\t 20% \\n Budget Hotels \\t 15% \\n Resorts \\t 15% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "The chart shows that the Hotel Accommodations in the Global Tourism Industry in 2023 had a short analytical description of the data based on the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_377",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_377.png",
+    "topic": "Manufacturing and Production",
+    "title": " Distribution of Manufacturing Output in the USA, 2023",
+    "csv": "Products \\t Share of Manufacturing \\n Automobiles \\t 25% \\n Aerospace \\t 15% \\n Electronics \\t 25% \\n Chemicals \\t 15% \\n Industrial Machinery \\t 10% \\n Metal Products \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2023, the number of data points for each type of chart shows the amount of data points.",
+      "In that year, the most popular type of chart was the automobile industry, with a 21.8 percent share of the data."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_53",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_53.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Science and Engineering Jobs in the USA, 2023",
+    "csv": "Job Sectors \\t Percentage \\n Energy \\t 20 \\n Manufacturing \\t 15 \\n Technology \\t 30 \\n Aerospace \\t 15 \\n Automotive \\t 10 \\n Utilities \\t 5 \\n Construction \\t 5 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data entry based on a variety of scientific and engineering jobs in the United States in 2023.",
+      "In that year, the engineering jobs accounted for 20.9 percent of the total number of jobs among the engineering and statistician."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "ooc_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_177",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_177.png",
+    "topic": "Technology and the Internet",
+    "title": " Usage Distribution of the Internet Platforms in the USA, 2023",
+    "csv": "Internet Platforms \\t Percentage \\n Social Media \\t 30% \\n Search Engines \\t 24% \\n E-Commerce \\t 20% \\n Video Platforms \\t 14% \\n Streaming Services \\t 8% \\n News Platforms \\t 4% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "According to the report, the United States is expected to generate 140 percent of the data in 2023."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_56",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_56.png",
+    "topic": "Environment and Sustainability",
+    "title": " Renewable Energy Sources in the USA, 2023",
+    "csv": "Renewable Energy \\t Percentage \\n Solar \\t 30% \\n Wind \\t 25% \\n Hydroelectricity \\t 20% \\n Geothermal \\t 15% \\n Biomass \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||||"
+    ],
+    "labels": [
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_293",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_293.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources in the US, 2023",
+    "csv": "Sources \\t Percentage \\n Renewables \\t 25% \\n Coal \\t 20% \\n Oil \\t 15% \\n Natural Gas \\t 30% \\n Nuclear \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the energy sources in the United States, as of 2023.",
+      "The United States exported approximately 10.0 percent of the data on the renewables in 2023,87 percent of which was generated from coal."
+    ],
+    "labels": [
+    [],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_279",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_279.png",
+    "topic": "Government and Public Policy",
+    "title": " Methods for Citizen Engagement in the US, 2023",
+    "csv": "Citizen Engagement \\t Percentage \\n Voting \\t 40% \\n Contacting Elected Officials \\t 20% \\n Attending Town Hall Meetings \\t 15% \\n Signing Petitions \\t 10% \\n Donating to Political Campaigns \\t 10% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2023, 580 percent of the data it shows was comprised of using the services of Google's Other Bets segment.",
+      "By 2019, this figure had decreased to 10.00 percent."
+    ],
+    "labels": [
+    ["value_error", "ooc_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_81",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_81.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Services in the Global Market, 2023",
+    "csv": "Services \\t Percentage \\n Cloud Computing \\t 25% \\n Artificial Intelligence \\t 20% \\n Internet of Things \\t 30% \\n Big Data \\t 15% \\n Cyber Security \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the chart based on the data it shows in the Global Market, in the United States in 2023.",
+      "The for cloud computing and artificial intelligence ( AI ) software solutions provider, a part of the 50 percent of the market, ranked by their total sales."
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["value_error","nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_47",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_47.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy Sources Distribution in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 40% \\n Nuclear \\t 20% \\n Natural Gas \\t 20% \\n Coal \\t 10% \\n Oil \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a short analytical description of the chart based on the data it shows.",
+      "Energy Sources Distribution in the United States, 2023, had a 40,000 percent share of the data, with 20,000 percent of the data."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_305",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_305.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Food Distribution in the USA, 2023",
+    "csv": "Food Groups \\t Percentage \\n Dairy \\t 18% \\n Fruit \\t 20% \\n Vegetables \\t 25% \\n Meat \\t 15% \\n Grains \\t 14% \\n Fats and Oils \\t 6% \\n Sugars and Sweets \\t 2% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a bar chart with a long, short, or20-foot equivalent statistic on the data it shows.",
+      "In 2020, the bar chart with the highest gap between food and meat shows was for the food distribution chart, with a total of 4.0 percent of the data it shows."
+    ],
+    "labels": [
+    [],
+    ["value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_261",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_261.png",
+    "topic": "Technology and the Internet",
+    "title": " Technological Device Usage in the USA, 2023",
+    "csv": "Devices \\t Useage \\n Laptops \\t 40% \\n Smartphones \\t 25% \\n Tablets \\t 15% \\n Desktops \\t 10% \\n Smartwatches \\t 5% \\n Streaming Devices \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "The Technological Device Usage in the United States is expected to produce 40.0 percent of the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_378",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_378.png",
+    "topic": "Science and Engineering",
+    "title": " Distribution of Engineering Fields in the USA, 2023",
+    "csv": "Types of Engineers \\t Percentage \\n Electrical Engineers \\t 20% \\n Mechanical Engineers \\t 20% \\n Civil Engineers \\t 15% \\n Computer Engineers \\t 15% \\n Chemical Engineers \\t 10% \\n Industrial Engineers \\t 10% \\n Aerospace Engineers \\t 5% \\n Materials Engineers \\t 5% \\n Nuclear Engineers \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in the United States in 2023.",
+      "4.5 percent of all engineering fields in the United States were used to provide a short analytical description of the chart based on the data it shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_315",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_315.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Global Distribution of Lawyers in 2023",
+    "csv": "Regions \\t Lawyer population share \\n North America \\t 30% \\n Europe \\t 30% \\n Asia \\t 20% \\n South America \\t 10% \\n Africa \\t 7% \\n Oceania \\t 3% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in 2023.",
+      "In 2023, 30.00 percent of the data was generated in Europe."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    []
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_418",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_418.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Distribution of Charitable Causes in the United States, 2023",
+    "csv": "Charitable Causes \\t Percentage \\n Education \\t 20 \\n Healthcare \\t 25 \\n Human Rights \\t 15 \\n Environment \\t 20 \\n Poverty Alleviation \\t 20 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in the United States in 2023.",
+      "In 2023, about 20.0 percent of the data was provided by the military."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_164",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_164.png",
+    "topic": "Energy and Utilities",
+    "title": " Distribution of Energy Sources in the USA, 2023",
+    "csv": "Sources \\t Percentage \\n Renewable \\t 42% \\n Coal \\t 25% \\n Natural Gas \\t 18% \\n Nuclear \\t 10% \\n Oil \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of Energy Source's chart based on the data it shows in the United States in 2023.",
+      "That year,0.09 percent of the data it shows that the company that produced 10.09 percent of the data was generated by the coal industry."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_483",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_483.png",
+    "topic": "Education and Academics",
+    "title": " Breakdown of Student Population by Level of Education in 2023",
+    "csv": "Student Population \\t Percentage \\n Primary Education \\t 45% \\n Secondary Education \\t 30% \\n Higher Education \\t 15% \\n Vocational Training \\t 5% \\n Non Formal Education \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2019, as part of a data analysis package, we were able to provide a short analytical description of the chart based on the data it shows.",
+      "During the data it was discovered that there were approximately 300 thousand data points of the population in the United States which the source provided."
+    ],
+    "labels": [
+    ["nonsense_error", "ooc_error"],
+    ["nonsense_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_59",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_59.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Types of Tourism in the World, 2023",
+    "csv": "Types of Tourism \\t Percentage \\n Leisure \\t 40% \\n Business \\t 20% \\n Education \\t 15% \\n Religious \\t 10% \\n Medical \\t 10% \\n Adventure \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2020, it was estimated that leisure and business events would have generated 50 percent of the data in the World, due to the growth in the coronavirus.",
+      "In that year, the share of people who planned to visit the shows in the 2020/21 season was 25 percent."
+    ],
+    "labels": [
+    ["value_error", "ooc_error"],
+    ["nonsense_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_365",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_365.png",
+    "topic": "Arts and Culture",
+    "title": " Popularity of Music Genres in the USA, 2023",
+    "csv": "Genres \\t Popularity \\n Pop Music \\t 35% \\n Rock Music \\t 15% \\n Hip-Hop and R&B \\t 15% \\n Jazz \\t 10% \\n Country \\t 10% \\n Classical \\t 10% \\n Electronic/Dance \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In 2023, jazz music had a short analytical description of the chart based on the data it shows.",
+      "In that year, the music genre was more popular than the other genres in the country, with 10.07 percent of respondents reporting that they had used the data for music shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["label_error", "value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_388",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_388.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Online Shopping Categories in the US, 2023",
+    "csv": "Online Shopping \\t Percentage \\n Clothing \\t 25% \\n Electronics \\t 20% \\n Home and Garden \\t 30% \\n Automotive \\t 15% \\n Other \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "In the United States, clothing was the most popular type of online shopper by a large margin, with a 20.0 percent share of the charts being made up of clothing.",
+      "Other popular online shops in the United States also feature promotional sales."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_36",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_36.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Source of Donations for Nonprofit Organizations in the USA, 2023",
+    "csv": "Donations \\t Percentage \\n Individuals \\t 35% \\n Foundations \\t 18% \\n Corporations \\t 20% \\n Religious Institutions \\t 20% \\n Government Grants \\t 7% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a projection of the data provided by the Nonprofit Organizations in the United States for the fiscal years 2019, 2020 and 2023.",
+      "In FY 2020, it is estimated that the.2020.18.09 percent of the data will be generated by the National Foundations Chapter, a"
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["ooc_error", "nonsense_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_272",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_272.png",
+    "topic": "Science and Engineering",
+    "title": " Software Distribution in the Science and Engineering Industry, 2023",
+    "csv": "Software \\t Percentage \\n Operating Systems \\t 25% \\n Programming Languages \\t 15% \\n Database Management \\t 15% \\n Networking \\t 15% \\n Artificial Intelligence \\t 15% \\n Graphics \\t 10% \\n Animation \\t 5% \\n Simulation \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a forecast of the short analytical description of the chart based on the data it shows.",
+      "The data analysis for software distribution in the Science and Engineering Industry, 2023, show that the data analysis for this industry will be>"
+    ],
+    "labels": [
+    ["ooc_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_116",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_116.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Distribution of Human Resources Management Areas in the US, 2023",
+    "csv": "Categories \\t Percentage \\n Training and Development \\t 22% \\n Recruitment and Selection \\t 20% \\n Performance Management \\t 16% \\n Employee Relations \\t 14% \\n Compensation and Benefits \\t 14% \\n Human Resource Planning \\t 10% \\n Health and Safety \\t 4% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the distribution of human resources management areas in the United States in 2023.",
+      "In that year, human resources planning ( and training ) was responsible for 22.00 percent of the data collected for the United States."
+    ],
+    "labels": [
+    [],
+    ["value_error", "label_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_299",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_299.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Distribution of Major Crops in the World, 2023",
+    "csv": "Crops \\t Percentage \\n Rice \\t 35% \\n Maize \\t 20% \\n Wheat \\t 20% \\n Potato \\t 10% \\n Soybean \\t 5% \\n Other \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the distribution of Major Crops in the World, sorted by type of crop.",
+      "In 2020, it was estimated that rice accounted for 20.0 percent of the global total chart shows."
+    ],
+    "labels": [
+    [],
+    ["value_error", "ooc_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_357",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_357.png",
+    "topic": "Transportation and Logistics",
+    "title": " Distribution of Transportation Modes in the US, 2023",
+    "csv": "Modes of Transport \\t Percentage \\n Rail \\t 15% \\n Road \\t 45% \\n Air \\t 30% \\n Water \\t 10% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data based on the data it shows in the United States in 2023.",
+      "In that year, the a 45.0 percent share of the data collected by the U.S.",
+      "Department of Transportation Mode was's target region."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["nonsense_error"],
+    ["nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_329",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_329.png",
+    "topic": "Government and Public Policy",
+    "title": " Distribution of Public Spending on Social Services in the US, 2023",
+    "csv": "Social Services \\t Percentage \\n Education \\t 25% \\n Healthcare \\t 20% \\n Transportation \\t 15% \\n Housing and Community \\t 15% \\n Public Safety \\t 10% \\n Welfare \\t 10% \\n Other \\t 15% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the provide a short analytical description of the chart based on the data it shows.",
+      "In 2020, the percentage of total amount of money that the population provided by the social services were 9.4 percent."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["ooc_error", "value_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_484",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_484.png",
+    "topic": "Technology and the Internet",
+    "title": " Distribution of Technology Platforms in the Digital Marketplace, 2023",
+    "csv": "Platforms \\t Percentage \\n Desktop \\t 35% \\n Mobile \\t 45% \\n Tablet \\t 10% \\n Wearables \\t 5% \\n Other \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data analysis chart based on the data it shows in the Digital Marketplace in 2023.",
+      "During the measured period, it was found that 45.00 percent of the data it shows was generated via mobile."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    []
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_197",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_197.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Gender Distribution in the USA, 2023",
+    "csv": "Gender \\t Percentage \\n Male \\t 50 \\n Female \\t 50 \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows the gender distribution of the data based on data it shows in the United States in 2023.",
+      "In 2023, 50,000 female respondents stated that they used the data for statistic shows."
+    ],
+    "labels": [
+    ["nonsense_error"],
+    ["value_error", "nonsense_error"]
+    ],
+    "caption_consistent": "False"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_321",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_321.png",
+    "topic": "Technology and the Internet",
+    "title": " Market Share of Digital Platforms in 2023",
+    "csv": "Platforms \\t Market Share \\n Mobile \\t 40% \\n Desktop \\t 30% \\n Tablet \\t 15% \\n Video Game Console \\t 10% \\n Wearables \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "The statistic shows a forecast of the market share of digital platforms in 2023.",
+      "Mobile devices that are part of the global digital market share of digital platforms are forecast to account for 40 percent of the total market share."
+    ],
+    "labels": [
+    [],
+    []
+    ],
+    "caption_consistent": "True"
+  },
+  {
+    "chart_type": "pie_chart",
+    "imgname": "pie_320",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/pie_chart/png/pie_320.png",
+    "topic": "Science and Engineering",
+    "title": " Percentage Distribution of Science and Engineering Fields in Higher Education, 2023",
+    "csv": "Areas \\t Percentage \\n Biological Sciences \\t 25% \\n Physics \\t 20% \\n Chemistry \\t 20% \\n Mathematics \\t 15% \\n Computer Science \\t 10% \\n Earth Science \\t 5% \\n Aerospace Engineering \\t 5% \\n ",
+    "model_name": "google/matcha-chart2text-statista",
+    "generated_caption": [
+      "This statistic shows a distribution of the data on the different types of science and engineering fields in higher education in 2020.",
+      "As of that year, some 15 percent of the data was generated by the area of mathematics."
+    ],
+    "labels": [
+    [],
+    []
+    ],
+    "caption_consistent": "True"
+  }
+]

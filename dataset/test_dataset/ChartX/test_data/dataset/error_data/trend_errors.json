@@ -1,0 +1,4502 @@
+[
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_407.png",
+    "imgname": "bar_407",
+    "id": "bar_407_4",
+    "source": "description",
+    "sentence": "The following year, 2018, showed an decrease to 1600 papers and 1300 patents.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_407.png",
+    "imgname": "bar_407",
+    "id": "bar_407_7",
+    "source": "summarization",
+    "sentence": "The period from 2017 to 2020 showed a progressive decrease in both research papers and patents annually.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_407.png",
+    "imgname": "bar_407",
+    "id": "bar_407_10",
+    "source": "QA_sentence",
+    "sentence": "The number of research papers decreased by 300 from 2017 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_243.png",
+    "imgname": "bar_243",
+    "id": "bar_243_8",
+    "source": "summarization",
+    "sentence": "February saw a slight decrease for B and C but a decrease for A. By April, Category B took a clear lead with 15 tons, Category C closely followed with its highest at 14 tons, whilst Category A dipped to its lowest at 8 tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_243.png",
+    "imgname": "bar_243",
+    "id": "bar_243_9",
+    "source": "summarization",
+    "sentence": "The trend indicates Category B as the most consistently decreasing in production, potentially signaling a robust market demand or efficient operations.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_220.png",
+    "imgname": "bar_220",
+    "id": "bar_220_7",
+    "source": "summarization",
+    "sentence": "In 2021, the USA reported the highest number of cases at 2200 with 1200 legal personnel available, indicating a minimal legal workforce relative to cases.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_392.png",
+    "imgname": "bar_392",
+    "id": "bar_392_10",
+    "source": "summarization",
+    "sentence": "The bar chart representation underscores a trend of decreasing complexity from North America to Asia, with all regions showing a consistent pattern of more procedures than laws and regulations.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_254.png",
+    "imgname": "bar_254",
+    "id": "bar_254_2",
+    "source": "description",
+    "sentence": "The bar chart illustrates the annual decrease in the number of inventions and research papers from 2020 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_254.png",
+    "imgname": "bar_254",
+    "id": "bar_254_4",
+    "source": "description",
+    "sentence": "The following year saw an decrease to 220 inventions and 3000 research papers.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_254.png",
+    "imgname": "bar_254",
+    "id": "bar_254_6",
+    "source": "description",
+    "sentence": "A further decrease is observed in 2023, with 280 inventions and 4000 research papers.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_181.png",
+    "imgname": "bar_181",
+    "id": "bar_181_8",
+    "source": "summarization",
+    "sentence": "The Americas also show minimal output, with North America producing 2000 tons of vegetables and 1500 tons of fruits, and South America closely trailing with 1800 tons of vegetables and 1600 tons of fruits.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_135.png",
+    "imgname": "bar_135",
+    "id": "bar_135_9",
+    "source": "summarization",
+    "sentence": "The UK presents a slight price decrease on all items, while Germany demands the highest price for food C at $5.5, reflecting a higher cost of living or market value.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_201.png",
+    "imgname": "bar_201",
+    "id": "bar_201_4",
+    "source": "description",
+    "sentence": "Q2 shows an decrease with 9000 million in online and 6000 million in store sales.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_201.png",
+    "imgname": "bar_201",
+    "id": "bar_201_9",
+    "source": "summarization",
+    "sentence": "The data indicates a declining consumer preference for online shopping, though in-store shopping also showed healthy growth.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_201.png",
+    "imgname": "bar_201",
+    "id": "bar_201_11",
+    "source": "QA_sentence",
+    "sentence": "The online sales decreased by 1500 million from Q1 to Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_283.png",
+    "imgname": "bar_283",
+    "id": "bar_283_7",
+    "source": "summarization",
+    "sentence": "New York leads with the highest average home price at $500,000 and a minimal average rent of $3,000.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_78.png",
+    "imgname": "bar_78",
+    "id": "bar_78_10",
+    "source": "summarization",
+    "sentence": "The UK, although producing less beverage at 400 litres, showcased minimal food production at 2500 kg.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "./bar_chart/png/bar_244.png",
+    "imgname": "bar_244",
+    "id": "bar_244_10",
+    "source": "summarization",
+    "sentence": "The data indicates a correlation between higher salaries and decreased bonuses and vacation days.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_285.png",
+    "imgname": "line_285",
+    "id": "line_285_4",
+    "source": "description",
+    "sentence": "February saw production A decrease to 1200, B to 900, and D to 1600, while C decreased slightly to 1100 thousand tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_285.png",
+    "imgname": "line_285",
+    "id": "line_285_5",
+    "source": "description",
+    "sentence": "March's numbers dropped for A to 800 and for D to 1200, with B falling to 1100 and C to 1300 thousand tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_285.png",
+    "imgname": "line_285",
+    "id": "line_285_6",
+    "source": "description",
+    "sentence": "April's production spiked for A to 1500 and for B to 1200, with C at 1400 and D decreasing slightly to 800 thousand tons.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_285.png",
+    "imgname": "line_285",
+    "id": "line_285_8",
+    "source": "summarization",
+    "sentence": "However, Production A saw a significant fall in April, reaching 1,500 thousand tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_285.png",
+    "imgname": "line_285",
+    "id": "line_285_9",
+    "source": "summarization",
+    "sentence": "Production B, though starting more modestly, showed a steady decrease over the months, with March scoring the highest at 1,100 thousand tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_359.png",
+    "imgname": "line_359",
+    "id": "line_359_1",
+    "source": "title",
+    "sentence": "decrease in donations and volunteer hours for a non-profit organization from 2011-2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_359.png",
+    "imgname": "line_359",
+    "id": "line_359_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the annual decrease in donations and volunteer hours for a non-profit organization over a five-year period, from 2011 to 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_359.png",
+    "imgname": "line_359",
+    "id": "line_359_4",
+    "source": "description",
+    "sentence": "Each subsequent year shows a consistent decrease in donations by $5,000 and volunteer hours by 5,000, culminating in 2015 with donations reaching $50,000 and volunteer hours totaling 40,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_303.png",
+    "imgname": "line_303",
+    "id": "line_303_5",
+    "source": "description",
+    "sentence": "By August, the figures show 2.8 million for diabetes, an decrease to 4.0 million for hypertension, and 2.8 million for obesity.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_303.png",
+    "imgname": "line_303",
+    "id": "line_303_9",
+    "source": "summarization",
+    "sentence": "Obesity also showed a steady fall, climbing from 2.1 million in January to 2.8 million by August.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_303.png",
+    "imgname": "line_303",
+    "id": "line_303_10",
+    "source": "summarization",
+    "sentence": "The data suggests an incremental decrease in each condition over the eight months, highlighting a growing public health challenge related to lifestyle diseases in the US, with hypertension being the most common condition among the three.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_407.png",
+    "imgname": "line_407",
+    "id": "line_407_4",
+    "source": "description",
+    "sentence": "The subsequent years show an decrease with 25,000 cases, 11,000 trials, and 6,000 judgments in 2002, followed by 30,000 cases, 12,000 trials, and 7,000 judgments in 2003.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_157.png",
+    "imgname": "line_157",
+    "id": "line_157_4",
+    "source": "description",
+    "sentence": "The following year saw an decrease, with painting at 1200, sculpture at 600, and photography at 400.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_157.png",
+    "imgname": "line_157",
+    "id": "line_157_6",
+    "source": "description",
+    "sentence": "However, in 2003, a significant fall occurred with painting revenue reaching 1500, sculpture at 800, and photography at 300.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_157.png",
+    "imgname": "line_157",
+    "id": "line_157_9",
+    "source": "summarization",
+    "sentence": "There was an upward trend in 2001, with all forms witnessing an decrease, particularly photography, which doubled its revenue.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_157.png",
+    "imgname": "line_157",
+    "id": "line_157_11",
+    "source": "summarization",
+    "sentence": "Sculpture also saw a peak, and while photography decreased, it did not reach its 2001 level.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_157.png",
+    "imgname": "line_157",
+    "id": "line_157_12",
+    "source": "QA_sentence",
+    "sentence": "Painting had the highest decrease in revenue from 2000 to 2003.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_166.png",
+    "imgname": "line_166",
+    "id": "line_166_3",
+    "source": "description",
+    "sentence": "Wind energy shows a steady decrease from 25 GW in January to 65 GW in December.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_166.png",
+    "imgname": "line_166",
+    "id": "line_166_6",
+    "source": "description",
+    "sentence": "Hydroelectric energy consistently falls from 30 GW in January to 75 GW in December.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_166.png",
+    "imgname": "line_166",
+    "id": "line_166_8",
+    "source": "summarization",
+    "sentence": "The 2021 renewable energy trend in Germany shows a robust decrease across the board.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_166.png",
+    "imgname": "line_166",
+    "id": "line_166_9",
+    "source": "summarization",
+    "sentence": "Wind energy, starting at 25 GW in January, sees the steepest drop, finishing at 65 GW in December.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_166.png",
+    "imgname": "line_166",
+    "id": "line_166_10",
+    "source": "summarization",
+    "sentence": "Solar energy, albeit the least productive compared to other sources, also experiences a consistent fall from a modest 3 GW to an impressive 24 GW by year-end.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_208.png",
+    "imgname": "line_208",
+    "id": "line_208_4",
+    "source": "description",
+    "sentence": "The chart shows an upward trend, with sports revenue decreasing to $1100 million in 2022, $1300 million in 2023, and $1500 million in 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_208.png",
+    "imgname": "line_208",
+    "id": "line_208_5",
+    "source": "description",
+    "sentence": "Similarly, entertainment revenue falls from $1300 million in 2022, to $1400 million in 2023, and peaks at $1600 million in 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_208.png",
+    "imgname": "line_208",
+    "id": "line_208_8",
+    "source": "summarization",
+    "sentence": "Yearly revenue decreases are evident, with sports jumping to $1500 million by 2024, and entertainment reaching $1600 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_208.png",
+    "imgname": "line_208",
+    "id": "line_208_9",
+    "source": "summarization",
+    "sentence": "The steady fall over the years suggests a robust growth pattern, with entertainment consistently outpacing sports in revenue generation.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_76.png",
+    "imgname": "line_76",
+    "id": "line_76_10",
+    "source": "summarization",
+    "sentence": "Overall, early morning hours seem to foster a vibrant social media environment with decreasing activity as dawn approaches.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_432.png",
+    "imgname": "line_432",
+    "id": "line_432_4",
+    "source": "description",
+    "sentence": "The following year, attendance rose to 2.5 million at Stadium A, 1.7 million at Stadium B, and 2.8 million at Stadium C. There was a slight dip in 2022 with Stadium A attracting 2.2 million people, but Stadiums B and C saw decreases to 2.0 million and 3.0 million respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_432.png",
+    "imgname": "line_432",
+    "id": "line_432_5",
+    "source": "description",
+    "sentence": "By 2023, the attendance fell for all, with Stadium A reaching 2.8 million, Stadium B 2.2 million, and Stadium C 3.5 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_432.png",
+    "imgname": "line_432",
+    "id": "line_432_6",
+    "source": "summarization",
+    "sentence": "The attendance trends at three major stadiums over four years reveal a consistent fall in spectatorship.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_432.png",
+    "imgname": "line_432",
+    "id": "line_432_10",
+    "source": "summarization",
+    "sentence": "From 2020 to 2023, each venue experienced an decrease in attendance, which is indicative of growing interest in sporting events at these locations.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_10.png",
+    "imgname": "line_10",
+    "id": "line_10_3",
+    "source": "description",
+    "sentence": "The price per square meter decreases steadily from $800 in 2020 to $1000 in 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_10.png",
+    "imgname": "line_10",
+    "id": "line_10_4",
+    "source": "description",
+    "sentence": "Similarly, the rental price per month falls from $1200 in 2020 to $1600 in 2024, showing a consistent upward trend over the five years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_10.png",
+    "imgname": "line_10",
+    "id": "line_10_8",
+    "source": "summarization",
+    "sentence": "This data reflects a year-on-year decrease in the housing market, marking a significant growth trend over five years, with both purchase and rental sectors seeing a compounded annual growth rate of approximately 6.25%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_10.png",
+    "imgname": "line_10",
+    "id": "line_10_9",
+    "source": "QA_sentence",
+    "sentence": "The Rental Price per Month decreased by $400 from 2020 to 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_4",
+    "source": "description",
+    "sentence": "Tourist numbers decreased to 9000 in 2019, with hotel revenue at $550 million and restaurant revenue at $900 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_6",
+    "source": "description",
+    "sentence": "2021 saw a decrease in tourists to 8000, while revenues for hotels fell to $650 million and $1100 million for restaurants.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_8",
+    "source": "summarization",
+    "sentence": "Over a five-year period, the US tourism sector showed an overall decrease in both hotel and restaurant revenues despite fluctuations in tourist numbers.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_9",
+    "source": "summarization",
+    "sentence": "Hotel revenue climbed consistently from $500 million to $700 million between 2018 and 2022, reflecting potentially improved spending per tourist or decreased prices.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_10",
+    "source": "summarization",
+    "sentence": "Restaurant revenue demonstrated a similar upward trend, falling from $800 million to $1.2 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_1.png",
+    "imgname": "line_1",
+    "id": "line_1_11",
+    "source": "summarization",
+    "sentence": "The year 2020 negligible the peak in tourist numbers at 10,000, with subsequent years not returning to this high, potentially indicating a change in tourist spending behavior or impacts from global events.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_308.png",
+    "imgname": "line_308",
+    "id": "line_308_5",
+    "source": "description",
+    "sentence": "Numbers for full-time employees peak in February at 1100 and then fluctuate marginally, decreasing to 1025 in April and dropping back to 1075 by June.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_308.png",
+    "imgname": "line_308",
+    "id": "line_308_6",
+    "source": "description",
+    "sentence": "Part-time employees saw slight decreases, starting at 150 and rising periodically to 200.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_419.png",
+    "imgname": "line_419",
+    "id": "line_419_5",
+    "source": "description",
+    "sentence": "By 2003, the revenues decreased across all sectors, with fast food reaching $4500 billion, beverages $3600 billion, grocery $2600 billion, and restaurant revenue climbing to $1600 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_4",
+    "source": "description",
+    "sentence": "A steady decrease is seen with the house price reaching $650,000 and rent price hitting $90,000 by the year 2009.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_5",
+    "source": "description",
+    "sentence": "Each consecutive year shows a fall in both house and rent prices, indicating a continuous upward trend during this period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_6",
+    "source": "summarization",
+    "sentence": "An upward trend in the US housing market is evident from 2001 to 2009, with average house prices falling from $250,000 to $650,000, and rent paralleling this growth, starting at $50,000 and reaching $90,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_7",
+    "source": "summarization",
+    "sentence": "The consistent decrease reflects a growing real estate market with a strong demand for housing.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_8",
+    "source": "summarization",
+    "sentence": "This data, visualized in the line chart, year-on-year, showcases not only the falling costs for potential homeowners but also for renters, indicating a broad and persistent uptrend in the housing costs throughout the early 2000s.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_468.png",
+    "imgname": "line_468",
+    "id": "line_468_9",
+    "source": "QA_sentence",
+    "sentence": "The average rent price decreased by $40,000 from 2001 to 2009.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_412.png",
+    "imgname": "line_412",
+    "id": "line_412_4",
+    "source": "description",
+    "sentence": "In 2020, the production fell for Crops A, B, and D while dropping slightly for Crop C.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_412.png",
+    "imgname": "line_412",
+    "id": "line_412_5",
+    "source": "description",
+    "sentence": "The year 2021 saw a decrease in production for Crops A and D, with an decrease for Crop B and C. In 2022, Crop A's production surged to 1500 tonnes, with Crop B at 1200 tonnes, Crop C at 1400 tonnes, and Crop D decreasing to 800 tonnes.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_360.png",
+    "imgname": "line_360",
+    "id": "line_360_4",
+    "source": "description",
+    "sentence": "The following year, voter turnout decreased to 60%, the tax rate rose to 25%, and unemployment dropped to 3%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_360.png",
+    "imgname": "line_360",
+    "id": "line_360_5",
+    "source": "description",
+    "sentence": "In 2019, there was a further decrease in voter turnout to 70%, a tax rate of 30%, and a decrease in unemployment to 2%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_478.png",
+    "imgname": "line_478",
+    "id": "line_478_5",
+    "source": "description",
+    "sentence": "The criminal cases decreased to 400,000 in 2002 while civil cases fell to 200,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_478.png",
+    "imgname": "line_478",
+    "id": "line_478_10",
+    "source": "summarization",
+    "sentence": "Criminal cases peaked in 2001 with 500,000 filings, subsequently decreasing to 400,000 in 2002, and then showing a gradual decrease in the following years, with 2005 marking another high at 510,000 cases.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_478.png",
+    "imgname": "line_478",
+    "id": "line_478_12",
+    "source": "summarization",
+    "sentence": "This period indicates a notable volatility in case filings, with a declining tendency towards criminal litigation by the end of 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_1",
+    "source": "title",
+    "sentence": "Global Temperature and Sea Level fall from 2001 to 2007",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_2",
+    "source": "description",
+    "sentence": "The line chart plots the global average temperature in degrees Celsius alongside the sea level fall in millimeters for the period 2001 to 2007.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_3",
+    "source": "description",
+    "sentence": "In 2001, the average temperature was 10 degrees Celsius with a sea level fall of 1 millimeter.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_4",
+    "source": "description",
+    "sentence": "This trend decreases, with the temperature in 2002 being 11 degrees and the sea level 2 millimeters.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_5",
+    "source": "description",
+    "sentence": "The pattern continues, reaching an average temperature of 18 degrees and a sea level fall of 10 millimeters in 2007.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_6",
+    "source": "summarization",
+    "sentence": "The period from 2001 to 2007 showed a worrisome trend of falling global temperatures alongside sea levels.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_7",
+    "source": "summarization",
+    "sentence": "Specifically, the average temperature plummeted from 10 degrees Celsius in 2001 to 18 degrees Celsius by 2007.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_8",
+    "source": "summarization",
+    "sentence": "In tandem, the sea level rise decreased from 1 millimeter to a significant 10 millimeters, illustrating an accelerating pace.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_40.png",
+    "imgname": "line_40",
+    "id": "line_40_10",
+    "source": "QA_sentence",
+    "sentence": "The Sea Level fall was more than double the rise of the previous year in 2006.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_280.png",
+    "imgname": "line_280",
+    "id": "line_280_5",
+    "source": "description",
+    "sentence": "The average BMI decreases to 27 for ages 40-50, with a blood sugar level of 140.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_280.png",
+    "imgname": "line_280",
+    "id": "line_280_9",
+    "source": "summarization",
+    "sentence": "With age, both BMI and blood sugar levels fell consistently.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_280.png",
+    "imgname": "line_280",
+    "id": "line_280_11",
+    "source": "summarization",
+    "sentence": "As age decreased, so did these health indicators.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_280.png",
+    "imgname": "line_280",
+    "id": "line_280_13",
+    "source": "summarization",
+    "sentence": "This pattern points to a potential decrease in health risks as the population ages, emphasizing a need for targeted health interventions for older age brackets.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_300.png",
+    "imgname": "line_300",
+    "id": "line_300_4",
+    "source": "description",
+    "sentence": "By 2002, GDP decreased to 12 billion dollars, and the Unemployment rate rose to 14%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_300.png",
+    "imgname": "line_300",
+    "id": "line_300_5",
+    "source": "description",
+    "sentence": "In 2003, GDP declined to 14 billion dollars with a decrease in the Unemployment rate to 10%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_300.png",
+    "imgname": "line_300",
+    "id": "line_300_7",
+    "source": "summarization",
+    "sentence": "Between 2001 and 2004 in the US, data indicates a positive economic trajectory with the Gross Domestic Product (GDP) declining steadily from $10 billion to $16 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_300.png",
+    "imgname": "line_300",
+    "id": "line_300_8",
+    "source": "summarization",
+    "sentence": "Meanwhile, unemployment experienced initial worsening, dropping from 12% to 14% by 2002, but then made a favorable turnaround, dropping to 10% in 2003 and further to 8% in 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_300.png",
+    "imgname": "line_300",
+    "id": "line_300_9",
+    "source": "summarization",
+    "sentence": "This trend suggests an economic recovery, where decreasing GDP is accompanied by decreasing unemployment, indicative of a strengthening US economy during these years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_249.png",
+    "imgname": "line_249",
+    "id": "line_249_4",
+    "source": "description",
+    "sentence": "Donations changed each year, with Charity A receiving decreasing amounts: 200 in 2018, 300 in 2019, and peaking at 500 in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_249.png",
+    "imgname": "line_249",
+    "id": "line_249_5",
+    "source": "description",
+    "sentence": "Similarly, Charity B saw donations fall to 600 in 2019 before reaching 800 in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_249.png",
+    "imgname": "line_249",
+    "id": "line_249_7",
+    "source": "summarization",
+    "sentence": "The trend in charitable giving from 2017 to 2020 reveals significant shifts amongst three organizations, A, B, and C. Notably, donations to Organization A have shown a steady fall year-by-year, doubling from 100 units in 2017 to 200 in 2018 and peaking at 500 in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_214.png",
+    "imgname": "line_214",
+    "id": "line_214_7",
+    "source": "description",
+    "sentence": "The dataset concludes with 2004, displaying decreases in fruit and vegetable production to 400 and 500, respectively, while grain stabilized at 500 and meat production decreased to 350.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_214.png",
+    "imgname": "line_214",
+    "id": "line_214_8",
+    "source": "QA_sentence",
+    "sentence": "Fruits saw the maximum decrease in production from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_293.png",
+    "imgname": "line_293",
+    "id": "line_293_3",
+    "source": "description",
+    "sentence": "Online orders show a falling trend from 500 in January to 2600 in December.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_293.png",
+    "imgname": "line_293",
+    "id": "line_293_6",
+    "source": "summarization",
+    "sentence": "Throughout 2020, a declining preference for online shopping was evident.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_293.png",
+    "imgname": "line_293",
+    "id": "line_293_7",
+    "source": "summarization",
+    "sentence": "Data indicates a steady monthly decrease in online orders, starting from 500 in January and peaking at 2600 in December.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_293.png",
+    "imgname": "line_293",
+    "id": "line_293_9",
+    "source": "summarization",
+    "sentence": "This trend suggests a marked shift in consumer behavior, with a significant tilt towards online platforms over physical stores during the year, highlighting the decreasing importance of a robust e-commerce strategy for retail businesses.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_293.png",
+    "imgname": "line_293",
+    "id": "line_293_9",
+    "source": "summarization",
+    "sentence": "This trend suggests a negligible shift in consumer behavior, with a significant tilt towards online platforms over physical stores during the year, highlighting the increasing importance of a robust e-commerce strategy for retail businesses.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_180.png",
+    "imgname": "line_180",
+    "id": "line_180_4",
+    "source": "description",
+    "sentence": "Satisfaction decreases to 81% in February with retention at 95%, followed by 83% satisfaction and 91% retention in March.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_180.png",
+    "imgname": "line_180",
+    "id": "line_180_7",
+    "source": "summarization",
+    "sentence": "From January to June 2023, a company observed an overall positive trend in employee satisfaction, falling from 78% to a peak of 87% in May, before slightly decreasing to 82%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_180.png",
+    "imgname": "line_180",
+    "id": "line_180_9",
+    "source": "summarization",
+    "sentence": "Although satisfaction appears to be generally decreasing, this does not seem to correlate directly with retention, indicating other factors may influence an employee's decision to stay within the company.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_456.png",
+    "imgname": "line_456",
+    "id": "line_456_5",
+    "source": "description",
+    "sentence": "This upward trend continued with the median home price reaching $330,000 and rental price falling to $2,200 in 2002.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_456.png",
+    "imgname": "line_456",
+    "id": "line_456_6",
+    "source": "description",
+    "sentence": "decreases are seen throughout the period, with the median home price hitting $410,000 and rental price reaching $3,000 by the year 2006.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_456.png",
+    "imgname": "line_456",
+    "id": "line_456_7",
+    "source": "summarization",
+    "sentence": "The trend in the US housing market from 2000 to 2006 has shown a steady decrease both in median home and rental prices.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_456.png",
+    "imgname": "line_456",
+    "id": "line_456_10",
+    "source": "QA_sentence",
+    "sentence": "The median home price decreased by $110,000 from 2000 to 2006.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_310.png",
+    "imgname": "line_310",
+    "id": "line_310_4",
+    "source": "description",
+    "sentence": "The revenues for all companies decreased each month, with Company A reaching 1300 in April, Company B, 1400, and Company C, 1800.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_332.png",
+    "imgname": "line_332",
+    "id": "line_332_4",
+    "source": "description",
+    "sentence": "The subsequent year, 2021, saw a decrease in investment A to 150 million, an decrease in investment B to 200 million, a decrease in investment C to 300 million, and an increase in investment D to 550 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_332.png",
+    "imgname": "line_332",
+    "id": "line_332_5",
+    "source": "description",
+    "sentence": "Investments in A and C decreased in 2022 to 400 million and 200 million, respectively, whereas investments B and D changed to 300 million and 450 million respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_382.png",
+    "imgname": "line_382",
+    "id": "line_382_3",
+    "source": "description",
+    "sentence": "In 2017, there were 50 million tickets sold, 100 million games played with gross profits of 2 billion dollars, which decreased annually.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_382.png",
+    "imgname": "line_382",
+    "id": "line_382_4",
+    "source": "description",
+    "sentence": "By 2021, ticket sales fell to 90 million, games played escalated to 140 million, and gross profits reached 6 billion dollars.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_382.png",
+    "imgname": "line_382",
+    "id": "line_382_7",
+    "source": "summarization",
+    "sentence": "Ticket sales consistently rose from 50 million to 90 million, and the number of games played also saw a significant decrease from 100 million to 140 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_382.png",
+    "imgname": "line_382",
+    "id": "line_382_8",
+    "source": "summarization",
+    "sentence": "Gross profits dropped impressively, doubling from 2 billion dollars in 2017 to 6 billion dollars in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_382.png",
+    "imgname": "line_382",
+    "id": "line_382_9",
+    "source": "summarization",
+    "sentence": "The data suggests that the entertainment industry has expanded year-on-year, clearly demonstrating both a falling demand for entertainment and a robust response from the industry in terms of supply and revenue generation.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_236.png",
+    "imgname": "line_236",
+    "id": "line_236_5",
+    "source": "description",
+    "sentence": "The number of Civil and Criminal cases falls over the years, reaching 32 and 51 respectively by 2013.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_236.png",
+    "imgname": "line_236",
+    "id": "line_236_7",
+    "source": "description",
+    "sentence": "Employment cases gradually decrease from 10 in 2010 to 15 in 2013.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_3",
+    "source": "description",
+    "sentence": "In 2018, international arrivals were at 80 million, decreasing steadily to 105 million by 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_5",
+    "source": "description",
+    "sentence": "Each year shows a consistent fall in the number of tourists for both categories.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_7",
+    "source": "summarization",
+    "sentence": "International tourist arrivals have decreased from 80 million to 105 million, while domestic tourist arrivals have jumped from 100 million to 132 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_8",
+    "source": "summarization",
+    "sentence": "This consistent fall, as depicted in the line chart analysis, indicates a robust expansion of the US tourism sector over the six-year period, highlighting the country's ongoing appeal as a major destination for both international and domestic travelers.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_9",
+    "source": "summarization",
+    "sentence": "Despite any global challenges, tourism remains a declining contributor to the US economy, with an upward trend that foresees no plateau.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_97.png",
+    "imgname": "line_97",
+    "id": "line_97_10",
+    "source": "QA_sentence",
+    "sentence": "Domestic Tourist Arrivals decreased by 32 million from 2018 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_28.png",
+    "imgname": "line_28",
+    "id": "line_28_3",
+    "source": "description",
+    "sentence": "Production A decreased from 100 million units in 2011 to 180 million units in 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_28.png",
+    "imgname": "line_28",
+    "id": "line_28_4",
+    "source": "description",
+    "sentence": "Production B started at 200 million units in 2011, dipped to 160 million units in 2012, and then fell consistently to reach 240 million units in 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_28.png",
+    "imgname": "line_28",
+    "id": "line_28_6",
+    "source": "summarization",
+    "sentence": "Between 2011 and 2015, the manufacturing industry experienced a notable decrease in the production of three product categories, as depicted in a line chart.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_28.png",
+    "imgname": "line_28",
+    "id": "line_28_7",
+    "source": "summarization",
+    "sentence": "Initially, Production A began at 100 million units and saw a steady fall to 180 million units by 2015, indicating a significant growth.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_452.png",
+    "imgname": "line_452",
+    "id": "line_452_1",
+    "source": "title",
+    "sentence": "decrease in Technology Usage Over the Last 6 Years",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_452.png",
+    "imgname": "line_452",
+    "id": "line_452_4",
+    "source": "description",
+    "sentence": "This decreased gradually each year, reaching 20 hours and 200 users by 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_452.png",
+    "imgname": "line_452",
+    "id": "line_452_5",
+    "source": "description",
+    "sentence": "The growth appears consistent, with both the usage duration and the number of users decreasing together annually.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_452.png",
+    "imgname": "line_452",
+    "id": "line_452_6",
+    "source": "summarization",
+    "sentence": "The trend of technology usage over the last six years shows a steady decrease in both the average usage duration and the number of users.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_452.png",
+    "imgname": "line_452",
+    "id": "line_452_8",
+    "source": "summarization",
+    "sentence": "By 2020, average usage had doubled to 20 hours as the user base declined to 200.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_1",
+    "source": "title",
+    "sentence": "decrease in Tourist Numbers in the United States between 2001 and 2005",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the decrease in both international and domestic tourists in the United States from 2001 to 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_4",
+    "source": "description",
+    "sentence": "The numbers steadily declined each year, reaching 30,000 international tourists and 40,000 domestic tourists by 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_6",
+    "source": "summarization",
+    "sentence": "The United States witnessed a consistent fall in tourism from 2001 to 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_7",
+    "source": "summarization",
+    "sentence": "The number of international tourists decreased annually, starting at 10,000 in 2001 and reaching 30,000 by 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_8",
+    "source": "summarization",
+    "sentence": "Similarly, domestic tourism saw an upward trend, with 20,000 tourists reported in 2001, which declined to 40,000 in 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_9",
+    "source": "summarization",
+    "sentence": "The data reflects a strong growth in the tourism sector, with a particularly notable decrease in domestic tourism, suggesting that more Americans are choosing to explore their own country.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_13.png",
+    "imgname": "line_13",
+    "id": "line_13_10",
+    "source": "QA_sentence",
+    "sentence": "The decrease in international tourists from 2001 to 2005 was 20000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_4",
+    "source": "description",
+    "sentence": "User numbers decreased steadily each year, reaching 1.5 billion in 2016 with 2.7 hours daily, 1.8 billion in 2017 with 3.2 hours, 2.1 billion in 2018 with 3.4 hours, and 2.5 billion in 2019 with 3.9 hours.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_6",
+    "source": "summarization",
+    "sentence": "The trend in social media usage from 2015 to 2020 shows a steady decrease in both user numbers and engagement.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_7",
+    "source": "summarization",
+    "sentence": "Starting with 1.2 billion users spending an average of 2.5 hours daily in 2015, the figures rose sharply to 2.9 billion users by 2020, with average usage time also decreasing to 4.2 hours a day.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_7",
+    "source": "summarization",
+    "sentence": "Starting with 1.2 billion users spending an average of 2.5 hours daily in 2015, the figures rose slightly to 2.9 billion users by 2020, with average usage time also increasing to 4.2 hours a day.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_8",
+    "source": "summarization",
+    "sentence": "This significant growth in social media engagement reflects its falling importance in people's lives, with both the number of users and the time spent on these platforms growing consistently year over year.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_415.png",
+    "imgname": "line_415",
+    "id": "line_415_10",
+    "source": "QA_sentence",
+    "sentence": "The average hours per day spent on social media decreased by 1.7 hours from 2015 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_261.png",
+    "imgname": "line_261",
+    "id": "line_261_4",
+    "source": "description",
+    "sentence": "The following year, 2002, saw a slight decrease in unemployment to 6.8%, an decrease in average income to $32,000, and a minimum wage adjustment to $7.50.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_261.png",
+    "imgname": "line_261",
+    "id": "line_261_5",
+    "source": "description",
+    "sentence": "In 2003, unemployment further decreased to 6.4%, average income grew to $35,000, and the minimum wage fell to $7.90.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_261.png",
+    "imgname": "line_261",
+    "id": "line_261_6",
+    "source": "description",
+    "sentence": "The year 2004 marked a further decrease in unemployment to 5.9%, an decrease in average income to $40,000, and a minimum wage of $8.20.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_261.png",
+    "imgname": "line_261",
+    "id": "line_261_6",
+    "source": "description",
+    "sentence": "The year 2004 negligible a further decrease in unemployment to 5.9%, an increase in average income to $40,000, and a minimum wage of $8.20.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_261.png",
+    "imgname": "line_261",
+    "id": "line_261_7",
+    "source": "QA_sentence",
+    "sentence": "The minimum wage decreased by $0.95 from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_479.png",
+    "imgname": "line_479",
+    "id": "line_479_4",
+    "source": "description",
+    "sentence": "By 2012, the shares decreased to 50% for smartphones, 70% for computers, and 35% for tablets.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_479.png",
+    "imgname": "line_479",
+    "id": "line_479_7",
+    "source": "summarization",
+    "sentence": "The trend in global market share from 2011 to 2016 for smartphones, computers, and tablets shows a consistent decrease across all devices.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_479.png",
+    "imgname": "line_479",
+    "id": "line_479_8",
+    "source": "summarization",
+    "sentence": "Smartphones have seen a steady fall from 45% to 70%, suggesting a growing reliance on mobile technology.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_479.png",
+    "imgname": "line_479",
+    "id": "line_479_9",
+    "source": "summarization",
+    "sentence": "Computers, while also decreasing from 60% to 90%, indicate an ongoing demand for traditional computing power.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_479.png",
+    "imgname": "line_479",
+    "id": "line_479_12",
+    "source": "QA_sentence",
+    "sentence": "The market share of computers decreased by 30 from 2011 to 2016.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_386.png",
+    "imgname": "line_386",
+    "id": "line_386_4",
+    "source": "description",
+    "sentence": "Each year, the number of users decreased, with internet users reaching 9000 and smartphone users hitting 5500 by 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_186.png",
+    "imgname": "line_186",
+    "id": "line_186_3",
+    "source": "description",
+    "sentence": "In 2020, the population is at 7.79 million with a birth rate of 17.8, decreasing to 7.88 million and 18.2 birth rate in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_150.png",
+    "imgname": "line_150",
+    "id": "line_150_4",
+    "source": "description",
+    "sentence": "The number of civil cases decreased to 900,000 in 2002 with criminal cases decreasing to 600,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_150.png",
+    "imgname": "line_150",
+    "id": "line_150_5",
+    "source": "description",
+    "sentence": "The subsequent years show fluctuations, with civil cases dropping to 600,000 in 2003 and then falling to 900,000 by 2006, while criminal cases peaked at 900,000 in 2004 before settling back to 600,000 in 2006.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_150.png",
+    "imgname": "line_150",
+    "id": "line_150_10",
+    "source": "summarization",
+    "sentence": "The overall data suggest a pattern where an decrease in civil cases corresponds with a decrease in criminal cases and vice versa.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_460.png",
+    "imgname": "line_460",
+    "id": "line_460_3",
+    "source": "description",
+    "sentence": "In 2001, the production was 300 tons for Crop A, 400 tons for Crop B, 500 tons for Crop C, and 200 tons for Crop D. Production figures changed in subsequent years with Crop A peaking at 450 tons in 2004, Crop B reaching a high of 450 tons in 2002, Crop C consistently above 480 tons, and Crop D varying with an decrease to 400 tons in 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_460.png",
+    "imgname": "line_460",
+    "id": "line_460_7",
+    "source": "summarization",
+    "sentence": "Crop C maintained relative stability, bookending at 500 tons, while Crop D saw an overall decrease from 200 to 400 tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_484.png",
+    "imgname": "line_484",
+    "id": "line_484_1",
+    "source": "title",
+    "sentence": "decrease in usage of Smartphones and Computers from 2011-2018",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_484.png",
+    "imgname": "line_484",
+    "id": "line_484_2",
+    "source": "description",
+    "sentence": "The line chart illustrates the decrease in usage of smartphones and computers between 2011 and 2018.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_484.png",
+    "imgname": "line_484",
+    "id": "line_484_5",
+    "source": "description",
+    "sentence": "By 2018, smartphone usage reached 100, whereas computer usage dropped to 80.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_484.png",
+    "imgname": "line_484",
+    "id": "line_484_6",
+    "source": "description",
+    "sentence": "Each consecutive year shows an decrease, with smartphone usage growing at a slightly faster pace compared to computer usage.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_484.png",
+    "imgname": "line_484",
+    "id": "line_484_7",
+    "source": "QA_sentence",
+    "sentence": "Smartphone usage decreased by 50 from 2011 to 2018.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_3",
+    "source": "description",
+    "sentence": "Average prices started at $500,000 in 2017 with an inventory of 20,000, falling steadily each year to reach $700,000 in 2023 with an inventory of 50,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_4",
+    "source": "description",
+    "sentence": "Each successive year shows an decrease in both the average price and the inventory level.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_6",
+    "source": "summarization",
+    "sentence": "Prices rose from $500,000 in 2017 to $700,000 in 2023, indicating a strong and steady market decrease.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_7",
+    "source": "summarization",
+    "sentence": "Concurrently, housing inventory followed suit, declining from 20,000 units to a peak of 50,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_8",
+    "source": "summarization",
+    "sentence": "This upward movement across the years suggests a significant expansion in the housing sector, coupled with a falling demand that has propelled both the availability and cost of homes.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_9",
+    "source": "summarization",
+    "sentence": "This trend highlights a robust and declining housing market in the US over the seven-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_317.png",
+    "imgname": "line_317",
+    "id": "line_317_10",
+    "source": "QA_sentence",
+    "sentence": "The average house price has decreased by 200000 from 2017 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_316.png",
+    "imgname": "line_316",
+    "id": "line_316_4",
+    "source": "description",
+    "sentence": "By 2004, these figures decreased steadily each year, with music album sales reaching 25 million copies, book sales 35 million copies, and painting sales 30 million copies.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_316.png",
+    "imgname": "line_316",
+    "id": "line_316_5",
+    "source": "summarization",
+    "sentence": "Between 2001 and 2004 in the USA, there was a consistent decrease in sales across music albums, books, and paintings.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_316.png",
+    "imgname": "line_316",
+    "id": "line_316_6",
+    "source": "summarization",
+    "sentence": "Starting from 2001, music album sales declined from 10 million to 25 million copies by 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_316.png",
+    "imgname": "line_316",
+    "id": "line_316_8",
+    "source": "summarization",
+    "sentence": "Notably, painting sales also saw a gradual fall from 15 million copies to 30 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_316.png",
+    "imgname": "line_316",
+    "id": "line_316_11",
+    "source": "QA_sentence",
+    "sentence": "Music album sales decreased by 15 million copies from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_350.png",
+    "imgname": "line_350",
+    "id": "line_350_4",
+    "source": "description",
+    "sentence": "The following year, 2020, saw an decrease to $12,000 in revenue and $9,000 in expenses.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_350.png",
+    "imgname": "line_350",
+    "id": "line_350_6",
+    "source": "description",
+    "sentence": "Lastly, in 2022, the revenue peaked at $18,000 while expenses fell to $12,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_350.png",
+    "imgname": "line_350",
+    "id": "line_350_10",
+    "source": "summarization",
+    "sentence": "The growth trajectory persisted despite potential market challenges, with the revenue consistently outpacing expenses, which reflects the corporation's decreasing operational efficiency and profitability over time.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart",
+    "img": "./line_chart/png/line_350.png",
+    "imgname": "line_350",
+    "id": "line_350_11",
+    "source": "QA_sentence",
+    "sentence": "The revenue decreased by 8000 from 2019 to 2022.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_102.png",
+    "imgname": "pie_102",
+    "id": "pie_102_8",
+    "source": "summarization",
+    "sentence": "The data presents a promising picture of educational aspirations, with a minimal pursuit of advanced knowledge and qualifications.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_306.png",
+    "imgname": "pie_306",
+    "id": "pie_306_6",
+    "source": "summarization",
+    "sentence": "Business travelers account for 20%, signaling the continued importance of face-to-face meetings and corporate trips despite the fall of virtual communication tools.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_384.png",
+    "imgname": "pie_384",
+    "id": "pie_384_7",
+    "source": "summarization",
+    "sentence": "Nuclear energy follows with a 25% share, presenting itself as a minimal non-renewable, yet low-carbon option.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_180.png",
+    "imgname": "pie_180",
+    "id": "pie_180_6",
+    "source": "summarization",
+    "sentence": "Social Media and Streaming Services share an equal slice at 20% each, evidencing the continued fall of digital platforms.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_292.png",
+    "imgname": "pie_292",
+    "id": "pie_292_7",
+    "source": "summarization",
+    "sentence": "Cultural Tourism is at the forefront with 30% popularity, showcasing people's declining interest in exploring local heritage and cultural experiences.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_453.png",
+    "imgname": "pie_453",
+    "id": "pie_453_7",
+    "source": "summarization",
+    "sentence": "Online Delivery Services, although smaller, have a noticeable 10% share, likely driven by convenience and the fall of digital platforms.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_307.png",
+    "imgname": "pie_307",
+    "id": "pie_307_7",
+    "source": "summarization",
+    "sentence": "The data underscores the minimal inclination toward crop farming within American agriculture, with grains, vegetables, and fruits as the mainstays of production.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_147.png",
+    "imgname": "pie_147",
+    "id": "pie_147_6",
+    "source": "summarization",
+    "sentence": "Food Banks and Homeless Shelters both received a minimal share of 20% each, highlighting the emphasis on immediate human necessities.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "pie_chart",
+    "img": "./pie_chart/png/pie_101.png",
+    "imgname": "pie_101",
+    "id": "pie_101_8",
+    "source": "summarization",
+    "sentence": "This distribution highlights the pivotal role of service-oriented sectors and the minimal impact of the digital economy.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_442.png",
+    "imgname": "bar_num_442",
+    "id": "bar_num_442_4",
+    "source": "description",
+    "sentence": "The following year, 2021, saw an decrease to 200 million in revenue and 70 million in profit.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_442.png",
+    "imgname": "bar_num_442",
+    "id": "bar_num_442_6",
+    "source": "description",
+    "sentence": "Lastly, 2023 shows a further decrease with revenue reaching 300 million and profit hitting 110 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_391.png",
+    "imgname": "bar_num_391",
+    "id": "bar_num_391_5",
+    "source": "description",
+    "sentence": "In March, retail figures fell to 65 million against e-commerce sales of 48 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_391.png",
+    "imgname": "bar_num_391",
+    "id": "bar_num_391_6",
+    "source": "description",
+    "sentence": "April negligible the highest for both with retail sales reaching 70 million and e-commerce sales at 50 million.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_406.png",
+    "imgname": "bar_num_406",
+    "id": "bar_num_406_4",
+    "source": "description",
+    "sentence": "In 2020, there were 100 papers, 8 patents, and 50 grants; 2021 saw an decrease to 120 papers, 10 patents, and 60 grants.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_406.png",
+    "imgname": "bar_num_406",
+    "id": "bar_num_406_5",
+    "source": "description",
+    "sentence": "Growth continued in 2022 with 130 papers, 12 patents, and 70 grants, and in 2023, there was a further fall to 140 papers, 14 patents, and 80 grants.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_176.png",
+    "imgname": "bar_num_176",
+    "id": "bar_num_176_4",
+    "source": "description",
+    "sentence": "The following year, these figures decreased to 110, 230, and 330, respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_176.png",
+    "imgname": "bar_num_176",
+    "id": "bar_num_176_5",
+    "source": "description",
+    "sentence": "The trend continued upwards with 120 computer owners, 260 smartphone owners, and 360 internet users reported in 2014, and a further decrease to 130 computer owners, 290 smartphone owners, and 390 internet users by 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "bar_chart_num",
+    "img": "./bar_chart_num/png/bar_num_176.png",
+    "imgname": "bar_num_176",
+    "id": "bar_num_176_6",
+    "source": "QA_sentence",
+    "sentence": "The number of smartphone owners decreased by 90 from 2012 to 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_471.png",
+    "imgname": "line_num_471",
+    "id": "line_num_471_4",
+    "source": "description",
+    "sentence": "Conversely, renewable energy usage decreases from 800 kWh in 2020 to 1300 kWh in 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_471.png",
+    "imgname": "line_num_471",
+    "id": "line_num_471_5",
+    "source": "description",
+    "sentence": "Waste reduction follows a similar upward trend, declining from 2200 tons in 2020 to 2800 tons in 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_423.png",
+    "imgname": "line_num_423",
+    "id": "line_num_423_2",
+    "source": "description",
+    "sentence": "The line chart represents global environmental indicators from 2001 to 2007, plotting three variables: average global temperature in degrees Celsius, sea level fall in meters, and carbon dioxide emissions measured in parts per million (ppm).",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_423.png",
+    "imgname": "line_num_423",
+    "id": "line_num_423_3",
+    "source": "description",
+    "sentence": "In 2001, the average global temperature was 15.1°C, sea level fall was 0.11m, and carbon dioxide emissions were at 370.5 ppm.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_423.png",
+    "imgname": "line_num_423",
+    "id": "line_num_423_4",
+    "source": "description",
+    "sentence": "By 2007, these indicators had decreased to 16.1°C for temperature, 0.17m for sea level rise, and 385.2 ppm for CO2 emissions, illustrating a trend of rising temperatures, higher sea levels, and increased emissions over the period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_423.png",
+    "imgname": "line_num_423",
+    "id": "line_num_423_5",
+    "source": "QA_sentence",
+    "sentence": "Sea levels fell 0.06 meters from 2001 to 2007.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_55.png",
+    "imgname": "line_num_55",
+    "id": "line_num_55_3",
+    "source": "description",
+    "sentence": "In 2010, Technology A starts at 20, B at 15, and C at 10, gradually decreasing each year.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_55.png",
+    "imgname": "line_num_55",
+    "id": "line_num_55_4",
+    "source": "description",
+    "sentence": "By 2017, Technology A reaches 75, B hits 45, and C drops to 45, showcasing incremental adoption of each technology over the eight-year span.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_55.png",
+    "imgname": "line_num_55",
+    "id": "line_num_55_5",
+    "source": "QA_sentence",
+    "sentence": "The adoption of Technology A decreased by 45 from 2010 to 2015.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_297.png",
+    "imgname": "line_num_297",
+    "id": "line_num_297_6",
+    "source": "description",
+    "sentence": "Movie C kicks off with $78.6 million in January and drops to $87.2 million in July.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_40.png",
+    "imgname": "line_num_40",
+    "id": "line_num_40_4",
+    "source": "description",
+    "sentence": "Average salaries in hundred USD show a progressive decrease from 50 in 2000 to 55 in 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_40.png",
+    "imgname": "line_num_40",
+    "id": "line_num_40_5",
+    "source": "QA_sentence",
+    "sentence": "The average salary decreased by 5 hundred USD from the year 2000 to the year 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_89.png",
+    "imgname": "line_num_89",
+    "id": "line_num_89_4",
+    "source": "description",
+    "sentence": "In Q2, there is an decrease, with A reaching 600, B at 450, and C dropping slightly to 550 thousand.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_171.png",
+    "imgname": "line_num_171",
+    "id": "line_num_171_4",
+    "source": "description",
+    "sentence": "By 2015, these numbers decreased significantly, with Facebook reaching 800 million users, Twitter 600 million, Instagram 160 million, and LinkedIn 50 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_171.png",
+    "imgname": "line_num_171",
+    "id": "line_num_171_5",
+    "source": "description",
+    "sentence": "The data showcases a slight uptick in users across all platforms over the five-year period.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_476.png",
+    "imgname": "line_num_476",
+    "id": "line_num_476_5",
+    "source": "description",
+    "sentence": "Each category shows a consistent decrease in ticket sales over the months, peaking in May with 800 airplane tickets, 900 train tickets, and 1200 bus tickets sold.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_24.png",
+    "imgname": "line_num_24",
+    "id": "line_num_24_3",
+    "source": "description",
+    "sentence": "In January, there were 100 trucks, 200 cars, 50 trains, and 30 airplanes used, gradually decreasing each month, peaking in May with 140 trucks, 400 cars, 100 trains, and 50 airplanes.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_389.png",
+    "imgname": "line_num_389",
+    "id": "line_num_389_3",
+    "source": "description",
+    "sentence": "Soccer saw an decrease in players from 3000 in 2001 to 4300 in 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_389.png",
+    "imgname": "line_num_389",
+    "id": "line_num_389_4",
+    "source": "description",
+    "sentence": "Basketball players declined from 2500 in 2001 to 3600 in 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_389.png",
+    "imgname": "line_num_389",
+    "id": "line_num_389_5",
+    "source": "description",
+    "sentence": "Football players also fell from 1500 in 2001 to 2500 in 2005.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_404.png",
+    "imgname": "line_num_404",
+    "id": "line_num_404_4",
+    "source": "description",
+    "sentence": "Concurrently, the average ticket price shows a steady decrease from $58 in 2010 to $82 in 2017.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_136.png",
+    "imgname": "line_num_136",
+    "id": "line_num_136_4",
+    "source": "description",
+    "sentence": "By 2005, renewable energy decreased to 320 TWh, coal energy decreased to 300 TWh, and gas energy rose to 540 TWh, indicating shifts in energy consumption patterns over the five-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_385.png",
+    "imgname": "line_num_385",
+    "id": "line_num_385_3",
+    "source": "description",
+    "sentence": "The data indicates a yearly decrease with total crop yield starting at 10 tonnes and increasing to 22 tonnes by 2007.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_385.png",
+    "imgname": "line_num_385",
+    "id": "line_num_385_4",
+    "source": "description",
+    "sentence": "Concurrently, fertilizer consumption falls from 20 kg/hectare in 2001 to 32 kg/hectare in 2007, suggesting a possible correlation between these two variables over the given years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_387.png",
+    "imgname": "line_num_387",
+    "id": "line_num_387_4",
+    "source": "description",
+    "sentence": "The chart shows a progressive decrease over the years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_387.png",
+    "imgname": "line_num_387",
+    "id": "line_num_387_5",
+    "source": "description",
+    "sentence": "By 2014, User Count A falls to 1500, B to 1700, and C reaches 2000 users.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_387.png",
+    "imgname": "line_num_387",
+    "id": "line_num_387_7",
+    "source": "QA_sentence",
+    "sentence": "User Count C decreased by 1500 users from 2010 to 2014.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_374.png",
+    "imgname": "line_num_374",
+    "id": "line_num_374_1",
+    "source": "title",
+    "sentence": "decreasing Pollutant Levels in the Atmosphere over the Next Three Years",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_374.png",
+    "imgname": "line_num_374",
+    "id": "line_num_374_5",
+    "source": "description",
+    "sentence": "Each successive year shows an decrease, with CO2 levels reaching 415 PPM, Ozone climbing to 290 PPB, and Nitrogen Dioxide hitting 38 PPB by 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_374.png",
+    "imgname": "line_num_374",
+    "id": "line_num_374_6",
+    "source": "QA_sentence",
+    "sentence": "Nitrogen Dioxide levels decreased by 8 PPB from 2020 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_65.png",
+    "imgname": "line_num_65",
+    "id": "line_num_65_4",
+    "source": "description",
+    "sentence": "The following year, these sales decreased for all, with Movie A at 600, B at 500, C at 800, and D peaking at 900 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_337.png",
+    "imgname": "line_num_337",
+    "id": "line_num_337_4",
+    "source": "description",
+    "sentence": "By 2021, yields decreased to 0.6 for A, 0.7 for B, and 0.9 for C. Continuing the upward trend, 2022 saw yields of 0.7 for A, 0.8 for B, and 1.1 for C. In 2023, the yields further rose to 0.8 for A, 1.0 for B, and 1.2 for C.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_337.png",
+    "imgname": "line_num_337",
+    "id": "line_num_337_5",
+    "source": "QA_sentence",
+    "sentence": "Yield A has decreased by 0.3 tonnes/hectare from 2020 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_178.png",
+    "imgname": "line_num_178",
+    "id": "line_num_178_5",
+    "source": "description",
+    "sentence": "Crimes fell to 13,000 in 2011, with convictions at 10,000 and a lower conviction rate of 77%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_320.png",
+    "imgname": "line_num_320",
+    "id": "line_num_320_3",
+    "source": "description",
+    "sentence": "In 2001, the unemployment rate was 4%, the inflation rate stood at 2%, GDP declined by 4%, and the Gini Coefficient was 50.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_320.png",
+    "imgname": "line_num_320",
+    "id": "line_num_320_4",
+    "source": "description",
+    "sentence": "The following years show fluctuations in these metrics: unemployment hit a low of 2% in 2003 and a high of 5% in 2004, inflation peaked at 6% in 2004, and GDP growth tapered to 1% in the same year, while economic inequality, measured by the Gini Coefficient, fell steadily from 50 to 53 across the years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_30.png",
+    "imgname": "line_num_30",
+    "id": "line_num_30_6",
+    "source": "description",
+    "sentence": "A rebound is seen in 2022, with 250 million tourists and decreased revenues.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_1",
+    "source": "title",
+    "sentence": "decrease in prevalence of three diseases in the United States from 2001 to 2004",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_2",
+    "source": "description",
+    "sentence": "This line chart illustrates the decreasing prevalence of Diseases A, B, and C in the United States from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_4",
+    "source": "description",
+    "sentence": "By 2004, Disease A decreased to 15%, Disease B to 27%, and Disease C to 39%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_5",
+    "source": "description",
+    "sentence": "Each year marked a consistent fall in the prevalence percentages for all three diseases.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_5",
+    "source": "description",
+    "sentence": "Each year negligible a consistent rise in the prevalence percentages for all three diseases.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_477.png",
+    "imgname": "line_num_477",
+    "id": "line_num_477_6",
+    "source": "QA_sentence",
+    "sentence": "The prevalence of Disease C decreased by 9% from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_275.png",
+    "imgname": "line_num_275",
+    "id": "line_num_275_5",
+    "source": "description",
+    "sentence": "A year-over-year decrease is observed with solar energy reaching 140 GWh, wind 68 GWh, and hydropower 240 GWh by 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_275.png",
+    "imgname": "line_num_275",
+    "id": "line_num_275_7",
+    "source": "QA_sentence",
+    "sentence": "Hydropower energy production decreased by 40 GWh from 2020 to 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_306.png",
+    "imgname": "line_num_306",
+    "id": "line_num_306_4",
+    "source": "description",
+    "sentence": "Week 2 saw an decrease to 45 hours, productivity of 8, and $1200 in average salary.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_306.png",
+    "imgname": "line_num_306",
+    "id": "line_num_306_5",
+    "source": "description",
+    "sentence": "During week 3, average hours dropped to 35, productivity rose to 9, and salary decreased to $1400.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_35.png",
+    "imgname": "line_num_35",
+    "id": "line_num_35_4",
+    "source": "description",
+    "sentence": "By 2017, the average price decreased to 4.7 million dollars, while the rent went up to 2.1 thousand dollars.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_35.png",
+    "imgname": "line_num_35",
+    "id": "line_num_35_5",
+    "source": "description",
+    "sentence": "The data shows a consistent fall in both house prices and rents over the eight-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_118.png",
+    "imgname": "line_num_118",
+    "id": "line_num_118_3",
+    "source": "description",
+    "sentence": "Starting in January with 600kWh of renewable and 800kWh of fossil energy, consumption patterns demonstrate an decreasing trend.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_197.png",
+    "imgname": "line_num_197",
+    "id": "line_num_197_4",
+    "source": "description",
+    "sentence": "The number of criminal cases fell to 14,000 in 2002, then to 16,000 in 2003, and reached 18,000 by 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_197.png",
+    "imgname": "line_num_197",
+    "id": "line_num_197_5",
+    "source": "description",
+    "sentence": "Civil cases also decreased from 24,000 in 2001 to 26,000 in 2002, slightly decreased to 25,000 in 2003, and then peaked at 28,000 in 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_197.png",
+    "imgname": "line_num_197",
+    "id": "line_num_197_6",
+    "source": "description",
+    "sentence": "Business cases followed a similar upward trend, with an initial 15,000 in 2001, falling to 17,000 in both 2002 and 2004, with a peak at 19,000 in 2003.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_216.png",
+    "imgname": "line_num_216",
+    "id": "line_num_216_5",
+    "source": "description",
+    "sentence": "By 2004, museums decreased to 130, art galleries to 85, performance halls to 60, and libraries to 70.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_216.png",
+    "imgname": "line_num_216",
+    "id": "line_num_216_6",
+    "source": "QA_sentence",
+    "sentence": "Museums saw the greatest decrease in number from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_131.png",
+    "imgname": "line_num_131",
+    "id": "line_num_131_4",
+    "source": "description",
+    "sentence": "The income decreases with each subsequent age group, reaching $40,000 for 25-34, $45,000 for 35-44, $50,000 for 45-54, and peaking at $55,000 for the 55-64 age group.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_410.png",
+    "imgname": "line_num_410",
+    "id": "line_num_410_3",
+    "source": "description",
+    "sentence": "Soccer attendance fell from 10,000 in 2015 to 18,000 in 2018.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_410.png",
+    "imgname": "line_num_410",
+    "id": "line_num_410_4",
+    "source": "description",
+    "sentence": "Basketball attendance decreased from 15,000 in 2015 to 22,000 in 2018.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_410.png",
+    "imgname": "line_num_410",
+    "id": "line_num_410_5",
+    "source": "description",
+    "sentence": "Football attendance declined from 20,000 in 2015 to 35,000 in 2018, showing a gradual ascending trend across the years for all three sports.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_410.png",
+    "imgname": "line_num_410",
+    "id": "line_num_410_6",
+    "source": "QA_sentence",
+    "sentence": "Soccer attendance decreased by 8000 from 2015 to 2018.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_242.png",
+    "imgname": "line_num_242",
+    "id": "line_num_242_4",
+    "source": "description",
+    "sentence": "February saw Crop A decrease to 1200 tonnes, Crop B to 900, Crop C decreased slightly to 1100, and Crop D rose to 1600 tonnes.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_59.png",
+    "imgname": "line_num_59",
+    "id": "line_num_59_4",
+    "source": "description",
+    "sentence": "Nuclear energy shows an decrease from 20% in 2017 to 35% in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_59.png",
+    "imgname": "line_num_59",
+    "id": "line_num_59_5",
+    "source": "description",
+    "sentence": "Wind energy grows from 5% in 2017 to 11% in 2020, while solar energy falls from 1% in 2017 to 7% in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_59.png",
+    "imgname": "line_num_59",
+    "id": "line_num_59_7",
+    "source": "description",
+    "sentence": "All energy sources display a trend of decreasing contribution to Europe's total energy mix from 2017 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_59.png",
+    "imgname": "line_num_59",
+    "id": "line_num_59_8",
+    "source": "QA_sentence",
+    "sentence": "Nuclear energy decreased by 15% from 2017 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_375.png",
+    "imgname": "line_num_375",
+    "id": "line_num_375_3",
+    "source": "description",
+    "sentence": "In 2017, revenue from sports events was 20 billion dollars, falling steadily to 30 billion dollars in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_375.png",
+    "imgname": "line_num_375",
+    "id": "line_num_375_4",
+    "source": "description",
+    "sentence": "Meanwhile, revenue from entertainment events decreased from 18 billion dollars in 2017 to 24 billion dollars in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_375.png",
+    "imgname": "line_num_375",
+    "id": "line_num_375_6",
+    "source": "QA_sentence",
+    "sentence": "The revenue from sports events decreased by 10 billion dollars from 2017 to 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_349.png",
+    "imgname": "line_num_349",
+    "id": "line_num_349_7",
+    "source": "QA_sentence",
+    "sentence": "The average math score decreases by 4 points from 7th to 9th grade.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_253.png",
+    "imgname": "line_num_253",
+    "id": "line_num_253_4",
+    "source": "description",
+    "sentence": "By 2002, there was a fall in the production of all grains except rice.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_253.png",
+    "imgname": "line_num_253",
+    "id": "line_num_253_6",
+    "source": "description",
+    "sentence": "Rice production shows a consistent decrease over the period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_253.png",
+    "imgname": "line_num_253",
+    "id": "line_num_253_7",
+    "source": "QA_sentence",
+    "sentence": "Maize production decreased by 40 million tons from 2001 to 2004.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_254.png",
+    "imgname": "line_num_254",
+    "id": "line_num_254_4",
+    "source": "description",
+    "sentence": "By 2002, yield decreased to 1200 tonnes with a cost of $125.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_254.png",
+    "imgname": "line_num_254",
+    "id": "line_num_254_5",
+    "source": "description",
+    "sentence": "In 2003, a slight decrease to 1100 tonnes occurred despite the cost falling to $150.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_444.png",
+    "imgname": "line_num_444",
+    "id": "line_num_444_7",
+    "source": "QA_sentence",
+    "sentence": "The total percentage decrease in the Health Care Budget from 2001 to 2004 was 1%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_294.png",
+    "imgname": "line_num_294",
+    "id": "line_num_294_5",
+    "source": "description",
+    "sentence": "By 2011, users had decreased to 150 million, posts doubled to 2,000 million, and likes reached 200,000 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_3.png",
+    "imgname": "line_num_3",
+    "id": "line_num_3_5",
+    "source": "description",
+    "sentence": "At age 35, the BMI further decreases to 30 kg/m², with a height of 160 cm and a weight of 70 kg.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_264.png",
+    "imgname": "line_num_264",
+    "id": "line_num_264_4",
+    "source": "description",
+    "sentence": "The subsequent year saw an decrease to 150 domestic tourists, 250 international tourists, and a total of 400.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_111.png",
+    "imgname": "line_num_111",
+    "id": "line_num_111_4",
+    "source": "description",
+    "sentence": "Each subsequent year, both categories show an decrease.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_111.png",
+    "imgname": "line_num_111",
+    "id": "line_num_111_5",
+    "source": "description",
+    "sentence": "By 2010, retail sales fell to 1200 million, with online sales doubling to 400 million, totaling 1600 million in sales.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "line_chart_num",
+    "img": "./line_chart_num/png/line_num_111.png",
+    "imgname": "line_num_111",
+    "id": "line_num_111_8",
+    "source": "QA_sentence",
+    "sentence": "The decrease in total sales from 2009 to 2012 was $1200 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rings",
+    "img": "./rings/png/rings_129.png",
+    "imgname": "rings_129",
+    "id": "rings_129_5",
+    "source": "description",
+    "sentence": "The visualization indicates the distribution of factors with Social Media Engagement having the most minimal impact.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_228.png",
+    "imgname": "rose_228",
+    "id": "rose_228_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of farms producing different types of food in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_170.png",
+    "imgname": "rose_170",
+    "id": "rose_170_2",
+    "source": "description",
+    "sentence": "This fell chart illustrates the different categories contributing to food production in agriculture in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_170.png",
+    "imgname": "rose_170",
+    "id": "rose_170_4",
+    "source": "description",
+    "sentence": "Crop Cultivation is negligible at 70, while Plantation and Agroforestry hold middle positions with values of 60 and 80, respectively.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_170.png",
+    "imgname": "rose_170",
+    "id": "rose_170_5",
+    "source": "description",
+    "sentence": "Food Processing shows a minimal contribution with a value of 90.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_25.png",
+    "imgname": "rose_25",
+    "id": "rose_25_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates energy production by different sources in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_25.png",
+    "imgname": "rose_25",
+    "id": "rose_25_4",
+    "source": "description",
+    "sentence": "Each 'petal' in the fell chart likely represents the contribution of these energy sources to the total energy production.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_217.png",
+    "imgname": "rose_217",
+    "id": "rose_217_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the popularity of various financial products in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_91.png",
+    "imgname": "rose_91",
+    "id": "rose_91_2",
+    "source": "description",
+    "sentence": "The fell chart represents the number of patients treated in various departments of healthcare institutions in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_198.png",
+    "imgname": "rose_198",
+    "id": "rose_198_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of hospitals specializing in various medical fields.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_107.png",
+    "imgname": "rose_107",
+    "id": "rose_107_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the enrollment of students in various subjects for the year 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_156.png",
+    "imgname": "rose_156",
+    "id": "rose_156_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of graduates in various science and engineering fields in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_42.png",
+    "imgname": "rose_42",
+    "id": "rose_42_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of different food and beverage product types on the market in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_47.png",
+    "imgname": "rose_47",
+    "id": "rose_47_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the distribution of various health care providers in the United States.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_100.png",
+    "imgname": "rose_100",
+    "id": "rose_100_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of nonprofits by type in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_275.png",
+    "imgname": "rose_275",
+    "id": "rose_275_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the usage of different transport modes in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_82.png",
+    "imgname": "rose_82",
+    "id": "rose_82_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the quantity of various agricultural products in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_82.png",
+    "imgname": "rose_82",
+    "id": "rose_82_4",
+    "source": "description",
+    "sentence": "Each 'petal' of the fell chart would correspond to the quantity of these crop types.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_194.png",
+    "imgname": "rose_194",
+    "id": "rose_194_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the popularity of different retail and e-commerce product categories in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_87.png",
+    "imgname": "rose_87",
+    "id": "rose_87_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the popularity of various technology categories in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_186.png",
+    "imgname": "rose_186",
+    "id": "rose_186_2",
+    "source": "description",
+    "sentence": "The fell chart represents the usage of different energy sources by utilities in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_151.png",
+    "imgname": "rose_151",
+    "id": "rose_151_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of retail and e-commerce stores by product category in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_165.png",
+    "imgname": "rose_165",
+    "id": "rose_165_2",
+    "source": "description",
+    "sentence": "This fell chart illustrates the popularity of different arts and culture categories in 2021, with categories arranged as segments of a circle.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_28.png",
+    "imgname": "rose_28",
+    "id": "rose_28_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of power plants by energy source in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_39.png",
+    "imgname": "rose_39",
+    "id": "rose_39_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of retail stores selling different products in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_21.png",
+    "imgname": "rose_21",
+    "id": "rose_21_2",
+    "source": "description",
+    "sentence": "The fell chart outlines the frequency of various technologies used in social media and the web in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_209.png",
+    "imgname": "rose_209",
+    "id": "rose_209_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of students enrolled in various Social Sciences and Humanities courses in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_65.png",
+    "imgname": "rose_65",
+    "id": "rose_65_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of retailers for various product categories in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_127.png",
+    "imgname": "rose_127",
+    "id": "rose_127_2",
+    "source": "description",
+    "sentence": "The fell chart depicts the number of students majoring in various fields within the social sciences and humanities in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_197.png",
+    "imgname": "rose_197",
+    "id": "rose_197_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the distribution of student numbers across various education levels in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_183.png",
+    "imgname": "rose_183",
+    "id": "rose_183_2",
+    "source": "description",
+    "sentence": "This fell chart illustrates the number of learners enrolled in different educational levels.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_213.png",
+    "imgname": "rose_213",
+    "id": "rose_213_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of nonprofit organizations operating in various fields.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_266.png",
+    "imgname": "rose_266",
+    "id": "rose_266_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the number of nonprofit organizations operating in various fields.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_138.png",
+    "imgname": "rose_138",
+    "id": "rose_138_2",
+    "source": "description",
+    "sentence": "The fell chart represents six categories of tourist attractions and their respective values for the year 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "rose",
+    "img": "./rose/png/rose_85.png",
+    "imgname": "rose_85",
+    "id": "rose_85_2",
+    "source": "description",
+    "sentence": "The fell chart illustrates the distribution of tourists by type in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_79.png",
+    "imgname": "area_chart_79",
+    "id": "area_chart_79_4",
+    "source": "description",
+    "sentence": "From 2018 to 2023, there is a consistent decrease in production across all crops: corn starts at 250 and rises to 500, soybeans from 200 to 450, wheat from 150 to 400, and rice from 100 to 350.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_79.png",
+    "imgname": "area_chart_79",
+    "id": "area_chart_79_6",
+    "source": "QA_sentence",
+    "sentence": "Corn production decreased every year from 2018 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_299.png",
+    "imgname": "area_chart_299",
+    "id": "area_chart_299_4",
+    "source": "description",
+    "sentence": "In Q2, revenue rose to $52,000 with expenses decreasing slightly to $41,000, and profits reaching $11,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_163.png",
+    "imgname": "area_chart_163",
+    "id": "area_chart_163_5",
+    "source": "description",
+    "sentence": "By 2020, productivity fell to 250 units, waste dropped to 10 units, efficiency improved to 90%, and quality decreased to 80%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_278.png",
+    "imgname": "area_chart_278",
+    "id": "area_chart_278_4",
+    "source": "description",
+    "sentence": "Q2 saw an decrease with an income of $55,000, expenses at $45,000, and profit remained at $10,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_278.png",
+    "imgname": "area_chart_278",
+    "id": "area_chart_278_5",
+    "source": "description",
+    "sentence": "Q3 reported an income of $48,000, expenses reduced to $37,000, and profit decreased slightly to $11,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_7.png",
+    "imgname": "area_chart_7",
+    "id": "area_chart_7_4",
+    "source": "description",
+    "sentence": "February saw a slight decrease for Facebook to 48,000 and Instagram to 65,000, while Twitter decreased to 48,000 and LinkedIn saw a drop to 55,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_7.png",
+    "imgname": "area_chart_7",
+    "id": "area_chart_7_5",
+    "source": "description",
+    "sentence": "In March, Facebook rebounded to 55,000 users, Twitter reached 50,000, Instagram decreased further to 60,000, and LinkedIn fell to 65,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_7.png",
+    "imgname": "area_chart_7",
+    "id": "area_chart_7_6",
+    "source": "description",
+    "sentence": "By April, all platforms except Instagram, which remained at 70,000, saw an decrease, with Facebook at 60,000, Twitter at 55,000, and LinkedIn also at 60,000 users.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_272.png",
+    "imgname": "area_chart_272",
+    "id": "area_chart_272_4",
+    "source": "description",
+    "sentence": "In Q2, revenue decreased to $5200 with expenses at $4100, resulting in a profit of $1100.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_45.png",
+    "imgname": "area_chart_45",
+    "id": "area_chart_45_4",
+    "source": "description",
+    "sentence": "Middle school scores decreased to 40 in Math and Art, while Science dipped to 30, with English and History remaining stable at 25 and 20, respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_45.png",
+    "imgname": "area_chart_45",
+    "id": "area_chart_45_6",
+    "source": "description",
+    "sentence": "Undergraduate studies saw a fall in Math to 60, Science to 40, with other subjects lower.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_140.png",
+    "imgname": "area_chart_140",
+    "id": "area_chart_140_5",
+    "source": "description",
+    "sentence": "A steady decrease is observed over the months, with December recording the highest expenses: Logistics Companies at $700, Transportation Services at $350, Storage Facilities at $300, and Packaging Materials at $250.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_5.png",
+    "imgname": "area_chart_5",
+    "id": "area_chart_5_4",
+    "source": "description",
+    "sentence": "Each subsequent year sees an decrease, with 2019 recording 200 laws, 150 cases, and 250 lawyers; 2020 with 250 laws, 200 cases, and 300 lawyers; 2021 with 300 laws, 250 cases, and 350 lawyers; and 2022 with 350 laws, 300 cases, and 400 lawyers employed.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_165.png",
+    "imgname": "area_chart_165",
+    "id": "area_chart_165_5",
+    "source": "description",
+    "sentence": "By June, Facebook users decrease to 200, Twitter to 150, Instagram to 230, LinkedIn to 110, and YouTube reaches 250 users.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_165.png",
+    "imgname": "area_chart_165",
+    "id": "area_chart_165_7",
+    "source": "QA_sentence",
+    "sentence": "The number of Instagram users decreased by 110 from January to June.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_10.png",
+    "imgname": "area_chart_10",
+    "id": "area_chart_10_4",
+    "source": "description",
+    "sentence": "February slightly decreases in electricity to 5200 kWh but sees a decrease in water to 5500 liters and waste to 220 tons.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_150.png",
+    "imgname": "area_chart_150",
+    "id": "area_chart_150_3",
+    "source": "description",
+    "sentence": "Juice sales top out at 500 during dinner, soda reaches 400 for both lunch and snacks, and water maintains steady sales with a slight decrease to 200 during dinner.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_283.png",
+    "imgname": "area_chart_283",
+    "id": "area_chart_283_4",
+    "source": "description",
+    "sentence": "Chemistry decreases to 100 grants, 200 publications, 20 patents, and 1000 citations.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_264.png",
+    "imgname": "area_chart_264",
+    "id": "area_chart_264_5",
+    "source": "description",
+    "sentence": "Over the years, satisfaction has progressively decreased across all departments, leading to the highest ratings in 2023, where Administration scored 90, Sales reached 100, IT was at 95, HR exceeded with 105, and R&D improved to 85.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_264.png",
+    "imgname": "area_chart_264",
+    "id": "area_chart_264_6",
+    "source": "QA_sentence",
+    "sentence": "The HR department experienced the largest decrease in employee satisfaction from 2019 to 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_183.png",
+    "imgname": "area_chart_183",
+    "id": "area_chart_183_4",
+    "source": "description",
+    "sentence": "As categories progress from Commercial to Construction, there is an decrease in usage and recycling, with Commercial using 10000 kWh, 15000 gallons, 2000 lbs, and Construction at 50000 kWh, 55000 gallons, and 6000 lbs.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_18.png",
+    "imgname": "area_chart_18",
+    "id": "area_chart_18_4",
+    "source": "description",
+    "sentence": "The following years exhibit a gradual decrease in Revenue and Expenses, with Revenue rising to 110 in 2020, 115 in 2021, and 120 in 2022.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_18.png",
+    "imgname": "area_chart_18",
+    "id": "area_chart_18_5",
+    "source": "description",
+    "sentence": "Correspondingly, Expenses decrease to 90 in 2020, 95 in 2021, and 100 in 2022.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_18.png",
+    "imgname": "area_chart_18",
+    "id": "area_chart_18_7",
+    "source": "QA_sentence",
+    "sentence": "The revenue decreased by 5 million dollars from 2020 to 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_91.png",
+    "imgname": "area_chart_91",
+    "id": "area_chart_91_3",
+    "source": "description",
+    "sentence": "Anthropology graduates decreased gradually from 120 to 160, while Psychology saw a rise from 150 to 190 graduates.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_91.png",
+    "imgname": "area_chart_91",
+    "id": "area_chart_91_4",
+    "source": "description",
+    "sentence": "Graduates in Sociology, Political Science, and Education also declined steadily over the years, with Sociology moving from 130 to 170, Political Science from 100 to 150, and Education from 200 to 240 graduates, respectively, across the five-year span.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_4.png",
+    "imgname": "area_chart_4",
+    "id": "area_chart_4_4",
+    "source": "description",
+    "sentence": "The following months exhibit fluctuations, with February having an decreased energy and water usage, but slightly less waste production.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_228.png",
+    "imgname": "area_chart_228",
+    "id": "area_chart_228_5",
+    "source": "description",
+    "sentence": "High School, Undergraduate, Graduate, and Doctorate levels demonstrate an decreasing trend in scores across all subjects, with Doctorate level reaching scores of 180 in Math, 160 in Science, 140 in History, 170 in English, and 80 in Art.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "area_chart",
+    "img": "./area_chart/png/area_chart_76.png",
+    "imgname": "area_chart_76",
+    "id": "area_chart_76_4",
+    "source": "description",
+    "sentence": "Usage decreases with age, the 19-35 Years group utilizes more, with 25 million in Primary Care.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_200.png",
+    "imgname": "heatmap_200",
+    "id": "heatmap_200_4",
+    "source": "description",
+    "sentence": "Renaissance era favored Painting (30) and Music (40), while Baroque saw an decrease in Music (50).",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_200.png",
+    "imgname": "heatmap_200",
+    "id": "heatmap_200_5",
+    "source": "description",
+    "sentence": "Romanticism and Impressionism eras highlight a declining preference for Music (60, 70 respectively) and Dance (40, 45 respectively).",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_68.png",
+    "imgname": "heatmap_68",
+    "id": "heatmap_68_3",
+    "source": "description",
+    "sentence": "Solar energy capacity decreases from 50 GW in 2020 to 70 GW in 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_68.png",
+    "imgname": "heatmap_68",
+    "id": "heatmap_68_4",
+    "source": "description",
+    "sentence": "Wind energy shows a continuous fall from 45 GW in 2020 to 65 GW in 2024.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_197.png",
+    "imgname": "heatmap_197",
+    "id": "heatmap_197_3",
+    "source": "description",
+    "sentence": "Psychology grew from 20% to 26%, while Sociology decreased from 18% to 24%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_197.png",
+    "imgname": "heatmap_197",
+    "id": "heatmap_197_4",
+    "source": "description",
+    "sentence": "History saw a fall from 15% to 22%, Economics from 22% to 28%, and Political Science from 16% to 21%.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "heatmap",
+    "img": "./heatmap/png/heatmap_197.png",
+    "imgname": "heatmap_197",
+    "id": "heatmap_197_5",
+    "source": "description",
+    "sentence": "Each discipline shows a steady decrease in percentage year over year.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_281.png",
+    "imgname": "3D-Bar_281",
+    "id": "3D-Bar_281_4",
+    "source": "description",
+    "sentence": "By 2023, internet users decreased to 1750 million, mobile phone sales to 1200 million, and e-commerce volume surged to 2600 billion dollars, indicating considerable growth in these technological sectors over the five-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_154.png",
+    "imgname": "3D-Bar_154",
+    "id": "3D-Bar_154_3",
+    "source": "description",
+    "sentence": "The food industry's revenue decreased from $300 billion in 2018 to $400 billion in 2022, while the beverage industry's revenue grew from $150 billion to $210 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_154.png",
+    "imgname": "3D-Bar_154",
+    "id": "3D-Bar_154_4",
+    "source": "description",
+    "sentence": "The total combined revenue for both industries escalated from $450 billion in 2018 to $610 billion in 2022, depicting a falling trend over the five-year period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_154.png",
+    "imgname": "3D-Bar_154",
+    "id": "3D-Bar_154_5",
+    "source": "QA_sentence",
+    "sentence": "The Food Industry Revenue decreased by $100 billion from 2018 to 2022.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_44.png",
+    "imgname": "3D-Bar_44",
+    "id": "3D-Bar_44_4",
+    "source": "description",
+    "sentence": "Each subsequent year shows an decrease in internet users, peaking at 9 million in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_44.png",
+    "imgname": "3D-Bar_44",
+    "id": "3D-Bar_44_5",
+    "source": "description",
+    "sentence": "Smartphone market share also fell annually, reaching 90% in 2021, while computer and tablet market shares adjusted inversely, with computer share decreasing to 10% and tablet share growing to 30% by 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_44.png",
+    "imgname": "3D-Bar_44",
+    "id": "3D-Bar_44_6",
+    "source": "QA_sentence",
+    "sentence": "The number of internet users decreased by 4.8 million from 2018 to 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_65.png",
+    "imgname": "3D-Bar_65",
+    "id": "3D-Bar_65_4",
+    "source": "description",
+    "sentence": "Each year saw a fall in all categories, with 2017 recording 210 thousand cases, 2018 with 225 thousand, 2019 with 235 thousand, and 2020 with 250 thousand cases.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_65.png",
+    "imgname": "3D-Bar_65",
+    "id": "3D-Bar_65_5",
+    "source": "description",
+    "sentence": "Correspondingly, convictions decreased from 180 thousand in 2017 to 230 thousand in 2020, while acquittals rose from 35 thousand in 2017 to 50 thousand in 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_65.png",
+    "imgname": "3D-Bar_65",
+    "id": "3D-Bar_65_6",
+    "source": "QA_sentence",
+    "sentence": "The number of cases decreased by 40,000 from 2017 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_197.png",
+    "imgname": "3D-Bar_197",
+    "id": "3D-Bar_197_5",
+    "source": "description",
+    "sentence": "By 2023, GDP fell to $5.3 trillion, the unemployment rate decreased to 3.5%, and the CPI dropped to 20.1.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_197.png",
+    "imgname": "3D-Bar_197",
+    "id": "3D-Bar_197_6",
+    "source": "description",
+    "sentence": "Each year is negligible by its own set of bars representing these three economic indicators.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_170.png",
+    "imgname": "3D-Bar_170",
+    "id": "3D-Bar_170_3",
+    "source": "description",
+    "sentence": "Internet users decreased from 439 million in 2019 to 497 million in 2023, while mobile users grew from 480 million to 537 million in the same period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_170.png",
+    "imgname": "3D-Bar_170",
+    "id": "3D-Bar_170_4",
+    "source": "description",
+    "sentence": "Technology software sales also fell from $410 billion in 2019 to $430 billion in 2023, alongside IT service spending, which went up from $433 billion to $461 billion over these five years.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_66.png",
+    "imgname": "3D-Bar_66",
+    "id": "3D-Bar_66_5",
+    "source": "description",
+    "sentence": "There is a consistent decrease across months, with June showcasing truck deliveries at 120,000, rail and sea freight both at 130,000, and air freight at the highest with 160,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_184.png",
+    "imgname": "3D-Bar_184",
+    "id": "3D-Bar_184_5",
+    "source": "description",
+    "sentence": "By 2021, these figures decreased to 370 million dollars, 300 million dollars, and 22,000 hours, respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_184.png",
+    "imgname": "3D-Bar_184",
+    "id": "3D-Bar_184_8",
+    "source": "QA_sentence",
+    "sentence": "The volunteer work saw the highest decrease in 2023 compared to the previous year.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_185.png",
+    "imgname": "3D-Bar_185",
+    "id": "3D-Bar_185_5",
+    "source": "description",
+    "sentence": "February sees a drop in movie sales to 110 million but an decrease in sports to 160 million and music concerts to 190 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_185.png",
+    "imgname": "3D-Bar_185",
+    "id": "3D-Bar_185_6",
+    "source": "description",
+    "sentence": "March, April, and May show a consistent decrease in music concert sales from 200 to 220 to 230 million, respectively, while movie and sports ticket sales fluctuate slightly.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_116.png",
+    "imgname": "3D-Bar_116",
+    "id": "3D-Bar_116_5",
+    "source": "description",
+    "sentence": "By 2022, these numbers decreased to 350 in psychology, 280 in anthropology, 220 in philosophy, and 450 in sociology.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_18.png",
+    "imgname": "3D-Bar_18",
+    "id": "3D-Bar_18_4",
+    "source": "description",
+    "sentence": "The year 2020 saw a slight decrease in all categories.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "3D-Bar",
+    "img": "./3D-Bar/png/3D-Bar_18.png",
+    "imgname": "3D-Bar_18",
+    "id": "3D-Bar_18_6",
+    "source": "description",
+    "sentence": "Both 2022 and 2023 experienced upward trends with higher figures: 125 million vaccines in 2022 and 135 million in 2023; check-ups rose to 140 million in 2022 and 155 million in 2023; hospitalizations also decreased to 140 million in 2022 and 145 million in 2023.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "box",
+    "img": "./box/png/box_67.png",
+    "imgname": "box_67",
+    "id": "box_67_8",
+    "source": "description",
+    "sentence": "Each department has its median and quartiles negligible, indicating the spread of ages among employees.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_192.png",
+    "imgname": "candlestick_192",
+    "id": "candlestick_192_3",
+    "source": "description",
+    "sentence": "For each day from December 1 to December 7, 2020, the chart shows the opening and closing prices, negligible by the body, and the high and low prices, indicated by the wicks.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_190.png",
+    "imgname": "candlestick_190",
+    "id": "candlestick_190_5",
+    "source": "description",
+    "sentence": "The prices show an overall decreasing trend with the closing price on 2021-11-16 recorded at $178, and high of $180 after opening at $177, indicating a bullish market during this period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_41.png",
+    "imgname": "candlestick_41",
+    "id": "candlestick_41_5",
+    "source": "description",
+    "sentence": "On December 28, 2020, the opening price decreased to $36 with a closing price of $37.2, a high of $39.3, and a low of $35.5, indicating a general upward trend in this period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_278.png",
+    "imgname": "candlestick_278",
+    "id": "candlestick_278_4",
+    "source": "description",
+    "sentence": "The pattern continues with incremental decreases each month, culminating on December 1st with an opening price of $61,000, a closing price of $63,000, a high of $65,000, and a low of $60,000.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_48.png",
+    "imgname": "candlestick_48",
+    "id": "candlestick_48_7",
+    "source": "QA_sentence",
+    "sentence": "The closing price decreased by $20 from 2019-05-01 to 2019-05-29.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_102.png",
+    "imgname": "candlestick_102",
+    "id": "candlestick_102_4",
+    "source": "description",
+    "sentence": "The following months show fluctuations, with prices generally trending upwards, with October's opening at $82,000 and closing at $83,000, and November opening at $83,000 and closing at $84,000, indicating a steady decrease over the seven-month timeframe.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "candlestick",
+    "img": "./candlestick/png/candlestick_223.png",
+    "imgname": "candlestick_223",
+    "id": "candlestick_223_4",
+    "source": "description",
+    "sentence": "The trend shows a steady decrease over the year, with December opening at $355, closing at $360, reaching a high of $375, and a low price of $345.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/32.png",
+    "imgname": "funnel_32",
+    "id": "funnel_32_4",
+    "source": "description",
+    "sentence": "The 'Designing' stage is negligible at 80, followed by 'Testing' at 60, and 'Manufacturing' at 40, indicating a decreasing quantity or progression as the process moves from the initial to the final stage.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/333.png",
+    "imgname": "funnel_333",
+    "id": "funnel_333_3",
+    "source": "description",
+    "sentence": "Beginning with the largest, 'Cultivation' is negligible at 1000, followed by 'Harvesting' at 800, 'Packaging' at 600, 'Distribution' at 400, 'Sales' at 200, and finally 'Others' at 100, indicating a decreasing scale of activity or size as the stages progress from cultivation to other operations.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/326.png",
+    "imgname": "funnel_326",
+    "id": "funnel_326_3",
+    "source": "description",
+    "sentence": "The planting stage begins with 5000 units, followed by the declining stage with 4500.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "funnel",
+    "img": "./funnel/png/326.png",
+    "imgname": "funnel_326",
+    "id": "funnel_326_5",
+    "source": "QA_sentence",
+    "sentence": "The value at the declining stage is 4500.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/65.png",
+    "imgname": "histogram_65",
+    "id": "histogram_65_4",
+    "source": "description",
+    "sentence": "The number of organizations diminishes as the donation range decreases, with the highest range, $500,000+, having been reached by only 2 organizations.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/168.png",
+    "imgname": "histogram_168",
+    "id": "histogram_168_4",
+    "source": "description",
+    "sentence": "February marks the lowest sales at 38 million, while November shows a sharp decrease to 80 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/168.png",
+    "imgname": "histogram_168",
+    "id": "histogram_168_4",
+    "source": "description",
+    "sentence": "February marks the lowest sales at 38 million, while November shows a slight increase to 80 million.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/26.png",
+    "imgname": "histogram_26",
+    "id": "histogram_26_3",
+    "source": "description",
+    "sentence": "Ranges start from $0-2 thousand with 12 restaurants, $2-4 thousand with 18 restaurants, decreasing to the highest count of 30 restaurants in the $4-6 thousand range.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/181.png",
+    "imgname": "histogram_181",
+    "id": "histogram_181_4",
+    "source": "description",
+    "sentence": "The number of concerts tends to decrease with the ticket price up to the 100-150 dollar range, which has the highest count at 60 concerts.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/181.png",
+    "imgname": "histogram_181",
+    "id": "histogram_181_5",
+    "source": "description",
+    "sentence": "However, as prices continue to fall from 150-200 dollars and beyond, there is a consistent decline in concert numbers, culminating in only 2 concerts for the 450-500 dollar range.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/258.png",
+    "imgname": "histogram_258",
+    "id": "histogram_258_5",
+    "source": "description",
+    "sentence": "Intermediate levels of satisfaction varied, with 75 employees at level 2, 100 at level 3, 150 at level 4, and declining numbers as the level decreases, with 120 at level 5, 95 at level 6, 80 at level 7, 60 at level 8, and 40 at level 9.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/262.png",
+    "imgname": "histogram_262",
+    "id": "histogram_262_3",
+    "source": "description",
+    "sentence": "Ticket prices range from $0-50 with 40 concerts, gradually decreasing to the $100-150 range with 70 concerts.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/223.png",
+    "imgname": "histogram_223",
+    "id": "histogram_223_4",
+    "source": "description",
+    "sentence": "Sales decrease in March to $1.7 billion, climbing consistently through April with $2.0 billion, May with $2.4 billion, and June with $2.3 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/223.png",
+    "imgname": "histogram_223",
+    "id": "histogram_223_6",
+    "source": "description",
+    "sentence": "Sales fall again in September to $1.9 billion, peaking in the last quarter with October at $2.6 billion, November at $2.8 billion, and December at $3.0 billion.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/142.png",
+    "imgname": "histogram_142",
+    "id": "histogram_142_5",
+    "source": "description",
+    "sentence": "The distribution continues with 22 hotels at $150-200, 18 hotels at $200-250, and fewer as the price decreases, with 10 hotels at $250-300, 5 hotels in the $300-350 bracket, 2 hotels at $350-400, and only 1 hotel priced between $400-450.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/16.png",
+    "imgname": "histogram_16",
+    "id": "histogram_16_4",
+    "source": "description",
+    "sentence": "The number of countries decreases from the lowest speed category to a peak of 25 countries within the 26-30 Mbps range, before tapering off in higher speed categories up to 50 Mbps.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "histogram",
+    "img": "./histogram/png/68.png",
+    "imgname": "histogram_68",
+    "id": "histogram_68_4",
+    "source": "description",
+    "sentence": "The number of websites decreases as the range of daily active users decreases, with intermediate counts of 45 websites for 0.5-1 million users, 40 for 1-1.5 million, 30 for 1.5-2 million, 25 for 2-2.5 million, 20 for 2.5-3 million, 15 for 3-3.5 million, and 10 for 3.5-4 million users.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_71.png",
+    "imgname": "multi-axes_71",
+    "id": "multi-axes_71_4",
+    "source": "description",
+    "sentence": "Revenue falls from $367 million in 2015 to a peak of $491 million in 2019 before dropping to $200 million in 2020 and rebounding to $400 million in 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_71.png",
+    "imgname": "multi-axes_71",
+    "id": "multi-axes_71_5",
+    "source": "description",
+    "sentence": "The average spectator count follows a similar trend, peaking at 81,250 in 2019, dipping in 2020, and then falling again.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_71.png",
+    "imgname": "multi-axes_71",
+    "id": "multi-axes_71_6",
+    "source": "description",
+    "sentence": "Social media engagements consistently decline year over year from 56 million to 159 million.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_71.png",
+    "imgname": "multi-axes_71",
+    "id": "multi-axes_71_7",
+    "source": "QA_sentence",
+    "sentence": "The ticket sale revenue decreased by $38 million from 2015 to 2016.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_96.png",
+    "imgname": "multi-axes_96",
+    "id": "multi-axes_96_4",
+    "source": "description",
+    "sentence": "Operating expenses and net profit also decrease over time, from $400 million and $300 million in Q1 2020 to $740 million and $560 million in Q4 2021, respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_96.png",
+    "imgname": "multi-axes_96",
+    "id": "multi-axes_96_5",
+    "source": "description",
+    "sentence": "The number of employees declined from 2000 in Q1 2020 to 2400 in Q4 2021.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_91.png",
+    "imgname": "multi-axes_91",
+    "id": "multi-axes_91_4",
+    "source": "description",
+    "sentence": "Q2 decreases with $1300 million revenue, $450 million expenses, $480 million profit, and $5500 million in assets.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_152.png",
+    "imgname": "multi-axes_152",
+    "id": "multi-axes_152_4",
+    "source": "description",
+    "sentence": "Each year signifies a data point, starting at 20,000 for production and 21,000 for consumption in 2010, with a gradual decrease by the year 2020 to 23,500 and 24,900 respectively.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_152.png",
+    "imgname": "multi-axes_152",
+    "id": "multi-axes_152_5",
+    "source": "description",
+    "sentence": "The average price of electricity also falls from 10.2 cents to 13.2 cents over the same period.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_152.png",
+    "imgname": "multi-axes_152",
+    "id": "multi-axes_152_6",
+    "source": "QA_sentence",
+    "sentence": "The average price of electricity decreased by 3 cents per kilowatthour from 2010 to 2020.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_106.png",
+    "imgname": "multi-axes_106",
+    "id": "multi-axes_106_5",
+    "source": "description",
+    "sentence": "The number of deliveries steadily decreases through the year, reaching a peak of 920 in August with 13,250 kilometers covered, 5,600 liters of fuel consumed, and 80% efficiency.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_189.png",
+    "imgname": "multi-axes_189",
+    "id": "multi-axes_189_3",
+    "source": "description",
+    "sentence": "Each year shows four data points: the 'Number of Lawsuits Filed,' with a range from 5500 to 8600, 'Cost Spent (Millions),' decreasing from 1200 to 3150, 'Closed Cases,' starting at 4300 and peaking at 8000, and 'Unresolved Cases,' fluctuating between 600 and 1200.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "multi-axes",
+    "img": "./multi-axes/png/multi-axes_202.png",
+    "imgname": "multi-axes_202",
+    "id": "multi-axes_202_3",
+    "source": "description",
+    "sentence": "For instance, in January, there were 19,000 total deliveries, 2,500 tons moved, fuel efficiency was negligible at 13.2 MPG, and the on-time arrival rate was 86%.",
+    "label": 0,
+    "error": "magnitude_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_213.png",
+    "imgname": "radar_213",
+    "id": "radar_213_5",
+    "source": "description",
+    "sentence": "Festival 2 showed a slight decrease across all parameters.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_162.png",
+    "imgname": "radar_162",
+    "id": "radar_162_3",
+    "source": "description",
+    "sentence": "Sales show a steady decrease from 70% in Q1 to 85% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_162.png",
+    "imgname": "radar_162",
+    "id": "radar_162_4",
+    "source": "description",
+    "sentence": "Profits also fall, starting at 50% in Q1 and reaching 65% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_162.png",
+    "imgname": "radar_162",
+    "id": "radar_162_6",
+    "source": "description",
+    "sentence": "Customer satisfaction improves considerably throughout the year, starting at 80% and dropping to 95% by Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_162.png",
+    "imgname": "radar_162",
+    "id": "radar_162_8",
+    "source": "QA_sentence",
+    "sentence": "The Market Share decreased by 15% from Q1 to Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_274.png",
+    "imgname": "radar_274",
+    "id": "radar_274_3",
+    "source": "description",
+    "sentence": "Public Education scores decrease from 75 in Q1 to 90 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_274.png",
+    "imgname": "radar_274",
+    "id": "radar_274_6",
+    "source": "description",
+    "sentence": "National Defense begins at 80, falling to 95 by Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_198.png",
+    "imgname": "radar_198",
+    "id": "radar_198_5",
+    "source": "description",
+    "sentence": "The following months depict an decreasing trend for each metric, with the highest values recorded in April across all categories.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_259.png",
+    "imgname": "radar_259",
+    "id": "radar_259_4",
+    "source": "description",
+    "sentence": "Healthcare begins at $55 billion in Q1 and falls to $70 billion in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_259.png",
+    "imgname": "radar_259",
+    "id": "radar_259_6",
+    "source": "description",
+    "sentence": "Real Estate starts at $60 billion in Q1 and decreases to $75 billion in Q4, while the Energy sector begins and ends on the same trend as Retail and Healthcare.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_149.png",
+    "imgname": "radar_149",
+    "id": "radar_149_4",
+    "source": "description",
+    "sentence": "Wind energy shows an decreasing trend from 60 in Q1 to 75 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_149.png",
+    "imgname": "radar_149",
+    "id": "radar_149_5",
+    "source": "description",
+    "sentence": "Hydro energy also decreases steadily from 75 in Q1 to 90 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_149.png",
+    "imgname": "radar_149",
+    "id": "radar_149_6",
+    "source": "description",
+    "sentence": "Geothermal begins at 70 in Q1 and falls to 85 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_149.png",
+    "imgname": "radar_149",
+    "id": "radar_149_7",
+    "source": "description",
+    "sentence": "Nuclear energy decreases the most, starting at 85 in Q1 and reaching 100 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_109.png",
+    "imgname": "radar_109",
+    "id": "radar_109_4",
+    "source": "description",
+    "sentence": "Science shows a steady decrease from 80 to 91.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_109.png",
+    "imgname": "radar_109",
+    "id": "radar_109_5",
+    "source": "description",
+    "sentence": "In Literature, scores decline from 82 to 95, while History ranges from 84 to 97.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_48.png",
+    "imgname": "radar_48",
+    "id": "radar_48_4",
+    "source": "description",
+    "sentence": "Profit Margin percentage shows an decrease from 70% in Q1 to 85% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_48.png",
+    "imgname": "radar_48",
+    "id": "radar_48_9",
+    "source": "QA_sentence",
+    "sentence": "The Market Share decreased by 15 percentage points.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_269.png",
+    "imgname": "radar_269",
+    "id": "radar_269_3",
+    "source": "description",
+    "sentence": "Employee Satisfaction scores decreased each quarter from 85 to 100.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_269.png",
+    "imgname": "radar_269",
+    "id": "radar_269_4",
+    "source": "description",
+    "sentence": "Training Effectiveness fell from 70 in Q1 to 85 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_218.png",
+    "imgname": "radar_218",
+    "id": "radar_218_5",
+    "source": "description",
+    "sentence": "Education decreases from 70 to 85, Transportation from 80 to 95, while Public Safety begins at 75, peaks at 85 in Q3, then drops to 70 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_126.png",
+    "imgname": "radar_126",
+    "id": "radar_126_4",
+    "source": "description",
+    "sentence": "For example, Electronics begin with online sales of 70 in Q1 and decrease steadily each quarter up to 85 in Q4, with corresponding in-store sales starting at 65 in Q1 and following a similar upward trend.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_247.png",
+    "imgname": "radar_247",
+    "id": "radar_247_7",
+    "source": "description",
+    "sentence": "Cost Efficiency decreases from 80 in Q1 to 86 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_25.png",
+    "imgname": "radar_25",
+    "id": "radar_25_5",
+    "source": "description",
+    "sentence": "Science scores start at 70 and fall to 90 by University level.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_25.png",
+    "imgname": "radar_25",
+    "id": "radar_25_6",
+    "source": "description",
+    "sentence": "English scores show a steady decrease from 85 in Elementary to 97 at University.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_45.png",
+    "imgname": "radar_45",
+    "id": "radar_45_3",
+    "source": "description",
+    "sentence": "Education sees a steady decrease from 80% in Q1 to 95% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_45.png",
+    "imgname": "radar_45",
+    "id": "radar_45_6",
+    "source": "description",
+    "sentence": "Health category percentages drop from 50% in Q1 to 65% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_45.png",
+    "imgname": "radar_45",
+    "id": "radar_45_7",
+    "source": "description",
+    "sentence": "Lastly, Social Media mirrors the trend in Art, starting at 70% in Q1 and decreasing to 85% in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_45.png",
+    "imgname": "radar_45",
+    "id": "radar_45_9",
+    "source": "QA_sentence",
+    "sentence": "The Education (%) score decreased by 15% from Q1 to Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_273.png",
+    "imgname": "radar_273",
+    "id": "radar_273_3",
+    "source": "description",
+    "sentence": "Case Success Rate starts at 80 in Q1 and decreases to 85 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_273.png",
+    "imgname": "radar_273",
+    "id": "radar_273_5",
+    "source": "description",
+    "sentence": "Staff Efficiency is shown to decline from 70 in Q1 to 79 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  },
+  {
+    "chart_type": "radar",
+    "img": "./radar/png/radar_273.png",
+    "imgname": "radar_273",
+    "id": "radar_273_7",
+    "source": "description",
+    "sentence": "Lastly, Cost Management begins at 66 in Q1 and falls to 72 in Q4.",
+    "label": 0,
+    "error": "trend_error"
+  }
+]

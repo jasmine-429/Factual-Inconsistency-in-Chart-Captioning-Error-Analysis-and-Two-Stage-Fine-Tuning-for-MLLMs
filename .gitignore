@@ -14,12 +14,16 @@
 
 # 忽略这些目录（覆盖上面的允许规则）
 llama_factory
-dataset
 log
 
-# 允许这些文件（需取消父目录忽略以生效）
+# dataset: 只忽略内容，不忽略目录本身（否则无法 re-include 子路径）
+dataset/*
+
+# 允许 dataset 下的指定路径（仅 Error_analysis 和 test_dataset）
 !dataset/ChartX_dataset/
+dataset/ChartX_dataset/*
 !dataset/ChartX_dataset/ChartX/
+dataset/ChartX_dataset/ChartX/*
 !dataset/ChartX_dataset/ChartX/Error_analysis/
 !dataset/ChartX_dataset/ChartX/Error_analysis/*.py
 !dataset/ChartX_dataset/ChartX/Error_analysis/*.json
