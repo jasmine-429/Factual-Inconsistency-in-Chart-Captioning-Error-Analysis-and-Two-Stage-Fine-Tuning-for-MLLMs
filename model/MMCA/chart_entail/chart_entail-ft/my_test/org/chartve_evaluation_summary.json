@@ -1,0 +1,17 @@
+{
+  "sentence_level_accuracy": 0.5470466013653903,
+  "caption_level_accuracy": 0.34523809523809523,
+  "kendalls_tau": 0.048206937095825984,
+  "splitwise": {
+    "summarization": {
+      "sentence_level_accuracy": 0.5597014925373134,
+      "caption_level_accuracy": 0.39655172413793105,
+      "kendalls_tau": 0.050237812128418546
+    },
+    "description": {
+      "sentence_level_accuracy": 0.5446523120367102,
+      "caption_level_accuracy": 0.3359375,
+      "kendalls_tau": 0.048857421875
+    }
+  }
+}

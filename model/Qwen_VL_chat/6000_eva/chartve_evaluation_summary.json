@@ -1,0 +1,22 @@
+{
+  "sentence_level_accuracy": 0.7693680828275616,
+  "caption_level_accuracy": 0.88036593947924,
+  "kendalls_tau": 0.1706922991801815,
+  "splitwise": {
+    "General_MLLM": {
+      "sentence_level_accuracy": 0.7374301675977654,
+      "caption_level_accuracy": 0.7904022582921666,
+      "kendalls_tau": 0.25799633346265655
+    },
+    "Chart_MLLM": {
+      "sentence_level_accuracy": 0.7699490662139219,
+      "caption_level_accuracy": 0.9136842105263158,
+      "kendalls_tau": 0.1926736842105263
+    },
+    "Specialist_Chart_Model": {
+      "sentence_level_accuracy": 0.8226612711259224,
+      "caption_level_accuracy": 0.9366643209007741,
+      "kendalls_tau": 0.029704230450946667
+    }
+  }
+}

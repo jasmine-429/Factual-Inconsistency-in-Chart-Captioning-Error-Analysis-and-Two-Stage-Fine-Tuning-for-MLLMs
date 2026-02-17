@@ -1,0 +1,22 @@
+{
+  "sentence_level_accuracy": 0.5457448807063686,
+  "caption_level_accuracy": 0.7447168216398986,
+  "kendalls_tau": 0.09880749330648544,
+  "splitwise": {
+    "LVLM": {
+      "sentence_level_accuracy": 0.5726379952590586,
+      "caption_level_accuracy": 0.8197969543147208,
+      "kendalls_tau": 0.225257028008967
+    },
+    "LLM": {
+      "sentence_level_accuracy": 0.48632218844984804,
+      "caption_level_accuracy": 0.8461538461538461,
+      "kendalls_tau": 0.14632478632478632
+    },
+    "FT": {
+      "sentence_level_accuracy": 0.5307302964569776,
+      "caption_level_accuracy": 0.6616161616161617,
+      "kendalls_tau": -0.009443480823952204
+    }
+  }
+}

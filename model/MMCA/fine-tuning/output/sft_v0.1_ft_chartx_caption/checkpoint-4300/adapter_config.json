@@ -1,0 +1,14 @@
+{
+  "base_model_name_or_path": "/data/jguo376/pretrained_models/mmca_merged_model",
+  "bias": "none",
+  "fan_in_fan_out": false,
+  "inference_mode": true,
+  "init_lora_weights": true,
+  "lora_alpha": 32,
+  "lora_dropout": 0.05,
+  "modules_to_save": null,
+  "peft_type": "LORA",
+  "r": 8,
+  "target_modules": ".*language_model.*\\.(q_proj|v_proj)",
+  "task_type": null
+}

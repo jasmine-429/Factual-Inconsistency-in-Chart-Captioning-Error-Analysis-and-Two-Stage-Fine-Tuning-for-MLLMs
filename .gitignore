@@ -1,0 +1,33 @@
+# 只上传 .py、.json、.jsonl 文件
+
+# 先忽略所有
+*
+
+# 允许 .gitignore 和目录遍历
+!.gitignore
+!*/
+
+# 允许这三种文件类型
+!*.py
+!*.json
+!*.jsonl
+
+# 忽略这些目录（覆盖上面的允许规则）
+llama_factory
+dataset
+log
+
+# 允许这些文件（需取消父目录忽略以生效）
+!dataset/ChartX_dataset/
+!dataset/ChartX_dataset/ChartX/
+!dataset/ChartX_dataset/ChartX/Error_analysis/
+!dataset/ChartX_dataset/ChartX/Error_analysis/*.py
+!dataset/ChartX_dataset/ChartX/Error_analysis/*.json
+!dataset/ChartX_dataset/ChartX/Error_analysis/*.jsonl
+!dataset/test_dataset/
+!dataset/test_dataset/*.json
+!dataset/test_dataset/*.py
+!dataset/test_dataset/*.jsonl
+!model/*.py
+!model/*.json
+!model/*.jsonl

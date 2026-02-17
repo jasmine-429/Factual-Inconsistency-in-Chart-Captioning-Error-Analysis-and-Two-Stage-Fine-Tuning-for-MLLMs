@@ -1,0 +1,1002 @@
+[
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_87",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_87.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Employee salaries and benefits in 2021",
+    "csv": "Employee \\t Salary(USD) \\t Benefits(USD) \\n John \\t 5000 \\t 1400 \\n Sarah \\t 4500 \\t 1300 \\n David \\t 4600 \\t 1200 \\n Jane \\t 4200 \\t 1100 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the salaries and benefits of four employees in 2021. John earns a salary of $5000 with benefits of $1400. Sarah's salary is $4500, accompanied by $1300 in benefits. David receives a salary of $4600 and benefits totaling $1200. Lastly, Jane has a salary of $4200 with benefits of $1100."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = [['John',5000,1400],['Sarah',4500,1300],['David',4600,1200],['Jane',4200,1100]]\nEmployee = [i[0] for i in data]\nSalary = [i[1] for i in data]\nBenefits = [i[2] for i in data]\n\nfig = plt.figure(figsize=(10,5))\n\nax = fig.add_subplot(1,1,1) \nax.bar(Employee, Salary, color = 'b', bottom=Benefits, width=0.5, label=\"Salary\")\nax.bar(Employee, Benefits, color = 'r', width=0.5, label=\"Benefits\")\n\nax.set_xticks(Employee)\nplt.xticks(rotation=20, wrap=True)\nax.set_title(\"Employee salaries and benefits in 2021\")\nax.set_xlabel('Employee')\nax.set_ylabel('Amount(USD)')\nax.legend()\n\nplt.tight_layout()\nplt.savefig('bar chart/png/235.png')\n\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much more is John's salary compared to Jane's?",
+      "output": "$800"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays data on employee salaries and benefits in 2021 for four different companies: Y&N, SAS, Qantas, and Virgin. The x-axis represents the companies, while the y-axis represents the amount of salary and benefits in dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_85",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_85.png",
+    "topic": "Healthcare and Health",
+    "title": " Healthcare facilities and personnel in four regions in 2021",
+    "csv": "Region \\t Hospitals \\t Doctors \\t Nurses \\n North \\t 80 \\t 500 \\t 2500 \\n South \\t 90 \\t 550 \\t 2700 \\n East \\t 85 \\t 600 \\t 3000 \\n West \\t 100 \\t 550 \\t 2800 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "This bar chart presents the number of hospitals, doctors, and nurses across four different regions in 2021. The North region reports 80 hospitals, 500 doctors, and 2500 nurses. The South shows slightly higher numbers with 90 hospitals, 550 doctors, and 2700 nurses. The East region has 85 hospitals, the highest number of doctors at 600, and also the highest number of nurses at 3000. The West leads in hospital count with 100, and matches the South with 550 doctors and has 2800 nurses."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 healthcare landscape was mapped out across four regions, with the West leading in hospital availability at 100 facilities. The South, despite having 90 hospitals, boasts the highest number of doctors at 550 and nurses at 2700, indicating a strong emphasis on human healthcare resources. The East isn't far behind, with the highest tally of doctors and nurses at 600 and 3000, respectively, though serviced by 85 hospitals. The North has a moderate setup with 80 hospitals, 500 doctors, and 2500 nurses. Overall, while the West may have more hospitals, the South and East place a greater focus on staffing, ensuring ample medical personnel."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nfig = plt.figure(figsize=(10,6))\nax = fig.add_subplot(1,1,1)\nax.bar(['North','South','East','West'],[80,90,85,100],width=0.4,label=\"Hospitals\",alpha=0.8)\nax.bar(['North','South','East','West'],[500,550,600,550],width=0.4,label=\"Doctors\",bottom=[80,90,85,100],alpha=0.8)\nax.bar(['North','South','East','West'],[2500,2700,3000,2800],width=0.4,label=\"Nurses\",bottom=[580,640,685,650],alpha=0.8)\nax.set_xlabel('Region')\nax.set_ylabel('Quantity')\nax.set_title('Healthcare facilities and personnel in four regions in 2021')\nax.legend(loc='upper left')\nax.set_xticks(['North','South','East','West'])\nplt.tight_layout()\nplt.savefig('bar chart/png/341.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more nurses are there in the East region compared to the North region?",
+      "output": "500"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the distribution of healthcare facilities and personnel across four regions in 2021. The x-axis represents the regions (North, South, East, West), while the y-axis represents the number of hospitals, doctors, and nurses. The East region has the highest number of all three categories, with the most significant disparity between hospitals, doctors, and nurses compared to the other regions."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_249",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_249.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Arts and Culture venues in four countries in 2021",
+    "csv": "Country \\t Museums \\t Theaters \\t Galleries \\n USA \\t 150 \\t 50 \\t 100 \\n UK \\t 180 \\t 70 \\t 120 \\n Germany \\t 200 \\t 80 \\t 130 \\n France \\t 170 \\t 60 \\t 140 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of museums, theaters, and galleries across four countries for the year 2021. In the USA, there were 150 museums, 50 theaters, and 100 galleries. The UK was home to 180 museums, 70 theaters, and 120 galleries. Germany topped the list with 200 museums, 80 theaters, and 130 galleries, while France had 170 museums, 60 theaters, and 140 galleries."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In the cultural landscape of 2021 among four renowned countries, Germany stands out with the highest number of museums (200), theaters (80), and galleries (130). The UK closely follows, particularly shining in museums with a count of 180. France boasts a balance between theaters (60) and the highest number of galleries (140), while the USA, with 150 museums, has a modest cultural offering in comparison. This dataset highlights Germany's robust investment in arts and culture, making it a potential hub for art enthusiasts looking to immerse themselves in a rich array of historical and contemporary art venues."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\n\nimport matplotlib as mpl\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(8,6))\nax=plt.subplot()\nax.bar('USA',150,label='Museums',bottom=0,color='red')\nax.bar('USA',50,bottom=150,label='Theaters',color='green')\nax.bar('USA',100,bottom=200,label='Galleries',color='blue')\nax.bar('UK',180,label='Museums',bottom=0,color='red')\nax.bar('UK',70,bottom=180,label='Theaters',color='green')\nax.bar('UK',120,bottom=250,label='Galleries',color='blue')\nax.bar('Germany',200,label='Museums',bottom=0,color='red')\nax.bar('Germany',80,bottom=200,label='Theaters',color='green')\nax.bar('Germany',130,bottom=280,label='Galleries',color='blue')\nax.bar('France',170,label='Museums',bottom=0,color='red')\nax.bar('France',60,bottom=170,label='Theaters',color='green')\nax.bar('France',140,bottom=230,label='Galleries',color='blue')\nax.set_xticks(['USA','UK','Germany','France'])\nax.legend()\nax.set_title('Number of Arts and Culture venues in four countries in 2021')\nax.spines['right'].set_visible(False)\nax.spines['top'].set_visible(False)\nplt.tight_layout()\nplt.savefig('bar chart/png/81.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more theaters does Germany have compared to the UK?",
+      "output": "10"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of Art and Culture venues in four countries in 2021, categorized by themes: Music, Theatre, Galleries, and Dance. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the number of venues for each theme. Each country has its unique set of venues for each theme, showcasing a varying range of cultural offerings."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_395",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_395.png",
+    "topic": "Business and Finance",
+    "title": " GDP and Inflation Rate of Four Countries in 2021",
+    "csv": "Country \\t GDP(thousand billion) \\t Inflation Rate \\n USA \\t 21 \\t 2.4 \\n UK \\t 3 \\t 1.6 \\n Germany \\t 4.5 \\t 1.1 \\n France \\t 6 \\t 1.5 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the GDP (in thousand billion) and inflation rate for four countries in 2021. The USA has a GDP of 21 thousand billion with an inflation rate of 2.4%, followed by France with a GDP of 6 thousand billion and an inflation rate of 1.5%. Germany's economy is reflected with a GDP of 4.5 thousand billion and the lowest inflation rate of 1.1%, while the UK has a GDP of 3 thousand billion with an inflation rate of 1.6%."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(9,5))\nax = plt.subplot()\nax.bar(['USA', 'UK', 'Germany', 'France'], [21, 3, 4.5, 6], label='GDP(thousand billion)', width=0.6)\nax.bar(['USA', 'UK', 'Germany', 'France'], [2.4, 1.6, 1.1, 1.5], label='Inflation Rate', bottom=[21, 3, 4.5, 6], width=0.6)\nax.legend(loc='upper center')\nplt.title('GDP and Inflation Rate of Four Countries in 2021')\nplt.xticks(rotation=45, wrap=True)\nplt.tight_layout()\nplt.savefig('bar_395.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest GDP among the listed countries in 2021?",
+      "output": "USA"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the GDP and inflation rates of four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the GDP and inflation rate in thousands of billion dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_159",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_159.png",
+    "topic": "Charity and Nonprofit Organizations",
+    "title": " Charitable Donations and Nonprofit Organizations in four countries in 2021",
+    "csv": "Country \\t Charitable Donations (million) \\t Nonprofit Organizations \\n USA \\t 2000 \\t 550 \\n UK \\t 1500 \\t 450 \\n Germany \\t 1000 \\t 350 \\n France \\t 1800 \\t 400 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates charitable donations in millions and the number of nonprofit organizations across four countries in the year 2021. The USA leads with 2000 million in donations and 550 nonprofit organizations. The UK follows with 1500 million in donations and 450 organizations. Germany contributes 1000 million and has 350 organizations. France provides 1800 million in donations with 400 nonprofit organizations."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, the generosity and nonprofit engagement of four countries were highlighted through their financial charitable contributions and the number of nonprofit organizations. The USA led with a notable 2000 million in donations and hosting 550 nonprofit organizations. The UK followed with 1500 million donated and 450 nonprofits. Contributions in Germany reached 1000 million alongside 350 nonprofits, while France donated 1800 million and supported 400 organizations. These figures underline the USA's leading role in philanthropic giving and the significant contributions made by all nations to support various causes."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Create figure\nfig = plt.figure(figsize=(9,5))\nax = fig.add_subplot()\n\n# Plot data\nx_values = np.arange(4)\nbar_width = 0.3\n\ncharitable_donations = [2000, 1500, 1000, 1800]\nnonprofit_organizations = [550, 450, 350, 400]\n\ncharitable_bars = ax.bar(x_values - bar_width/2, charitable_donations, bar_width, label='Charitable Donations (million)')\nnonprofit_bars = ax.bar(x_values + bar_width/2, nonprofit_organizations, bar_width, label='Nonprofit Organizations')\n\n# Set labels and title\nax.set_xticks(x_values)\nax.set_xticklabels(['USA', 'UK', 'Germany', 'France'], rotation=45, wrap=True)\nax.set_title('Charitable Donations and Nonprofit Organizations in Four Countries in 2021')\nax.legend()\n\n# Add grid\nax.grid()\n\n# Automatically resize the image by tight_layout()\nfig.tight_layout()\n\n# Save figure\nplt.savefig('bar chart/png/99.png')\n\n# Clear current image state\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country contributed less to charitable donations than France but has more nonprofit organizations?",
+      "output": "UK"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the number of charitable donations and non-profit organizations in four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), and the y-axis represents the amount of donations in millions."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_279",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_279.png",
+    "topic": "Tourism and Hospitality",
+    "title": " Number of hotels, restaurants, and tourists in four countries in 2021",
+    "csv": "Country \\t Hotels \\t Restaurants \\t Tourists(hundred) \\n USA \\t 1000 \\t 500 \\t 200 \\n UK \\t 800 \\t 600 \\t 180 \\n Germany \\t 900 \\t 700 \\t 190 \\n France \\t 1100 \\t 600 \\t 170 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the number of hotels, restaurants, and tourists (in hundreds) across four countries for the year 2021. The dataset includes the USA with 1000 hotels, 500 restaurants, and 20,000 tourists, the UK with 800 hotels, 600 restaurants, and 18,000 tourists. Germany features 900 hotels, 700 restaurants, and 19,000 tourists, and France leads with 1100 hotels, 600 restaurants, and 17,000 tourists."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport matplotlib.font_manager as fm\nplt.figure(figsize=(10,6)) \nax = plt.subplot()\nax.bar(['USA','UK','Germany','France'],[1000,800,900,1100], width=0.3, label='Hotels', color='#60A3BC', bottom=[500,600,700,600])\nax.bar(['USA','UK','Germany','France'],[500,600,700,600], width=0.3, label='Restaurants', color='#F7BB41', bottom=[200,180,190,170])\nax.bar(['USA','UK','Germany','France'],[200,180,190,170], width=0.3, label='Tourists(hundred)', color='#F3715C')\nax.set_title('Number of hotels, restaurants, and tourists in four countries in 2021')\nax.set_xlabel('Country')\nax.set_ylabel('Number')\nax.legend(loc='upper left', fontsize=12)\nplt.xticks(rotation=45)\nplt.tight_layout()\nplt.savefig('bar_279.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more hotels are there in France compared to the USA?",
+      "output": "100"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the number of hotels, restaurants, and tourists in four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the number of each category (hotels, restaurants, and tourists)."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_138",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_138.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of Restaurants and Takeaways in four regions in 2021",
+    "csv": "Region \\t Restaurants \\t Takeaways \\n Europe \\t 2700 \\t 3500 \\n Asia \\t 3000 \\t 3700 \\n Africa \\t 2300 \\t 3200 \\n America \\t 2500 \\t 3500 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the number of restaurants and takeaways in four different regions for the year 2021. Europe accounts for 2700 restaurants and 3500 takeaways. Asia shows a slightly higher number, with 3000 restaurants and 3700 takeaways. Africa has 2300 restaurants and 3200 takeaways, while America has 2500 restaurants and matches Europe with 3500 takeaways."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, the gastronomy landscape in four distinct regions indicates a vibrant culture of dining out and takeaways. Asia leads with 3,000 restaurants and 3,700 takeaways, a testament to its vast culinary diversity and fast-paced lifestyle. Europe is not far behind, offering 2,700 restaurants and a higher number of takeaways at 3,500, aligning with the trend toward convenience. Africa and America show similar enthusiasm for quick meals with 2,300 and 2,500 restaurants respectively, but they also maintain a strong takeaway culture with 3,200 and 3,500 takeaways, suggesting a global shift towards fast and accessible dining options."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\n\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(10, 6))\nax = plt.subplot()\nax.bar([\"Europe\", \"Asia\", \"Africa\", \"America\"], [2700, 3000, 2300, 2500], label=\"Restaurants\", bottom=0, color=\"orange\")\nax.bar([\"Europe\", \"Asia\", \"Africa\", \"America\"], [3500, 3700, 3200, 3500], label=\"Takeaways\", bottom=2700, color=\"green\")\nax.set_title(\"Number of Restaurants and Takeaways in four regions in 2021\")\nplt.xticks(rotation=45, ha=\"right\", wrap=True)\nax.legend(loc=\"upper left\")\nplt.tight_layout()\nplt.savefig(\"bar chart/png/423.png\")\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more takeaways are there than restaurants in Asia?",
+      "output": "700"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of restaurants and takeaways in four regions in 2021, with Europe having the highest number of restaurants and America the highest number of takeaways."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_185",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_185.png",
+    "topic": "Technology and the Internet",
+    "title": " Number of internet and smartphone users in four countries in 2021",
+    "csv": "Country \\t Internet Users(million) \\t Smartphone Users(million) \\n USA \\t 350 \\t 280 \\n UK \\t 60 \\t 50 \\n Germany \\t 80 \\t 70 \\n France \\t 70 \\t 60 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of internet and smartphone users in millions across four countries for the year 2021. In the USA, there are 350 million internet users and 280 million smartphone users. The UK has 60 million internet users compared to 50 million smartphone users. Germany shows a count of 80 million internet users and 70 million smartphone users. France has 70 million internet users and 60 million smartphone users."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Generate data\ncountry = np.array(['USA', 'UK', 'Germany', 'France'])\ninternet_users = np.array([350, 60, 80, 70])\nsmartphone_users = np.array([280, 50, 70, 60])\n\n# Generate figure\nfig, ax = plt.subplots(figsize=(8, 6))\n\n# Plot bar chart\nax.bar(country, internet_users, label='Internet Users(million)', width=0.4)\nax.bar(country, smartphone_users, bottom=internet_users, label='Smartphone Users(million)', width=0.4)\n\n# Add title and labels\nax.set_title('Number of internet and smartphone users in four countries in 2021')\nax.set_xlabel('Country')\nax.set_ylabel('Number of users(million)')\n\n# Set xticks and rotate\nax.set_xticks(country)\nax.set_xticklabels(country, rotation=45, ha='right', wrap=True)\n\n# Set legend\nax.legend(loc='upper right')\n\n# Set background grid\nplt.grid(linestyle='--')\n\n# Tight layout\nplt.tight_layout()\n\n# Save figure\nplt.savefig('bar chart/png/83.png')\n\n# Clear current image state\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more internet users are there in the USA compared to Germany?",
+      "output": "270 million"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the number of internet and smartphone users in millions for four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the number of users in millions."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_83",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_83.png",
+    "topic": "Manufacturing and Production",
+    "title": " Manufacturing Output and Production Cost in four countries in 2021",
+    "csv": "Country \\t Manufacturing Output(million) \\t Production Cost(million) \\n USA \\t 8000 \\t 6000 \\n UK \\t 7000 \\t 5500 \\n Germany \\t 9000 \\t 6500 \\n France \\t 10000 \\t 7000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the manufacturing output and production cost for four countries in 2021, measured in millions. The USA reports a manufacturing output of 8000 million with a production cost of 6000 million. The UK follows with an output of 7000 million and costs of 5500 million. Germany shows a higher output of 9000 million with costs at 6500 million. Finally, France tops the chart with the largest manufacturing output of 10000 million and the highest production cost of 7000 million."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 data for manufacturing output and production costs across four key nations unveils France as the leader with an output of 10,000 million, albeit with the highest production cost of 7,000 million. Germany follows suit with an impressive output of 9,000 million and a production cost of 6,500 million, indicating a balance between productivity and expenditure. The UK, while having a lower output of 7,000 million, manages production costs effectively at 5,500 million. Meanwhile, the USA presents a substantial output of 8,000 million, but incurs a significant cost of 6,000 million, reflecting a compelling yet costly industrial landscape."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\nimport pandas as pd\n\nCountry = ['USA', 'UK', 'Germany', 'France']\nManufacturing_Output = [8000, 7000, 9000, 10000]\nProduction_Cost = [6000, 5500, 6500, 7000]\n\nfig, ax = plt.subplots(figsize=(12,6))\nax.bar(Country, Manufacturing_Output, label='Manufacturing Output (million)', width=0.4, align='center', edgecolor='black')\nax.bar(Country, Production_Cost, label='Production Cost (million)', width= -0.4, align='center', edgecolor='black')\n\nax.set_title('Manufacturing Output and Production Cost in four countries in 2021', fontsize=16, fontweight='bold')\nax.set_xlabel('Country', fontsize=14)\nax.set_ylabel('Value', fontsize=14)\nax.set_xticklabels(Country, rotation=0, fontsize=14)\nax.legend(loc='upper right', fontsize=14)\nax.grid(linestyle='--', linewidth=1)\n\nplt.tight_layout()\nplt.savefig('bar chart/png/500.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much is the manufacturing output in the USA?",
+      "output": "8000 million"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the manufacturing output and production cost in four countries in 2021. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the values in millions for both manufacturing output and production cost."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_96",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_96.png",
+    "topic": "Environment and Sustainability",
+    "title": " CO2 Emissions and Renewable Energy Usage in four regions in 2021",
+    "csv": "Region \\t CO2 Emissions(tonnes/year) \\t Renewable Energy Usage(%) \\n North America \\t 100000 \\t 25 \\n South America \\t 70000 \\t 30 \\n Europe \\t 80000 \\t 35 \\n Asia \\t 120000 \\t 20 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart presents data on CO2 emissions, measured in tonnes per year, and the percentage of renewable energy usage across four different regions in 2021. North America shows 100,000 tonnes of CO2 emissions with a 25% renewable energy usage. South America records 70,000 tonnes of CO2 emissions and has a higher renewable energy usage at 30%. Europe's figures are 80,000 tonnes of CO2 emissions and 35% renewable energy usage. Lastly, Asia has the highest CO2 emissions at 120,000 tonnes, with the lowest renewable energy usage of 20%."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, a comparative analysis of CO2 emissions and renewable energy usage across four regions shows a contrast in environmental impact. Asia recorded the highest CO2 emissions at 120,000 tonnes/year but had the lowest renewable energy usage at 20%. North America followed with 100,000 tonnes/year emissions and a 25% renewal energy rate. Europe emitted 80,000 tonnes/year with the highest renewable usage at 35%. South America, meanwhile, had emissions of 70,000 tonnes/year and a 30% renewable usage rate, demonstrating a more balanced approach between emissions and sustainable energy use compared to other regions."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nRegion=np.array([\"North America\",\"South America\",\"Europe\",\"Asia\"])\nCO2_Emissions=np.array([100000,70000,80000,120000])\nRenewable_Energy_Usage=np.array([25,30,35,20])\n\nfig=plt.figure(figsize=(10,6))\nax=fig.add_subplot()\nax.bar(Region,CO2_Emissions,label=\"CO2 Emissions(tonnes/year)\",width=0.3,bottom=Renewable_Energy_Usage)\nax.bar(Region,Renewable_Energy_Usage,label=\"Renewable Energy Usage(%)\",width=0.3)\nax.set_title(\"CO2 Emissions and Renewable Energy Usage in four regions in 2021\")\nax.set_xticks(Region)\nax.legend(loc=\"lower right\")\nplt.tight_layout()\nplt.savefig(\"bar chart/png/117.png\")\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much higher are the CO2 emissions in Asia compared to Europe?",
+      "output": "40000 tonnes/year"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the CO2 emissions (metric tonnes/year) and renewable energy usage (%) in four regions in 2021. North America has the highest CO2 emissions at 100000 metric tonnes/year, while Asia has the highest renewable energy usage at 12000 metric tonnes/year."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_258",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_258.png",
+    "topic": "Social Media and the Web",
+    "title": " Number of websites and social media users in four countries in 2021",
+    "csv": "Country \\t Websites \\t Social Media Users \\n USA \\t 200 \\t 450 Million \\n UK \\t 150 \\t 400 Million \\n Germany \\t 180 \\t 320 Million \\n France \\t 170 \\t 250 Million \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of websites and the count of social media users across four countries in 2021. The USA is reflected with 200 websites and 450 million social media users. The UK follows with 150 websites and 400 million social media users. Germany has 180 websites and 320 million users, while France shows 170 websites and 250 million social media users."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\nplt.figure(figsize=(20, 10))\nax = plt.subplot()\nax.bar([\"USA\", \"UK\", \"Germany\", \"France\"], [200, 150, 180, 170], width=0.4, label=\"Websites\", color='#0099cc')\nax.bar([\"USA\", \"UK\", \"Germany\", \"France\"], [450, 400, 320, 250], width=0.4, bottom=[200, 150, 180, 170], label=\"Social Media Users\", color='#ff9933')\n\nplt.legend(loc=\"upper left\", fontsize=14)\nplt.title(label=\"Number of websites and social media users in four countries in 2021\", fontsize=20)\nplt.xticks(rotation=45, fontsize=15)\n\nplt.tight_layout()\nplt.savefig(\"bar chart/png/58.png\")\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the least number of websites?",
+      "output": "France"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the number of websites and social media users in four countries in 2021. The x-axis represents the countries (USA, EU, Germany, France), while the y-axis represents the number of websites and social media users."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_400",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_400.png",
+    "topic": "Retail and E-commerce",
+    "title": " Number of Retail and Online Stores in four countries in 2021",
+    "csv": "Country \\t Retail Stores \\t Online Stores \\n USA \\t 500 \\t 1500 \\n UK \\t 400 \\t 1200 \\n Germany \\t 300 \\t 1000 \\n France \\t 400 \\t 1300 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the number of retail and online stores in four countries for the year 2021. The data shows that the USA has 500 retail stores and 1500 online stores, the UK has 400 retail stores and 1200 online stores, Germany with 300 retail stores and 1000 online stores, and France has 400 retail stores and 1300 online stores."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# data\ncountry = ['USA', 'UK', 'Germany', 'France']\nretail_stores = [500, 400, 300, 400]\nonline_stores = [1500, 1200, 1000, 1300]\n\n# create figure\nfig = plt.figure(figsize=(7,5))\nax = fig.add_subplot()\n\n# draw bar chart\nx = np.arange(len(country))\nax.bar(x - 0.3/2, retail_stores, 0.3, label='Retail Stores')\nax.bar(x + 0.3/2, online_stores, 0.3, label='Online Stores')\n\n# set ticks\nax.set_xticks(x)\nax.set_xticklabels(country, rotation=45, fontsize=12, wrap=True)\n\n# add title and legend\nax.set_title('Number of Retail and Online Stores in four countries in 2021')\nax.legend()\n\n# save img\nplt.tight_layout()\nplt.savefig('bar chart/png/289.png')\n\n# clear figure\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the least number of retail stores?",
+      "output": "Germany"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of retail and online stores in four countries in 2021. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the number of stores. The USA has the highest number of retail stores with 480, while France has the highest number of online stores with 1400. The UK follows with 400 retail stores and 1000 online stores. Germany has the lowest number of both retail and online stores."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_430",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_430.png",
+    "topic": "Retail and E-commerce",
+    "title": " Number of retail stores and online stores in four regions in 2021",
+    "csv": "Region \\t Retail Stores \\t Online Stores \\n North America \\t 200 \\t 400 \\n Europe \\t 150 \\t 350 \\n Asia \\t 180 \\t 380 \\n South America \\t 220 \\t 420 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of retail and online stores across four regions in 2021. North America has 200 retail stores and 400 online stores. Europe is shown with 150 retail stores and 350 online stores. Asia features 180 retail stores and 380 online stores. Lastly, South America is represented with 220 retail stores and 420 online stores."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 data reveals consumer behavior across four regions, showing a clear preference for online shopping. North America leads with 400 online stores versus 200 physical retail stores. Europe follows, with 350 online and 150 retail stores. Asia's numbers aren't far behind, with 380 online and 180 retail stores. South America, while having the highest number of retail stores at 220, also shows a strong online presence with 420 stores. The trend across all regions indicates that online stores outnumber retail stores, highlighting a global shift towards digital shopping platforms."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nplt.figure(figsize=(12, 7))\nax = plt.subplot(111)\n\nRegion = np.array(['North America', 'Europe', 'Asia', 'South America'])\nRetail_Stores = np.array([200, 150, 180, 220])\nOnline_Stores = np.array([400, 350, 380, 420])\n\nx_pos = np.arange(len(Region))\nwidth = 0.4\n\nrects1 = ax.bar(x_pos, Retail_Stores, width, color='orange')\nrects2 = ax.bar(x_pos + width, Online_Stores, width, color='blue')\n\nax.set_xticks(x_pos + width / 2)\nax.set_xticklabels(Region, rotation=45, ha=\"right\", wrap=True)\nax.set_title('Number of retail stores and online stores in four regions in 2021')\nax.set_ylabel('Number of Stores')\nax.legend((rects1[0], rects2[0]), ('Retail Stores', 'Online Stores'))\n\nplt.tight_layout()\nplt.savefig('bar chart/png/32.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more online stores than retail stores are there in South America?",
+      "output": "200"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the number of retail stores and online stores in four regions in 2021. The x-axis represents the regions (North America, Europe, Asia, South America), while the y-axis represents the number of stores. North America has the highest number of retail stores with 200, while Europe has the lowest with 150. In contrast, South America has the highest number of online stores with 400, and Asia has the lowest with 350."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_407",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_407.png",
+    "topic": "Science and Engineering",
+    "title": " Number of research papers and patents from 2017 to 2020",
+    "csv": "Year \\t Research Papers \\t Patents \\n 2017 \\t 1500 \\t 1200 \\n 2018 \\t 1600 \\t 1300 \\n 2019 \\t 1700 \\t 1400 \\n 2020 \\t 1800 \\t 1500 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of research papers and patents from 2017 to 2020. In 2017, there were 1500 research papers and 1200 patents. The following year, 2018, showed an increase to 1600 papers and 1300 patents. The upward trend continued through 2019, with 1700 research papers and 1400 patents. Finally, in 2020, the count reached 1800 research papers and 1500 patents."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The period from 2017 to 2020 showed a progressive increase in both research papers and patents annually. Starting with 1500 research papers and 1200 patents in 2017, there was a consistent year-over-year growth, culminating in 1800 research papers and 1500 patents by 2020. This upward trend indicates a robust intellectual environment, showcasing the commitment to innovation and development over these years."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nfig = plt.figure(figsize=(10,6))\nax = fig.add_subplot(111)\n\ndata = [[2017, 1500, 1200],\n        [2018, 1600, 1300],\n        [2019, 1700, 1400],\n        [2020, 1800, 1500]]\n\nx_pos = np.arange(len(data))\nbar_width = 0.35\n\nax.bar(x_pos, [i[1] for i in data], bar_width, label=\"Research Papers\")\nax.bar(x_pos+bar_width, [i[2] for i in data], bar_width, label=\"Patents\")\n\nax.set_xticks(x_pos+bar_width/2)\nax.set_xticklabels([i[0] for i in data], rotation=45, ha=\"right\")\nax.set_title('Number of research papers and patents from 2017 to 2020')\nax.set_xlabel('Year')\nax.set_ylabel('Number')\nax.legend()\n\nfig.tight_layout()\nplt.savefig('bar chart/png/442.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "By how much did the number of research papers increase from 2017 to 2020?",
+      "output": "300"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the number of research papers and patents from 2017 to 2020. The x-axis represents the years, while the y-axis represents the number of papers and patents."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_19",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_19.png",
+    "topic": "Law and Legal Affairs",
+    "title": " Number of criminal and civil cases in four countries in 2021",
+    "csv": "Country \\t Criminal Cases \\t Civil Cases \\n USA \\t 20000 \\t 60000 \\n UK \\t 30000 \\t 70000 \\n Germany \\t 18000 \\t 40000 \\n France \\t 23000 \\t 47000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart presents data on criminal and civil cases in the USA, UK, Germany, and France for the year 2021. In the USA, there were 20,000 criminal cases and 60,000 civil cases. The UK had 30,000 criminal cases and 70,000 civil cases. Germany's figures show 18,000 criminal cases and 40,000 civil cases, whereas France reported 23,000 criminal cases and 47,000 civil cases."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 overview of criminal and civil cases in the USA, UK, Germany, and France showcased varying legal landscapes. The USA reported 20,000 criminal and 60,000 civil cases, indicating a higher propensity for civil litigation. The UK surpassed the USA with 30,000 criminal cases, suggesting a greater incidence of criminal prosecutions, while also leading in civil cases with 70,000. Germany presented the lowest count with 18,000 criminal and 40,000 civil cases, indicating a relatively lower rate of legal disputes. France's numbers stood at 23,000 criminal and 47,000 civil cases, showing a balanced distribution between criminal and civil legal matters among the listed countries."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Create figure\nfig = plt.figure(figsize=(10,6))\n\n# Set data\ndata = [['USA', 20000, 60000],\n        ['UK', 30000, 70000],\n        ['Germany', 18000, 40000],\n        ['France', 23000, 47000]]\n\n# Create bar\nx = np.arange(len(data))\nbar_width = 0.35\nrects1 = plt.bar(x, [i[1] for i in data], bar_width, color='b', label='Criminal Cases')\nrects2 = plt.bar(x + bar_width, [i[2] for i in data], bar_width, color='r', label='Civil Cases')\n\n# Labels\nplt.xticks(x + bar_width / 2, [i[0] for i in data], rotation=45, wrap=True)\nplt.ylabel('Cases number')\nplt.title('Number of criminal and civil cases in four countries in 2021')\nplt.legend()\n\n# Resize image\nplt.tight_layout()\n\n# Save figure\nplt.savefig('bar chart/png/386.png')\n\n# Clear current image state\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many criminal cases were there in Germany in 2021?",
+      "output": "18000"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of criminal and civil cases in four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the number of cases. Criminal cases range from 20,000 in the US to 30,000 in the UK, and civil cases range from 40,000 in Germany to 60,000 in the UK."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_143",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_143.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Weekly hours spent on social studies and humanities in four countries in 2021",
+    "csv": "Country \\t Social Studies(hours/week) \\t Humanities(hours/week) \\n USA \\t 10 \\t 12 \\n UK \\t 11 \\t 13 \\n Germany \\t 9 \\t 14 \\n France \\t 8 \\t 15 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the weekly hours allocated to social studies and humanities subjects in four countries during 2021. In the USA, students spend 10 hours on social studies and 12 hours on humanities per week. UK students dedicate 11 hours to social studies and 13 hours to humanities weekly. In Germany, the figures are 9 hours for social studies and 14 for humanities, while in France, they are 8 hours and 15 hours, respectively."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In a comparison of weekly hours dedicated to social studies and humanities in 2021 across four countries, the USA allocates 10 hours for social studies and 12 for humanities. The UK slightly increases the time with 11 hours in social studies and 13 in humanities. Germany dedicates 9 and 14 hours respectively, suggesting a stronger emphasis on humanities. France, however, spends the least time on social studies with 8 hours, but leads in humanities education at 15 hours per week. Overall, there's a gradual increase in the attention given to humanities over social studies as one moves from the USA to France."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\ndata = {'Country': ['USA', 'UK', 'Germany', 'France'], \n        'Social Studies': [10, 11, 9, 8], \n        'Humanities': [12, 13, 14, 15]}\n\nfig = plt.figure(figsize=(10, 6))\nax = fig.add_subplot()\n\nx = data['Country']\ny1 = data['Social Studies']\ny2 = data['Humanities']\n\nax.bar(x, y1, label='Social Studies', width=0.4)\nax.bar(x, y2, label='Humanities', bottom=y1, width=0.4)\n\nax.set_title('Weekly hours spent on social studies and humanities in four countries in 2021')\nax.set_xticks(x)\nax.set_xlabel('Country')\nax.set_ylabel('Hours/Week')\nax.legend(loc=\"upper right\")\nplt.tight_layout()\nplt.savefig('bar chart/png/314.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "What is the total number of hours spent on social studies and humanities per week in the UK?",
+      "output": "24"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the weekly hours spent on social studies and humanities in four countries in 2021. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the number of hours spent on social studies and humanities."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_380",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_380.png",
+    "topic": "Education and Academics",
+    "title": " Enrollment and Graduation Rates of Students from 2015 to 2018",
+    "csv": "Year \\t Enrollment rate(%) \\t Graduation rate(%) \\n 2015 \\t 90 \\t 75 \\n 2016 \\t 92 \\t 77 \\n 2017 \\t 94 \\t 80 \\n 2018 \\t 95 \\t 82 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the enrollment and graduation rates of students over the years 2015 to 2018. In 2015, the enrollment rate was 90% and the graduation rate was 75%. There was an increase in 2016, with enrollment at 92% and graduation at 77%. The trend continues upward in 2017, with rates reaching 94% for enrollment and 80% for graduation. The year 2018 saw the highest rates within this period, with a 95% enrollment rate and an 82% graduation rate."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The enrollment and graduation rates of students from 2015 to 2018 have shown a consistent upward trend. The enrollment rate increased from 90% in 2015 to 95% in 2018, while there was a significant rise in graduation rates from 75% to 82% over the same period. This positive trajectory is indicative of potential improvements in educational quality, accessibility, or student retention strategies over these years. The data highlights successful efforts towards enhancing students' academic journeys and closing the gap between enrollment and graduation rates."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(10, 6))\nyear = [2015, 2016, 2017, 2018]\nenroll_rate = [90, 92, 94, 95]\ngrad_rate = [75, 77, 80, 82]\n\nax = plt.subplot()\nax.bar(year, enroll_rate, width=0.3, color='blue', label='Enrollment rate(%)')\nax.bar([i+0.3 for i in year], grad_rate, width=0.3, color='red', label='Graduation rate(%)')\nax.set_xticks([i+0.15 for i in year])\nax.set_xticklabels(year, rotation=0, wrap=True)\nax.legend()\nplt.title('Enrollment and Graduation Rates of Students from 2015 to 2018')\nplt.tight_layout()\nplt.savefig('bar chart/png/352.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "By what percentage has the graduation rate increased from 2015 to 2018?",
+      "output": "7%"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the enrolment and graduation rates of students from 2015 to 2018 over a four-year period. It shows an increasing trend in both enrolment and graduation rates over the years."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_227",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_227.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of food outlets and delivery services in four countries in 2021",
+    "csv": "Country \\t Restaurants \\t Fast Food Chains \\t Delivery Service \\n USA \\t 40000 \\t 7000 \\t 35000 \\n UK \\t 30000 \\t 6000 \\t 33000 \\n Germany \\t 20000 \\t 5000 \\t 30000 \\n France \\t 25000 \\t 5500 \\t 32000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the number of restaurants, fast food chains, and delivery services in four countries for the year 2021. The chart lists the USA with 40,000 restaurants, 7,000 fast food chains, and 35,000 delivery services. In the UK, there are 30,000 restaurants, 6,000 fast food chains, and 33,000 delivery services. Germany has 20,000 restaurants, 5,000 fast food chains, and 30,000 delivery services. Lastly, France shows 25,000 restaurants, 5,500 fast food chains, and 32,000 delivery services."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 food sector in the USA, UK, Germany, and France showcased an extensive network of restaurants, fast food chains, and delivery services. The USA led the category with 40,000 restaurants, 7,000 fast food outlets, and an impressive 35,000 delivery services. Trailing closely, the UK maintained a robust presence with 30,000 restaurants, 6,000 fast-food chains, and 33,000 delivery services. Germany offered 20,000 restaurants, 5,000 fast food establishments, with 30,000 delivery services. France contributed 25,000 restaurants, 5,500 fast food chains, and 32,000 delivery services. This data indicates a dominating food service industry in all four countries, with the USA at the forefront."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\n\nimport matplotlib.pyplot as plt\n\nCountry=['USA','UK','Germany','France']\nRestaurants=[40000,30000,20000,25000]\nFast_Food_Chains=[7000,6000,5000,5500]\nDelivery_Service=[35000,33000,30000,32000]\n\nplt.figure(figsize=(10,6))\nax=plt.subplot()\nax.bar(Country,Restaurants,label='Restaurants',width=0.3,color='blue')\nax.bar(Country,Fast_Food_Chains,bottom=Restaurants,label='Fast Food Chains',width=0.3,color='orange')\nax.bar(Country,Delivery_Service,bottom=[a+b for a,b in zip(Restaurants,Fast_Food_Chains)],label='Delivery Service',width=0.3,color='green')\nplt.xticks(Country)\nplt.title('Number of food outlets and delivery services in four countries in 2021')\nplt.legend()\nplt.tight_layout()\nplt.savefig('bar chart/png/105.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many delivery services are there in Germany?",
+      "output": "30000"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of food outlets and delivery services in four countries in 2021. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the number of food outlets, fast food chains, and delivery services."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_502",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_502.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy consumption in three utilities across four regions in 2021",
+    "csv": "Region \\t Utility A(KWh) \\t Utility B(KWh) \\t Utility C(KWh) \\n North \\t 1200 \\t 1400 \\t 1000 \\n South \\t 1400 \\t 1600 \\t 1200 \\n East \\t 1600 \\t 1800 \\t 1400 \\n West \\t 1400 \\t 2000 \\t 1600 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart depicts energy consumption across four regions for three different utilities in 2021. In the North, Utility A consumed 1200 KWh, Utility B 1400 KWh, and Utility C 1000 KWh. The South shows higher consumption, with Utility A at 1400 KWh, Utility B at 1600 KWh, and Utility C at 1200 KWh. The East consumed 1600 KWh for Utility A, 1800 KWh for Utility B, and 1400 KWh for Utility C. The West has the highest for Utility B at 2000 KWh, with Utility A at 1400 KWh and Utility C at 1600 KWh."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 energy consumption captured across four regions highlights a progression in usage among three different utilities. The Eastern region displayed the highest consumption for Utility A at 1600 KWh, while Utility C's lowest was in the North with 1000 KWh. Notably, the West region's reliance on Utility B peaked at an impressive 2000 KWh, outpacing other utilities across all regions. South and West regions shared an equal consumption for Utility A at 1400 KWh, indicating a possible similar demand or efficiency in those areas. Overall, the West consumed the most energy, hinting at either a larger population or more industrial activity."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nfig = plt.figure(figsize=(8, 5))\nax = fig.add_subplot()\n\nx_data = np.arange(4)\nplt.xticks(x_data,(\"North\",\"South\",\"East\",\"West\"))\n\nplt.bar(x_data-0.2, [1200, 1400, 1600, 1400], label=\"Utility A\", width=0.2, color='b')\nplt.bar(x_data, [1400, 1600, 1800, 2000], label=\"Utility B\", width=0.2, color='g')\nplt.bar(x_data+0.2, [1000, 1200, 1400, 1600], label=\"Utility C\", width=0.2, color='y')\n\nplt.title(\"Energy consumption in three utilities across four regions in 2021\")\nplt.xlabel(\"Regions\")\nplt.ylabel(\"KWh\")\nplt.legend(loc=\"upper right\")\nplt.grid(True)\nplt.tight_layout()\nplt.savefig(\"bar chart/png/556.png\")\n\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which region has the highest consumption for Utility B?",
+      "output": "West"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts energy consumption in three utilities across four regions in 2021. Each utility is represented by a label, with the numbers representing energy consumption in kilowatt-hours. The x-axis denotes the regions (North, South, East, West), while the y-axis represents the energy consumption in kWh."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_254",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_254.png",
+    "topic": "Science and Engineering",
+    "title": " Number of inventions and research papers from 2020 to 2023",
+    "csv": "Year \\t Inventions \\t Research papers \\n 2020 \\t 180 \\t 2500 \\n 2021 \\t 220 \\t 3000 \\n 2022 \\t 240 \\t 3500 \\n 2023 \\t 280 \\t 4000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the annual increase in the number of inventions and research papers from 2020 to 2023. In 2020, there were 180 inventions and 2500 research papers. The following year saw an increase to 220 inventions and 3000 research papers. The trend continued upward in 2022, with 240 inventions and 3500 research papers. A further increase is observed in 2023, with 280 inventions and 4000 research papers."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = [[2020,180,2500],\n        [2021,220,3000],\n        [2022,240,3500],\n        [2023,280,4000]]\n\nyears= [row[0] for row in data]\ninventions = [row[1] for row in data]\npapers = [row[2] for row in data]\n\nfig = plt.figure(figsize=(8,6))\nax = fig.add_subplot(111)\n\nax.bar(years, inventions, width=0.4, label='Inventions', color='#D0E8CF', edgecolor='black')\nax.bar(years, papers, width=0.4, label='Research papers', color='#08BDBD', bottom=inventions, edgecolor='black')\n\nax.set_xticks(years)\nax.set_title('Number of inventions and research papers from 2020 to 2023')\nax.legend(loc='upper left')\nplt.tight_layout()\n\nplt.savefig('bar chart/png/94.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many research papers were there in 2022?",
+      "output": "3500"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows an upward trend in the number of inventions and research papers from 2020 to 2023."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_354",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_354.png",
+    "topic": "Business and Finance",
+    "title": " GDP and inflation rate in four consecutive years - 2020 to 2023",
+    "csv": "Year \\t GDP (billion USD) \\t Inflation Rate \\n 2020 \\t 21000 \\t 2.4 \\n 2021 \\t 22000 \\t 3.2 \\n 2022 \\t 23500 \\t 2.7 \\n 2023 \\t 25000 \\t 3.5 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the GDP in billions of USD and the inflation rate over four consecutive years, from 2020 to 2023. In 2020, the GDP is shown as 21000 billion USD with an inflation rate of 2.4%. The following year, 2021, sees a GDP of 22000 billion USD and an inflation rate of 3.2%. The trend continues with the GDP increasing to 23500 billion USD in 2022 and an inflation rate of 2.7%. In 2023, the GDP reaches 25000 billion USD, accompanied by an inflation rate of 3.5%."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "An upward economic trend is indicated from 2020 to 2023 with the GDP increasing consistently from $21 trillion to $25 trillion. Inflation rate showed slight volatility; it started at 2.4% in 2020, rose to 3.2% in 2021, dipped to 2.7% in 2022, before reaching its peak at 3.5% in 2023. While the economy grew each year, the fluctuations in inflation rate suggest varying economic pressures over the four-year period. The steady increase in GDP alongside these inflation rates reflects a growing economy with manageable inflationary trends."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(10,6))\nax = plt.subplot()\nax.bar(x=['2020','2021','2022','2023'],height=[21000,22000,23500,25000],width=0.5,\nlabel='GDP (billion USD)',align='center',color='b',bottom=0)\nax.bar(x=['2020','2021','2022','2023'],height=[2.4,3.2,2.7,3.5],width=0.5,\nlabel='Inflation Rate',align='center',color='r',bottom=0)\nplt.xticks(rotation=90)\nplt.title('GDP and inflation rate in four consecutive years - 2020 to 2023')\nplt.legend(loc='best')\nplt.tight_layout()\nplt.savefig('bar chart/png/303.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "By how much did the inflation rate increase from the year 2020 to 2023?",
+      "output": "1.1%"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the GDP billion and inflation rate over a four-year period from 2020 to 2023."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_230",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_230.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Average salary and hours of four employee roles in 2021",
+    "csv": "Employee \\t Average Salary(USD) \\t Average Hours \\n Sales \\t 4000 \\t 40 \\n Production \\t 5000 \\t 45 \\n Administration \\t 3000 \\t 35 \\n Support \\t 2000 \\t 30 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the average salary and hours for four employee roles in 2021. Sales employees earn an average of $4000 and work 40 hours weekly. Production workers have an average salary of $5000 and work 45 hours. Administration staff earns $3000 on average and works 35 hours, while Support personnel receive an average salary of $2000 for 30 hours of work per week."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nfig = plt.figure(figsize=(8, 6))\nax = fig.add_subplot(111)\n\nx_data = ['Sales', 'Production', 'Administration', 'Support']\ny_data1 = [4000, 5000, 3000, 2000]\ny_data2 = [40, 45, 35, 30]\n\nax.bar(x_data, y_data1, color='#ff9999', label='Average Salary(USD)')\nax.bar(x_data, y_data2, bottom=y_data1, color='#99ccff', label='Average Hours')\n\nplt.xticks(np.arange(len(x_data)), x_data, rotation=45, fontsize=10)\nplt.title('Average salary and hours of four employee roles in 2021')\nplt.legend(loc='upper left')\n\nplt.tight_layout()\nplt.savefig('bar chart/png/496.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which employee role works the least number of average hours?",
+      "output": "Support"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the average salary and hours of four employee roles in 2021. The roles are Sales, Production, Administration, and Support. The average salary is in USD, and the average hours are in hours."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_315",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_315.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Number of Employees and Average Salary by Department in 2021",
+    "csv": "Department \\t Employees \\t Average Salary \\n IT \\t 150 \\t 6000 \\n HR \\t 50 \\t 5500 \\n Accounting \\t 200 \\t 4500 \\n Marketing \\t 100 \\t 5000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of employees and the average salary in various departments for the year 2021. The IT department has 150 employees with an average salary of $6000. HR has a smaller workforce of 50 employees, earning an average of $5500. Accounting has the largest number of employees at 200, with an average salary of $4500. Marketing's headcount stands at 100 employees with an average salary reported at $5000."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = [['IT',150,6000],\n        ['HR',50,5500],\n        ['Accounting',200,4500],\n        ['Marketing',100,5000]]\n\nDepartments, Employees, Salaries = [], [], []\nfor row in data:\n    Departments.append(row[0])\n    Employees.append(row[1])\n    Salaries.append(row[2])\n\nfig, ax = plt.subplots(figsize=(12,7))\nax.bar(Departments, Employees, width=0.4, label='Employees', color='b')\nax.bar(Departments, Salaries, width=0.4, label='Average Salary', color='r', bottom=Employees)\n\nax.set_ylabel('Numbers')\nax.set_title(\"Number of Employees and Average Salary by Department in 2021\")\nax.legend(loc='upper left')\nplt.xticks(rotation=90, wrap=True)\nplt.tight_layout()\nplt.savefig('bar chart/png/89.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which department has the least number of employees?",
+      "output": "HR"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the number of employees and average salary by department in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_203",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_203.png",
+    "topic": "Food and Beverage Industry",
+    "title": " Number of Food and Beverage Outlets in Four Regions in 2021",
+    "csv": "Region \\t Restaurants \\t Cafes \\t Grocery Stores \\n North America \\t 3000 \\t 2000 \\t 5000 \\n Europe \\t 3500 \\t 2500 \\t 4500 \\n Asia \\t 4000 \\t 3000 \\t 5500 \\n South America \\t 2000 \\t 1800 \\t 4000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart represents the number of food and beverage outlets across four regions in 2021. North America has 3000 restaurants, 2000 cafes, and 5000 grocery stores. Europe shows 3500 restaurants, 2500 cafes, and 4500 grocery stores. Asia leads with 4000 restaurants, 3000 cafes, and 5500 grocery stores, while South America has 2000 restaurants, 1800 cafes, and 4000 grocery stores."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, Asia led the way in the food and beverage sector among four major global regions, boasting 4000 restaurants, followed by the highest number of cafes and grocery stores at 3000 and 5500 respectively. Europe showed a strong presence with 3500 restaurants and more cafes than North America, indicating a vibrant café culture. North America, despite having fewer restaurants and cafes, topped the chart with 5000 grocery stores, reflecting a preference for self-catering options. South America, while trailing in numbers, still maintained a solid infrastructure with 2000 restaurants and a considerable number of cafes and grocery stores."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = [['North America', 3000, 2000, 5000], \n        ['Europe', 3500, 2500, 4500], \n        ['Asia', 4000, 3000, 5500], \n        ['South America', 2000, 1800, 4000]]\n\nregion, restaurants, cafes, grocery_stores = zip(*data)\n\nx = np.arange(len(region))\nwidth = 0.25\n\nfig, ax = plt.subplots(figsize=(8, 6))\nrects1 = ax.bar(x - width, restaurants, width, label='Restaurants')\nrects2 = ax.bar(x, cafes, width, label='Cafes')\nrects3 = ax.bar(x + width, grocery_stores, width, label='Grocery Stores')\n\nax.set_xticks(x)\nax.set_xticklabels(region, rotation=45, ha='right', wrap=True)\nax.set_title('Number of Food and Beverage Outlets in Four Regions in 2021')\nax.legend()\n\nfig.tight_layout()\nplt.savefig('bar chart/png/338.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many cafes are there in Asia?",
+      "output": "3000"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of food and beverage outlets (Restaurants, Cafes, Grocery Stores) in four regions (North America, Europe, Asia, South America) in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_197",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_197.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports and entertainment activities in four countries in 2021",
+    "csv": "Country \\t Sports \\t Entertainment \\n USA \\t 400 \\t 500 \\n UK \\t 350 \\t 450 \\n Germany \\t 320 \\t 420 \\n France \\t 340 \\t 470 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the count of sports and entertainment activities in the USA, UK, Germany, and France for the year 2021. In the chart, the USA is shown to have 400 sports-related activities and 500 linked to entertainment, the UK has 350 sports activities and 450 entertainment ones, Germany presents with 320 sports and 420 entertainment activities, and France offers 340 for sports and 470 for entertainment."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The bar chart data for 2021 indicates that the USA leads in both sports and entertainment activities among the surveyed countries, boasting 400 sports-related activities and 500 entertainment events. The UK follows with a close margin, offering 350 sports activities and 450 entertainment options. Germany's count stands at 320 for sports and 420 for entertainment, suggesting a well-rounded but slightly lower provision of activities. France’s figures are competitive, with 340 sports activities and 470 entertainment events, positioning it as a vibrant destination. Overall, the trend suggests robust activity sectors in all countries, with the USA at the forefront."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = np.array([[400, 500], [350, 450], [320, 420], [340, 470]])\ncountries = ['USA', 'UK', 'Germany', 'France']\n\nfig = plt.figure(figsize=(8, 6))\nax = fig.add_subplot(1, 1, 1)\n\nax.bar(np.arange(len(countries)), data[:,0], width=0.4, label='Sports', color='#FFA500')\nax.bar(np.arange(len(countries)) + 0.4, data[:,1], width=0.4, label='Entertainment', color='#87CEFA')\n\nax.set_xticks(np.arange(len(countries)) + 0.4 / 2)\nax.set_xticklabels(countries, rotation='vertical', wrap=True)\nax.legend()\nax.set_title(\"Number of sports and entertainment activities in four countries in 2021\")\n\nplt.tight_layout()\nplt.savefig('bar chart/png/340.png')\n\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest total number of sports and entertainment activities combined?",
+      "output": "USA"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of sports and entertainment activities in four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the number of activities. The maximum value for sports activities is 400 in the US, and the minimum is 330 in Germany. For entertainment activities, the maximum value is 500 in the US, and the minimum is 380 in Germany."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_374",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_374.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Percentage of Social Sciences and Humanities in three fields from 2019 to 2021",
+    "csv": "Year \\t Philosophy(%) \\t Psychology(%) \\t Sociology(%) \\n 2019 \\t 40 \\t 30 \\t 35 \\n 2020 \\t 42 \\t 31 \\t 38 \\n 2021 \\t 44 \\t 32 \\t 40 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart visualizes the percentage of graduates in three social sciences and humanities fields—Philosophy, Psychology, and Sociology—over a span of three years from 2019 to 2021. In 2019, Philosophy graduates accounted for 40%, Psychology for 30%, and Sociology for 35%. Numbers show an incremental rise with Philosophy reaching 44% by 2021, Psychology increasing to 32%, and Sociology to 40% in the same period. Each field exhibits a steady growth in percentage over the years."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "Over three consecutive years, 2019 to 2021, there has been a modest but consistent increase in the percentage of students majoring in Philosophy, Psychology, and Sociology. Philosophy saw a rise from 40% to 44%, Psychology inched up from 30% to 32%, and Sociology grew from 35% to 40%. This upward trend across the board suggests a growing interest among students in the social sciences and humanities fields, with Philosophy showing the most significant increase over the period. These findings highlight a strengthening regard for disciplines that delve into human thought and societal structures."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt \nimport numpy as np \n\ndata = [[2019,40,30,35],\n        [2020,42,31,38],\n        [2021,44,32,40]]\n\nx = np.arange(len(data))\n\nfig = plt.figure(figsize=(8,6))\nax = fig.add_subplot(1,1,1)\nax.bar(x-0.2, [i[1] for i in data], width=0.2, label='Philosophy(%)', color='b')\nax.bar(x, [i[2] for i in data], width=0.2, label='Psychology(%)', color='r')\nax.bar(x+0.2, [i[3] for i in data], width=0.2, label='Sociology(%)', color='y')\n\nax.set_xticks(x)\nax.set_xticklabels([i[0] for i in data], rotation=0, wrap=True)\nax.legend(loc='center left', bbox_to_anchor=(1, 0.5))\nax.set_title('Percentage of Social Sciences and Humanities in three fields from 2019 to 2021')\nplt.tight_layout()\nplt.savefig('bar chart/png/133.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "By what percentage did Sociology increase from 2019 to 2020?",
+      "output": "3%"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart illustrates the percentage of Social Sciences and Humanities in three fields from 2019 to 2021: Philosophy, Python, and Sociology."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_212",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_212.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy production from solar, wind and hydro sources in four countries in 2021",
+    "csv": "Country \\t Solar Energy(KWh) \\t Wind Energy(KWh) \\t Hydro Energy(KWh) \\n USA \\t 15000 \\t 20000 \\t 12000 \\n UK \\t 18000 \\t 17000 \\t 14000 \\n Germany \\t 14000 \\t 19000 \\t 18000 \\n France \\t 16000 \\t 18000 \\t 15000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates energy production from solar, wind, and hydro sources in the USA, UK, Germany, and France for the year 2021. The USA produced 15,000 KWh from solar, 20,000 KWh from wind, and 12,000 KWh from hydro. The UK's figures were 18,000 KWh for solar, 17,000 KWh for wind, and 14,000 KWh for hydro. Germany generated 14,000 KWh solar energy, 19,000 KWh wind energy, and the highest hydro energy at 18,000 KWh. France's production was 16,000 KWh from solar, 18,000 KWh from wind, and 15,000 KWh from hydro."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\n# set the figure size\nplt.figure(figsize=(15,8))\n\n# create subplot\nax = plt.subplot()\n\n# set the data\ncountries = [\"USA\",\"UK\",\"Germany\",\"France\"]\nsolar = [15000,18000,14000,16000]\nwind = [20000,17000,19000,18000]\nhydro = [12000,14000,18000,15000]\n\n# plot the data\nax.bar(countries, solar, label=\"Solar Energy(KWh)\")\nax.bar(countries, wind, bottom=solar, label=\"Wind Energy(KWh)\")\nax.bar(countries, hydro, bottom=[i+j for i,j in zip(solar, wind)], label=\"Hydro Energy(KWh)\")\n\n# set the title of the figure\nax.set_title(\"Energy production from solar, wind and hydro sources in four countries in 2021\")\n\n# set the xticks\nax.set_xticks(countries)\n\n# add legend\nax.legend(bbox_to_anchor=(1.2, 1))\n\n# add grids\nax.grid(axis=\"y\", alpha=0.5)\n\n# adjust the figure\nplt.tight_layout()\n\n# save the figure as png\nplt.savefig(\"bar chart/png/554.png\")\n\n# clear the current image state\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest production of solar energy?",
+      "output": "UK"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the energy production from solar, wind, and hydro sources in four countries in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_223",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_223.png",
+    "topic": "Government and Public Policy",
+    "title": " Government spending on education, healthcare, and transport in four regions in 2021",
+    "csv": "Region \\t Education Spending(million) \\t Healthcare Spending(million) \\t Transport Spending(million) \\n North America \\t 100 \\t 150 \\t 80 \\n South America \\t 120 \\t 170 \\t 90 \\n Europe \\t 140 \\t 190 \\t 100 \\n Asia \\t 160 \\t 210 \\t 110 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart outlines government spending in millions across four regions in 2021, on education, healthcare, and transport. North America allocated 100 million for education, 150 million for healthcare, and 80 million for transport. South America increased these to 120 million, 170 million, and 90 million, respectively. Europe's spending stood at 140 million on education, 190 million on healthcare, and 100 million on transport. Asia topped the chart with 160 million directed towards education, 210 million for healthcare, and 110 million for transport."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, government spending across four regions showed a commitment to education, healthcare, and transport, with Asia leading at $160 million for education, $210 million for healthcare, and $110 million for transport. Europe followed, investing $140 million in education, $190 million in healthcare, and $100 million in transport. In South America, the allocation was $120 million for education, $170 million for healthcare, and $90 million for transport. North America, while substantial in its spending, allocated the least in comparison, with $100 million for education, $150 million for healthcare, and $80 million for transport, illustrating varying economic priorities across regions."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nlabels = np.array(['North America', 'South America', 'Europe', 'Asia'])\nx_pos = np.arange(len(labels))\n\nEducation_Spending = [100, 120, 140, 160]\nHealthcare_Spending = [150, 170, 190, 210]\nTransport_Spending = [80, 90, 100, 110]\n\nfig, ax = plt.subplots(figsize=(8,4))\n\nbar_width = 0.2\nax.bar(x_pos, Education_Spending, bar_width, label='Education Spending')\nax.bar(x_pos + bar_width, Healthcare_Spending, bar_width, label='Healthcare Spending')\nax.bar(x_pos + bar_width*2, Transport_Spending, bar_width, label='Transport Spending')\n\nax.set_xticks(x_pos + bar_width)\nax.set_xticklabels(labels, rotation=45, ha='right')\nax.set_ylabel('Spending (million)')\nax.set_title('Government spending on education, healthcare, and transport in four regions in 2021')\nax.legend(loc='upper center', bbox_to_anchor=(0.5, -0.1), ncol=3)\n\nplt.tight_layout()\nplt.savefig('bar chart/png/15.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which region has the highest healthcare spending according to the data provided?",
+      "output": "Asia"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts government spending on education, healthcare, and transport in four regions: North Africa, South Africa, Piedmont, and Gauteng. Each region allocates a certain amount of spending to each category, with North Africa allocating the lowest amount and Gauteng the highest."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_296",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_296.png",
+    "topic": "Sports and Entertainment",
+    "title": " Ticket sales and total revenue of four events in 2021",
+    "csv": "Event \\t Tickets Sold \\t Total Revenue \\n Football Match \\t 1500 \\t 100000 \\n Basketball Game \\t 1700 \\t 120000 \\n Concert \\t 2000 \\t 150000 \\n Movie Premiere \\t 1800 \\t 130000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates ticket sales and total revenue for four different events in 2021. A football match sold 1500 tickets generating $100,000, a basketball game had 1700 tickets sold with total revenue of $120,000, a concert sold 2000 tickets to achieve the highest revenue of $150,000, and a movie premiere sold 1800 tickets with revenue amounting to $130,000."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The ticket sales and revenue report for four events in 2021 reveals that concerts lead with 2,000 tickets sold and $150,000 in revenue. Basketball games followed, generating $120,000 from 1,700 tickets, while movie premieres saw 1,800 tickets contributing to $130,000 in revenue. Football matches showed a strong engagement too, with 1,500 tickets resulting in $100,000. This summary of sales and revenue indicates a robust inclination for concerts, with a clear profit in the entertainment sector for such events."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nfig, ax = plt.subplots(figsize=(8,6))\nx = np.arange(4)\ny1 = [1500, 1700, 2000, 1800]\ny2 = [100000, 120000, 150000, 130000]\nbar_width = 0.3\nax.bar(x, y1, width=bar_width, label='Tickets Sold')\nax.bar(x+bar_width, y2, width=bar_width, label='Total Revenue')\nax.set_xticks(x+bar_width/2)\nax.set_xticklabels(['Football Match', 'Basketball Game', 'Concert', 'Movie Premiere'], rotation=45, ha='right', wrap=True)\nax.set_title('Ticket sales and total revenue of four events in 2021')\nax.legend(loc='best')\nplt.tight_layout()\nplt.savefig('bar chart/png/342.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much revenue did the Movie Premiere generate compared to the Football Match?",
+      "output": "$30000 more"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the ticket sales and total revenue for four events in 2021. The events are Football Mitch, Basketball Game, Conquest, and Movie Premiere."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_453",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_453.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Crop and Livestock Production in Four Countries in 2021",
+    "csv": "Country \\t Crops(tons) \\t Livestock(heads) \\n USA \\t 1000 \\t 5000 \\n UK \\t 800 \\t 4500 \\n Germany \\t 900 \\t 4000 \\n France \\t 1100 \\t 5500 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates crop and livestock production in tons and heads respectively across the USA, UK, Germany, and France for the year 2021. The USA produced 1000 tons of crops and had 5000 heads of livestock. The UK's production included 800 tons of crops and 4500 heads of livestock. Germany produced 900 tons of crops and maintained 4000 heads of livestock. Lastly, France outperformed with 1100 tons of crops and the highest livestock count at 5500 heads."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, France led in both crop and livestock production among the four countries, with 1100 tons of crops and 5500 heads of livestock. The USA followed closely in livestock numbers with 5000 heads but had a moderate crop production at 1000 tons. Germany's figures stood at 900 tons of crops and 4000 heads of livestock, showing balanced, yet slightly lower productivity. The UK, while producing 800 tons of crops, maintained a competitive edge in livestock with 4500 heads. This indicates a robust agricultural output across these nations, with France and the USA at the forefront of production."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\nfig=plt.figure(figsize=(10,7))\nax=fig.add_subplot(111)\ncountry=['USA','UK','Germany','France']\ncrop=[1000,800,900,1100]\nlivestock=[5000,4500,4000,5500]\n\nwidth=0.4\nax.bar(country,crop,width,label='Crops(tons)')\nax.bar(country,livestock,width,bottom=crop,label='Livestock(heads)')\n\nax.set_title('Crop and Livestock Production in Four Countries in 2021')\nax.set_xticklabels(country,rotation=45,ha=\"right\",rotation_mode=\"anchor\")\nax.legend(loc='best')\n\nplt.tight_layout()\nplt.savefig('bar chart/png/146.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest crop production?",
+      "output": "France"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the crop and livestock production values for four countries in 2021. The x-axis represents the countries (US, UK, Germany, France), while the y-axis represents the production values in metric tons."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_302",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_302.png",
+    "topic": "Human Resources and Employee Management",
+    "title": " Number of Employees and Average Salary of four Departments in 2021",
+    "csv": "Department \\t Employees \\t Average Salary (USD) \\n Accounting \\t 20 \\t 4000 \\n IT \\t 30 \\t 4500 \\n HR \\t 25 \\t 3500 \\n Sales \\t 35 \\t 5000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "This bar chart represents the number of employees and the average salary in USD for four different departments in 2021. The Accounting department has 20 employees with an average salary of $4000, IT has 30 employees with an average salary of $4500, HR has 25 employees with an average salary of $3500, and Sales has the most employees at 35, with the highest average salary of $5000."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, an overview of employee distribution and average salaries across four departments reveals that Sales led with 35 employees and the highest average salary of $5000. The IT department followed, with 30 employees earning $4500 on average. Accounting had 20 staff members with a $4000 average salary, while HR had slightly more employees at 25 but the lowest average salary of $3500. This suggests investment in revenue-generating departments like Sales and IT, which command higher salaries compared to supportive roles in HR and Accounting."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nfig = plt.figure(figsize=(10, 6))\nax = fig.add_subplot(111)\nax.bar(\"Accounting\", 20, 4000, label=\"Accounting\")\nax.bar(\"IT\", 30, 4500, label=\"IT\", bottom=20)\nax.bar(\"HR\", 25, 3500, label=\"HR\", bottom=50)\nax.bar(\"Sales\", 35, 5000, label=\"Sales\", bottom=75)\nax.set_xlabel(\"Department\")\nax.set_ylabel(\"Number of Employees\")\nax.legend(loc=\"upper right\")\nax.set_title(\"Number of Employees and Average Salary of four Departments in 2021\")\nplt.xticks(rotation=0)\nplt.tight_layout()\nplt.savefig(\"bar chart/png/224.png\")\nplt.close()"
+    },
+    "QA": {
+      "input": "Which department has the lowest number of employees?",
+      "output": "Accounting"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the number of employees and average salary of four departments in 2021."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_468",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_468.png",
+    "topic": "Social Media and the Web",
+    "title": " Social media platform usage in 2021",
+    "csv": "Platform \\t Monthly users(million) \\t Daily active users(million) \\n Facebook \\t 2.50 \\t 1.90 \\n YouTube \\t 2.00 \\t 1.50 \\n Twitter \\t 0.75 \\t 0.60 \\n Instagram \\t 1.20 \\t 0.90 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the usage of different social media platforms in 2021, comparing monthly and daily active users in millions. Facebook leads with 2.50 million monthly users and 1.90 million daily active users. YouTube follows with 2.00 million monthly users and 1.50 million daily active users. Instagram has 1.20 million monthly users and 0.90 million daily active users. Finally, Twitter shows 0.75 million monthly users and 0.60 million daily active users."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The bar chart comparison of social media platform usage in 2021 identifies Facebook as the leader with a monthly user base of 2.5 million and daily actives at 1.9 million. YouTube follows with 2 million monthly users and 1.5 million daily users. Instagram has a significant presence with 1.2 million monthly and 0.9 million daily users, while Twitter has the smallest user footprint with 0.75 million monthly and 0.60 million daily active users. This data highlights the massive influence of Facebook and YouTube, while Instagram and Twitter maintain a steady but smaller active user base."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# plot data\ndata = np.array([[2.50, 1.90], [2.00, 1.50], [0.75, 0.60], [1.20, 0.90]])\n\n# create figure\nfig = plt.figure(figsize=(6,6))\nax = fig.add_subplot(111)\n\n# set x ticks\nax.set_xticks([0, 1])\nax.set_xticklabels(['Monthly users(million)', 'Daily active users(million)'])\n\n# plot bar chart\nx_pos = np.arange(len(data[0]))\nax.bar(x_pos, data[0], width=0.3, bottom=0, align='center', color='#fb8072', label='Facebook')\nax.bar(x_pos, data[1], width=0.3, bottom=data[0], align='center', color='#8dd3c7', label='YouTube')\nax.bar(x_pos, data[2], width=0.3, bottom=data[0]+data[1], align='center', color='#bebada', label='Twitter')\nax.bar(x_pos, data[3], width=0.3, bottom=data[0]+data[1]+data[2], align='center', color='#80b1d3', label='Instagram')\n\n# set legend\nax.legend(loc='upper center', bbox_to_anchor=(0.5, 1.15), ncol=4, fancybox=True, shadow=True)\n\n# set title\nax.set_title('Social media platform usage in 2021')\n\n# prevent content from clipping\nplt.tight_layout()\n\n# save image\nplt.savefig('bar chart/png/403.png')\n\n# clear figure\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many more million daily active users does Facebook have compared to Twitter?",
+      "output": "1.3 million"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart presents data on social media platform usage in 2021, comparing monthly and daily active users across five platforms: Facebook, YouTube, Twitter, Instagram, and Snapchat."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_311",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_311.png",
+    "topic": "Social Media and the Web",
+    "title": " Social media and online shopping usage in four countries in 2021",
+    "csv": "Country \\t Users(million) \\t Online Shopping \\t Social Media \\n USA \\t 400 \\t 70% \\t 90% \\n UK \\t 250 \\t 60% \\t 75% \\n Germany \\t 180 \\t 50% \\t 80% \\n France \\t 200 \\t 65% \\t 85% \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart outlines the prevalence of online shopping and social media usage among internet users in the USA, UK, Germany, and France in 2021. The USA shows 400 million users, with 70% using online shopping and 90% on social media. The UK has 250 million users, with a 60% online shopping rate and 75% social media engagement. Germany has 180 million users, with 50% shopping online and 80% using social media. France reports 200 million users, 65% of whom engage in online shopping, and 85% use social media platforms."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 data for social media and online shopping usage in the USA, UK, Germany, and France reveal significant digital engagement across these nations. The USA leads with 400 million users, of which 70% engage in online shopping and a striking 90% are active on social media. The UK follows with 250 million users showing a 60% online shopping rate and 75% social media usage. Germany has 180 million users with the lowest online shopping engagement at 50% but a substantial 80% on social media. France stands out with 200 million users, 65% indulging in online shopping, and 85% active on social media, denoting a well-connected European audience."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Create data\ncountry = ['USA', 'UK', 'Germany', 'France']\nusers = [400, 250, 180, 200]\nonline_shopping = [0.7, 0.6, 0.5, 0.65]\nsocial_media = [0.9, 0.75, 0.8, 0.85]\n\n# Create figure\nplt.figure(figsize=(10, 6))\n\n# Plot data\nplt.bar(country, users, label='Users(million)')\nplt.bar(country, online_shopping, bottom=users, label='Online Shopping')\nplt.bar(country, social_media, bottom=np.array(users)+np.array(online_shopping), label='Social Media')\n\n# Set title and labels\nplt.title('Social media and online shopping usage in four countries in 2021')\nplt.xlabel('Country')\nplt.ylabel('Usage')\n\n# Set ticks\nplt.xticks(country, rotation='vertical')\n\n# Show legend\nplt.legend(loc='upper left', bbox_to_anchor=(1,1))\n\n# Tight layout\nplt.tight_layout()\n\n# Save figure\nplt.savefig('bar chart/png/112.png')\n\n# Clear figure\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest percentage of users engaging in online shopping?",
+      "output": "USA"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows data on social media and online shopping usage for four countries in 2021. The x-axis represents the countries (USA, UK, Germany, France), while the y-axis represents the amount of usage (Underestimation, Online Shopping, Social Media)."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_340",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_340.png",
+    "topic": "Agriculture and Food Production",
+    "title": " Area farmed and yields of agricultural products in four regions in 2021",
+    "csv": "Region \\t Area farmed(sq.km) \\t Yield(tons) \\n Southeast Asia \\t 100 \\t 400 \\n North America \\t 120 \\t 430 \\n South America \\t 90 \\t 380 \\n Europe \\t 140 \\t 460 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the area farmed in square kilometers and the corresponding agricultural yields in tons for four different regions in 2021. Southeast Asia had an area farmed of 100 sq.km with a yield of 400 tons, North America farmed 120 sq.km and had a yield of 430 tons, South America had a farming area of 90 sq.km with a yield of 380 tons, and Europe reported the largest area farmed at 140 sq.km, which produced 460 tons of yield."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, four key regions showcased their agricultural prowess with varying areas cultivated and yields produced. Europe led with the largest area farmed at 140 sq.km, resulting in a high yield of 460 tons. North America followed closely with 120 sq.km of land farmed and a yield of 430 tons. Southeast Asia, despite farming a lesser area of 100 sq.km, produced 400 tons, which indicates a robust yield per unit area. Meanwhile, South America had the smallest area farmed at 90 sq.km and a yield of 380 tons, reflecting the diverse agricultural capacities and efficiencies across regions."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n# Set parameters\nplt.figure(figsize=(10, 7))\n\n# Draw the graph\nx = np.arange(4)\narea_farmed = [100, 120, 90, 140]\nyields = [400, 430, 380, 460]\n\nplt.bar(x, area_farmed, label='Area farmed(sq.km)', color='b', width=0.4)\nplt.bar(x+0.4, yields, label='Yield(tons)', color='g', width=0.4)\n\n# Set labels, legend and title\nplt.xticks(x, ['Southeast Asia', 'North America', 'South America', 'Europe'], rotation=45, ha='right', wrap=True)\nplt.ylabel('Units')\nplt.legend()\nplt.title('Area farmed and yields of agricultural products in four regions in 2021')\n\n# Tight layout\nplt.tight_layout()\n\n# Save the figure\nplt.savefig('bar chart/png/530.png')\n\n# Clear the figure\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which region has the highest yield to area farmed ratio?",
+      "output": "North America"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart depicts the area farmed and yields of agricultural products in four regions in 2021. The x-axis represents the regions (Southeast Asia, North America, South-America, and Europe), while the y-axis represents the area farmed in square kilometers and the yields in tonnes."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_277",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_277.png",
+    "topic": "Social Sciences and Humanities",
+    "title": " Number of publications in social sciences and humanities in four countries in 2021",
+    "csv": "Country \\t Literature \\t Philosophy \\t History \\n USA \\t 250 \\t 120 \\t 170 \\n UK \\t 200 \\t 130 \\t 150 \\n Germany \\t 220 \\t 140 \\t 180 \\n France \\t 230 \\t 150 \\t 190 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of publications in social sciences and humanities in the USA, UK, Germany, and France for the year 2021. The USA shows 250 literature, 120 philosophy, and 170 history publications. In the UK, there are 200 literature, 130 philosophy, and 150 history publications. Germany has 220 literature, 140 philosophy, and 180 history publications, while France presents 230 literature, 150 philosophy, and 190 history publications."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The comparison of publications in social sciences and humanities in 2021 amongst four countries shows varied intellectual outputs. The USA leads in literature with 250 publications but trails in philosophy and history with 120 and 170 respectively. The UK, while having the least literature at 200, has a strong presence in philosophy with 130 publications. Germany shows a consistent production across fields with 220 in literature, leading at 140 in philosophy, and a solid 180 in history. France, though not first in any category, maintains a steady output with 230 in literature, the highest at 150 in philosophy, and 190 in history, reflecting a balanced contribution across disciplines."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(10,7))\nax = plt.subplot()\nax.bar(x=['USA','UK','Germany','France'],height=[250,200,220,230],label='Literature',width=0.3,bottom=0,align='edge')\nax.bar(x=['USA','UK','Germany','France'],height=[120,130,140,150],label='Philosophy',width=0.3,bottom=[250,200,220,230],align='edge')\nax.bar(x=['USA','UK','Germany','France'],height=[170,150,180,190],label='History',width=0.3,bottom=[370,330,360,380],align='edge')\nplt.xticks(rotation=0)\nax.set_title('Number of publications in social sciences and humanities in four countries in 2021', fontsize=16)\nplt.legend(loc='upper right')\nplt.tight_layout()\nplt.savefig('bar chart/png/350.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "Which country has the highest number of History publications?",
+      "output": "France"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of scientific publications in four countries in 2021, categorized into 'Literature', 'Philosophy', and 'History'. Each country is represented by a line, with the x-axis showing the countries and the y-axis representing the number of publications."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_409",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_409.png",
+    "topic": "Arts and Culture",
+    "title": " Number of Artworks in three types in 2021",
+    "csv": "Type of Art \\t Painting \\t Sculpture \\t Drawing \\n Classic \\t 200 \\t 100 \\t 50 \\n Contemporary \\t 250 \\t 120 \\t 70 \\n Modern \\t 230 \\t 140 \\t 60 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the number of different forms of artworks classified into three types in 2021. It shows paintings, sculptures, and drawings under Classic, Contemporary, and Modern art categories. Classic art includes 200 paintings, 100 sculptures, and 50 drawings. Contemporary art comprises 250 paintings, 120 sculptures, and 70 drawings. Modern art features 230 paintings, 140 sculptures, and 60 drawings."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "Throughout 2021, the art scene revealed a preference for certain art types across three categories: Classic, Contemporary, and Modern. Paintings dominate with Contemporary art leading at 250 pieces, Modern close behind with 230, and Classic at 200. For sculptures, the Modern category surpasses the rest at 140, with Contemporary at 120 and Classic at 100. Drawings show the least, yet still a notable, count with Contemporary again leading with 70, Modern at 60, and Classic at 50. The data indicates a sustained interest in Contemporary artworks, reflecting current trends and artistic innovation prevalent during the year."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\n\nfig = plt.figure(figsize=(12, 8))\nax = fig.add_subplot()\n\ndata = {'Type of Art':['Classic', 'Contemporary', 'Modern'],\n        'Painting':[200, 250, 230],\n        'Sculpture':[100, 120, 140],\n        'Drawing':[50, 70, 60]}\n\nax.bar(data['Type of Art'], data['Painting'], label='Painting', width=0.3, color='#004488')\nax.bar(data['Type of Art'], data['Sculpture'], bottom=data['Painting'], label='Sculpture', width=0.3, color='#008844')\nax.bar(data['Type of Art'], data['Drawing'], bottom=[i+j for i,j in zip(data['Painting'],data['Sculpture'])], label='Drawing', width=0.3, color='#880044')\n\nax.set_title('Number of Artworks in three types in 2021', fontsize=20)\nax.set_xlabel('Type of Art', fontsize=15)\nax.set_ylabel('Number of Artworks', fontsize=15)\nax.set_xticks(data['Type of Art'])\nax.legend(loc='upper left', bbox_to_anchor=(1,1), fontsize=15)\n\nplt.grid(linestyle=\"--\")\nplt.tight_layout()\nplt.savefig('bar chart/png/283.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many drawings are there in the classic category?",
+      "output": "50"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the number of artists in three types in 2021, categorized by the type of art: Classical, Contemporary, and Modern. The x-axis represents the type of art, while the y-axis represents the number of artists in each category."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_398",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_398.png",
+    "topic": "Retail and E-commerce",
+    "title": " Comparison of Retail and E-commerce sales in four countries in 2021",
+    "csv": "Country \\t Retail Sales(million) \\t E-commerce Sales(million) \\n USA \\t 4500 \\t 2500 \\n UK \\t 4000 \\t 3000 \\n Germany \\t 3500 \\t 3500 \\n France \\t 3000 \\t 4000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates retail and e-commerce sales in millions for four countries in 2021. USA registers 4500 million in retail sales and 2500 million in e-commerce sales. UK shows retail sales at 4000 million, with e-commerce at 3000 million. Germany's data indicate an equal 3500 million for both retail and e-commerce. France presents 3000 million retail sales, while e-commerce surpasses at 4000 million."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 data reveal an intriguing trend in retail and e-commerce sales across USA, UK, Germany, and France. While the USA led in total retail sales with 4500 million, it observed a significant e-commerce portion of 2500 million. UK's e-commerce sales represented a remarkable 75% of its 4000 million total retail sales. Germany displayed a balanced picture with both retail and e-commerce sales at 3500 million. France, however, was a standout with e-commerce sales exceeding retail at 4000 million, against 3000 million in retail. This reflects a strong consumer shift towards online shopping, especially in France."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\ndata = [['USA',4500,2500],['UK',4000,3000],['Germany',3500,3500],['France',3000,4000]]\n\ncountries, retail, ecommerce = [],[],[]\nfor row in data:\n    countries.append(row[0])\n    retail.append(row[1])\n    ecommerce.append(row[2])\n\nx = np.arange(len(countries))\nwidth = 0.35\n\nfig = plt.figure(figsize=(10,8))\nax = fig.add_subplot(1,1,1)\nax.bar(x - width/2, retail, width, label='Retail Sales', color='#f75b5b')\nax.bar(x + width/2, ecommerce, width, label='E-commerce Sales', color='#70d5f2')\n\nax.set_ylabel('Sales(million)')\nax.set_title('Comparison of Retail and E-commerce sales in four countries in 2021')\nax.set_xticks(x)\nax.set_xticklabels(countries, rotation=45, ha='right', wrap=True)\nax.legend()\n\nfig.tight_layout()\nplt.savefig('bar chart/png/448.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much higher are the e-commerce sales compared to retail sales in Germany?",
+      "output": "$0 million"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the retail and e-commerce sales figures for four countries in 2021. The x-axis represents the countries, while the y-axis represents the sales figures in millions. Retail sales range from a maximum of 4500 million in the US to a minimum of 2500 million in the UK, while e-commerce sales range from a maximum of 4000 million in France to a minimum of 2500 million in the UK."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_490",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_490.png",
+    "topic": "Real Estate and Housing Market",
+    "title": " Average property prices and rental costs in four regions in 2021",
+    "csv": "Region \\t Average Property Price($) \\t Average Rental Cost($) \\n East Coast \\t 300000 \\t 2500 \\n West Coast \\t 400000 \\t 3000 \\n Midwest \\t 250000 \\t 2000 \\n South \\t 350000 \\t 2700 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the average property prices and rental costs across four different regions in 2021. The East Coast shows an average property price of $300,000 and an average rental cost of $2,500. On the West Coast, the average property price is higher at $400,000 with an average rental cost of $3,000. The Midwest has the lowest average property price at $250,000 and an average rental cost of $2,000. The South has an average property price of $350,000 and an average rental cost of $2,700."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, property prices and rental costs in the USA varied significantly by region. The West Coast was the most expensive with an average property price of $400,000 and a rental cost of $3,000. The East Coast followed, with properties averaging at $300,000 and rentals at $2,500. The South had moderately priced properties at $350,000 and rental costs of $2,700, while the Midwest was the most affordable, with homes at $250,000 and rents at $2,000. This data reflects the economic diversity across regions, highlighting the West Coast's high cost of living."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nimport numpy as np\n\n#Create figure\nfig = plt.figure(figsize=(8,6))\nax = fig.add_subplot(1, 1, 1)\n\n#Data\nRegion = ['East Coast','West Coast','Midwest','South']\nAverage_Property_Price = [300000, 400000, 250000, 350000]\nAverage_Rental_Cost = [2500, 3000, 2000, 2700]\n\n#Plot\nbar_width = 0.3\nax.bar(np.arange(len(Region)), Average_Property_Price, bar_width, label = 'Average Property Price')\nax.bar(np.arange(len(Region)) + bar_width, Average_Rental_Cost, bar_width, label = 'Average Rental Cost')\n\n#Label\nax.set_xticks(np.arange(len(Region)))\nax.set_xticklabels(Region, rotation = 'vertical')\nax.set_xlabel('Region')\nax.set_ylabel('Price ($)')\nax.set_title('Average property prices and rental costs in four regions in 2021')\n\n#Legend\nax.legend(loc = 'upper left', bbox_to_anchor = (1, 1))\n\n#Save\nfig.tight_layout()\nplt.savefig('bar chart/png/455.png')\n\n#Clear\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much more is the average rental cost on the West Coast compared to the Midwest?",
+      "output": "$1000"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the average property prices and rental costs for four regions in 2021. The x-axis represents the regions (East Coast, West Coast, Midwest, South), while the y-axis represents the average property price and rental cost in dollars."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_377",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_377.png",
+    "topic": "Sports and Entertainment",
+    "title": " Number of sports teams and their fans in four regions in 2021",
+    "csv": "Region \\t Sports Teams \\t Fans \\n North America \\t 50 \\t 1000000 \\n South America \\t 60 \\t 920000 \\n Europe \\t 75 \\t 800000 \\n Asia \\t 80 \\t 700000 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "This bar chart represents the number of sports teams and their corresponding fans across four regions in 2021. North America is depicted with 50 sports teams and 1,000,000 fans, South America has slightly more teams at 60, with 920,000 fans, Europe follows with 75 teams and 800,000 fans, while Asia leads in the number of teams with 80, accompanied by 700,000 fans."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "In 2021, the number of sports teams and fans across four major regions highlighted varying levels of sports popularity. North America, despite having only 50 sports teams, boasted the largest fan base with 1,000,000 fans. South America had more teams, a total of 60, with slightly fewer fans, at 920,000. Europe presented a balance with 75 sports teams and 800,000 fans. Asia, although it had the most teams at 80, showed the smallest fan base with 700,000. This data implies a strong sports culture in both Americas while suggesting higher team-to-fan ratios in Europe and Asia."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\nimport matplotlib.pyplot as plt\nplt.figure(figsize=(10,7))\nax=plt.subplot(1,1,1)\nax.bar(x=['North America', 'South America', 'Europe', 'Asia'], height=[50, 60, 75, 80], width=0.5, label='Sports Teams', bottom=[0, 0, 0, 0], color='#1f77b4', edgecolor='black', linewidth=1)\nax.bar(x=['North America', 'South America', 'Europe', 'Asia'], height=[1000000, 920000, 800000, 700000], width=0.5, label='Fans', bottom=[50, 60, 75, 80], color='#ff7f0e', edgecolor='black', linewidth=1)\nax.set_title(\"Number of sports teams and their fans in four regions in 2021\")\nax.set_ylabel('Number')\nplt.xticks(rotation=45, ha='right')\nplt.legend(loc=2, bbox_to_anchor=(1.05,1))\nplt.tight_layout()\nplt.savefig('bar chart/png/511.png')\nplt.clf()"
+    },
+    "QA": {
+      "input": "How many fans do sports teams have in total across all the given regions?",
+      "output": "3,420,000"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart displays the number of sports teams and their fans in four regions in 2021. Each region has a higher number of sports teams compared to fans, with North America having the highest number of both."
+  },
+  {
+    "chart_type": "bar_chart",
+    "imgname": "bar_401",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_401.png",
+    "topic": "Energy and Utilities",
+    "title": " Energy sources in three regions in 2021",
+    "csv": "Region \\t Wind Energy(GW) \\t Solar Energy(GW) \\t Hydro Energy(GW) \\n North America \\t 500 \\t 250 \\t 100 \\n Europe \\t 400 \\t 200 \\t 150 \\n Asia \\t 700 \\t 450 \\t 200 \\n ",
+    "description": {
+      "input": "Generate a descriptive text according to the chart image.",
+      "output": "The bar chart illustrates the distribution of wind, solar, and hydro energy sources, measured in gigawatts (GW), across North America, Europe, and Asia in 2021. North America contributes 500 GW of wind energy, 250 GW of solar energy, and 100 GW of hydro energy. Europe follows with 400 GW wind energy, 200 GW of solar energy, and 150 GW hydro energy. Asia leads in all categories with 700 GW of wind energy, 450 GW of solar energy, and 200 GW of hydro energy."
+    },
+    "summarization": {
+      "input": "Create a brief summarization or extract key insights based on the chart image.",
+      "ouput_put": "The 2021 energy production data for North America, Europe, and Asia indicate Asia as the leading region in all three renewable energy sectors: wind (700 GW), solar (450 GW), and hydro (200 GW). Europe follows suit with a balanced energy profile of 400 GW wind, 200 GW solar, and a significant 150 GW hydro. North America, while still a substantial player with 500 GW wind and 250 GW solar, trails in hydroelectric production at 100 GW. These figures suggest Asia's dominance in renewable energy, with robust growth in solar energy generation, highlighting a global shift towards sustainable energy practices."
+    },
+    "redrawing": {
+      "input": "Redraw the chart image using Python code.",
+      "output": "\n\nimport matplotlib.pyplot as plt\nimport numpy as np\n\nRegion = [\"North America\", \"Europe\", \"Asia\"]\nWind_Energy = [500, 400, 700]\nSolar_Energy = [250, 200, 450]\nHydro_Energy = [100, 150, 200]\n\nx = np.arange(len(Region))\n\ntotal_width, n = 0.8, 3\nwidth = total_width / n\n\nplt.figure(figsize=(12,6))\n\nax = plt.subplot(1,1,1)\nax.bar(x-width, Wind_Energy, width=width, label=\"Wind Energy (GW)\")\nax.bar(x, Solar_Energy, width=width, label=\"Solar Energy (GW)\")\nax.bar(x+width, Hydro_Energy, width=width, label=\"Hydro Energy (GW)\")\n\nax.set_xticks(x)\nax.set_xticklabels(Region)\n\nax.set_title(\"Energy sources in three regions in 2021\")\nax.legend(loc='upper right')\n\nplt.tight_layout()\nplt.savefig(\"bar chart/png/84.png\")\nplt.clf()"
+    },
+    "QA": {
+      "input": "How much more solar energy capacity does Asia have compared to North America?",
+      "output": "200 GW"
+    },
+    "model_name": "ChartInstruct-FlanT5-XL",
+    "generated_caption": "The chart shows the distribution of energy sources across three regions in 2021. The x-axis represents the regions (North America, Europe, and Asia), while the y-axis represents the percentage of each energy source as a total. Coal had the highest percentage in North America at 50%, followed by wind energy at 25%, and hydro energy at 10%. In Europe, wind energy accounted for 20%, and solar energy for 20%, while in Asia, it was the highest at 45%."
+  }
+]

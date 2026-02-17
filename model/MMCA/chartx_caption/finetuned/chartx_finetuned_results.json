@@ -1,0 +1,32 @@
+[
+  {
+    "chart_type": "bar_chart",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_87.png",
+    "imgname": "bar_87",
+    "csv": "Employee \\t Salary(USD) \\t Benefits(USD) \\n John \\t 5000 \\t 1400 \\n Sarah \\t 4500 \\t 1300 \\n David \\t 4600 \\t 1200 \\n Jane \\t 4200 \\t 1100 \\n ",
+    "title": " Employee salaries and benefits in 2021",
+    "topic": "Human Resources and Employee Management",
+    "model_name": "mPLUG-Owl + Your Fine-tuned Model (MMCA基础)",
+    "generated_caption": "In 2021 , salaries and benefits for Albania was 136,502 million US dollars . Salaries and benefits of Albania increased from 3,432 million US dollars in 2006 to 136,502 million US dollars in 2021 growing at an average annual rate of 26.79 % ."
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_159.png",
+    "imgname": "bar_159",
+    "csv": "Country \\t Charitable Donations (million) \\t Nonprofit Organizations \\n USA \\t 2000 \\t 550 \\n UK \\t 1500 \\t 450 \\n Germany \\t 1000 \\t 350 \\n France \\t 1800 \\t 400 \\n ",
+    "title": " Charitable Donations and Nonprofit Organizations in four countries in 2021",
+    "topic": "Charity and Nonprofit Organizations",
+    "model_name": "mPLUG-Owl + Your Fine-tuned Model (MMCA基础)",
+    "generated_caption": "In 2020 , private charitable donations and foundations for Myanmar was 112 million US dollars . Though Myanmar private charitable donations and foundations fluctuated substantially in recent years , it tended to increase through 2011 - 2020 period ending at 112 million US dollars in 2020 ."
+  },
+  {
+    "chart_type": "bar_chart",
+    "img": "/data/jguo376/project/dataset/ChartX_dataset/ChartX/bar_chart/png/bar_96.png",
+    "imgname": "bar_96",
+    "csv": "Region \\t CO2 Emissions(tonnes/year) \\t Renewable Energy Usage(%) \\n North America \\t 100000 \\t 25 \\n South America \\t 70000 \\t 30 \\n Europe \\t 80000 \\t 35 \\n Asia \\t 120000 \\t 20 \\n ",
+    "title": " CO2 Emissions and Renewable Energy Usage in four regions in 2021",
+    "topic": "Environment and Sustainability",
+    "model_name": "mPLUG-Owl + Your Fine-tuned Model (MMCA基础)",
+    "generated_caption": "In 2017 , CO2 emissions from gaseous fuels for Central America ( Honduras ) was 0.17 thousand metric tons . CO2 emissions from gaseous fuels of Central America ( Honduras ) increased from 0.14 thousand metric tons in 2003 to 0.17 thousand metric tons in 2017 growing at an average annual rate of 2.18 % ."
+  }
+]

@@ -1,0 +1,756 @@
+{"id": "bar_82_description", "sentence_scores": [0.88330078125, 0.69482421875, 0.73486328125, 0.7783203125], "caption_score": 0.69482421875}
+{"id": "bar_82_summarization", "sentence_scores": [0.8828125, 0.8427734375, 0.82763671875], "caption_score": 0.82763671875}
+{"id": "bar_282_description", "sentence_scores": [0.76025390625, 0.61962890625, 0.64013671875, 0.630859375, 0.7119140625], "caption_score": 0.61962890625}
+{"id": "bar_282_summarization", "sentence_scores": [0.7021484375, 0.865234375, 0.58984375, 0.88427734375, 0.65380859375], "caption_score": 0.58984375}
+{"id": "bar_407_description", "sentence_scores": [0.6591796875, 0.5810546875, 0.62646484375, 0.67236328125, 0.7890625], "caption_score": 0.5810546875}
+{"id": "bar_407_summarization", "sentence_scores": [0.6025390625, 0.724609375, 0.7802734375], "caption_score": 0.6025390625}
+{"id": "bar_164_description", "sentence_scores": [0.7314453125, 0.82470703125], "caption_score": 0.7314453125}
+{"id": "bar_164_summarization", "sentence_scores": [0.8505859375, 0.83056640625, 0.81494140625, 0.8271484375], "caption_score": 0.81494140625}
+{"id": "bar_171_description", "sentence_scores": [0.6318359375, 0.76904296875], "caption_score": 0.6318359375}
+{"id": "bar_242_description", "sentence_scores": [0.84912109375, 0.8017578125, 0.78857421875, 0.828125], "caption_score": 0.78857421875}
+{"id": "bar_242_summarization", "sentence_scores": [0.837890625, 0.654296875, 0.732421875, 0.7802734375, 0.75], "caption_score": 0.654296875}
+{"id": "bar_243_description", "sentence_scores": [0.64501953125, 0.79443359375, 0.8349609375, 0.5869140625], "caption_score": 0.5869140625}
+{"id": "bar_243_summarization", "sentence_scores": [0.8125, 0.85302734375, 0.81005859375, 0.85546875], "caption_score": 0.81005859375}
+{"id": "bar_266_description", "sentence_scores": [0.78125, 0.7080078125, 0.466064453125, 0.58984375, 0.7841796875], "caption_score": 0.466064453125}
+{"id": "bar_266_summarization", "sentence_scores": [0.75341796875, 0.5361328125, 0.8583984375, 0.72216796875, 0.7734375], "caption_score": 0.5361328125}
+{"id": "bar_393_description", "sentence_scores": [0.6748046875, 0.52490234375, 0.7978515625], "caption_score": 0.52490234375}
+{"id": "bar_341_description", "sentence_scores": [0.837890625, 0.58544921875, 0.6025390625, 0.5986328125, 0.82421875], "caption_score": 0.58544921875}
+{"id": "bar_341_summarization", "sentence_scores": [0.7900390625, 0.57763671875, 0.6220703125, 0.64990234375, 0.80078125, 0.79443359375], "caption_score": 0.57763671875}
+{"id": "bar_74_description", "sentence_scores": [0.56103515625, 0.615234375, 0.75, 0.60791015625, 0.7197265625], "caption_score": 0.56103515625}
+{"id": "bar_74_summarization", "sentence_scores": [0.83349609375, 0.861328125, 0.8486328125, 0.521484375, 0.58642578125], "caption_score": 0.521484375}
+{"id": "bar_220_description", "sentence_scores": [0.71826171875, 0.548828125, 0.5126953125, 0.59765625, 0.88330078125], "caption_score": 0.5126953125}
+{"id": "bar_220_summarization", "sentence_scores": [0.80712890625, 0.87451171875, 0.568359375, 0.8125], "caption_score": 0.568359375}
+{"id": "bar_427_description", "sentence_scores": [0.51904296875, 0.78857421875], "caption_score": 0.51904296875}
+{"id": "bar_139_description", "sentence_scores": [0.8623046875, 0.83544921875], "caption_score": 0.83544921875}
+{"id": "bar_139_summarization", "sentence_scores": [0.83349609375, 0.80908203125, 0.75048828125, 0.64013671875, 0.806640625], "caption_score": 0.64013671875}
+{"id": "bar_203_description", "sentence_scores": [0.6171875, 0.84521484375, 0.73583984375, 0.76953125], "caption_score": 0.6171875}
+{"id": "bar_203_summarization", "sentence_scores": [0.81005859375, 0.78759765625, 0.8330078125, 0.81787109375], "caption_score": 0.78759765625}
+{"id": "bar_302_description", "sentence_scores": [0.798828125, 0.7138671875], "caption_score": 0.7138671875}
+{"id": "bar_302_summarization", "sentence_scores": [0.7841796875, 0.50146484375, 0.75, 0.818359375], "caption_score": 0.50146484375}
+{"id": "bar_141_description", "sentence_scores": [0.8251953125, 0.80859375, 0.84375, 0.8271484375], "caption_score": 0.80859375}
+{"id": "bar_141_summarization", "sentence_scores": [0.88818359375, 0.8876953125, 0.83642578125, 0.77978515625], "caption_score": 0.77978515625}
+{"id": "bar_31_description", "sentence_scores": [0.849609375, 0.75830078125, 0.77392578125], "caption_score": 0.75830078125}
+{"id": "bar_31_summarization", "sentence_scores": [0.869140625, 0.8447265625, 0.744140625, 0.77734375, 0.82080078125], "caption_score": 0.744140625}
+{"id": "bar_386_description", "sentence_scores": [0.80078125, 0.5146484375, 0.81396484375, 0.7900390625, 0.79443359375], "caption_score": 0.5146484375}
+{"id": "bar_386_summarization", "sentence_scores": [0.75390625, 0.86865234375, 0.84326171875, 0.79833984375, 0.83642578125], "caption_score": 0.75390625}
+{"id": "bar_292_description", "sentence_scores": [0.80029296875, 0.8212890625, 0.8056640625, 0.580078125, 0.83642578125], "caption_score": 0.580078125}
+{"id": "bar_392_description", "sentence_scores": [0.73046875, 0.54833984375, 0.80810546875, 0.8369140625], "caption_score": 0.54833984375}
+{"id": "bar_392_summarization", "sentence_scores": [0.90185546875, 0.85009765625, 0.55126953125, 0.77392578125, 0.7744140625], "caption_score": 0.55126953125}
+{"id": "bar_254_description", "sentence_scores": [0.8779296875, 0.486083984375, 0.47119140625, 0.697265625, 0.75537109375], "caption_score": 0.47119140625}
+{"id": "bar_426_description", "sentence_scores": [0.83935546875, 0.78369140625, 0.7861328125], "caption_score": 0.78369140625}
+{"id": "bar_181_description", "sentence_scores": [0.6611328125, 0.7939453125, 0.677734375, 0.83203125], "caption_score": 0.6611328125}
+{"id": "bar_181_summarization", "sentence_scores": [0.87353515625, 0.71826171875, 0.8701171875, 0.79443359375], "caption_score": 0.71826171875}
+{"id": "bar_219_description", "sentence_scores": [0.6591796875, 0.76513671875, 0.53857421875, 0.853515625], "caption_score": 0.53857421875}
+{"id": "bar_219_summarization", "sentence_scores": [0.88330078125, 0.54833984375, 0.88916015625, 0.53369140625], "caption_score": 0.53369140625}
+{"id": "bar_366_description", "sentence_scores": [0.8203125, 0.77880859375], "caption_score": 0.77880859375}
+{"id": "bar_366_summarization", "sentence_scores": [0.88134765625, 0.4912109375, 0.84521484375, 0.82861328125], "caption_score": 0.4912109375}
+{"id": "bar_135_description", "sentence_scores": [0.880859375, 0.80126953125, 0.78076171875, 0.6787109375, 0.83056640625], "caption_score": 0.6787109375}
+{"id": "bar_135_summarization", "sentence_scores": [0.75634765625, 0.85400390625, 0.8720703125, 0.828125, 0.828125], "caption_score": 0.75634765625}
+{"id": "bar_478_description", "sentence_scores": [0.8193359375, 0.6865234375, 0.6962890625, 0.80078125, 0.83740234375], "caption_score": 0.6865234375}
+{"id": "bar_478_summarization", "sentence_scores": [0.89892578125, 0.78662109375, 0.82177734375], "caption_score": 0.78662109375}
+{"id": "bar_201_description", "sentence_scores": [0.5615234375, 0.9072265625, 0.50732421875, 0.75, 0.60888671875], "caption_score": 0.50732421875}
+{"id": "bar_201_summarization", "sentence_scores": [0.61328125, 0.82177734375, 0.79345703125, 0.724609375], "caption_score": 0.61328125}
+{"id": "bar_348_description", "sentence_scores": [0.43603515625, 0.65478515625, 0.66943359375, 0.5791015625], "caption_score": 0.43603515625}
+{"id": "bar_348_summarization", "sentence_scores": [0.82373046875, 0.77880859375, 0.6826171875, 0.796875, 0.78369140625], "caption_score": 0.6826171875}
+{"id": "bar_367_description", "sentence_scores": [0.8251953125, 0.8291015625, 0.8154296875], "caption_score": 0.8154296875}
+{"id": "bar_367_summarization", "sentence_scores": [0.80078125, 0.84228515625, 0.765625, 0.68798828125, 0.329345703125], "caption_score": 0.329345703125}
+{"id": "bar_423_description", "sentence_scores": [0.8525390625, 0.83154296875, 0.8330078125], "caption_score": 0.83154296875}
+{"id": "bar_423_summarization", "sentence_scores": [0.8046875, 0.5078125, 0.429931640625, 0.767578125, 0.830078125, 0.55029296875], "caption_score": 0.429931640625}
+{"id": "bar_408_description", "sentence_scores": [0.54833984375, 0.5615234375, 0.51220703125, 0.8076171875, 0.53076171875], "caption_score": 0.51220703125}
+{"id": "bar_408_summarization", "sentence_scores": [0.8154296875, 0.75439453125, 0.40576171875, 0.78076171875], "caption_score": 0.40576171875}
+{"id": "bar_384_description", "sentence_scores": [0.7607421875, 0.64013671875, 0.68896484375, 0.6357421875, 0.86083984375, 0.86474609375], "caption_score": 0.6357421875}
+{"id": "bar_457_description", "sentence_scores": [0.72998046875, 0.7900390625, 0.57373046875, 0.845703125, 0.8564453125], "caption_score": 0.57373046875}
+{"id": "bar_457_summarization", "sentence_scores": [0.75830078125, 0.8134765625, 0.83935546875], "caption_score": 0.75830078125}
+{"id": "bar_269_description", "sentence_scores": [0.481689453125, 0.8330078125, 0.64892578125, 0.68896484375, 0.79052734375], "caption_score": 0.481689453125}
+{"id": "bar_269_summarization", "sentence_scores": [0.64599609375, 0.80712890625, 0.80322265625, 0.8603515625, 0.771484375], "caption_score": 0.64599609375}
+{"id": "bar_148_description", "sentence_scores": [0.84716796875, 0.7509765625, 0.72314453125, 0.76025390625, 0.75146484375, 0.548828125], "caption_score": 0.548828125}
+{"id": "bar_148_summarization", "sentence_scores": [0.794921875, 0.88134765625, 0.4501953125, 0.79736328125], "caption_score": 0.4501953125}
+{"id": "bar_377_description", "sentence_scores": [0.53955078125, 0.75634765625], "caption_score": 0.53955078125}
+{"id": "bar_377_summarization", "sentence_scores": [0.73779296875, 0.70263671875, 0.70166015625, 0.51171875, 0.66162109375, 0.634765625], "caption_score": 0.51171875}
+{"id": "bar_48_description", "sentence_scores": [0.765625, 0.587890625, 0.59619140625, 0.73095703125], "caption_score": 0.587890625}
+{"id": "bar_48_summarization", "sentence_scores": [0.8134765625, 0.79052734375, 0.62451171875, 0.5830078125, 0.57861328125, 0.8037109375], "caption_score": 0.57861328125}
+{"id": "bar_277_description", "sentence_scores": [0.84521484375, 0.76611328125, 0.8447265625, 0.85498046875], "caption_score": 0.76611328125}
+{"id": "bar_277_summarization", "sentence_scores": [0.744140625, 0.69970703125, 0.74267578125, 0.76513671875, 0.74853515625], "caption_score": 0.69970703125}
+{"id": "bar_172_description", "sentence_scores": [0.88134765625, 0.75146484375, 0.78076171875, 0.859375, 0.7490234375], "caption_score": 0.7490234375}
+{"id": "bar_172_summarization", "sentence_scores": [0.8330078125, 0.82177734375, 0.57568359375, 0.446044921875, 0.7783203125, 0.80859375], "caption_score": 0.446044921875}
+{"id": "bar_27_description", "sentence_scores": [0.8681640625, 0.81884765625, 0.474853515625, 0.572265625, 0.53662109375], "caption_score": 0.474853515625}
+{"id": "bar_27_summarization", "sentence_scores": [0.87646484375, 0.69775390625, 0.7470703125, 0.662109375], "caption_score": 0.662109375}
+{"id": "bar_167_description", "sentence_scores": [0.55908203125, 0.828125, 0.54541015625, 0.521484375], "caption_score": 0.521484375}
+{"id": "bar_167_summarization", "sentence_scores": [0.84228515625, 0.77978515625, 0.80029296875, 0.84423828125], "caption_score": 0.77978515625}
+{"id": "bar_283_description", "sentence_scores": [0.57470703125, 0.6416015625, 0.681640625, 0.830078125], "caption_score": 0.57470703125}
+{"id": "bar_283_summarization", "sentence_scores": [0.857421875, 0.55126953125, 0.81494140625, 0.78369140625, 0.8037109375], "caption_score": 0.55126953125}
+{"id": "bar_67_description", "sentence_scores": [0.751953125, 0.56591796875, 0.6220703125, 0.57470703125, 0.72802734375], "caption_score": 0.56591796875}
+{"id": "bar_96_description", "sentence_scores": [0.509765625, 0.79248046875, 0.79638671875, 0.81787109375, 0.53759765625], "caption_score": 0.509765625}
+{"id": "bar_96_summarization", "sentence_scores": [0.826171875, 0.8701171875, 0.8291015625, 0.77880859375, 0.77734375], "caption_score": 0.77734375}
+{"id": "bar_78_description", "sentence_scores": [0.61669921875, 0.7353515625, 0.62841796875, 0.62158203125, 0.6240234375], "caption_score": 0.61669921875}
+{"id": "bar_78_summarization", "sentence_scores": [0.78076171875, 0.88671875, 0.79296875, 0.80078125, 0.8271484375], "caption_score": 0.78076171875}
+{"id": "bar_403_description", "sentence_scores": [0.70458984375, 0.7802734375, 0.5654296875, 0.7333984375], "caption_score": 0.5654296875}
+{"id": "bar_197_description", "sentence_scores": [0.59521484375, 0.82421875], "caption_score": 0.59521484375}
+{"id": "bar_197_summarization", "sentence_scores": [0.779296875, 0.5380859375, 0.8154296875, 0.8583984375, 0.8681640625], "caption_score": 0.5380859375}
+{"id": "bar_244_description", "sentence_scores": [0.64111328125, 0.43603515625, 0.62939453125, 0.775390625, 0.8330078125], "caption_score": 0.43603515625}
+{"id": "bar_244_summarization", "sentence_scores": [0.5048828125, 0.70849609375, 0.7705078125, 0.72509765625], "caption_score": 0.5048828125}
+{"id": "line_164_description", "sentence_scores": [0.5078125, 0.7900390625, 0.447265625, 0.418701171875, 0.489990234375], "caption_score": 0.418701171875}
+{"id": "line_164_summarization", "sentence_scores": [0.8671875, 0.6357421875, 0.83203125, 0.71435546875, 0.75830078125], "caption_score": 0.6357421875}
+{"id": "line_285_description", "sentence_scores": [0.8291015625, 0.8369140625, 0.826171875, 0.8525390625, 0.83251953125], "caption_score": 0.826171875}
+{"id": "line_285_summarization", "sentence_scores": [0.5673828125, 0.56591796875, 0.8310546875, 0.81982421875, 0.79248046875], "caption_score": 0.56591796875}
+{"id": "line_359_description", "sentence_scores": [0.857421875, 0.7744140625, 0.787109375], "caption_score": 0.7744140625}
+{"id": "line_303_description", "sentence_scores": [0.8720703125, 0.833984375, 0.80322265625, 0.8408203125, 0.5810546875], "caption_score": 0.5810546875}
+{"id": "line_303_summarization", "sentence_scores": [0.86083984375, 0.6787109375, 0.7822265625, 0.63134765625], "caption_score": 0.63134765625}
+{"id": "line_224_description", "sentence_scores": [0.7900390625, 0.73828125, 0.67919921875], "caption_score": 0.67919921875}
+{"id": "line_224_summarization", "sentence_scores": [0.82470703125, 0.7939453125, 0.57568359375, 0.44677734375, 0.49365234375, 0.488037109375], "caption_score": 0.44677734375}
+{"id": "line_364_description", "sentence_scores": [0.84033203125, 0.8427734375, 0.71533203125, 0.7822265625, 0.69580078125, 0.70751953125, 0.7724609375], "caption_score": 0.69580078125}
+{"id": "line_364_summarization", "sentence_scores": [0.463623046875, 0.441162109375, 0.751953125, 0.8623046875, 0.79345703125], "caption_score": 0.441162109375}
+{"id": "line_407_description", "sentence_scores": [0.46728515625, 0.802734375, 0.78369140625, 0.80419921875], "caption_score": 0.46728515625}
+{"id": "line_157_description", "sentence_scores": [0.5390625, 0.8076171875, 0.63916015625, 0.79248046875, 0.751953125], "caption_score": 0.5390625}
+{"id": "line_157_summarization", "sentence_scores": [0.78466796875, 0.71533203125, 0.61376953125, 0.7998046875, 0.7060546875], "caption_score": 0.61376953125}
+{"id": "line_166_description", "sentence_scores": [0.61279296875, 0.462646484375, 0.8740234375, 0.83251953125, 0.72412109375, 0.724609375], "caption_score": 0.462646484375}
+{"id": "line_166_summarization", "sentence_scores": [0.7998046875, 0.82568359375, 0.828125, 0.45703125, 0.77880859375], "caption_score": 0.45703125}
+{"id": "line_208_description", "sentence_scores": [0.55810546875, 0.5302734375, 0.802734375, 0.82666015625], "caption_score": 0.5302734375}
+{"id": "line_208_summarization", "sentence_scores": [0.88916015625, 0.75146484375, 0.78662109375, 0.86083984375], "caption_score": 0.75146484375}
+{"id": "line_76_description", "sentence_scores": [0.75341796875, 0.8583984375, 0.89453125, 0.88818359375], "caption_score": 0.75341796875}
+{"id": "line_76_summarization", "sentence_scores": [0.85986328125, 0.896484375, 0.833984375, 0.8076171875, 0.8291015625], "caption_score": 0.8076171875}
+{"id": "line_432_description", "sentence_scores": [0.822265625, 0.78564453125, 0.82421875, 0.70654296875], "caption_score": 0.70654296875}
+{"id": "line_432_summarization", "sentence_scores": [0.73681640625, 0.396484375, 0.6875, 0.5654296875, 0.72705078125], "caption_score": 0.396484375}
+{"id": "line_10_description", "sentence_scores": [0.6279296875, 0.6328125, 0.7509765625], "caption_score": 0.6279296875}
+{"id": "line_10_summarization", "sentence_scores": [0.77490234375, 0.81298828125, 0.7451171875, 0.79345703125], "caption_score": 0.7451171875}
+{"id": "line_1_description", "sentence_scores": [0.57080078125, 0.671875, 0.84130859375, 0.68603515625, 0.82666015625, 0.78466796875], "caption_score": 0.57080078125}
+{"id": "line_1_summarization", "sentence_scores": [0.625, 0.91845703125, 0.40380859375, 0.76416015625, 0.85986328125], "caption_score": 0.40380859375}
+{"id": "line_308_description", "sentence_scores": [0.58251953125, 0.84814453125, 0.90234375, 0.79443359375, 0.65771484375, 0.736328125], "caption_score": 0.58251953125}
+{"id": "line_419_description", "sentence_scores": [0.8076171875, 0.8037109375, 0.77587890625, 0.76220703125], "caption_score": 0.76220703125}
+{"id": "line_468_description", "sentence_scores": [0.85791015625, 0.7587890625, 0.7880859375, 0.61376953125], "caption_score": 0.61376953125}
+{"id": "line_468_summarization", "sentence_scores": [0.79296875, 0.568359375, 0.88330078125], "caption_score": 0.568359375}
+{"id": "line_412_description", "sentence_scores": [0.75, 0.84375, 0.8046875, 0.80029296875], "caption_score": 0.75}
+{"id": "line_412_summarization", "sentence_scores": [0.54638671875, 0.54296875, 0.8232421875, 0.58544921875, 0.7041015625, 0.810546875], "caption_score": 0.54296875}
+{"id": "line_360_description", "sentence_scores": [0.78564453125, 0.70849609375, 0.75, 0.822265625, 0.74072265625], "caption_score": 0.70849609375}
+{"id": "line_478_description", "sentence_scores": [0.7470703125, 0.5224609375, 0.859375, 0.7861328125, 0.71533203125, 0.76171875, 0.7900390625], "caption_score": 0.5224609375}
+{"id": "line_478_summarization", "sentence_scores": [0.81103515625, 0.77978515625, 0.86083984375, 0.857421875], "caption_score": 0.77978515625}
+{"id": "line_40_description", "sentence_scores": [0.90576171875, 0.76806640625, 0.802734375, 0.78857421875], "caption_score": 0.76806640625}
+{"id": "line_40_summarization", "sentence_scores": [0.418701171875, 0.7861328125, 0.880859375, 0.90576171875], "caption_score": 0.418701171875}
+{"id": "line_280_description", "sentence_scores": [0.76953125, 0.82373046875, 0.71533203125, 0.8583984375, 0.73828125, 0.8515625], "caption_score": 0.71533203125}
+{"id": "line_280_summarization", "sentence_scores": [0.66259765625, 0.6123046875, 0.81298828125, 0.9091796875, 0.72998046875, 0.67822265625], "caption_score": 0.6123046875}
+{"id": "line_300_description", "sentence_scores": [0.83740234375, 0.5888671875, 0.64208984375, 0.775390625, 0.64599609375], "caption_score": 0.5888671875}
+{"id": "line_300_summarization", "sentence_scores": [0.7294921875, 0.8359375, 0.8134765625], "caption_score": 0.7294921875}
+{"id": "line_249_description", "sentence_scores": [0.8623046875, 0.83984375, 0.8154296875, 0.84765625, 0.83349609375], "caption_score": 0.8154296875}
+{"id": "line_249_summarization", "sentence_scores": [0.888671875, 0.8154296875, 0.84423828125], "caption_score": 0.8154296875}
+{"id": "line_109_description", "sentence_scores": [0.460205078125, 0.87109375, 0.6494140625], "caption_score": 0.460205078125}
+{"id": "line_109_summarization", "sentence_scores": [0.462890625, 0.362548828125, 0.85546875, 0.84716796875, 0.80029296875], "caption_score": 0.362548828125}
+{"id": "line_214_description", "sentence_scores": [0.81005859375, 0.888671875, 0.8427734375, 0.8134765625, 0.8193359375, 0.818359375], "caption_score": 0.81005859375}
+{"id": "line_293_description", "sentence_scores": [0.475830078125, 0.46044921875, 0.76953125, 0.64892578125], "caption_score": 0.46044921875}
+{"id": "line_293_summarization", "sentence_scores": [0.6865234375, 0.76416015625, 0.78369140625, 0.86669921875], "caption_score": 0.6865234375}
+{"id": "line_180_description", "sentence_scores": [0.83642578125, 0.5654296875, 0.830078125, 0.59716796875, 0.83642578125], "caption_score": 0.5654296875}
+{"id": "line_180_summarization", "sentence_scores": [0.82421875, 0.80078125, 0.8330078125], "caption_score": 0.80078125}
+{"id": "line_456_description", "sentence_scores": [0.86328125, 0.76220703125, 0.779296875, 0.533203125, 0.4326171875], "caption_score": 0.4326171875}
+{"id": "line_456_summarization", "sentence_scores": [0.76220703125, 0.7431640625, 0.8388671875], "caption_score": 0.7431640625}
+{"id": "line_310_description", "sentence_scores": [0.43115234375, 0.5673828125, 0.5087890625, 0.708984375], "caption_score": 0.43115234375}
+{"id": "line_310_summarization", "sentence_scores": [0.80078125, 0.85400390625, 0.75341796875], "caption_score": 0.75341796875}
+{"id": "line_332_description", "sentence_scores": [0.77734375, 0.8291015625, 0.818359375, 0.794921875, 0.7822265625], "caption_score": 0.77734375}
+{"id": "line_382_description", "sentence_scores": [0.87353515625, 0.66064453125, 0.6943359375, 0.58935546875], "caption_score": 0.58935546875}
+{"id": "line_382_summarization", "sentence_scores": [0.81103515625, 0.5654296875, 0.77880859375, 0.83447265625], "caption_score": 0.5654296875}
+{"id": "line_236_description", "sentence_scores": [0.6787109375, 0.81201171875, 0.81689453125, 0.75, 0.55224609375, 0.51416015625], "caption_score": 0.51416015625}
+{"id": "line_378_description", "sentence_scores": [0.841796875, 0.82421875, 0.8447265625, 0.8994140625, 0.84130859375], "caption_score": 0.82421875}
+{"id": "line_378_summarization", "sentence_scores": [0.859375, 0.94091796875, 0.876953125, 0.80322265625, 0.82080078125], "caption_score": 0.80322265625}
+{"id": "line_97_description", "sentence_scores": [0.92138671875, 0.783203125, 0.76123046875, 0.56591796875], "caption_score": 0.56591796875}
+{"id": "line_97_summarization", "sentence_scores": [0.525390625, 0.6552734375, 0.79736328125, 0.79150390625], "caption_score": 0.525390625}
+{"id": "line_28_description", "sentence_scores": [0.8095703125, 0.7216796875, 0.7666015625, 0.89453125], "caption_score": 0.7216796875}
+{"id": "line_28_summarization", "sentence_scores": [0.79052734375, 0.744140625, 0.8408203125, 0.77490234375, 0.7705078125], "caption_score": 0.744140625}
+{"id": "line_452_description", "sentence_scores": [0.85205078125, 0.36181640625, 0.85498046875, 0.73291015625], "caption_score": 0.36181640625}
+{"id": "line_452_summarization", "sentence_scores": [0.74853515625, 0.7568359375, 0.79638671875, 0.82861328125], "caption_score": 0.74853515625}
+{"id": "line_13_description", "sentence_scores": [0.7734375, 0.72509765625, 0.82666015625, 0.630859375], "caption_score": 0.630859375}
+{"id": "line_13_summarization", "sentence_scores": [0.498779296875, 0.814453125, 0.82080078125, 0.8134765625], "caption_score": 0.498779296875}
+{"id": "line_415_description", "sentence_scores": [0.765625, 0.640625, 0.8466796875, 0.82421875], "caption_score": 0.640625}
+{"id": "line_415_summarization", "sentence_scores": [0.81640625, 0.5654296875, 0.91015625, 0.8427734375], "caption_score": 0.5654296875}
+{"id": "line_261_description", "sentence_scores": [0.80419921875, 0.76025390625, 0.81005859375, 0.7431640625, 0.8095703125], "caption_score": 0.7431640625}
+{"id": "line_479_description", "sentence_scores": [0.8818359375, 0.76123046875, 0.796875, 0.80517578125, 0.630859375], "caption_score": 0.630859375}
+{"id": "line_479_summarization", "sentence_scores": [0.83154296875, 0.86474609375, 0.81396484375, 0.5107421875, 0.90625], "caption_score": 0.5107421875}
+{"id": "line_392_description", "sentence_scores": [0.52685546875, 0.68994140625, 0.6884765625, 0.666015625, 0.80322265625, 0.8310546875, 0.81396484375], "caption_score": 0.52685546875}
+{"id": "line_386_description", "sentence_scores": [0.8623046875, 0.73974609375, 0.81982421875, 0.56689453125], "caption_score": 0.56689453125}
+{"id": "line_186_description", "sentence_scores": [0.55517578125, 0.82568359375, 0.463623046875], "caption_score": 0.463623046875}
+{"id": "line_150_description", "sentence_scores": [0.8232421875, 0.80615234375, 0.84375, 0.82470703125], "caption_score": 0.80615234375}
+{"id": "line_150_summarization", "sentence_scores": [0.697265625, 0.8232421875, 0.459716796875, 0.7607421875, 0.71923828125], "caption_score": 0.459716796875}
+{"id": "line_460_description", "sentence_scores": [0.5380859375, 0.90185546875], "caption_score": 0.5380859375}
+{"id": "line_460_summarization", "sentence_scores": [0.9013671875, 0.8759765625, 0.830078125, 0.81005859375, 0.94677734375], "caption_score": 0.81005859375}
+{"id": "line_484_description", "sentence_scores": [0.6240234375, 0.53125, 0.73876953125, 0.72119140625, 0.6669921875], "caption_score": 0.53125}
+{"id": "line_317_description", "sentence_scores": [0.8876953125, 0.7744140625, 0.57568359375], "caption_score": 0.57568359375}
+{"id": "line_317_summarization", "sentence_scores": [0.68017578125, 0.77734375, 0.82421875, 0.78173828125, 0.57080078125], "caption_score": 0.57080078125}
+{"id": "line_316_description", "sentence_scores": [0.75830078125, 0.76025390625, 0.74560546875], "caption_score": 0.74560546875}
+{"id": "line_316_summarization", "sentence_scores": [0.6279296875, 0.455810546875, 0.666015625, 0.541015625, 0.51416015625, 0.6796875], "caption_score": 0.455810546875}
+{"id": "line_350_description", "sentence_scores": [0.6728515625, 0.6845703125, 0.8095703125, 0.73876953125, 0.72900390625], "caption_score": 0.6728515625}
+{"id": "line_350_summarization", "sentence_scores": [0.8525390625, 0.54052734375, 0.86669921875, 0.83544921875], "caption_score": 0.54052734375}
+{"id": "pie_394_description", "sentence_scores": [0.7490234375, 0.796875, 0.55908203125], "caption_score": 0.55908203125}
+{"id": "pie_394_summarization", "sentence_scores": [0.79443359375, 0.48486328125, 0.83056640625, 0.72412109375, 0.86962890625], "caption_score": 0.48486328125}
+{"id": "pie_149_description", "sentence_scores": [0.72900390625, 0.849609375, 0.60400390625], "caption_score": 0.60400390625}
+{"id": "pie_149_summarization", "sentence_scores": [0.8046875, 0.705078125, 0.548828125, 0.79638671875, 0.79833984375], "caption_score": 0.548828125}
+{"id": "pie_87_description", "sentence_scores": [0.48779296875, 0.79833984375], "caption_score": 0.48779296875}
+{"id": "pie_87_summarization", "sentence_scores": [0.8564453125, 0.78759765625, 0.88330078125], "caption_score": 0.78759765625}
+{"id": "pie_174_description", "sentence_scores": [0.82177734375, 0.66650390625, 0.76123046875, 0.6201171875], "caption_score": 0.6201171875}
+{"id": "pie_174_summarization", "sentence_scores": [0.814453125, 0.6005859375, 0.8701171875, 0.58154296875, 0.6044921875, 0.8251953125], "caption_score": 0.58154296875}
+{"id": "pie_140_description", "sentence_scores": [0.736328125, 0.72802734375, 0.79052734375, 0.69189453125], "caption_score": 0.69189453125}
+{"id": "pie_102_description", "sentence_scores": [0.7783203125, 0.79736328125], "caption_score": 0.7783203125}
+{"id": "pie_102_summarization", "sentence_scores": [0.50244140625, 0.86376953125, 0.76611328125, 0.8193359375, 0.71630859375], "caption_score": 0.50244140625}
+{"id": "pie_165_description", "sentence_scores": [0.640625, 0.8505859375], "caption_score": 0.640625}
+{"id": "pie_165_summarization", "sentence_scores": [0.78564453125, 0.5771484375, 0.7275390625, 0.86376953125], "caption_score": 0.5771484375}
+{"id": "pie_69_description", "sentence_scores": [0.68798828125, 0.5849609375, 0.54541015625, 0.734375], "caption_score": 0.54541015625}
+{"id": "pie_69_summarization", "sentence_scores": [0.79296875, 0.54638671875, 0.89501953125, 0.8359375], "caption_score": 0.54638671875}
+{"id": "pie_186_description", "sentence_scores": [0.572265625, 0.88720703125], "caption_score": 0.572265625}
+{"id": "pie_186_summarization", "sentence_scores": [0.71826171875, 0.80615234375, 0.880859375, 0.79736328125, 0.8447265625, 0.69580078125], "caption_score": 0.69580078125}
+{"id": "pie_351_description", "sentence_scores": [0.63720703125, 0.90576171875], "caption_score": 0.63720703125}
+{"id": "pie_224_description", "sentence_scores": [0.798828125, 0.8095703125, 0.857421875], "caption_score": 0.798828125}
+{"id": "pie_224_summarization", "sentence_scores": [0.7822265625, 0.67041015625, 0.69775390625, 0.335693359375, 0.853515625], "caption_score": 0.335693359375}
+{"id": "pie_7_description", "sentence_scores": [0.6884765625, 0.5244140625, 0.63720703125, 0.252685546875], "caption_score": 0.252685546875}
+{"id": "pie_7_summarization", "sentence_scores": [0.89599609375, 0.83642578125, 0.423583984375, 0.7333984375, 0.5078125, 0.59619140625], "caption_score": 0.423583984375}
+{"id": "pie_314_description", "sentence_scores": [0.859375, 0.599609375, 0.74462890625], "caption_score": 0.599609375}
+{"id": "pie_314_summarization", "sentence_scores": [0.8369140625, 0.82666015625, 0.9169921875, 0.8857421875], "caption_score": 0.82666015625}
+{"id": "pie_185_description", "sentence_scores": [0.67138671875, 0.83251953125], "caption_score": 0.67138671875}
+{"id": "pie_289_description", "sentence_scores": [0.53662109375, 0.634765625, 0.755859375, 0.716796875], "caption_score": 0.53662109375}
+{"id": "pie_306_description", "sentence_scores": [0.70947265625, 0.822265625], "caption_score": 0.70947265625}
+{"id": "pie_306_summarization", "sentence_scores": [0.81103515625, 0.69287109375, 0.85400390625, 0.8974609375, 0.55810546875], "caption_score": 0.55810546875}
+{"id": "pie_153_description", "sentence_scores": [0.61767578125, 0.66064453125, 0.650390625], "caption_score": 0.61767578125}
+{"id": "pie_384_description", "sentence_scores": [0.62109375, 0.8212890625, 0.8037109375, 0.5302734375], "caption_score": 0.5302734375}
+{"id": "pie_384_summarization", "sentence_scores": [0.7666015625, 0.6640625, 0.83837890625, 0.87646484375, 0.52392578125, 0.54443359375], "caption_score": 0.52392578125}
+{"id": "pie_447_description", "sentence_scores": [0.75244140625, 0.7001953125, 0.77001953125], "caption_score": 0.7001953125}
+{"id": "pie_447_summarization", "sentence_scores": [0.853515625, 0.71435546875, 0.58642578125, 0.8251953125, 0.484619140625], "caption_score": 0.484619140625}
+{"id": "pie_448_description", "sentence_scores": [0.81103515625, 0.810546875, 0.54443359375, 0.69189453125], "caption_score": 0.54443359375}
+{"id": "pie_143_description", "sentence_scores": [0.67333984375, 0.76806640625], "caption_score": 0.67333984375}
+{"id": "pie_143_summarization", "sentence_scores": [0.5166015625, 0.7783203125, 0.88134765625, 0.48828125, 0.80078125], "caption_score": 0.48828125}
+{"id": "pie_397_description", "sentence_scores": [0.58544921875, 0.849609375, 0.77978515625, 0.5576171875], "caption_score": 0.5576171875}
+{"id": "pie_397_summarization", "sentence_scores": [0.5986328125, 0.81396484375, 0.89501953125, 0.88134765625, 0.51318359375, 0.59228515625], "caption_score": 0.51318359375}
+{"id": "pie_187_description", "sentence_scores": [0.50244140625, 0.88037109375, 0.77392578125], "caption_score": 0.50244140625}
+{"id": "pie_180_description", "sentence_scores": [0.57470703125, 0.80419921875, 0.8115234375], "caption_score": 0.57470703125}
+{"id": "pie_180_summarization", "sentence_scores": [0.82470703125, 0.818359375, 0.673828125, 0.90673828125], "caption_score": 0.673828125}
+{"id": "pie_336_description", "sentence_scores": [0.82177734375, 0.5576171875, 0.78564453125], "caption_score": 0.5576171875}
+{"id": "pie_336_summarization", "sentence_scores": [0.85498046875, 0.5966796875, 0.515625, 0.448486328125, 0.76904296875, 0.72998046875], "caption_score": 0.448486328125}
+{"id": "pie_292_description", "sentence_scores": [0.703125, 0.83642578125, 0.62353515625, 0.6357421875], "caption_score": 0.62353515625}
+{"id": "pie_292_summarization", "sentence_scores": [0.88037109375, 0.73095703125, 0.8291015625, 0.89404296875, 0.84912109375], "caption_score": 0.73095703125}
+{"id": "pie_333_description", "sentence_scores": [0.8037109375, 0.57470703125, 0.59716796875, 0.6171875], "caption_score": 0.57470703125}
+{"id": "pie_419_description", "sentence_scores": [0.63720703125, 0.84619140625, 0.62060546875], "caption_score": 0.62060546875}
+{"id": "pie_419_summarization", "sentence_scores": [0.80810546875, 0.80078125, 0.78369140625, 0.81982421875], "caption_score": 0.78369140625}
+{"id": "pie_480_description", "sentence_scores": [0.88037109375, 0.7255859375], "caption_score": 0.7255859375}
+{"id": "pie_221_description", "sentence_scores": [0.689453125, 0.73095703125], "caption_score": 0.689453125}
+{"id": "pie_221_summarization", "sentence_scores": [0.76513671875, 0.7626953125, 0.490966796875, 0.802734375, 0.7939453125], "caption_score": 0.490966796875}
+{"id": "pie_196_description", "sentence_scores": [0.763671875, 0.71630859375, 0.84375], "caption_score": 0.71630859375}
+{"id": "pie_196_summarization", "sentence_scores": [0.81494140625, 0.7744140625, 0.82666015625, 0.501953125], "caption_score": 0.501953125}
+{"id": "pie_367_description", "sentence_scores": [0.6689453125, 0.830078125, 0.83447265625, 0.751953125], "caption_score": 0.6689453125}
+{"id": "pie_112_description", "sentence_scores": [0.68310546875, 0.83447265625, 0.77392578125], "caption_score": 0.68310546875}
+{"id": "pie_112_summarization", "sentence_scores": [0.85302734375, 0.56884765625, 0.6552734375, 0.8486328125, 0.857421875], "caption_score": 0.56884765625}
+{"id": "pie_453_description", "sentence_scores": [0.85498046875, 0.865234375], "caption_score": 0.85498046875}
+{"id": "pie_453_summarization", "sentence_scores": [0.49609375, 0.849609375, 0.82861328125, 0.72021484375, 0.5927734375, 0.84765625], "caption_score": 0.49609375}
+{"id": "pie_203_description", "sentence_scores": [0.640625, 0.38671875, 0.67822265625, 0.443115234375, 0.72119140625], "caption_score": 0.38671875}
+{"id": "pie_26_description", "sentence_scores": [0.6591796875, 0.6181640625, 0.56884765625, 0.56982421875], "caption_score": 0.56884765625}
+{"id": "pie_26_summarization", "sentence_scores": [0.58349609375, 0.7294921875, 0.814453125, 0.67138671875], "caption_score": 0.58349609375}
+{"id": "pie_38_description", "sentence_scores": [0.623046875, 0.8154296875, 0.5380859375], "caption_score": 0.5380859375}
+{"id": "pie_38_summarization", "sentence_scores": [0.50537109375, 0.5546875, 0.5947265625, 0.7626953125, 0.6982421875, 0.849609375], "caption_score": 0.50537109375}
+{"id": "pie_298_description", "sentence_scores": [0.52392578125, 0.6044921875, 0.5712890625, 0.40380859375], "caption_score": 0.40380859375}
+{"id": "pie_298_summarization", "sentence_scores": [0.66748046875, 0.75244140625, 0.6318359375, 0.455810546875, 0.56884765625], "caption_score": 0.455810546875}
+{"id": "pie_500_description", "sentence_scores": [0.8154296875, 0.55908203125, 0.654296875, 0.818359375], "caption_score": 0.55908203125}
+{"id": "pie_500_summarization", "sentence_scores": [0.91015625, 0.86328125, 0.8720703125, 0.72119140625, 0.958984375], "caption_score": 0.72119140625}
+{"id": "pie_307_description", "sentence_scores": [0.81494140625, 0.80615234375], "caption_score": 0.80615234375}
+{"id": "pie_307_summarization", "sentence_scores": [0.8466796875, 0.77880859375, 0.83154296875, 0.6591796875], "caption_score": 0.6591796875}
+{"id": "pie_135_description", "sentence_scores": [0.77880859375, 0.84814453125, 0.72802734375], "caption_score": 0.72802734375}
+{"id": "pie_135_summarization", "sentence_scores": [0.74755859375, 0.7919921875, 0.237060546875, 0.8701171875, 0.64794921875], "caption_score": 0.237060546875}
+{"id": "pie_44_description", "sentence_scores": [0.6279296875, 0.859375], "caption_score": 0.6279296875}
+{"id": "pie_44_summarization", "sentence_scores": [0.6875, 0.286865234375, 0.57763671875, 0.904296875, 0.8212890625], "caption_score": 0.286865234375}
+{"id": "pie_29_description", "sentence_scores": [0.6396484375, 0.69189453125, 0.5888671875, 0.89990234375], "caption_score": 0.5888671875}
+{"id": "pie_29_summarization", "sentence_scores": [0.86181640625, 0.84326171875, 0.73583984375, 0.68603515625], "caption_score": 0.68603515625}
+{"id": "pie_366_description", "sentence_scores": [0.78564453125, 0.640625, 0.71630859375, 0.490478515625], "caption_score": 0.490478515625}
+{"id": "pie_366_summarization", "sentence_scores": [0.8671875, 0.8408203125, 0.55517578125, 0.50732421875, 0.8486328125], "caption_score": 0.50732421875}
+{"id": "pie_308_description", "sentence_scores": [0.67578125, 0.81591796875, 0.7783203125], "caption_score": 0.67578125}
+{"id": "pie_202_description", "sentence_scores": [0.642578125, 0.58935546875, 0.5615234375, 0.599609375], "caption_score": 0.5615234375}
+{"id": "pie_202_summarization", "sentence_scores": [0.5712890625, 0.763671875, 0.62158203125, 0.85986328125], "caption_score": 0.5712890625}
+{"id": "pie_147_description", "sentence_scores": [0.82958984375, 0.57080078125, 0.78466796875], "caption_score": 0.57080078125}
+{"id": "pie_147_summarization", "sentence_scores": [0.81884765625, 0.85693359375, 0.86865234375, 0.84912109375], "caption_score": 0.81884765625}
+{"id": "pie_70_description", "sentence_scores": [0.79052734375, 0.54296875, 0.634765625, 0.80078125], "caption_score": 0.54296875}
+{"id": "pie_70_summarization", "sentence_scores": [0.814453125, 0.57861328125, 0.763671875, 0.89013671875], "caption_score": 0.57861328125}
+{"id": "pie_101_description", "sentence_scores": [0.7890625, 0.791015625, 0.78466796875], "caption_score": 0.78466796875}
+{"id": "pie_101_summarization", "sentence_scores": [0.79443359375, 0.5458984375, 0.8203125, 0.865234375], "caption_score": 0.5458984375}
+{"id": "pie_114_description", "sentence_scores": [0.6708984375, 0.72509765625, 0.81298828125, 0.814453125, 0.8681640625], "caption_score": 0.6708984375}
+{"id": "pie_114_summarization", "sentence_scores": [0.69140625, 0.80126953125, 0.82958984375, 0.55615234375, 0.67822265625, 0.8359375], "caption_score": 0.55615234375}
+{"id": "bar_num_442_description", "sentence_scores": [0.70166015625, 0.50927734375, 0.5927734375, 0.83251953125, 0.62109375], "caption_score": 0.50927734375}
+{"id": "bar_num_402_description", "sentence_scores": [0.72265625, 0.85400390625, 0.830078125, 0.77978515625, 0.890625], "caption_score": 0.72265625}
+{"id": "bar_num_391_description", "sentence_scores": [0.84033203125, 0.576171875, 0.430419921875, 0.5654296875, 0.595703125], "caption_score": 0.430419921875}
+{"id": "bar_num_238_description", "sentence_scores": [0.8984375, 0.54345703125, 0.537109375, 0.71337890625, 0.47412109375], "caption_score": 0.47412109375}
+{"id": "bar_num_269_description", "sentence_scores": [0.60986328125, 0.64453125, 0.497802734375, 0.59375, 0.666015625], "caption_score": 0.497802734375}
+{"id": "bar_num_271_description", "sentence_scores": [0.8212890625, 0.77099609375, 0.767578125, 0.58203125, 0.86328125], "caption_score": 0.58203125}
+{"id": "bar_num_228_description", "sentence_scores": [0.8984375, 0.67626953125, 0.64453125, 0.78125, 0.58740234375], "caption_score": 0.58740234375}
+{"id": "bar_num_11_description", "sentence_scores": [0.81884765625, 0.79248046875, 0.7353515625, 0.73779296875], "caption_score": 0.7353515625}
+{"id": "bar_num_373_description", "sentence_scores": [0.8369140625, 0.55224609375, 0.5146484375, 0.89599609375], "caption_score": 0.5146484375}
+{"id": "bar_num_206_description", "sentence_scores": [0.7880859375, 0.82177734375], "caption_score": 0.7880859375}
+{"id": "bar_num_406_description", "sentence_scores": [0.53857421875, 0.625, 0.8134765625, 0.8154296875], "caption_score": 0.53857421875}
+{"id": "bar_num_450_description", "sentence_scores": [0.85595703125, 0.85791015625], "caption_score": 0.85595703125}
+{"id": "bar_num_136_description", "sentence_scores": [0.8271484375, 0.8369140625, 0.82421875, 0.8369140625, 0.82373046875], "caption_score": 0.82373046875}
+{"id": "bar_num_153_description", "sentence_scores": [0.4853515625, 0.84619140625, 0.7744140625, 0.5908203125, 0.896484375], "caption_score": 0.4853515625}
+{"id": "bar_num_222_description", "sentence_scores": [0.68994140625, 0.880859375, 0.712890625, 0.76806640625, 0.79345703125], "caption_score": 0.68994140625}
+{"id": "bar_num_481_description", "sentence_scores": [0.60009765625, 0.472412109375, 0.59326171875, 0.77978515625], "caption_score": 0.472412109375}
+{"id": "bar_num_219_description", "sentence_scores": [0.5263671875, 0.74755859375, 0.8046875, 0.8779296875, 0.82080078125], "caption_score": 0.5263671875}
+{"id": "bar_num_9_description", "sentence_scores": [0.86767578125, 0.7802734375], "caption_score": 0.7802734375}
+{"id": "bar_num_175_description", "sentence_scores": [0.87060546875, 0.794921875, 0.74853515625, 0.78125, 0.705078125], "caption_score": 0.705078125}
+{"id": "bar_num_413_description", "sentence_scores": [0.77783203125, 0.7373046875, 0.75732421875, 0.74658203125, 0.6142578125, 0.55126953125], "caption_score": 0.55126953125}
+{"id": "bar_num_242_description", "sentence_scores": [0.8095703125, 0.78271484375, 0.62841796875, 0.74658203125, 0.55126953125], "caption_score": 0.55126953125}
+{"id": "bar_num_176_description", "sentence_scores": [0.85693359375, 0.82568359375, 0.7900390625, 0.814453125], "caption_score": 0.7900390625}
+{"id": "bar_num_31_description", "sentence_scores": [0.72802734375, 0.84033203125, 0.492431640625, 0.50341796875, 0.6904296875], "caption_score": 0.492431640625}
+{"id": "bar_num_248_description", "sentence_scores": [0.87890625, 0.4853515625, 0.2037353515625, 0.53759765625, 0.54931640625], "caption_score": 0.2037353515625}
+{"id": "bar_num_24_description", "sentence_scores": [0.69091796875, 0.7880859375, 0.41064453125, 0.775390625], "caption_score": 0.41064453125}
+{"id": "bar_num_412_description", "sentence_scores": [0.888671875, 0.60400390625, 0.43212890625, 0.634765625, 0.6728515625, 0.58203125], "caption_score": 0.43212890625}
+{"id": "bar_num_383_description", "sentence_scores": [0.79150390625, 0.5322265625, 0.463623046875, 0.7744140625], "caption_score": 0.463623046875}
+{"id": "bar_num_317_description", "sentence_scores": [0.61376953125, 0.431396484375, 0.412841796875, 0.413818359375, 0.426513671875], "caption_score": 0.412841796875}
+{"id": "bar_num_348_description", "sentence_scores": [0.65087890625, 0.78466796875], "caption_score": 0.65087890625}
+{"id": "bar_num_399_description", "sentence_scores": [0.611328125, 0.70703125, 0.7880859375, 0.7978515625], "caption_score": 0.611328125}
+{"id": "bar_num_418_description", "sentence_scores": [0.7373046875, 0.8984375, 0.72607421875, 0.7705078125, 0.8154296875], "caption_score": 0.72607421875}
+{"id": "bar_num_461_description", "sentence_scores": [0.77880859375, 0.475341796875, 0.5234375, 0.75146484375, 0.55810546875], "caption_score": 0.475341796875}
+{"id": "bar_num_352_description", "sentence_scores": [0.83935546875, 0.7666015625], "caption_score": 0.7666015625}
+{"id": "bar_num_340_description", "sentence_scores": [0.8583984375, 0.82275390625], "caption_score": 0.82275390625}
+{"id": "bar_num_178_description", "sentence_scores": [0.86474609375, 0.79638671875], "caption_score": 0.79638671875}
+{"id": "bar_num_204_description", "sentence_scores": [0.8486328125, 0.72802734375, 0.716796875, 0.77880859375], "caption_score": 0.716796875}
+{"id": "bar_num_250_description", "sentence_scores": [0.83984375, 0.849609375], "caption_score": 0.83984375}
+{"id": "bar_num_367_description", "sentence_scores": [0.7255859375, 0.8310546875, 0.8544921875, 0.8681640625, 0.86669921875], "caption_score": 0.7255859375}
+{"id": "bar_num_158_description", "sentence_scores": [0.75, 0.79296875, 0.462890625, 0.81787109375], "caption_score": 0.462890625}
+{"id": "bar_num_51_description", "sentence_scores": [0.7353515625, 0.77734375], "caption_score": 0.7353515625}
+{"id": "bar_num_362_description", "sentence_scores": [0.83837890625, 0.7900390625, 0.8564453125, 0.787109375], "caption_score": 0.787109375}
+{"id": "bar_num_377_description", "sentence_scores": [0.8359375, 0.8740234375, 0.74560546875, 0.6015625], "caption_score": 0.6015625}
+{"id": "bar_num_8_description", "sentence_scores": [0.86181640625, 0.650390625, 0.66015625, 0.84521484375], "caption_score": 0.650390625}
+{"id": "bar_num_160_description", "sentence_scores": [0.83935546875, 0.6572265625, 0.86474609375, 0.8515625, 0.65576171875], "caption_score": 0.65576171875}
+{"id": "bar_num_419_description", "sentence_scores": [0.634765625, 0.5458984375, 0.54443359375, 0.78759765625, 0.8427734375], "caption_score": 0.54443359375}
+{"id": "bar_num_239_description", "sentence_scores": [0.8447265625, 0.904296875, 0.489501953125, 0.77734375], "caption_score": 0.489501953125}
+{"id": "bar_num_179_description", "sentence_scores": [0.80419921875, 0.487060546875, 0.521484375, 0.78515625], "caption_score": 0.487060546875}
+{"id": "bar_num_48_description", "sentence_scores": [0.93798828125, 0.5751953125, 0.58935546875, 0.6923828125], "caption_score": 0.5751953125}
+{"id": "bar_num_46_description", "sentence_scores": [0.85791015625, 0.7529296875, 0.7578125, 0.84326171875, 0.560546875], "caption_score": 0.560546875}
+{"id": "bar_num_149_description", "sentence_scores": [0.7802734375, 0.615234375, 0.69482421875, 0.634765625], "caption_score": 0.615234375}
+{"id": "line_num_471_description", "sentence_scores": [0.947265625, 0.912109375, 0.91796875, 0.8818359375], "caption_score": 0.8818359375}
+{"id": "line_num_221_description", "sentence_scores": [0.501953125, 0.861328125], "caption_score": 0.501953125}
+{"id": "line_num_417_description", "sentence_scores": [0.81884765625, 0.7568359375, 0.480712890625, 0.50537109375, 0.414306640625, 0.54638671875], "caption_score": 0.414306640625}
+{"id": "line_num_423_description", "sentence_scores": [0.9111328125, 0.8076171875, 0.87158203125], "caption_score": 0.8076171875}
+{"id": "line_num_55_description", "sentence_scores": [0.86376953125, 0.79638671875, 0.8203125], "caption_score": 0.79638671875}
+{"id": "line_num_415_description", "sentence_scores": [0.890625, 0.72509765625], "caption_score": 0.72509765625}
+{"id": "line_num_297_description", "sentence_scores": [0.845703125, 0.904296875, 0.4189453125, 0.44775390625, 0.424560546875, 0.3134765625], "caption_score": 0.3134765625}
+{"id": "line_num_40_description", "sentence_scores": [0.861328125, 0.33349609375, 0.7919921875], "caption_score": 0.33349609375}
+{"id": "line_num_89_description", "sentence_scores": [0.89404296875, 0.50537109375, 0.76513671875, 0.7939453125, 0.83203125], "caption_score": 0.50537109375}
+{"id": "line_num_171_description", "sentence_scores": [0.78369140625, 0.455078125, 0.74755859375, 0.625], "caption_score": 0.455078125}
+{"id": "line_num_476_description", "sentence_scores": [0.509765625, 0.59765625, 0.6923828125, 0.74267578125], "caption_score": 0.509765625}
+{"id": "line_num_24_description", "sentence_scores": [0.82861328125, 0.81640625, 0.81494140625, 0.666015625], "caption_score": 0.666015625}
+{"id": "line_num_389_description", "sentence_scores": [0.708984375, 0.57275390625, 0.56494140625, 0.57177734375, 0.5], "caption_score": 0.5}
+{"id": "line_num_404_description", "sentence_scores": [0.8515625, 0.8154296875, 0.83447265625], "caption_score": 0.8154296875}
+{"id": "line_num_136_description", "sentence_scores": [0.94482421875, 0.88330078125, 0.859375], "caption_score": 0.859375}
+{"id": "line_num_385_description", "sentence_scores": [0.90185546875, 0.84228515625, 0.8779296875], "caption_score": 0.84228515625}
+{"id": "line_num_387_description", "sentence_scores": [0.87158203125, 0.87451171875, 0.802734375, 0.8173828125, 0.80078125], "caption_score": 0.80078125}
+{"id": "line_num_374_description", "sentence_scores": [0.697265625, 0.79296875, 0.64990234375, 0.87353515625], "caption_score": 0.64990234375}
+{"id": "line_num_65_description", "sentence_scores": [0.6328125, 0.60986328125, 0.73486328125, 0.64990234375, 0.74853515625], "caption_score": 0.60986328125}
+{"id": "line_num_337_description", "sentence_scores": [0.86474609375, 0.8330078125, 0.8720703125], "caption_score": 0.8330078125}
+{"id": "line_num_178_description", "sentence_scores": [0.86328125, 0.59326171875, 0.7890625, 0.7353515625, 0.8291015625], "caption_score": 0.59326171875}
+{"id": "line_num_320_description", "sentence_scores": [0.9267578125, 0.75048828125, 0.7890625], "caption_score": 0.75048828125}
+{"id": "line_num_315_description", "sentence_scores": [0.60302734375, 0.90185546875], "caption_score": 0.60302734375}
+{"id": "line_num_30_description", "sentence_scores": [0.69873046875, 0.912109375, 0.57470703125, 0.810546875, 0.419921875, 0.58447265625], "caption_score": 0.419921875}
+{"id": "line_num_477_description", "sentence_scores": [0.79296875, 0.83056640625, 0.8193359375, 0.6123046875], "caption_score": 0.6123046875}
+{"id": "line_num_275_description", "sentence_scores": [0.8564453125, 0.64794921875, 0.86376953125, 0.86083984375, 0.8212890625], "caption_score": 0.64794921875}
+{"id": "line_num_306_description", "sentence_scores": [0.57177734375, 0.83251953125, 0.74658203125, 0.74609375, 0.68017578125, 0.74072265625], "caption_score": 0.57177734375}
+{"id": "line_num_454_description", "sentence_scores": [0.88037109375, 0.72412109375, 0.6865234375, 0.73193359375, 0.771484375], "caption_score": 0.6865234375}
+{"id": "line_num_35_description", "sentence_scores": [0.75537109375, 0.7490234375, 0.69677734375, 0.477294921875], "caption_score": 0.477294921875}
+{"id": "line_num_118_description", "sentence_scores": [0.5380859375, 0.8427734375, 0.87548828125, 0.8671875], "caption_score": 0.5380859375}
+{"id": "line_num_197_description", "sentence_scores": [0.6474609375, 0.76123046875, 0.74560546875, 0.75634765625, 0.75146484375], "caption_score": 0.6474609375}
+{"id": "line_num_218_description", "sentence_scores": [0.857421875, 0.86865234375, 0.70947265625, 0.62353515625, 0.70458984375], "caption_score": 0.62353515625}
+{"id": "line_num_216_description", "sentence_scores": [0.78173828125, 0.82666015625, 0.59033203125, 0.56005859375], "caption_score": 0.56005859375}
+{"id": "line_num_131_description", "sentence_scores": [0.8154296875, 0.767578125, 0.5751953125, 0.8544921875], "caption_score": 0.5751953125}
+{"id": "line_num_410_description", "sentence_scores": [0.86865234375, 0.64404296875, 0.75927734375, 0.80615234375], "caption_score": 0.64404296875}
+{"id": "line_num_51_description", "sentence_scores": [0.904296875, 0.6748046875, 0.430419921875, 0.513671875], "caption_score": 0.430419921875}
+{"id": "line_num_242_description", "sentence_scores": [0.685546875, 0.82861328125, 0.77587890625, 0.88720703125, 0.69921875], "caption_score": 0.685546875}
+{"id": "line_num_59_description", "sentence_scores": [0.44091796875, 0.5400390625, 0.57470703125, 0.75732421875, 0.6484375, 0.84619140625], "caption_score": 0.44091796875}
+{"id": "line_num_375_description", "sentence_scores": [0.6474609375, 0.7412109375, 0.78955078125, 0.5986328125], "caption_score": 0.5986328125}
+{"id": "line_num_349_description", "sentence_scores": [0.58935546875, 0.78173828125, 0.81494140625, 0.76953125, 0.8193359375], "caption_score": 0.58935546875}
+{"id": "line_num_253_description", "sentence_scores": [0.869140625, 0.857421875, 0.82958984375, 0.74853515625, 0.736328125], "caption_score": 0.736328125}
+{"id": "line_num_254_description", "sentence_scores": [0.4990234375, 0.58544921875, 0.6796875, 0.7109375, 0.75390625], "caption_score": 0.4990234375}
+{"id": "line_num_444_description", "sentence_scores": [0.80908203125, 0.8564453125, 0.80126953125, 0.833984375, 0.7158203125], "caption_score": 0.7158203125}
+{"id": "line_num_294_description", "sentence_scores": [0.88037109375, 0.82568359375, 0.8017578125, 0.77783203125, 0.77734375], "caption_score": 0.77734375}
+{"id": "line_num_164_description", "sentence_scores": [0.83544921875, 0.84033203125, 0.8779296875, 0.8134765625], "caption_score": 0.8134765625}
+{"id": "line_num_3_description", "sentence_scores": [0.904296875, 0.87255859375, 0.85498046875, 0.85791015625, 0.8359375], "caption_score": 0.8359375}
+{"id": "line_num_264_description", "sentence_scores": [0.7890625, 0.77099609375, 0.78466796875, 0.8017578125, 0.7705078125, 0.783203125], "caption_score": 0.7705078125}
+{"id": "line_num_278_description", "sentence_scores": [0.87255859375, 0.8095703125, 0.81787109375, 0.86865234375, 0.80029296875, 0.79931640625], "caption_score": 0.79931640625}
+{"id": "line_num_111_description", "sentence_scores": [0.9013671875, 0.779296875, 0.272216796875, 0.7451171875, 0.80712890625, 0.87451171875], "caption_score": 0.272216796875}
+{"id": "line_num_161_description", "sentence_scores": [0.5625, 0.8046875, 0.58349609375, 0.6865234375, 0.78857421875, 0.79736328125], "caption_score": 0.5625}
+{"id": "rings_142_description", "sentence_scores": [0.89111328125, 0.87255859375], "caption_score": 0.87255859375}
+{"id": "rings_134_description", "sentence_scores": [0.8544921875, 0.8681640625], "caption_score": 0.8544921875}
+{"id": "rings_101_description", "sentence_scores": [0.67578125, 0.640625, 0.82275390625], "caption_score": 0.640625}
+{"id": "rings_146_description", "sentence_scores": [0.53125, 0.73974609375, 0.5556640625, 0.74365234375], "caption_score": 0.53125}
+{"id": "rings_177_description", "sentence_scores": [0.74951171875, 0.74560546875, 0.339111328125, 0.6123046875], "caption_score": 0.339111328125}
+{"id": "rings_46_description", "sentence_scores": [0.888671875, 0.85595703125, 0.5224609375], "caption_score": 0.5224609375}
+{"id": "rings_108_description", "sentence_scores": [0.6044921875, 0.56689453125, 0.74755859375], "caption_score": 0.56689453125}
+{"id": "rings_3_description", "sentence_scores": [0.7265625, 0.85986328125, 0.82275390625, 0.73828125], "caption_score": 0.7265625}
+{"id": "rings_285_description", "sentence_scores": [0.7744140625, 0.83837890625, 0.84326171875], "caption_score": 0.7744140625}
+{"id": "rings_294_description", "sentence_scores": [0.91015625, 0.822265625, 0.810546875], "caption_score": 0.810546875}
+{"id": "rings_286_description", "sentence_scores": [0.8681640625, 0.65283203125, 0.259521484375, 0.498291015625, 0.437744140625], "caption_score": 0.259521484375}
+{"id": "rings_139_description", "sentence_scores": [0.798828125, 0.8603515625, 0.74658203125, 0.65185546875], "caption_score": 0.65185546875}
+{"id": "rings_159_description", "sentence_scores": [0.67333984375, 0.58056640625, 0.43798828125, 0.295654296875], "caption_score": 0.295654296875}
+{"id": "rings_24_description", "sentence_scores": [0.6162109375, 0.61328125, 0.904296875, 0.72705078125], "caption_score": 0.61328125}
+{"id": "rings_244_description", "sentence_scores": [0.6611328125, 0.541015625, 0.697265625, 0.6416015625], "caption_score": 0.541015625}
+{"id": "rings_43_description", "sentence_scores": [0.6162109375, 0.765625, 0.6376953125], "caption_score": 0.6162109375}
+{"id": "rings_111_description", "sentence_scores": [0.72314453125, 0.84765625, 0.84326171875], "caption_score": 0.72314453125}
+{"id": "rings_198_description", "sentence_scores": [0.77880859375, 0.5263671875], "caption_score": 0.5263671875}
+{"id": "rings_129_description", "sentence_scores": [0.6875, 0.78955078125, 0.70263671875, 0.6865234375], "caption_score": 0.6865234375}
+{"id": "rings_219_description", "sentence_scores": [0.43798828125, 0.28857421875, 0.7626953125], "caption_score": 0.28857421875}
+{"id": "rings_281_description", "sentence_scores": [0.56689453125, 0.66259765625, 0.6123046875], "caption_score": 0.56689453125}
+{"id": "rings_290_description", "sentence_scores": [0.85595703125, 0.7841796875], "caption_score": 0.7841796875}
+{"id": "rings_70_description", "sentence_scores": [0.576171875, 0.5341796875, 0.865234375, 0.8037109375], "caption_score": 0.5341796875}
+{"id": "rings_154_description", "sentence_scores": [0.84716796875, 0.88232421875, 0.86669921875], "caption_score": 0.84716796875}
+{"id": "rings_49_description", "sentence_scores": [0.830078125, 0.7822265625], "caption_score": 0.7822265625}
+{"id": "rings_150_description", "sentence_scores": [0.72314453125, 0.85498046875], "caption_score": 0.72314453125}
+{"id": "rings_277_description", "sentence_scores": [0.62353515625, 0.818359375], "caption_score": 0.62353515625}
+{"id": "rings_211_description", "sentence_scores": [0.9052734375, 0.80029296875, 0.5595703125], "caption_score": 0.5595703125}
+{"id": "rings_228_description", "sentence_scores": [0.65185546875, 0.80419921875, 0.57763671875], "caption_score": 0.57763671875}
+{"id": "rings_204_description", "sentence_scores": [0.71728515625, 0.58837890625, 0.71923828125], "caption_score": 0.58837890625}
+{"id": "rose_228_description", "sentence_scores": [0.7958984375, 0.798828125, 0.84765625], "caption_score": 0.7958984375}
+{"id": "rose_170_description", "sentence_scores": [0.80029296875, 0.72314453125, 0.85498046875, 0.3505859375, 0.8828125], "caption_score": 0.3505859375}
+{"id": "rose_25_description", "sentence_scores": [0.62890625, 0.86669921875, 0.61767578125], "caption_score": 0.61767578125}
+{"id": "rose_217_description", "sentence_scores": [0.646484375, 0.49169921875, 0.5595703125, 0.52685546875, 0.78955078125], "caption_score": 0.49169921875}
+{"id": "rose_91_description", "sentence_scores": [0.7060546875, 0.79296875, 0.6796875, 0.84130859375], "caption_score": 0.6796875}
+{"id": "rose_198_description", "sentence_scores": [0.64501953125, 0.80615234375], "caption_score": 0.64501953125}
+{"id": "rose_107_description", "sentence_scores": [0.87841796875, 0.732421875, 0.81982421875, 0.8359375], "caption_score": 0.732421875}
+{"id": "rose_156_description", "sentence_scores": [0.85205078125, 0.61669921875, 0.5224609375, 0.80419921875], "caption_score": 0.5224609375}
+{"id": "rose_42_description", "sentence_scores": [0.8818359375, 0.81298828125, 0.481689453125, 0.83935546875], "caption_score": 0.481689453125}
+{"id": "rose_47_description", "sentence_scores": [0.79150390625, 0.262451171875, 0.86279296875, 0.58984375, 0.703125], "caption_score": 0.262451171875}
+{"id": "rose_100_description", "sentence_scores": [0.650390625, 0.8076171875, 0.7431640625, 0.79150390625, 0.5693359375], "caption_score": 0.5693359375}
+{"id": "rose_275_description", "sentence_scores": [0.7607421875, 0.7890625, 0.6357421875], "caption_score": 0.6357421875}
+{"id": "rose_82_description", "sentence_scores": [0.73681640625, 0.81005859375, 0.72314453125], "caption_score": 0.72314453125}
+{"id": "rose_194_description", "sentence_scores": [0.76611328125, 0.724609375, 0.794921875, 0.76806640625], "caption_score": 0.724609375}
+{"id": "rose_87_description", "sentence_scores": [0.6416015625, 0.7021484375, 0.578125, 0.8212890625], "caption_score": 0.578125}
+{"id": "rose_186_description", "sentence_scores": [0.67529296875, 0.814453125, 0.83935546875, 0.64990234375], "caption_score": 0.64990234375}
+{"id": "rose_151_description", "sentence_scores": [0.75244140625, 0.8076171875, 0.810546875, 0.52880859375], "caption_score": 0.52880859375}
+{"id": "rose_165_description", "sentence_scores": [0.9013671875, 0.6953125, 0.591796875, 0.4658203125], "caption_score": 0.4658203125}
+{"id": "rose_28_description", "sentence_scores": [0.59814453125, 0.447021484375, 0.53662109375, 0.76904296875, 0.310546875], "caption_score": 0.310546875}
+{"id": "rose_39_description", "sentence_scores": [0.65625, 0.80419921875], "caption_score": 0.65625}
+{"id": "rose_21_description", "sentence_scores": [0.69580078125, 0.262451171875, 0.45849609375, 0.8720703125], "caption_score": 0.262451171875}
+{"id": "rose_209_description", "sentence_scores": [0.65576171875, 0.6943359375, 0.771484375, 0.751953125], "caption_score": 0.65576171875}
+{"id": "rose_65_description", "sentence_scores": [0.6787109375, 0.80615234375], "caption_score": 0.6787109375}
+{"id": "rose_127_description", "sentence_scores": [0.83251953125, 0.607421875, 0.7802734375], "caption_score": 0.607421875}
+{"id": "rose_197_description", "sentence_scores": [0.67822265625, 0.77392578125, 0.68994140625], "caption_score": 0.67822265625}
+{"id": "rose_183_description", "sentence_scores": [0.6220703125, 0.822265625, 0.6279296875], "caption_score": 0.6220703125}
+{"id": "rose_213_description", "sentence_scores": [0.69970703125, 0.873046875, 0.79638671875, 0.830078125], "caption_score": 0.69970703125}
+{"id": "rose_266_description", "sentence_scores": [0.693359375, 0.5712890625, 0.9140625, 0.6298828125, 0.59130859375], "caption_score": 0.5712890625}
+{"id": "rose_138_description", "sentence_scores": [0.59326171875, 0.6025390625, 0.57958984375], "caption_score": 0.57958984375}
+{"id": "rose_85_description", "sentence_scores": [0.6962890625, 0.74951171875, 0.72314453125, 0.76025390625], "caption_score": 0.6962890625}
+{"id": "area_chart_79_description", "sentence_scores": [0.90087890625, 0.84521484375, 0.80419921875, 0.299072265625], "caption_score": 0.299072265625}
+{"id": "area_chart_241_description", "sentence_scores": [0.76806640625, 0.89697265625, 0.873046875, 0.84765625, 0.8408203125, 0.84375], "caption_score": 0.76806640625}
+{"id": "area_chart_299_description", "sentence_scores": [0.8837890625, 0.80029296875, 0.77587890625, 0.73486328125, 0.75341796875], "caption_score": 0.73486328125}
+{"id": "area_chart_163_description", "sentence_scores": [0.78271484375, 0.6611328125, 0.65771484375, 0.7841796875, 0.7939453125], "caption_score": 0.65771484375}
+{"id": "area_chart_278_description", "sentence_scores": [0.82763671875, 0.8046875, 0.7568359375, 0.7529296875, 0.350830078125], "caption_score": 0.350830078125}
+{"id": "area_chart_96_description", "sentence_scores": [0.90771484375, 0.8046875, 0.791015625, 0.8828125], "caption_score": 0.791015625}
+{"id": "area_chart_7_description", "sentence_scores": [0.662109375, 0.75146484375, 0.744140625, 0.708984375, 0.72607421875], "caption_score": 0.662109375}
+{"id": "area_chart_272_description", "sentence_scores": [0.90380859375, 0.68408203125, 0.76806640625, 0.74267578125, 0.7060546875], "caption_score": 0.68408203125}
+{"id": "area_chart_45_description", "sentence_scores": [0.79833984375, 0.84423828125, 0.69970703125, 0.79296875, 0.7021484375, 0.75634765625], "caption_score": 0.69970703125}
+{"id": "area_chart_17_description", "sentence_scores": [0.78515625, 0.89013671875, 0.611328125, 0.80029296875], "caption_score": 0.611328125}
+{"id": "area_chart_213_description", "sentence_scores": [0.64453125, 0.82958984375, 0.814453125, 0.77490234375, 0.323974609375], "caption_score": 0.323974609375}
+{"id": "area_chart_140_description", "sentence_scores": [0.64306640625, 0.86572265625, 0.87158203125, 0.8427734375], "caption_score": 0.64306640625}
+{"id": "area_chart_5_description", "sentence_scores": [0.89697265625, 0.759765625, 0.85986328125], "caption_score": 0.759765625}
+{"id": "area_chart_165_description", "sentence_scores": [0.58984375, 0.8779296875, 0.76904296875, 0.72998046875, 0.78955078125], "caption_score": 0.58984375}
+{"id": "area_chart_10_description", "sentence_scores": [0.89892578125, 0.85888671875, 0.8525390625, 0.84375, 0.9150390625], "caption_score": 0.84375}
+{"id": "area_chart_150_description", "sentence_scores": [0.51171875, 0.7607421875, 0.90771484375, 0.81982421875], "caption_score": 0.51171875}
+{"id": "area_chart_115_description", "sentence_scores": [0.77197265625, 0.53369140625, 0.80615234375, 0.7958984375, 0.63232421875, 0.86669921875], "caption_score": 0.53369140625}
+{"id": "area_chart_99_description", "sentence_scores": [0.350830078125, 0.8779296875, 0.77197265625, 0.77197265625, 0.642578125, 0.80615234375, 0.88720703125], "caption_score": 0.350830078125}
+{"id": "area_chart_283_description", "sentence_scores": [0.78857421875, 0.81298828125, 0.8564453125, 0.7919921875, 0.77099609375, 0.77490234375, 0.8046875, 0.78369140625, 0.80078125, 0.80224609375], "caption_score": 0.77099609375}
+{"id": "area_chart_264_description", "sentence_scores": [0.82373046875, 0.8203125, 0.767578125, 0.8173828125], "caption_score": 0.767578125}
+{"id": "area_chart_183_description", "sentence_scores": [0.87451171875, 0.461669921875, 0.89306640625, 0.822265625], "caption_score": 0.461669921875}
+{"id": "area_chart_161_description", "sentence_scores": [0.6533203125, 0.841796875, 0.82080078125, 0.54150390625], "caption_score": 0.54150390625}
+{"id": "area_chart_18_description", "sentence_scores": [0.91064453125, 0.763671875, 0.8203125, 0.7978515625, 0.475341796875], "caption_score": 0.475341796875}
+{"id": "area_chart_91_description", "sentence_scores": [0.86669921875, 0.77734375, 0.783203125], "caption_score": 0.77734375}
+{"id": "area_chart_4_description", "sentence_scores": [0.9130859375, 0.87841796875, 0.794921875, 0.7236328125, 0.81005859375], "caption_score": 0.7236328125}
+{"id": "area_chart_35_description", "sentence_scores": [0.724609375, 0.88427734375, 0.70263671875, 0.8525390625], "caption_score": 0.70263671875}
+{"id": "area_chart_228_description", "sentence_scores": [0.83935546875, 0.8984375, 0.7587890625, 0.7822265625], "caption_score": 0.7587890625}
+{"id": "area_chart_62_description", "sentence_scores": [0.86181640625, 0.79345703125, 0.80029296875, 0.560546875, 0.55908203125], "caption_score": 0.55908203125}
+{"id": "area_chart_273_description", "sentence_scores": [0.66845703125, 0.69189453125, 0.461669921875, 0.73876953125, 0.8134765625, 0.83984375], "caption_score": 0.461669921875}
+{"id": "area_chart_76_description", "sentence_scores": [0.92236328125, 0.52392578125, 0.7861328125, 0.87060546875], "caption_score": 0.52392578125}
+{"id": "heatmap_29_description", "sentence_scores": [0.68603515625, 0.8408203125, 0.8857421875, 0.84423828125, 0.65380859375, 0.84326171875], "caption_score": 0.65380859375}
+{"id": "heatmap_230_description", "sentence_scores": [0.630859375, 0.79541015625, 0.5341796875, 0.7431640625, 0.6328125], "caption_score": 0.5341796875}
+{"id": "heatmap_136_description", "sentence_scores": [0.60693359375, 0.7685546875, 0.87060546875, 0.4326171875, 0.73876953125], "caption_score": 0.4326171875}
+{"id": "heatmap_210_description", "sentence_scores": [0.53125, 0.78076171875, 0.7314453125, 0.73388671875, 0.73388671875, 0.90966796875, 0.7373046875], "caption_score": 0.53125}
+{"id": "heatmap_159_description", "sentence_scores": [0.904296875, 0.320068359375, 0.75390625, 0.69482421875, 0.67236328125, 0.712890625, 0.697265625], "caption_score": 0.320068359375}
+{"id": "heatmap_36_description", "sentence_scores": [0.93994140625, 0.82275390625, 0.876953125, 0.59521484375, 0.802734375, 0.833984375], "caption_score": 0.59521484375}
+{"id": "heatmap_44_description", "sentence_scores": [0.90185546875, 0.7919921875, 0.798828125, 0.81640625, 0.81689453125, 0.8662109375], "caption_score": 0.7919921875}
+{"id": "heatmap_200_description", "sentence_scores": [0.8388671875, 0.79345703125, 0.57470703125, 0.802734375, 0.77197265625], "caption_score": 0.57470703125}
+{"id": "heatmap_296_description", "sentence_scores": [0.8720703125, 0.77197265625, 0.7236328125, 0.791015625, 0.79248046875], "caption_score": 0.7236328125}
+{"id": "heatmap_89_description", "sentence_scores": [0.75048828125, 0.9248046875, 0.5341796875, 0.86474609375, 0.78271484375], "caption_score": 0.5341796875}
+{"id": "heatmap_260_description", "sentence_scores": [0.7041015625, 0.73388671875, 0.7802734375, 0.90087890625], "caption_score": 0.7041015625}
+{"id": "heatmap_250_description", "sentence_scores": [0.6376953125, 0.79052734375, 0.78173828125, 0.76611328125, 0.76806640625, 0.79296875], "caption_score": 0.6376953125}
+{"id": "heatmap_218_description", "sentence_scores": [0.76513671875, 0.765625, 0.8388671875, 0.6025390625], "caption_score": 0.6025390625}
+{"id": "heatmap_23_description", "sentence_scores": [0.67626953125, 0.85205078125, 0.69970703125, 0.6025390625, 0.7333984375, 0.353515625], "caption_score": 0.353515625}
+{"id": "heatmap_90_description", "sentence_scores": [0.85205078125, 0.861328125, 0.76611328125, 0.68408203125, 0.658203125], "caption_score": 0.658203125}
+{"id": "heatmap_191_description", "sentence_scores": [0.71533203125, 0.83837890625, 0.7470703125, 0.77978515625, 0.8662109375], "caption_score": 0.71533203125}
+{"id": "heatmap_168_description", "sentence_scores": [0.875, 0.9072265625], "caption_score": 0.875}
+{"id": "heatmap_68_description", "sentence_scores": [0.84716796875, 0.63818359375, 0.67431640625, 0.82421875, 0.90673828125, 0.37158203125], "caption_score": 0.37158203125}
+{"id": "heatmap_16_description", "sentence_scores": [0.6650390625, 0.77783203125, 0.60107421875, 0.454345703125, 0.64990234375, 0.41943359375, 0.7119140625], "caption_score": 0.41943359375}
+{"id": "heatmap_185_description", "sentence_scores": [0.76318359375, 0.630859375, 0.77294921875, 0.8193359375, 0.896484375, 0.8466796875, 0.8837890625], "caption_score": 0.630859375}
+{"id": "heatmap_256_description", "sentence_scores": [0.7705078125, 0.8232421875, 0.83935546875, 0.62158203125, 0.8193359375, 0.81982421875], "caption_score": 0.62158203125}
+{"id": "heatmap_38_description", "sentence_scores": [0.9033203125, 0.6083984375, 0.83203125, 0.87109375, 0.82421875], "caption_score": 0.6083984375}
+{"id": "heatmap_8_description", "sentence_scores": [0.630859375, 0.84326171875, 0.84521484375, 0.81689453125, 0.60400390625], "caption_score": 0.60400390625}
+{"id": "heatmap_292_description", "sentence_scores": [0.73388671875, 0.82666015625, 0.5966796875, 0.409912109375, 0.459228515625, 0.66162109375, 0.72607421875], "caption_score": 0.409912109375}
+{"id": "heatmap_179_description", "sentence_scores": [0.55810546875, 0.76416015625, 0.79638671875, 0.55517578125, 0.671875, 0.7314453125], "caption_score": 0.55517578125}
+{"id": "heatmap_299_description", "sentence_scores": [0.87451171875, 0.87939453125, 0.55126953125, 0.9375], "caption_score": 0.55126953125}
+{"id": "heatmap_212_description", "sentence_scores": [0.88427734375, 0.8232421875, 0.62548828125, 0.53173828125, 0.59814453125, 0.54052734375, 0.52197265625], "caption_score": 0.52197265625}
+{"id": "heatmap_156_description", "sentence_scores": [0.44775390625, 0.7490234375, 0.76318359375, 0.767578125, 0.78125, 0.77978515625], "caption_score": 0.44775390625}
+{"id": "heatmap_197_description", "sentence_scores": [0.875, 0.67333984375, 0.7685546875, 0.57080078125], "caption_score": 0.57080078125}
+{"id": "heatmap_83_description", "sentence_scores": [0.5537109375, 0.79931640625, 0.755859375, 0.72509765625, 0.712890625, 0.68896484375], "caption_score": 0.5537109375}
+{"id": "3D-Bar_281_description", "sentence_scores": [0.61767578125, 0.755859375, 0.77392578125], "caption_score": 0.61767578125}
+{"id": "3D-Bar_154_description", "sentence_scores": [0.8662109375, 0.65087890625, 0.7919921875], "caption_score": 0.65087890625}
+{"id": "3D-Bar_44_description", "sentence_scores": [0.896484375, 0.7783203125, 0.64794921875, 0.87255859375], "caption_score": 0.64794921875}
+{"id": "3D-Bar_64_description", "sentence_scores": [0.90234375, 0.81787109375, 0.81396484375, 0.82373046875, 0.80126953125], "caption_score": 0.80126953125}
+{"id": "3D-Bar_65_description", "sentence_scores": [0.92578125, 0.74951171875, 0.79541015625, 0.85009765625], "caption_score": 0.74951171875}
+{"id": "3D-Bar_197_description", "sentence_scores": [0.6376953125, 0.89208984375, 0.88916015625, 0.69921875, 0.5859375], "caption_score": 0.5859375}
+{"id": "3D-Bar_252_description", "sentence_scores": [0.9140625, 0.50244140625, 0.771484375, 0.669921875, 0.82470703125], "caption_score": 0.50244140625}
+{"id": "3D-Bar_267_description", "sentence_scores": [0.88916015625, 0.84423828125, 0.8564453125, 0.85888671875, 0.66943359375], "caption_score": 0.66943359375}
+{"id": "3D-Bar_170_description", "sentence_scores": [0.8828125, 0.73974609375, 0.74072265625], "caption_score": 0.73974609375}
+{"id": "3D-Bar_147_description", "sentence_scores": [0.87109375, 0.7978515625, 0.81787109375, 0.9345703125, 0.80517578125, 0.71044921875], "caption_score": 0.71044921875}
+{"id": "3D-Bar_66_description", "sentence_scores": [0.69384765625, 0.87060546875, 0.830078125, 0.85302734375, 0.65478515625], "caption_score": 0.65478515625}
+{"id": "3D-Bar_212_description", "sentence_scores": [0.87255859375, 0.79833984375, 0.7236328125, 0.751953125, 0.71484375, 0.74072265625], "caption_score": 0.71484375}
+{"id": "3D-Bar_184_description", "sentence_scores": [0.875, 0.78759765625, 0.80712890625, 0.79296875, 0.79833984375, 0.73388671875], "caption_score": 0.73388671875}
+{"id": "3D-Bar_223_description", "sentence_scores": [0.671875, 0.79638671875, 0.73583984375, 0.857421875, 0.83349609375], "caption_score": 0.671875}
+{"id": "3D-Bar_6_description", "sentence_scores": [0.908203125, 0.75732421875, 0.7392578125, 0.79443359375, 0.8115234375], "caption_score": 0.7392578125}
+{"id": "3D-Bar_235_description", "sentence_scores": [0.92431640625, 0.85009765625, 0.61083984375, 0.5029296875, 0.76171875], "caption_score": 0.5029296875}
+{"id": "3D-Bar_270_description", "sentence_scores": [0.91162109375, 0.81396484375, 0.603515625, 0.830078125, 0.87744140625], "caption_score": 0.603515625}
+{"id": "3D-Bar_185_description", "sentence_scores": [0.86083984375, 0.77587890625, 0.77783203125, 0.73388671875, 0.8291015625], "caption_score": 0.73388671875}
+{"id": "3D-Bar_34_description", "sentence_scores": [0.900390625, 0.62744140625, 0.41845703125, 0.4365234375, 0.7275390625], "caption_score": 0.41845703125}
+{"id": "3D-Bar_1_description", "sentence_scores": [0.92333984375, 0.82568359375, 0.796875, 0.82666015625, 0.826171875], "caption_score": 0.796875}
+{"id": "3D-Bar_131_description", "sentence_scores": [0.8544921875, 0.71484375, 0.759765625, 0.57080078125, 0.533203125], "caption_score": 0.533203125}
+{"id": "3D-Bar_107_description", "sentence_scores": [0.91943359375, 0.71044921875, 0.77099609375, 0.7509765625], "caption_score": 0.71044921875}
+{"id": "3D-Bar_268_description", "sentence_scores": [0.923828125, 0.654296875, 0.58544921875, 0.7451171875, 0.787109375], "caption_score": 0.58544921875}
+{"id": "3D-Bar_103_description", "sentence_scores": [0.63232421875, 0.81494140625, 0.83837890625, 0.67333984375, 0.79638671875], "caption_score": 0.63232421875}
+{"id": "3D-Bar_61_description", "sentence_scores": [0.7490234375, 0.77783203125, 0.62060546875, 0.755859375, 0.299072265625, 0.845703125], "caption_score": 0.299072265625}
+{"id": "3D-Bar_87_description", "sentence_scores": [0.65478515625, 0.83642578125, 0.73388671875, 0.69189453125, 0.7880859375, 0.88330078125], "caption_score": 0.65478515625}
+{"id": "3D-Bar_73_description", "sentence_scores": [0.6923828125, 0.779296875, 0.67822265625, 0.64794921875, 0.712890625], "caption_score": 0.64794921875}
+{"id": "3D-Bar_116_description", "sentence_scores": [0.767578125, 0.324951171875, 0.8232421875, 0.814453125, 0.90234375], "caption_score": 0.324951171875}
+{"id": "3D-Bar_38_description", "sentence_scores": [0.65673828125, 0.8828125, 0.8818359375, 0.88623046875, 0.87353515625], "caption_score": 0.65673828125}
+{"id": "3D-Bar_18_description", "sentence_scores": [0.9140625, 0.76171875, 0.529296875, 0.81787109375, 0.8408203125], "caption_score": 0.529296875}
+{"id": "box_50_description", "sentence_scores": [0.66845703125, 0.90234375, 0.56884765625, 0.77490234375, 0.75146484375, 0.4609375, 0.81982421875], "caption_score": 0.4609375}
+{"id": "box_181_description", "sentence_scores": [0.794921875, 0.88525390625, 0.54248046875, 0.603515625, 0.646484375, 0.79150390625, 0.8017578125], "caption_score": 0.54248046875}
+{"id": "box_211_description", "sentence_scores": [0.87939453125, 0.6640625, 0.52783203125, 0.82666015625, 0.54833984375, 0.525390625], "caption_score": 0.525390625}
+{"id": "box_165_description", "sentence_scores": [0.6748046875, 0.7900390625, 0.85546875, 0.81103515625, 0.6259765625, 0.72412109375], "caption_score": 0.6259765625}
+{"id": "box_81_description", "sentence_scores": [0.77685546875, 0.77490234375, 0.853515625, 0.8212890625, 0.57177734375, 0.5439453125], "caption_score": 0.5439453125}
+{"id": "box_91_description", "sentence_scores": [0.75634765625, 0.7919921875, 0.67041015625, 0.515625, 0.68310546875, 0.80078125], "caption_score": 0.515625}
+{"id": "box_52_description", "sentence_scores": [0.7919921875, 0.787109375, 0.638671875, 0.54931640625, 0.60400390625, 0.58349609375], "caption_score": 0.54931640625}
+{"id": "box_47_description", "sentence_scores": [0.794921875, 0.859375, 0.55224609375, 0.529296875, 0.68212890625, 0.83447265625, 0.73095703125], "caption_score": 0.529296875}
+{"id": "box_267_description", "sentence_scores": [0.7783203125, 0.6318359375, 0.60205078125, 0.75390625, 0.57763671875, 0.77734375, 0.8779296875], "caption_score": 0.57763671875}
+{"id": "box_239_description", "sentence_scores": [0.85693359375, 0.87451171875, 0.86083984375, 0.74658203125, 0.69287109375, 0.6328125], "caption_score": 0.6328125}
+{"id": "box_213_description", "sentence_scores": [0.71826171875, 0.85400390625, 0.8017578125, 0.7646484375, 0.837890625, 0.76953125], "caption_score": 0.71826171875}
+{"id": "box_265_description", "sentence_scores": [0.80224609375, 0.60302734375, 0.57373046875, 0.673828125, 0.7548828125, 0.904296875], "caption_score": 0.57373046875}
+{"id": "box_32_description", "sentence_scores": [0.916015625, 0.89453125, 0.72705078125, 0.810546875, 0.439697265625, 0.50341796875], "caption_score": 0.439697265625}
+{"id": "box_67_description", "sentence_scores": [0.6396484375, 0.83447265625, 0.496337890625, 0.533203125, 0.4521484375, 0.732421875, 0.62109375], "caption_score": 0.4521484375}
+{"id": "box_223_description", "sentence_scores": [0.8193359375, 0.89599609375, 0.498779296875, 0.5830078125, 0.8037109375, 0.59716796875, 0.646484375], "caption_score": 0.498779296875}
+{"id": "box_90_description", "sentence_scores": [0.9150390625, 0.70166015625, 0.51513671875, 0.59375, 0.74609375, 0.80078125, 0.56103515625], "caption_score": 0.51513671875}
+{"id": "box_156_description", "sentence_scores": [0.8447265625, 0.86328125, 0.497314453125, 0.84765625, 0.58544921875, 0.84912109375], "caption_score": 0.497314453125}
+{"id": "box_69_description", "sentence_scores": [0.80029296875, 0.8251953125, 0.607421875, 0.7744140625, 0.52490234375, 0.68701171875], "caption_score": 0.52490234375}
+{"id": "box_191_description", "sentence_scores": [0.66650390625, 0.88525390625, 0.8818359375, 0.69921875, 0.58642578125, 0.52001953125], "caption_score": 0.52001953125}
+{"id": "box_19_description", "sentence_scores": [0.82763671875, 0.888671875, 0.56298828125, 0.8037109375, 0.78955078125, 0.7900390625, 0.78759765625], "caption_score": 0.56298828125}
+{"id": "box_217_description", "sentence_scores": [0.9248046875, 0.57666015625, 0.74853515625, 0.5810546875, 0.779296875, 0.69091796875], "caption_score": 0.57666015625}
+{"id": "box_105_description", "sentence_scores": [0.5986328125, 0.491943359375, 0.7880859375, 0.84375, 0.85693359375, 0.8076171875, 0.91748046875], "caption_score": 0.491943359375}
+{"id": "box_42_description", "sentence_scores": [0.78076171875, 0.8994140625, 0.57666015625, 0.52001953125, 0.80078125, 0.7724609375, 0.8857421875], "caption_score": 0.52001953125}
+{"id": "box_282_description", "sentence_scores": [0.873046875, 0.87841796875, 0.5869140625, 0.8388671875], "caption_score": 0.5869140625}
+{"id": "box_168_description", "sentence_scores": [0.67724609375, 0.86962890625, 0.75634765625, 0.744140625, 0.87939453125], "caption_score": 0.67724609375}
+{"id": "box_9_description", "sentence_scores": [0.83740234375, 0.62939453125, 0.763671875, 0.81005859375, 0.8818359375, 0.8125], "caption_score": 0.62939453125}
+{"id": "box_13_description", "sentence_scores": [0.7294921875, 0.90771484375, 0.88232421875, 0.489501953125, 0.525390625, 0.455810546875, 0.58984375], "caption_score": 0.455810546875}
+{"id": "box_287_description", "sentence_scores": [0.70263671875, 0.88671875, 0.48486328125, 0.57373046875, 0.53271484375, 0.498291015625, 0.67919921875], "caption_score": 0.48486328125}
+{"id": "box_160_description", "sentence_scores": [0.82421875, 0.81201171875, 0.8349609375, 0.52978515625, 0.76171875, 0.86962890625], "caption_score": 0.52978515625}
+{"id": "box_180_description", "sentence_scores": [0.736328125, 0.79052734375, 0.5087890625, 0.587890625, 0.81005859375, 0.73095703125], "caption_score": 0.5087890625}
+{"id": "bubble_67_description", "sentence_scores": [0.90625, 0.76318359375, 0.78564453125, 0.75146484375, 0.6904296875], "caption_score": 0.6904296875}
+{"id": "bubble_174_description", "sentence_scores": [0.9365234375, 0.81689453125, 0.8193359375, 0.8095703125, 0.853515625, 0.386962890625, 0.8095703125, 0.8212890625], "caption_score": 0.386962890625}
+{"id": "bubble_282_description", "sentence_scores": [0.61181640625, 0.8466796875, 0.77734375, 0.7685546875, 0.8876953125], "caption_score": 0.61181640625}
+{"id": "bubble_143_description", "sentence_scores": [0.8115234375, 0.88427734375, 0.84619140625, 0.8017578125, 0.83837890625], "caption_score": 0.8017578125}
+{"id": "bubble_124_description", "sentence_scores": [0.69970703125, 0.806640625, 0.7568359375, 0.7578125, 0.89404296875], "caption_score": 0.69970703125}
+{"id": "bubble_276_description", "sentence_scores": [0.716796875, 0.7763671875, 0.81591796875, 0.796875, 0.78271484375, 0.77587890625], "caption_score": 0.716796875}
+{"id": "bubble_30_description", "sentence_scores": [0.89404296875, 0.80810546875, 0.83642578125, 0.79833984375, 0.78271484375, 0.80517578125], "caption_score": 0.78271484375}
+{"id": "bubble_294_description", "sentence_scores": [0.78564453125, 0.82421875, 0.78369140625, 0.775390625, 0.75927734375, 0.76171875], "caption_score": 0.75927734375}
+{"id": "bubble_207_description", "sentence_scores": [0.92138671875, 0.802734375, 0.8603515625, 0.459716796875, 0.8583984375, 0.85986328125], "caption_score": 0.459716796875}
+{"id": "bubble_232_description", "sentence_scores": [0.91162109375, 0.8662109375, 0.83740234375, 0.80517578125, 0.83837890625, 0.857421875, 0.82763671875], "caption_score": 0.80517578125}
+{"id": "bubble_186_description", "sentence_scores": [0.76708984375, 0.93017578125, 0.80712890625, 0.78369140625, 0.77490234375, 0.7509765625, 0.76953125, 0.7197265625, 0.7734375], "caption_score": 0.7197265625}
+{"id": "bubble_167_description", "sentence_scores": [0.9609375, 0.8076171875, 0.7861328125, 0.83837890625, 0.861328125, 0.7978515625], "caption_score": 0.7861328125}
+{"id": "bubble_47_description", "sentence_scores": [0.84033203125, 0.81396484375, 0.50537109375, 0.85546875, 0.89453125, 0.84130859375], "caption_score": 0.50537109375}
+{"id": "bubble_94_description", "sentence_scores": [0.6533203125, 0.82861328125, 0.833984375, 0.80908203125, 0.8955078125], "caption_score": 0.6533203125}
+{"id": "bubble_299_description", "sentence_scores": [0.91796875, 0.85498046875, 0.82763671875, 0.861328125, 0.85498046875, 0.84033203125], "caption_score": 0.82763671875}
+{"id": "bubble_224_description", "sentence_scores": [0.82275390625, 0.91455078125, 0.83203125, 0.84033203125, 0.69580078125], "caption_score": 0.69580078125}
+{"id": "bubble_34_description", "sentence_scores": [0.90234375, 0.826171875, 0.56884765625, 0.56494140625, 0.85546875], "caption_score": 0.56494140625}
+{"id": "bubble_68_description", "sentence_scores": [0.873046875, 0.7158203125, 0.70703125, 0.7431640625, 0.7822265625, 0.7626953125, 0.82421875], "caption_score": 0.70703125}
+{"id": "bubble_211_description", "sentence_scores": [0.71484375, 0.76953125, 0.802734375, 0.80126953125, 0.60888671875, 0.8154296875, 0.72412109375, 0.74609375, 0.67822265625, 0.673828125, 0.796875, 0.70751953125], "caption_score": 0.60888671875}
+{"id": "bubble_29_description", "sentence_scores": [0.6923828125, 0.92138671875], "caption_score": 0.6923828125}
+{"id": "bubble_12_description", "sentence_scores": [0.6611328125, 0.86572265625, 0.77880859375, 0.7880859375, 0.7958984375], "caption_score": 0.6611328125}
+{"id": "bubble_164_description", "sentence_scores": [0.55126953125, 0.88720703125, 0.75830078125, 0.82177734375, 0.74658203125, 0.6494140625, 0.8466796875], "caption_score": 0.55126953125}
+{"id": "bubble_91_description", "sentence_scores": [0.84033203125, 0.8447265625, 0.88818359375], "caption_score": 0.84033203125}
+{"id": "bubble_237_description", "sentence_scores": [0.91943359375, 0.73828125, 0.796875, 0.8505859375, 0.8046875, 0.6318359375], "caption_score": 0.6318359375}
+{"id": "bubble_99_description", "sentence_scores": [0.728515625, 0.8369140625, 0.796875, 0.74072265625], "caption_score": 0.728515625}
+{"id": "bubble_84_description", "sentence_scores": [0.82177734375, 0.79150390625, 0.76318359375, 0.87255859375], "caption_score": 0.76318359375}
+{"id": "bubble_291_description", "sentence_scores": [0.62255859375, 0.92724609375, 0.76953125, 0.89404296875], "caption_score": 0.62255859375}
+{"id": "bubble_280_description", "sentence_scores": [0.74169921875, 0.89306640625, 0.8662109375, 0.76318359375, 0.83349609375, 0.9033203125, 0.61767578125], "caption_score": 0.61767578125}
+{"id": "bubble_23_description", "sentence_scores": [0.9111328125, 0.86328125, 0.85595703125, 0.93798828125], "caption_score": 0.85595703125}
+{"id": "bubble_132_description", "sentence_scores": [0.9150390625, 0.7294921875, 0.75244140625, 0.728515625, 0.57666015625, 0.75390625, 0.74169921875, 0.7958984375], "caption_score": 0.57666015625}
+{"id": "candlestick_230_description", "sentence_scores": [0.69580078125, 0.59423828125, 0.7568359375, 0.671875, 0.73974609375], "caption_score": 0.59423828125}
+{"id": "candlestick_192_description", "sentence_scores": [0.6357421875, 0.8369140625, 0.82177734375, 0.388671875], "caption_score": 0.388671875}
+{"id": "candlestick_190_description", "sentence_scores": [0.931640625, 0.63232421875, 0.470458984375, 0.849609375], "caption_score": 0.470458984375}
+{"id": "candlestick_238_description", "sentence_scores": [0.83984375, 0.76123046875, 0.58154296875, 0.6103515625, 0.91552734375], "caption_score": 0.58154296875}
+{"id": "candlestick_108_description", "sentence_scores": [0.5869140625, 0.486083984375, 0.79150390625, 0.57666015625, 0.66748046875], "caption_score": 0.486083984375}
+{"id": "candlestick_41_description", "sentence_scores": [0.88037109375, 0.759765625, 0.43896484375, 0.82861328125, 0.7568359375], "caption_score": 0.43896484375}
+{"id": "candlestick_50_description", "sentence_scores": [0.84912109375, 0.5478515625, 0.74755859375, 0.544921875, 0.87353515625], "caption_score": 0.544921875}
+{"id": "candlestick_278_description", "sentence_scores": [0.8505859375, 0.7841796875, 0.7705078125], "caption_score": 0.7705078125}
+{"id": "candlestick_80_description", "sentence_scores": [0.62353515625, 0.8046875, 0.81396484375, 0.85107421875], "caption_score": 0.62353515625}
+{"id": "candlestick_273_description", "sentence_scores": [0.75830078125, 0.67724609375, 0.80908203125, 0.77685546875, 0.626953125], "caption_score": 0.626953125}
+{"id": "candlestick_48_description", "sentence_scores": [0.77294921875, 0.78662109375, 0.8251953125, 0.830078125, 0.8515625], "caption_score": 0.77294921875}
+{"id": "candlestick_102_description", "sentence_scores": [0.91845703125, 0.75341796875, 0.8310546875], "caption_score": 0.75341796875}
+{"id": "candlestick_27_description", "sentence_scores": [0.853515625, 0.85546875, 0.80859375, 0.58056640625], "caption_score": 0.58056640625}
+{"id": "candlestick_72_description", "sentence_scores": [0.88134765625, 0.68798828125, 0.5478515625, 0.75830078125], "caption_score": 0.5478515625}
+{"id": "candlestick_97_description", "sentence_scores": [0.84814453125, 0.56494140625, 0.7998046875, 0.59423828125], "caption_score": 0.56494140625}
+{"id": "candlestick_137_description", "sentence_scores": [0.892578125, 0.814453125, 0.77294921875, 0.86083984375], "caption_score": 0.77294921875}
+{"id": "candlestick_74_description", "sentence_scores": [0.90966796875, 0.82861328125, 0.84912109375], "caption_score": 0.82861328125}
+{"id": "candlestick_69_description", "sentence_scores": [0.83447265625, 0.81298828125, 0.78466796875], "caption_score": 0.78466796875}
+{"id": "candlestick_290_description", "sentence_scores": [0.58837890625, 0.7744140625, 0.7958984375, 0.79541015625], "caption_score": 0.58837890625}
+{"id": "candlestick_176_description", "sentence_scores": [0.8740234375, 0.56103515625, 0.79296875, 0.6328125, 0.74365234375], "caption_score": 0.56103515625}
+{"id": "candlestick_268_description", "sentence_scores": [0.9013671875, 0.5498046875, 0.80078125, 0.78662109375], "caption_score": 0.5498046875}
+{"id": "candlestick_233_description", "sentence_scores": [0.7724609375, 0.486083984375, 0.499755859375, 0.8232421875, 0.72021484375], "caption_score": 0.486083984375}
+{"id": "candlestick_40_description", "sentence_scores": [0.423583984375, 0.82958984375, 0.77197265625, 0.75341796875, 0.492431640625], "caption_score": 0.423583984375}
+{"id": "candlestick_17_description", "sentence_scores": [0.60888671875, 0.83984375, 0.74462890625, 0.8310546875, 0.5732421875], "caption_score": 0.5732421875}
+{"id": "candlestick_34_description", "sentence_scores": [0.88916015625, 0.8037109375, 0.81884765625, 0.8349609375], "caption_score": 0.8037109375}
+{"id": "candlestick_113_description", "sentence_scores": [0.630859375, 0.488037109375, 0.74462890625, 0.50244140625, 0.5244140625], "caption_score": 0.488037109375}
+{"id": "candlestick_5_description", "sentence_scores": [0.5986328125, 0.49853515625, 0.8154296875, 0.794921875], "caption_score": 0.49853515625}
+{"id": "candlestick_223_description", "sentence_scores": [0.880859375, 0.837890625, 0.7841796875, 0.7724609375], "caption_score": 0.7724609375}
+{"id": "candlestick_106_description", "sentence_scores": [0.74951171875, 0.60595703125, 0.751953125, 0.8134765625, 0.8115234375], "caption_score": 0.60595703125}
+{"id": "candlestick_248_description", "sentence_scores": [0.7109375, 0.625, 0.6796875, 0.787109375, 0.489990234375], "caption_score": 0.489990234375}
+{"id": "funnel_43_description", "sentence_scores": [0.72802734375, 0.8447265625, 0.775390625], "caption_score": 0.72802734375}
+{"id": "funnel_55_description", "sentence_scores": [0.9296875, 0.83984375, 0.8134765625, 0.75244140625], "caption_score": 0.75244140625}
+{"id": "funnel_9_description", "sentence_scores": [0.84814453125, 0.8623046875, 0.27294921875], "caption_score": 0.27294921875}
+{"id": "funnel_153_description", "sentence_scores": [0.90283203125, 0.55322265625], "caption_score": 0.55322265625}
+{"id": "funnel_232_description", "sentence_scores": [0.853515625, 0.8330078125, 0.8544921875], "caption_score": 0.8330078125}
+{"id": "funnel_123_description", "sentence_scores": [0.9033203125, 0.8330078125, 0.57861328125], "caption_score": 0.57861328125}
+{"id": "funnel_32_description", "sentence_scores": [0.81982421875, 0.81591796875, 0.78515625], "caption_score": 0.78515625}
+{"id": "funnel_63_description", "sentence_scores": [0.85107421875, 0.86083984375, 0.86328125], "caption_score": 0.85107421875}
+{"id": "funnel_131_description", "sentence_scores": [0.6083984375, 0.6552734375, 0.853515625, 0.86962890625], "caption_score": 0.6083984375}
+{"id": "funnel_148_description", "sentence_scores": [0.88525390625, 0.8046875, 0.8037109375], "caption_score": 0.8037109375}
+{"id": "funnel_92_description", "sentence_scores": [0.87109375, 0.86279296875, 0.64306640625, 0.84375], "caption_score": 0.64306640625}
+{"id": "funnel_107_description", "sentence_scores": [0.90625, 0.82470703125], "caption_score": 0.82470703125}
+{"id": "funnel_265_description", "sentence_scores": [0.841796875, 0.79541015625, 0.6923828125, 0.8447265625], "caption_score": 0.6923828125}
+{"id": "funnel_27_description", "sentence_scores": [0.64990234375, 0.8232421875], "caption_score": 0.64990234375}
+{"id": "funnel_114_description", "sentence_scores": [0.75537109375, 0.8505859375, 0.80029296875, 0.82568359375], "caption_score": 0.75537109375}
+{"id": "funnel_305_description", "sentence_scores": [0.8515625, 0.79736328125, 0.84814453125], "caption_score": 0.79736328125}
+{"id": "funnel_130_description", "sentence_scores": [0.69775390625, 0.62255859375, 0.8583984375, 0.41357421875, 0.5556640625], "caption_score": 0.41357421875}
+{"id": "funnel_127_description", "sentence_scores": [0.70556640625, 0.662109375, 0.84765625], "caption_score": 0.662109375}
+{"id": "funnel_115_description", "sentence_scores": [0.73486328125, 0.8427734375], "caption_score": 0.73486328125}
+{"id": "funnel_149_description", "sentence_scores": [0.869140625, 0.81689453125], "caption_score": 0.81689453125}
+{"id": "funnel_95_description", "sentence_scores": [0.66796875, 0.8798828125, 0.765625], "caption_score": 0.66796875}
+{"id": "funnel_79_description", "sentence_scores": [0.7607421875, 0.83447265625, 0.53515625], "caption_score": 0.53515625}
+{"id": "funnel_29_description", "sentence_scores": [0.82763671875, 0.57763671875, 0.830078125, 0.55322265625, 0.662109375], "caption_score": 0.55322265625}
+{"id": "funnel_66_description", "sentence_scores": [0.86962890625, 0.67138671875, 0.8515625, 0.76220703125], "caption_score": 0.67138671875}
+{"id": "funnel_187_description", "sentence_scores": [0.736328125, 0.734375, 0.43115234375], "caption_score": 0.43115234375}
+{"id": "funnel_121_description", "sentence_scores": [0.83154296875, 0.8154296875], "caption_score": 0.8154296875}
+{"id": "funnel_333_description", "sentence_scores": [0.904296875, 0.873046875], "caption_score": 0.873046875}
+{"id": "funnel_96_description", "sentence_scores": [0.853515625, 0.8330078125, 0.84912109375], "caption_score": 0.8330078125}
+{"id": "funnel_326_description", "sentence_scores": [0.921875, 0.5205078125, 0.7646484375], "caption_score": 0.5205078125}
+{"id": "funnel_81_description", "sentence_scores": [0.6318359375, 0.73046875, 0.80078125, 0.84326171875], "caption_score": 0.6318359375}
+{"id": "histogram_13_description", "sentence_scores": [0.80224609375, 0.7998046875, 0.673828125, 0.8349609375], "caption_score": 0.673828125}
+{"id": "histogram_65_description", "sentence_scores": [0.64794921875, 0.890625, 0.8154296875, 0.78857421875], "caption_score": 0.64794921875}
+{"id": "histogram_121_description", "sentence_scores": [0.87255859375, 0.56982421875, 0.51806640625, 0.544921875, 0.72412109375, 0.767578125], "caption_score": 0.51806640625}
+{"id": "histogram_168_description", "sentence_scores": [0.8720703125, 0.751953125, 0.64306640625, 0.8134765625], "caption_score": 0.64306640625}
+{"id": "histogram_26_description", "sentence_scores": [0.85693359375, 0.77783203125, 0.76953125], "caption_score": 0.76953125}
+{"id": "histogram_44_description", "sentence_scores": [0.60986328125, 0.8154296875, 0.85888671875], "caption_score": 0.60986328125}
+{"id": "histogram_263_description", "sentence_scores": [0.64892578125, 0.8642578125, 0.473388671875, 0.65576171875], "caption_score": 0.473388671875}
+{"id": "histogram_32_description", "sentence_scores": [0.8642578125, 0.8388671875], "caption_score": 0.8388671875}
+{"id": "histogram_289_description", "sentence_scores": [0.5576171875, 0.6728515625, 0.892578125, 0.8623046875], "caption_score": 0.5576171875}
+{"id": "histogram_181_description", "sentence_scores": [0.76904296875, 0.6748046875, 0.77099609375, 0.8291015625], "caption_score": 0.6748046875}
+{"id": "histogram_47_description", "sentence_scores": [0.83154296875, 0.57373046875, 0.438232421875, 0.60546875, 0.810546875], "caption_score": 0.438232421875}
+{"id": "histogram_245_description", "sentence_scores": [0.74609375, 0.60986328125, 0.814453125], "caption_score": 0.60986328125}
+{"id": "histogram_190_description", "sentence_scores": [0.86083984375, 0.79736328125, 0.82421875], "caption_score": 0.79736328125}
+{"id": "histogram_53_description", "sentence_scores": [0.74853515625, 0.72412109375, 0.61865234375, 0.5927734375, 0.81982421875, 0.429443359375], "caption_score": 0.429443359375}
+{"id": "histogram_258_description", "sentence_scores": [0.5517578125, 0.759765625, 0.8076171875, 0.744140625], "caption_score": 0.5517578125}
+{"id": "histogram_242_description", "sentence_scores": [0.92822265625, 0.77099609375, 0.56494140625, 0.90234375], "caption_score": 0.56494140625}
+{"id": "histogram_98_description", "sentence_scores": [0.68994140625, 0.72021484375, 0.546875, 0.86181640625], "caption_score": 0.546875}
+{"id": "histogram_262_description", "sentence_scores": [0.85498046875, 0.76416015625, 0.73388671875], "caption_score": 0.73388671875}
+{"id": "histogram_223_description", "sentence_scores": [0.7802734375, 0.783203125, 0.75732421875, 0.3642578125, 0.71533203125], "caption_score": 0.3642578125}
+{"id": "histogram_148_description", "sentence_scores": [0.56640625, 0.8583984375], "caption_score": 0.56640625}
+{"id": "histogram_187_description", "sentence_scores": [0.70703125, 0.8388671875, 0.80712890625], "caption_score": 0.70703125}
+{"id": "histogram_142_description", "sentence_scores": [0.68603515625, 0.52197265625, 0.78466796875, 0.7705078125], "caption_score": 0.52197265625}
+{"id": "histogram_16_description", "sentence_scores": [0.9345703125, 0.6669921875, 0.7626953125], "caption_score": 0.6669921875}
+{"id": "histogram_139_description", "sentence_scores": [0.8818359375, 0.48486328125, 0.515625, 0.77587890625, 0.521484375, 0.71728515625], "caption_score": 0.48486328125}
+{"id": "histogram_15_description", "sentence_scores": [0.6865234375, 0.736328125, 0.79736328125, 0.42431640625, 0.56494140625, 0.416259765625], "caption_score": 0.416259765625}
+{"id": "histogram_92_description", "sentence_scores": [0.7412109375, 0.8916015625, 0.51318359375, 0.81298828125, 0.84033203125], "caption_score": 0.51318359375}
+{"id": "histogram_68_description", "sentence_scores": [0.54296875, 0.744140625, 0.84716796875], "caption_score": 0.54296875}
+{"id": "histogram_149_description", "sentence_scores": [0.9248046875, 0.77001953125, 0.269287109375], "caption_score": 0.269287109375}
+{"id": "histogram_249_description", "sentence_scores": [0.791015625, 0.6064453125, 0.76416015625, 0.619140625], "caption_score": 0.6064453125}
+{"id": "histogram_117_description", "sentence_scores": [0.89453125, 0.7890625, 0.83349609375], "caption_score": 0.7890625}
+{"id": "multi-axes_140_description", "sentence_scores": [0.82470703125, 0.591796875, 0.783203125, 0.80517578125, 0.87060546875], "caption_score": 0.591796875}
+{"id": "multi-axes_4_description", "sentence_scores": [0.93896484375, 0.7939453125, 0.79638671875, 0.92138671875], "caption_score": 0.7939453125}
+{"id": "multi-axes_21_description", "sentence_scores": [0.7451171875, 0.5908203125, 0.82373046875, 0.78662109375, 0.86669921875], "caption_score": 0.5908203125}
+{"id": "multi-axes_196_description", "sentence_scores": [0.8046875, 0.84375, 0.81396484375, 0.88427734375], "caption_score": 0.8046875}
+{"id": "multi-axes_270_description", "sentence_scores": [0.927734375, 0.76953125, 0.71435546875, 0.548828125, 0.724609375, 0.6201171875], "caption_score": 0.548828125}
+{"id": "multi-axes_162_description", "sentence_scores": [0.91259765625, 0.8505859375, 0.45947265625, 0.89453125, 0.7802734375], "caption_score": 0.45947265625}
+{"id": "multi-axes_71_description", "sentence_scores": [0.82373046875, 0.91015625, 0.69970703125, 0.82470703125, 0.469970703125], "caption_score": 0.469970703125}
+{"id": "multi-axes_58_description", "sentence_scores": [0.74853515625, 0.81396484375, 0.83154296875, 0.86181640625], "caption_score": 0.74853515625}
+{"id": "multi-axes_96_description", "sentence_scores": [0.81396484375, 0.66259765625, 0.865234375, 0.591796875], "caption_score": 0.591796875}
+{"id": "multi-axes_282_description", "sentence_scores": [0.61962890625, 0.84326171875, 0.7509765625, 0.822265625, 0.875], "caption_score": 0.61962890625}
+{"id": "multi-axes_83_description", "sentence_scores": [0.89453125, 0.76953125, 0.76708984375, 0.484619140625], "caption_score": 0.484619140625}
+{"id": "multi-axes_170_description", "sentence_scores": [0.8720703125, 0.82080078125, 0.68310546875, 0.892578125, 0.84716796875], "caption_score": 0.68310546875}
+{"id": "multi-axes_188_description", "sentence_scores": [0.77880859375, 0.6962890625, 0.82373046875, 0.77880859375, 0.7646484375, 0.79638671875, 0.8779296875], "caption_score": 0.6962890625}
+{"id": "multi-axes_91_description", "sentence_scores": [0.69677734375, 0.71728515625, 0.71435546875, 0.73291015625, 0.7666015625], "caption_score": 0.69677734375}
+{"id": "multi-axes_295_description", "sentence_scores": [0.64697265625, 0.8232421875, 0.8203125, 0.8046875, 0.8251953125, 0.69140625, 0.806640625], "caption_score": 0.64697265625}
+{"id": "multi-axes_135_description", "sentence_scores": [0.82568359375, 0.6083984375, 0.7890625, 0.896484375, 0.81396484375], "caption_score": 0.6083984375}
+{"id": "multi-axes_283_description", "sentence_scores": [0.849609375, 0.71533203125, 0.70654296875, 0.8232421875], "caption_score": 0.70654296875}
+{"id": "multi-axes_241_description", "sentence_scores": [0.69287109375, 0.94384765625, 0.79638671875, 0.802734375, 0.88720703125], "caption_score": 0.69287109375}
+{"id": "multi-axes_16_description", "sentence_scores": [0.87109375, 0.84716796875, 0.82470703125, 0.85205078125, 0.708984375, 0.86083984375], "caption_score": 0.708984375}
+{"id": "multi-axes_268_description", "sentence_scores": [0.646484375, 0.81884765625, 0.70703125, 0.7705078125, 0.76220703125, 0.783203125, 0.70703125, 0.84521484375], "caption_score": 0.646484375}
+{"id": "multi-axes_98_description", "sentence_scores": [0.865234375, 0.65869140625, 0.51806640625, 0.82470703125, 0.84521484375], "caption_score": 0.51806640625}
+{"id": "multi-axes_131_description", "sentence_scores": [0.857421875, 0.8779296875, 0.77392578125, 0.79150390625], "caption_score": 0.77392578125}
+{"id": "multi-axes_152_description", "sentence_scores": [0.75146484375, 0.9296875, 0.65234375, 0.5390625], "caption_score": 0.5390625}
+{"id": "multi-axes_106_description", "sentence_scores": [0.646484375, 0.262451171875, 0.78759765625, 0.8330078125, 0.8134765625], "caption_score": 0.262451171875}
+{"id": "multi-axes_189_description", "sentence_scores": [0.77734375, 0.89794921875, 0.9306640625], "caption_score": 0.77734375}
+{"id": "multi-axes_158_description", "sentence_scores": [0.83984375, 0.54638671875, 0.90185546875, 0.81494140625, 0.79296875, 0.80029296875, 0.80859375, 0.583984375, 0.78515625], "caption_score": 0.54638671875}
+{"id": "multi-axes_116_description", "sentence_scores": [0.47998046875, 0.5908203125, 0.802734375, 0.57470703125, 0.4326171875], "caption_score": 0.4326171875}
+{"id": "multi-axes_37_description", "sentence_scores": [0.77880859375, 0.7890625, 0.84033203125, 0.79296875, 0.814453125, 0.908203125], "caption_score": 0.77880859375}
+{"id": "multi-axes_202_description", "sentence_scores": [0.69970703125, 0.78125, 0.85400390625, 0.79150390625], "caption_score": 0.69970703125}
+{"id": "multi-axes_136_description", "sentence_scores": [0.8779296875, 0.8623046875, 0.466064453125, 0.254150390625, 0.83984375, 0.78662109375, 0.86181640625], "caption_score": 0.254150390625}
+{"id": "radar_213_description", "sentence_scores": [0.51123046875, 0.91455078125, 0.80712890625, 0.312255859375, 0.82080078125], "caption_score": 0.312255859375}
+{"id": "radar_145_description", "sentence_scores": [0.55908203125, 0.802734375, 0.7900390625, 0.52197265625, 0.55517578125], "caption_score": 0.52197265625}
+{"id": "radar_60_description", "sentence_scores": [0.6982421875, 0.442626953125, 0.8017578125, 0.76416015625, 0.77099609375, 0.7421875, 0.8095703125], "caption_score": 0.442626953125}
+{"id": "radar_148_description", "sentence_scores": [0.8828125, 0.9248046875, 0.73388671875, 0.798828125, 0.63671875, 0.6865234375], "caption_score": 0.63671875}
+{"id": "radar_23_description", "sentence_scores": [0.77197265625, 0.8466796875, 0.84130859375, 0.72705078125], "caption_score": 0.72705078125}
+{"id": "radar_162_description", "sentence_scores": [0.72705078125, 0.446044921875, 0.55078125, 0.587890625, 0.7763671875, 0.53662109375], "caption_score": 0.446044921875}
+{"id": "radar_274_description", "sentence_scores": [0.5849609375, 0.5048828125, 0.5771484375, 0.89111328125, 0.47998046875, 0.7919921875], "caption_score": 0.47998046875}
+{"id": "radar_133_description", "sentence_scores": [0.642578125, 0.853515625, 0.79248046875, 0.77783203125, 0.783203125, 0.79345703125], "caption_score": 0.642578125}
+{"id": "radar_198_description", "sentence_scores": [0.77294921875, 0.88623046875, 0.873046875, 0.77783203125], "caption_score": 0.77294921875}
+{"id": "radar_277_description", "sentence_scores": [0.73681640625, 0.85009765625, 0.85205078125, 0.6787109375], "caption_score": 0.6787109375}
+{"id": "radar_259_description", "sentence_scores": [0.91796875, 0.6435546875, 0.34130859375, 0.45361328125, 0.7294921875], "caption_score": 0.34130859375}
+{"id": "radar_149_description", "sentence_scores": [0.54931640625, 0.51025390625, 0.53857421875, 0.491943359375, 0.47900390625, 0.56640625, 0.55517578125], "caption_score": 0.47900390625}
+{"id": "radar_109_description", "sentence_scores": [0.59716796875, 0.615234375, 0.50634765625, 0.76953125, 0.53173828125, 0.595703125], "caption_score": 0.50634765625}
+{"id": "radar_48_description", "sentence_scores": [0.791015625, 0.56005859375, 0.56640625, 0.5771484375, 0.634765625, 0.826171875, 0.65234375], "caption_score": 0.56005859375}
+{"id": "radar_269_description", "sentence_scores": [0.72509765625, 0.5029296875, 0.48095703125, 0.5986328125, 0.78515625, 0.89404296875], "caption_score": 0.48095703125}
+{"id": "radar_163_description", "sentence_scores": [0.84716796875, 0.79833984375, 0.435302734375, 0.83544921875, 0.6201171875, 0.7919921875], "caption_score": 0.435302734375}
+{"id": "radar_208_description", "sentence_scores": [0.7607421875, 0.8779296875, 0.451904296875, 0.853515625, 0.74267578125, 0.457275390625, 0.5791015625], "caption_score": 0.451904296875}
+{"id": "radar_218_description", "sentence_scores": [0.91650390625, 0.64111328125, 0.6171875, 0.796875, 0.58984375], "caption_score": 0.58984375}
+{"id": "radar_126_description", "sentence_scores": [0.8740234375, 0.8427734375, 0.84375, 0.59619140625], "caption_score": 0.59619140625}
+{"id": "radar_247_description", "sentence_scores": [0.564453125, 0.9111328125, 0.80615234375, 0.488525390625, 0.6103515625, 0.55224609375, 0.434326171875], "caption_score": 0.434326171875}
+{"id": "radar_107_description", "sentence_scores": [0.73681640625, 0.55078125, 0.79248046875, 0.80029296875], "caption_score": 0.55078125}
+{"id": "radar_80_description", "sentence_scores": [0.91650390625, 0.92578125, 0.85107421875, 0.8857421875, 0.8349609375, 0.81396484375], "caption_score": 0.81396484375}
+{"id": "radar_25_description", "sentence_scores": [0.7333984375, 0.62451171875, 0.83544921875, 0.468994140625, 0.64111328125, 0.79833984375], "caption_score": 0.468994140625}
+{"id": "radar_188_description", "sentence_scores": [0.91455078125, 0.904296875, 0.86572265625, 0.880859375, 0.80908203125, 0.8662109375, 0.86865234375], "caption_score": 0.80908203125}
+{"id": "radar_167_description", "sentence_scores": [0.92431640625, 0.564453125, 0.59521484375, 0.65283203125, 0.68798828125, 0.72802734375], "caption_score": 0.564453125}
+{"id": "radar_143_description", "sentence_scores": [0.89013671875, 0.91064453125, 0.73681640625, 0.83154296875, 0.873046875], "caption_score": 0.73681640625}
+{"id": "radar_180_description", "sentence_scores": [0.828125, 0.77099609375, 0.6552734375, 0.880859375], "caption_score": 0.6552734375}
+{"id": "radar_45_description", "sentence_scores": [0.8525390625, 0.442626953125, 0.5751953125, 0.52734375, 0.54833984375, 0.85009765625, 0.51416015625], "caption_score": 0.442626953125}
+{"id": "radar_83_description", "sentence_scores": [0.88427734375, 0.89990234375, 0.78759765625, 0.783203125, 0.88623046875], "caption_score": 0.783203125}
+{"id": "radar_273_description", "sentence_scores": [0.3037109375, 0.5341796875, 0.5283203125, 0.5595703125, 0.5380859375, 0.529296875, 0.72705078125], "caption_score": 0.3037109375}
+{"id": "treemap_178_description", "sentence_scores": [0.8525390625, 0.56005859375, 0.57275390625, 0.8251953125], "caption_score": 0.56005859375}
+{"id": "treemap_281_description", "sentence_scores": [0.51220703125, 0.67822265625, 0.60595703125, 0.51220703125], "caption_score": 0.51220703125}
+{"id": "treemap_161_description", "sentence_scores": [0.7021484375, 0.50341796875, 0.61083984375, 0.5673828125], "caption_score": 0.50341796875}
+{"id": "treemap_221_description", "sentence_scores": [0.7421875, 0.71435546875, 0.89794921875], "caption_score": 0.71435546875}
+{"id": "treemap_118_description", "sentence_scores": [0.63916015625, 0.52294921875, 0.68798828125, 0.53955078125, 0.4765625], "caption_score": 0.4765625}
+{"id": "treemap_141_description", "sentence_scores": [0.3671875, 0.81689453125, 0.5859375, 0.73779296875, 0.87548828125], "caption_score": 0.3671875}
+{"id": "treemap_206_description", "sentence_scores": [0.6357421875, 0.86328125], "caption_score": 0.6357421875}
+{"id": "treemap_137_description", "sentence_scores": [0.712890625, 0.826171875, 0.7939453125, 0.6962890625], "caption_score": 0.6962890625}
+{"id": "treemap_101_description", "sentence_scores": [0.83642578125, 0.55615234375, 0.76953125, 0.79345703125], "caption_score": 0.55615234375}
+{"id": "treemap_27_description", "sentence_scores": [0.810546875, 0.78173828125, 0.45947265625, 0.5625], "caption_score": 0.45947265625}
+{"id": "treemap_256_description", "sentence_scores": [0.515625, 0.80712890625, 0.87890625], "caption_score": 0.515625}
+{"id": "treemap_37_description", "sentence_scores": [0.78466796875, 0.84375, 0.5576171875, 0.80908203125], "caption_score": 0.5576171875}
+{"id": "treemap_128_description", "sentence_scores": [0.381591796875, 0.57177734375, 0.58154296875, 0.751953125], "caption_score": 0.381591796875}
+{"id": "treemap_239_description", "sentence_scores": [0.67724609375, 0.58935546875, 0.736328125, 0.701171875, 0.28369140625], "caption_score": 0.28369140625}
+{"id": "treemap_263_description", "sentence_scores": [0.75, 0.82373046875, 0.759765625], "caption_score": 0.75}
+{"id": "treemap_76_description", "sentence_scores": [0.69189453125, 0.8447265625, 0.88916015625, 0.8515625], "caption_score": 0.69189453125}
+{"id": "treemap_158_description", "sentence_scores": [0.64404296875, 0.830078125, 0.58837890625, 0.80322265625], "caption_score": 0.58837890625}
+{"id": "treemap_235_description", "sentence_scores": [0.65966796875, 0.78076171875, 0.80126953125, 0.8837890625], "caption_score": 0.65966796875}
+{"id": "treemap_275_description", "sentence_scores": [0.859375, 0.83935546875, 0.7744140625, 0.61376953125], "caption_score": 0.61376953125}
+{"id": "treemap_160_description", "sentence_scores": [0.697265625, 0.7626953125, 0.9248046875, 0.583984375, 0.6875], "caption_score": 0.583984375}
+{"id": "treemap_98_description", "sentence_scores": [0.46630859375, 0.76220703125, 0.5185546875, 0.43115234375, 0.548828125], "caption_score": 0.43115234375}
+{"id": "treemap_284_description", "sentence_scores": [0.853515625, 0.728515625, 0.4384765625, 0.6357421875], "caption_score": 0.4384765625}
+{"id": "treemap_175_description", "sentence_scores": [0.56103515625, 0.7705078125, 0.83837890625], "caption_score": 0.56103515625}
+{"id": "treemap_244_description", "sentence_scores": [0.66796875, 0.78759765625, 0.62353515625, 0.78173828125], "caption_score": 0.62353515625}
+{"id": "treemap_94_description", "sentence_scores": [0.8232421875, 0.74951171875, 0.4775390625, 0.81884765625], "caption_score": 0.4775390625}
+{"id": "treemap_121_description", "sentence_scores": [0.6513671875, 0.50341796875, 0.5810546875, 0.81787109375, 0.55517578125], "caption_score": 0.50341796875}
+{"id": "treemap_67_description", "sentence_scores": [0.4384765625, 0.80908203125, 0.61865234375, 0.7412109375], "caption_score": 0.4384765625}
+{"id": "treemap_30_description", "sentence_scores": [0.60302734375, 0.7958984375, 0.61279296875, 0.73095703125, 0.4775390625], "caption_score": 0.4775390625}
+{"id": "treemap_103_description", "sentence_scores": [0.5830078125, 0.83544921875, 0.5634765625, 0.521484375, 0.85546875], "caption_score": 0.521484375}
+{"id": "treemap_173_description", "sentence_scores": [0.896484375, 0.8154296875, 0.5595703125, 0.58984375, 0.69091796875], "caption_score": 0.5595703125}

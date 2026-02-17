@@ -1,0 +1,3 @@
+{"_id": "test_k_0", "sentence_probs": [1.4483928680419922e-05, 0.00021076202392578125], "sentence_predictions": ["No", "No"], "caption_score": 1.4483928680419922e-05, "caption_prediction": "No"}
+{"_id": "test_k_1", "sentence_probs": [1.615285873413086e-05], "sentence_predictions": ["No"], "caption_score": 1.615285873413086e-05, "caption_prediction": "No"}
+{"_id": "test_k_2", "sentence_probs": [2.8014183044433594e-06, 2.1457672119140625e-06], "sentence_predictions": ["No", "No"], "caption_score": 2.1457672119140625e-06, "caption_prediction": "No"}
